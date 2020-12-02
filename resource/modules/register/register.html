@@ -1,0 +1,63 @@
+<div class="row">
+    <div class="col-12 bg-color-title text-center">
+        Registro de cuentas
+    </div>
+</div>
+<div class="row pt-3">
+    <div class="col-12 text-center">Por favor, presta atencion a los datos que ingreses que no podras recuperar tu cuenta si olvidas el password!</div>
+</div>
+<div class="row">
+    <div class="col-2"></div>
+    <div class="col-8">
+        <div class="row pt-5">
+            <div class="col-12">
+                <form onsubmit="return registerAccount()">
+                    <div class="form-group">
+                        <label for="formUser">Usuario</label>
+                        <input type="text" class="form-control" id="formUser">
+                    </div>
+                    <div class="form-group">
+                        <label for="formPass">Contraseña</label>
+                        <input type="password" class="form-control" id="formPass">
+                    </div>
+                    <div class="form-group">
+                        <label for="formPassRepeat">Repetir Contraseña</label>
+                        <input type="password" class="form-control" id="formPassRepeat">
+                    </div>
+                    <button type="submit" class="btn btn-sm btn-block btn-color-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+        <div class="row pt-5">
+            <div class="col-12">
+                <span id="alertRegister" class="text-light"></span>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-2"></div>
+</div>
+
+<script>
+
+    function registerAccount()
+    {
+        if (document.getElementById('formPass').value != document.getElementById('formPassRepeat').value)
+        {
+            document.getElementById('alertRegister').textContent = 'No coinciden los passwords!';
+            return false;
+        }
+        document.getElementById('alertRegister').textContent = 'working...';
+        let sendValues =
+        {
+            user: document.getElementById('formUser').value,
+            pass: document.getElementById('formPass').value
+        };
+
+        $.post('./api/register.php', sendValues, (result) =>
+        {
+            document.getElementById('alertRegister').textContent = result
+        });
+        return false;
+    }
+</script>

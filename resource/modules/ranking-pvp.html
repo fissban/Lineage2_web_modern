@@ -1,0 +1,46 @@
+<div class="row">
+    <div class="col-12 bg-color-panel-right">
+        <div class="row">
+            <div class="col-12 bg-color-title">
+                Ranking PVP
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <table class="table table-sm table-borderless text-light" id="tablepvp" style="font-size: small;">
+                    <!-- generate in javascript -->
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $.get('./api/getpvp.php', (result) =>
+    {
+        let json = JSON.parse(result);
+
+        let tablepvp = document.getElementById('tablepvp');
+        let pos = 1;
+        json.forEach(character =>
+        {
+            let tr = document.createElement('tr');
+
+            let tdPos = document.createElement('td');
+            tdPos.textContent = '# ' + pos;
+
+            let tdName = document.createElement('td')
+            tdName.textContent = character.char_name;
+
+            let tdPvp = document.createElement('td');
+            tdPvp.textContent = character.pvpkills;
+
+            tr.appendChild(tdPos);
+            tr.appendChild(tdName);
+            tr.appendChild(tdPvp);
+
+            tablepvp.appendChild(tr);
+            pos++;
+        });
+
+    });
+</script>
