@@ -21,9 +21,34 @@ class ConnectDB
         $this->dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     }
 
+    /**
+     * Si la consulta contiene datos sensibles por favor usar 'executeQueryParams'
+     */
     public function executeQuery($query)
     {
         $stmt = $this->dbh->prepare($query);
+        // Execute
+        $stmt->execute();
+        // Especificamos el fetch mode antes de llamar a fetch()
+        $stmt->setFetchMode(PDO::FETCH_ASSOC);
+        // se retorna el resultado del query
+        return $stmt;
+    }
+
+    /**
+     * Si la consu
+     */
+    public function executeQueryParams($query, $params)
+    {
+        $stmt = $this->dbh->prepare($query);
+
+        $count = 1;
+        foreach ($params as $param)
+        {
+            $stmt->bindParam($count, $param);
+            $count++;
+        }
+
         // Execute
         $stmt->execute();
         // Especificamos el fetch mode antes de llamar a fetch()
