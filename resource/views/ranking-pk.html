@@ -1,8 +1,11 @@
 <div class="row panel-border mb-3">
     <div class="col-12 bg-color-panel-right">
-        <div class="row">
-            <div class="col-12 bg-color-title">
-                Ranking PK
+        <div class="row bg-color-title">
+            <div class="col-3">
+                <img src="../../img/texturesGame/l2ui_ct1/clan_DF_clanwaricon_bluesword.png" alt="">
+            </div>
+            <div class="col-9 text-left">
+                TOP PK
             </div>
         </div>
         <div class="row">
@@ -26,7 +29,7 @@
             let tr = document.createElement('tr');
 
             let tdPos = document.createElement('td');
-            tdPos.textContent = '# ' + pos;
+            tdPos.innerHTML = '<img src="../../img/texturesGame/l2ui_ch3/ps_sizecontrol2_over.png">' + pos;
 
             let tdName = document.createElement('td')
             tdName.textContent = character.char_name;

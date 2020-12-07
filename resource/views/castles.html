@@ -1,8 +1,11 @@
 <div class="row panel-border mb-3">
     <div class="col-12 bg-color-panel-right">
-        <div class="row">
-            <div class="col-12 bg-color-title">
-                Castles
+        <div class="row bg-color-title">
+            <div class="col-3">
+                <img src="../../img/texturesGame/l2ui_ct1/clan_DF_clanwaricon_bluecrownleader.png" alt="">
+            </div>
+            <div class="col-9 text-left">
+                CASTLES
             </div>
         </div>
         <div class="row">
@@ -24,12 +27,16 @@
         {
             let tr = document.createElement('tr');
 
+            let tdPos = document.createElement('td');
+            tdPos.innerHTML = '<img src="../../img/texturesGame/l2ui_ch3/ps_sizecontrol2_over.png">';
+
             let tdCastle = document.createElement('td')
             tdCastle.textContent = castle.castle;
 
             let tdOwner = document.createElement('td');
             tdOwner.textContent = castle.owner;
 
+            tr.appendChild(tdPos);
             tr.appendChild(tdCastle);
             tr.appendChild(tdOwner);
 
