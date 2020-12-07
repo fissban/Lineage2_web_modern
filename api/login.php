@@ -3,21 +3,41 @@
 include("./database/mysql.php");
 $db = new ConnectDB();
 
-$user = "camille";
-$pass_notEncrypt = "camille";
+$data =
+    [
+        "type" => "wrong",
+        "message" => ""
+    ];
 
-$result = $db->executeQuery("SELECT * FROM accounts WHERE login='$user' LIMIT 1");
+if (!isset($_POST['user'], $_POST['pass']))
+{
+    $data['message'] = "tranquiloooo!";
+    echo json_encode($data);
+    return;
+}
+
+$user = $db->scape($_POST['user']);
+$pass = $db->scape($_POST['pass']);
+
+$result = $db->executeQueryParams("SELECT * FROM accounts WHERE login=? LIMIT 1", [$user]);
 
 while ($row = $result->fetch())
 {
-    if (!password_verify($pass_notEncrypt, $row['password']))
+    if (password_verify($pass, $row['password']))
     {
-        echo 'noooooooo';
-    }
-    else
-    {
-        echo 'seeeeeeeeeeeee';
+        // Se inicializa la sesion
+        if (session_status() == PHP_SESSION_NONE)
+        {
+            session_start();
+        }
+
+        $_SESSION["isLogin"] = true;
+        $_SESSION["user"] = $user;
+        $data['type'] = "ok";
+        echo json_encode($data);
+        return;
     }
 }
 
-echo 'ufff';
+$data['message'] = "password or user wrong!";
+echo json_encode($data);

@@ -42,11 +42,11 @@ class ConnectDB
     {
         $stmt = $this->dbh->prepare($query);
 
-        $count = 1;
-        foreach ($params as $param)
+        $count = 0;
+        foreach ($params as &$param)
         {
-            $stmt->bindParam($count, $param);
-            $count++;
+            //echo $param;
+            $stmt->bindParam(++$count, $param);
         }
 
         // Execute

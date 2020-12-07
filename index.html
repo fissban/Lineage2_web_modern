@@ -7,6 +7,9 @@
     <meta name="author" content="fissban">
     <meta name="keywords" content="lineage2, l2server, server privado, server hispano l2, server español l2, l2j">
     <title>DevsAdmins</title>
+
+    <!-- fontawesome icons -->
+    <script src="https://kit.fontawesome.com/a447de42c2.js" crossorigin="anonymous"></script>
     <!-- getbootstrap -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
@@ -19,15 +22,15 @@
     <link rel="stylesheet" href="./resource/style.css">
 </head>
 
-<body class="bg-dark">
+<body class="bg-dark" style="overflow-x: hidden;">
     <div id="top">
-        <!-- ./resource/modules/top -->
+        <!-- ./resource/views/top -->
     </div>
 
     <div class="container-fluid">
         <div class="row mt-3 mb-3">
             <div class="col-12 text-center">
-                <img class="logo" src="./img/logo.png" width="256" height="256" alt="page logo">
+                <img class="logo" src="./img/l2logosmall_3_orig.png" alt="page logo">
             </div>
         </div>
     </div>
@@ -37,25 +40,25 @@
             <div class="col-12" id="navbar">
                 <nav>
                     <ul class="menu-ppal">
-                        <li><a class="menu-ppal-item" id="home">Inicio</a></li>
-                        <li><a class="menu-ppal-item" id="features">Caracteristicas</a></li>
-                        <li><a class="menu-ppal-item" id="downloads">Download</a></li>
-                        <li><a class="menu-ppal-item" id="donate">Donaciones</a></li>
-                        <li><a class="menu-ppal-item" id="events">Eventos</a></li>
-                        <li><a class="menu-ppal-item" id="votes">Votar</a></li>
-                        <li><a class="menu-ppal-item" id="register">Registro</a></li>
-                        <li><a class="menu-ppal-item" href="/forum" target="_blank">Foro</a></li>
+                        <li><a class="menu-ppal-item link-cursor" id="home">Inicio</a></li>
+                        <li><a class="menu-ppal-item link-cursor" id="features">Caracteristicas</a></li>
+                        <li><a class="menu-ppal-item link-cursor" id="downloads">Download</a></li>
+                        <li><a class="menu-ppal-item link-cursor" id="donate">Donaciones</a></li>
+                        <li><a class="menu-ppal-item link-cursor" id="events">Eventos</a></li>
+                        <li><a class="menu-ppal-item link-cursor" id="votes">Votar</a></li>
+                        <li><a class="menu-ppal-item link-cursor" id="register">Registro</a></li>
+                        <li><a class="menu-ppal-item link-cursor" href="/forum" target="_blank">Foro</a></li>
                     </ul>
                 </nav>
             </div>
         </div>
         <div class="row">
             <div class="col-12 pt-3 pr-4">
-                <div class="panel-ppal" style="min-height: 92vh; max-height: 92vh;">
-                    <div class="panel-left panel-border" id="board" style="overflow-x: auto;">
+                <div class="panel-ppal">
+                    <div class="panel-left panel-border" id="board">
                         <!-- Aqui se indexan los html -->
                     </div>
-                    <div class="panel-right panel-border">
+                    <div class="panel-right">
                         <div id="status">
                             <!-- status -->
                         </div>
@@ -75,11 +78,53 @@
 
     </div>
 
+    <div id="modal-container">
+
+    </div>
     <div id="footer">
 
     </div>
 
-    <script src="./resource/script.js"></script>
+    <!-- ALERTS -->
+    <div class="alert-windows alert-info" role="alert" aria-live="assertive" aria-atomic="true" id="windowAlertInfo">
+        <div class="alert-windows-head">
+            <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close" onclick="">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="toast-body">
+            <i class="fas fa-info-circle" style="font-size: larger;"></i>
+            <span id="alertInfoText" style="font-size: small;">Esta es una alerta sencilla</span>
+        </div>
+    </div>
+    <div class="alert-windows alert-success" role="alert" aria-live="assertive" aria-atomic="true" id="windowAlertSuccess">
+        <div class="alert-windows-head">
+            <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close" onclick="">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="toast-body">
+            <i class="fas fa-check-circle" style="font-size: larger;"></i>
+            <span id="alertSuccessText" style="font-size: small;">Esta es una alerta sencilla</span>
+        </div>
+    </div>
+    <div class="alert-windows alert-warning" role="alert" aria-live="assertive" aria-atomic="true" id="windowAlertWarning">
+        <div class="alert-windows-head">
+            <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close" onclick="">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="toast-body">
+            <i class="fas fa-times-circle" style="font-size: larger;"></i>
+            <span id="alertWarningText" style="font-size: small;">Esta es una alerta sencilla</span>
+        </div>
+    </div>
+
+    <!-- LOAD JS -->
+    <script src="./resource/managersJs/alertManager.js"></script>
+    <script src="./resource/managersJs/filesManager.js"></script>
+
+    <script src="./resource/main.js"></script>
 </body>
 
 </html>

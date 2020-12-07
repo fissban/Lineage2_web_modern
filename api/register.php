@@ -56,7 +56,7 @@ while ($row = $result->fetch())
     return;
 }
 
-$result = $db->executeQueryParams("INSERT INTO accounts (login, password) VALUES (login=? , password=?)", [$user, $pass]);
+$result = $db->executeQueryParams("INSERT INTO accounts (login,password) VALUES (?,?)", [$user, $pass]);
 
 if ($result)
 {
@@ -66,8 +66,6 @@ else
 {
     echo 'ocurrio un problema';
 }
-
-
 
 function randomString($size)
 {

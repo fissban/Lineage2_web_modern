@@ -1,0 +1,10606 @@
+[
+    {
+        "id": "1",
+        "name": "Triple Slash"
+    },
+    {
+        "id": "2",
+        "name": "Confusion"
+    },
+    {
+        "id": "3",
+        "name": "Power Strike"
+    },
+    {
+        "id": "4",
+        "name": "Dash"
+    },
+    {
+        "id": "5",
+        "name": "Double Sonic Slash"
+    },
+    {
+        "id": "6",
+        "name": "Sonic Blaster"
+    },
+    {
+        "id": "7",
+        "name": "Sonic Storm"
+    },
+    {
+        "id": "8",
+        "name": "Sonic Focus"
+    },
+    {
+        "id": "9",
+        "name": "Sonic Buster"
+    },
+    {
+        "id": "10",
+        "name": "Summon Storm Cubic"
+    },
+    {
+        "id": "11",
+        "name": "Trick"
+    },
+    {
+        "id": "12",
+        "name": "Switch"
+    },
+    {
+        "id": "13",
+        "name": "Summon Siege Golem"
+    },
+    {
+        "id": "15",
+        "name": "Charm"
+    },
+    {
+        "id": "16",
+        "name": "Mortal Blow"
+    },
+    {
+        "id": "17",
+        "name": "Force Burst"
+    },
+    {
+        "id": "18",
+        "name": "Aura of Hate"
+    },
+    {
+        "id": "19",
+        "name": "Double Shot"
+    },
+    {
+        "id": "21",
+        "name": "Poison Recovery"
+    },
+    {
+        "id": "22",
+        "name": "Summon Vampiric Cubic"
+    },
+    {
+        "id": "24",
+        "name": "Burst Shot"
+    },
+    {
+        "id": "25",
+        "name": "Summon Mechanic Golem"
+    },
+    {
+        "id": "27",
+        "name": "Unlock"
+    },
+    {
+        "id": "28",
+        "name": "Aggression"
+    },
+    {
+        "id": "29",
+        "name": "Iron Punch"
+    },
+    {
+        "id": "30",
+        "name": "Backstab"
+    },
+    {
+        "id": "33",
+        "name": "Summon Phantom Cubic"
+    },
+    {
+        "id": "34",
+        "name": "Bandage"
+    },
+    {
+        "id": "35",
+        "name": "Force Storm"
+    },
+    {
+        "id": "36",
+        "name": "Whirlwind"
+    },
+    {
+        "id": "42",
+        "name": "Sweeper"
+    },
+    {
+        "id": "44",
+        "name": "Remedy"
+    },
+    {
+        "id": "45",
+        "name": "Divine Heal"
+    },
+    {
+        "id": "46",
+        "name": "Life Scavenge"
+    },
+    {
+        "id": "48",
+        "name": "Thunder Storm"
+    },
+    {
+        "id": "49",
+        "name": "Holy Strike"
+    },
+    {
+        "id": "50",
+        "name": "Focused Force"
+    },
+    {
+        "id": "51",
+        "name": "Lure"
+    },
+    {
+        "id": "54",
+        "name": "Force Blaster"
+    },
+    {
+        "id": "56",
+        "name": "Power Shot"
+    },
+    {
+        "id": "58",
+        "name": "Elemental Heal"
+    },
+    {
+        "id": "60",
+        "name": "Fake Death"
+    },
+    {
+        "id": "61",
+        "name": "Cure Bleeding"
+    },
+    {
+        "id": "65",
+        "name": "Horror"
+    },
+    {
+        "id": "67",
+        "name": "Summon Life Cubic"
+    },
+    {
+        "id": "69",
+        "name": "Sacrifice"
+    },
+    {
+        "id": "70",
+        "name": "Drain Health"
+    },
+    {
+        "id": "72",
+        "name": "Iron Will"
+    },
+    {
+        "id": "75",
+        "name": "Detect Insect Weakness"
+    },
+    {
+        "id": "76",
+        "name": "Bear Spirit Totem"
+    },
+    {
+        "id": "77",
+        "name": "Attack Aura"
+    },
+    {
+        "id": "78",
+        "name": "War Cry"
+    },
+    {
+        "id": "80",
+        "name": "Detect Monster Weakness"
+    },
+    {
+        "id": "81",
+        "name": "Punch of Doom"
+    },
+    {
+        "id": "82",
+        "name": "Majesty"
+    },
+    {
+        "id": "83",
+        "name": "Wolf Spirit Totem"
+    },
+    {
+        "id": "84",
+        "name": "Poison Blade Dance"
+    },
+    {
+        "id": "86",
+        "name": "Reflect Damage"
+    },
+    {
+        "id": "87",
+        "name": "Detect Animal Weakness"
+    },
+    {
+        "id": "88",
+        "name": "Detect Dragon Weakness"
+    },
+    {
+        "id": "91",
+        "name": "Defense Aura"
+    },
+    {
+        "id": "92",
+        "name": "Shield Stun"
+    },
+    {
+        "id": "94",
+        "name": "Rage"
+    },
+    {
+        "id": "95",
+        "name": "Cripple"
+    },
+    {
+        "id": "96",
+        "name": "Bleed"
+    },
+    {
+        "id": "97",
+        "name": "Sanctuary"
+    },
+    {
+        "id": "98",
+        "name": "Sword Symphony"
+    },
+    {
+        "id": "99",
+        "name": "Rapid Shot"
+    },
+    {
+        "id": "100",
+        "name": "Stun Attack"
+    },
+    {
+        "id": "101",
+        "name": "Stunning Shot"
+    },
+    {
+        "id": "102",
+        "name": "Entangle"
+    },
+    {
+        "id": "103",
+        "name": "Corpse Plague"
+    },
+    {
+        "id": "104",
+        "name": "Detect Plant Weakness"
+    },
+    {
+        "id": "105",
+        "name": "Freezing Strike"
+    },
+    {
+        "id": "106",
+        "name": "Veil"
+    },
+    {
+        "id": "107",
+        "name": "Holy Aura"
+    },
+    {
+        "id": "109",
+        "name": "Ogre Spirit Totem"
+    },
+    {
+        "id": "110",
+        "name": "Ultimate Defense"
+    },
+    {
+        "id": "111",
+        "name": "Ultimate Evasion"
+    },
+    {
+        "id": "112",
+        "name": "Deflect Arrow"
+    },
+    {
+        "id": "113",
+        "name": "Long Shot"
+    },
+    {
+        "id": "115",
+        "name": "Power Break"
+    },
+    {
+        "id": "116",
+        "name": "Howl"
+    },
+    {
+        "id": "118",
+        "name": "Magician's Movement"
+    },
+    {
+        "id": "120",
+        "name": "Stunning Fist"
+    },
+    {
+        "id": "121",
+        "name": "Battle Roar"
+    },
+    {
+        "id": "122",
+        "name": "Hex"
+    },
+    {
+        "id": "123",
+        "name": "Spirit Barrier"
+    },
+    {
+        "id": "127",
+        "name": "Hamstring"
+    },
+    {
+        "id": "129",
+        "name": "Poison"
+    },
+    {
+        "id": "130",
+        "name": "Thrill Fight"
+    },
+    {
+        "id": "131",
+        "name": "Hawk Eye"
+    },
+    {
+        "id": "134",
+        "name": "Toughness"
+    },
+    {
+        "id": "137",
+        "name": "Critical Chance"
+    },
+    {
+        "id": "139",
+        "name": "Guts"
+    },
+    {
+        "id": "141",
+        "name": "Weapon Mastery"
+    },
+    {
+        "id": "142",
+        "name": "Armor Mastery"
+    },
+    {
+        "id": "143",
+        "name": "Cubic Mastery"
+    },
+    {
+        "id": "144",
+        "name": "Dual Weapon Mastery"
+    },
+    {
+        "id": "146",
+        "name": "Anti Magic"
+    },
+    {
+        "id": "147",
+        "name": "Magic Resistance"
+    },
+    {
+        "id": "148",
+        "name": "Vital Force"
+    },
+    {
+        "id": "150",
+        "name": "Weight Limit"
+    },
+    {
+        "id": "153",
+        "name": "Shield Mastery"
+    },
+    {
+        "id": "163",
+        "name": "Spellcraft"
+    },
+    {
+        "id": "164",
+        "name": "Quick Recovery"
+    },
+    {
+        "id": "165",
+        "name": "Trade"
+    },
+    {
+        "id": "168",
+        "name": "Boost Attack Speed"
+    },
+    {
+        "id": "169",
+        "name": "Quick Step"
+    },
+    {
+        "id": "171",
+        "name": "Esprit"
+    },
+    {
+        "id": "172",
+        "name": "Create Item"
+    },
+    {
+        "id": "173",
+        "name": "Acrobatics"
+    },
+    {
+        "id": "176",
+        "name": "Frenzy"
+    },
+    {
+        "id": "181",
+        "name": "Revival"
+    },
+    {
+        "id": "190",
+        "name": "Fatal Strike"
+    },
+    {
+        "id": "191",
+        "name": "Focus Mind"
+    },
+    {
+        "id": "193",
+        "name": "Critical Power"
+    },
+    {
+        "id": "194",
+        "name": "Lucky"
+    },
+    {
+        "id": "195",
+        "name": "Boost Breath"
+    },
+    {
+        "id": "196",
+        "name": "Holy Blade"
+    },
+    {
+        "id": "197",
+        "name": "Holy Armor"
+    },
+    {
+        "id": "198",
+        "name": "Boost Evasion"
+    },
+    {
+        "id": "205",
+        "name": "Blunt Mastery"
+    },
+    {
+        "id": "208",
+        "name": "Bow Mastery"
+    },
+    {
+        "id": "209",
+        "name": "Dagger Mastery"
+    },
+    {
+        "id": "210",
+        "name": "Fist Mastery"
+    },
+    {
+        "id": "211",
+        "name": "Boost HP"
+    },
+    {
+        "id": "212",
+        "name": "Fast HP Recovery"
+    },
+    {
+        "id": "213",
+        "name": "Boost Mana"
+    },
+    {
+        "id": "214",
+        "name": "Mana Recovery"
+    },
+    {
+        "id": "216",
+        "name": "Polearm Mastery"
+    },
+    {
+        "id": "217",
+        "name": "Sword Blunt Mastery"
+    },
+    {
+        "id": "221",
+        "name": "Silent Move"
+    },
+    {
+        "id": "222",
+        "name": "Fist Fury"
+    },
+    {
+        "id": "223",
+        "name": "Sting"
+    },
+    {
+        "id": "225",
+        "name": "Acrobatic Move"
+    },
+    {
+        "id": "226",
+        "name": "Relax"
+    },
+    {
+        "id": "227",
+        "name": "Light Armor Mastery"
+    },
+    {
+        "id": "228",
+        "name": "Fast Spell Casting"
+    },
+    {
+        "id": "229",
+        "name": "Fast Mana Recovery"
+    },
+    {
+        "id": "230",
+        "name": "Sprint"
+    },
+    {
+        "id": "231",
+        "name": "Heavy Armor Mastery"
+    },
+    {
+        "id": "232",
+        "name": "Heavy Armor Mastery"
+    },
+    {
+        "id": "233",
+        "name": "Light Armor Mastery"
+    },
+    {
+        "id": "234",
+        "name": "Robe Mastery"
+    },
+    {
+        "id": "235",
+        "name": "Robe Mastery"
+    },
+    {
+        "id": "236",
+        "name": "Light Armor Mastery"
+    },
+    {
+        "id": "239",
+        "name": "Expertise S"
+    },
+    {
+        "id": "240",
+        "name": "Expertise C Deleted"
+    },
+    {
+        "id": "241",
+        "name": "Expertise B Deleted"
+    },
+    {
+        "id": "242",
+        "name": "Expertise A Deleted"
+    },
+    {
+        "id": "243",
+        "name": "Expertise S Deleted"
+    },
+    {
+        "id": "244",
+        "name": "Armor Mastery"
+    },
+    {
+        "id": "245",
+        "name": "Wild Sweep"
+    },
+    {
+        "id": "246",
+        "name": "Seal of Ruler"
+    },
+    {
+        "id": "247",
+        "name": "Build Headquarters"
+    },
+    {
+        "id": "248",
+        "name": "Crystallize"
+    },
+    {
+        "id": "249",
+        "name": "Weapon Mastery"
+    },
+    {
+        "id": "250",
+        "name": "Weapon Mastery"
+    },
+    {
+        "id": "251",
+        "name": "Robe Mastery"
+    },
+    {
+        "id": "252",
+        "name": "Light Armor Mastery"
+    },
+    {
+        "id": "253",
+        "name": "Heavy Armor Mastery"
+    },
+    {
+        "id": "254",
+        "name": "Spoil"
+    },
+    {
+        "id": "255",
+        "name": "Power Smash"
+    },
+    {
+        "id": "256",
+        "name": "Accuracy"
+    },
+    {
+        "id": "257",
+        "name": "Sword Blunt Mastery"
+    },
+    {
+        "id": "258",
+        "name": "Light Armor Mastery"
+    },
+    {
+        "id": "259",
+        "name": "Heavy Armor Mastery"
+    },
+    {
+        "id": "260",
+        "name": "Hammer Crush"
+    },
+    {
+        "id": "261",
+        "name": "Triple Sonic Slash"
+    },
+    {
+        "id": "262",
+        "name": "Holy Blessing"
+    },
+    {
+        "id": "263",
+        "name": "Deadly Blow"
+    },
+    {
+        "id": "264",
+        "name": "Song of Earth"
+    },
+    {
+        "id": "265",
+        "name": "Song of Life"
+    },
+    {
+        "id": "266",
+        "name": "Song of Water"
+    },
+    {
+        "id": "267",
+        "name": "Song of Warding"
+    },
+    {
+        "id": "268",
+        "name": "Song of Wind"
+    },
+    {
+        "id": "269",
+        "name": "Song of Hunter"
+    },
+    {
+        "id": "270",
+        "name": "Song of Invocation"
+    },
+    {
+        "id": "271",
+        "name": "Dance of the Warrior"
+    },
+    {
+        "id": "272",
+        "name": "Dance of Inspiration"
+    },
+    {
+        "id": "273",
+        "name": "Dance of the Mystic"
+    },
+    {
+        "id": "274",
+        "name": "Dance of Fire"
+    },
+    {
+        "id": "275",
+        "name": "Dance of Fury"
+    },
+    {
+        "id": "276",
+        "name": "Dance of Concentration"
+    },
+    {
+        "id": "277",
+        "name": "Dance of Light"
+    },
+    {
+        "id": "278",
+        "name": "Summon Viper Cubic"
+    },
+    {
+        "id": "279",
+        "name": "Lightning Strike"
+    },
+    {
+        "id": "280",
+        "name": "Burning Fist"
+    },
+    {
+        "id": "281",
+        "name": "Soul Breaker"
+    },
+    {
+        "id": "282",
+        "name": "Puma Spirit Totem"
+    },
+    {
+        "id": "283",
+        "name": "Summon Dark Panther"
+    },
+    {
+        "id": "284",
+        "name": "Hurricane Assault"
+    },
+    {
+        "id": "285",
+        "name": "Higher Mana Gain"
+    },
+    {
+        "id": "286",
+        "name": "Provoke"
+    },
+    {
+        "id": "287",
+        "name": "Lionheart"
+    },
+    {
+        "id": "288",
+        "name": "Guard Stance"
+    },
+    {
+        "id": "289",
+        "name": "Life Leech"
+    },
+    {
+        "id": "290",
+        "name": "Final Frenzy"
+    },
+    {
+        "id": "291",
+        "name": "Final Fortress"
+    },
+    {
+        "id": "292",
+        "name": "Bison Spirit Totem"
+    },
+    {
+        "id": "293",
+        "name": "Two-handed Weapon Mastery"
+    },
+    {
+        "id": "294",
+        "name": "Shadow Sense"
+    },
+    {
+        "id": "295",
+        "name": "Iron Body"
+    },
+    {
+        "id": "296",
+        "name": "Chameleon Rest"
+    },
+    {
+        "id": "297",
+        "name": "Duelist Spirit"
+    },
+    {
+        "id": "298",
+        "name": "Rabbit Spirit Totem"
+    },
+    {
+        "id": "299",
+        "name": "Summon Wild Hog Cannon"
+    },
+    {
+        "id": "301",
+        "name": "Summon Big Boom"
+    },
+    {
+        "id": "302",
+        "name": "Spoil Festival"
+    },
+    {
+        "id": "303",
+        "name": "Soul of Sagittarius"
+    },
+    {
+        "id": "304",
+        "name": "Song of Vitality"
+    },
+    {
+        "id": "305",
+        "name": "Song of Vengeance"
+    },
+    {
+        "id": "306",
+        "name": "Song of Flame Guard"
+    },
+    {
+        "id": "307",
+        "name": "Dance of Aqua Guard"
+    },
+    {
+        "id": "308",
+        "name": "Song of Storm Guard"
+    },
+    {
+        "id": "309",
+        "name": "Dance of Earth Guard"
+    },
+    {
+        "id": "310",
+        "name": "Dance of the Vampire"
+    },
+    {
+        "id": "311",
+        "name": "Dance of Protection"
+    },
+    {
+        "id": "312",
+        "name": "Vicious Stance"
+    },
+    {
+        "id": "313",
+        "name": "Snipe"
+    },
+    {
+        "id": "314",
+        "name": "Fatal Counter"
+    },
+    {
+        "id": "315",
+        "name": "Crush of Doom"
+    },
+    {
+        "id": "316",
+        "name": "Aegis"
+    },
+    {
+        "id": "317",
+        "name": "Focus Attack"
+    },
+    {
+        "id": "318",
+        "name": "Aegis Stance"
+    },
+    {
+        "id": "319",
+        "name": "Agile Movement"
+    },
+    {
+        "id": "320",
+        "name": "Wrath"
+    },
+    {
+        "id": "321",
+        "name": "Blinding Blow"
+    },
+    {
+        "id": "322",
+        "name": "Shield Fortress"
+    },
+    {
+        "id": "323",
+        "name": "Quiver of Arrow: Grade A"
+    },
+    {
+        "id": "324",
+        "name": "Quiver of Arrow: Grade S"
+    },
+    {
+        "id": "325",
+        "name": "Strider Siege Assault"
+    },
+    {
+        "id": "326",
+        "name": "Build Advanced Headquarters"
+    },
+    {
+        "id": "327",
+        "name": "Wyvern Aegis"
+    },
+    {
+        "id": "328",
+        "name": "Wisdom"
+    },
+    {
+        "id": "329",
+        "name": "Health"
+    },
+    {
+        "id": "330",
+        "name": "Skill Mastery"
+    },
+    {
+        "id": "331",
+        "name": "Skill Mastery"
+    },
+    {
+        "id": "332",
+        "name": "Extra Inventory"
+    },
+    {
+        "id": "333",
+        "name": "Extra Sell Inventory"
+    },
+    {
+        "id": "334",
+        "name": "Focus Skill Mastery"
+    },
+    {
+        "id": "335",
+        "name": "Fortitude"
+    },
+    {
+        "id": "336",
+        "name": "Arcane Wisdom"
+    },
+    {
+        "id": "337",
+        "name": "Arcane Power"
+    },
+    {
+        "id": "338",
+        "name": "Arcane Agility"
+    },
+    {
+        "id": "339",
+        "name": "Parry Stance"
+    },
+    {
+        "id": "340",
+        "name": "Riposte Stance"
+    },
+    {
+        "id": "341",
+        "name": "Touch of Life"
+    },
+    {
+        "id": "342",
+        "name": "Touch of Death"
+    },
+    {
+        "id": "343",
+        "name": "Lethal Shot"
+    },
+    {
+        "id": "344",
+        "name": "Lethal Blow"
+    },
+    {
+        "id": "345",
+        "name": "Sonic Rage"
+    },
+    {
+        "id": "346",
+        "name": "Raging Force"
+    },
+    {
+        "id": "347",
+        "name": "Earthquake"
+    },
+    {
+        "id": "348",
+        "name": "Spoil Crush"
+    },
+    {
+        "id": "349",
+        "name": "Song of Renewal"
+    },
+    {
+        "id": "350",
+        "name": "Physical Mirror"
+    },
+    {
+        "id": "351",
+        "name": "Magical Mirror"
+    },
+    {
+        "id": "352",
+        "name": "Shield Bash"
+    },
+    {
+        "id": "353",
+        "name": "Shield Slam"
+    },
+    {
+        "id": "354",
+        "name": "Hamstring Shot"
+    },
+    {
+        "id": "355",
+        "name": "Focus Death"
+    },
+    {
+        "id": "356",
+        "name": "Focus Chance"
+    },
+    {
+        "id": "357",
+        "name": "Focus Power"
+    },
+    {
+        "id": "358",
+        "name": "Bluff"
+    },
+    {
+        "id": "359",
+        "name": "Eye of Hunter"
+    },
+    {
+        "id": "360",
+        "name": "Eye of Slayer"
+    },
+    {
+        "id": "361",
+        "name": "Shock Blast"
+    },
+    {
+        "id": "362",
+        "name": "Armor Crush"
+    },
+    {
+        "id": "363",
+        "name": "Song of Meditation"
+    },
+    {
+        "id": "364",
+        "name": "Song of Champion"
+    },
+    {
+        "id": "365",
+        "name": "Siren's Dance"
+    },
+    {
+        "id": "366",
+        "name": "Dance of Shadows"
+    },
+    {
+        "id": "367",
+        "name": "Dance of Medusa"
+    },
+    {
+        "id": "368",
+        "name": "Vengeance"
+    },
+    {
+        "id": "369",
+        "name": "Evade Shot"
+    },
+    {
+        "id": "370",
+        "name": "Clan Vitality"
+    },
+    {
+        "id": "371",
+        "name": "Clan Spirituality"
+    },
+    {
+        "id": "372",
+        "name": "Clan Essence"
+    },
+    {
+        "id": "373",
+        "name": "Clan Lifeblood"
+    },
+    {
+        "id": "374",
+        "name": "Clan Morale"
+    },
+    {
+        "id": "375",
+        "name": "Clan Clarity"
+    },
+    {
+        "id": "376",
+        "name": "Clan Might"
+    },
+    {
+        "id": "377",
+        "name": "Clan Aegis"
+    },
+    {
+        "id": "378",
+        "name": "Clan Empowerment"
+    },
+    {
+        "id": "379",
+        "name": "Clan Magic Protection"
+    },
+    {
+        "id": "380",
+        "name": "Clan Guidance"
+    },
+    {
+        "id": "381",
+        "name": "Clan Agility"
+    },
+    {
+        "id": "382",
+        "name": "Clan Withstand-Attack"
+    },
+    {
+        "id": "383",
+        "name": "Clan Shield Boost"
+    },
+    {
+        "id": "384",
+        "name": "Clan Cyclonic Resistance"
+    },
+    {
+        "id": "385",
+        "name": "Clan Magmatic Resistance"
+    },
+    {
+        "id": "386",
+        "name": "Clan Fortitude"
+    },
+    {
+        "id": "387",
+        "name": "Clan Freedom"
+    },
+    {
+        "id": "388",
+        "name": "Clan Vigilance"
+    },
+    {
+        "id": "389",
+        "name": "Clan March"
+    },
+    {
+        "id": "390",
+        "name": "Clan Luck"
+    },
+    {
+        "id": "391",
+        "name": "Clan Imperium"
+    },
+    {
+        "id": "392",
+        "name": "none"
+    },
+    {
+        "id": "393",
+        "name": "none"
+    },
+    {
+        "id": "394",
+        "name": "none"
+    },
+    {
+        "id": "395",
+        "name": "Heroic Miracle"
+    },
+    {
+        "id": "396",
+        "name": "Heroic Berserker"
+    },
+    {
+        "id": "400",
+        "name": "Tribunal"
+    },
+    {
+        "id": "401",
+        "name": "Judgment"
+    },
+    {
+        "id": "402",
+        "name": "Arrest"
+    },
+    {
+        "id": "403",
+        "name": "Shackle"
+    },
+    {
+        "id": "404",
+        "name": "Mass Shackling"
+    },
+    {
+        "id": "405",
+        "name": "Banish Undead"
+    },
+    {
+        "id": "406",
+        "name": "Angelic Icon"
+    },
+    {
+        "id": "407",
+        "name": "Psycho Symphony"
+    },
+    {
+        "id": "408",
+        "name": "Demonic Blade Dance"
+    },
+    {
+        "id": "409",
+        "name": "Critical Blow"
+    },
+    {
+        "id": "410",
+        "name": "Mortal Strike"
+    },
+    {
+        "id": "411",
+        "name": "Stealth"
+    },
+    {
+        "id": "412",
+        "name": "Sand Bomb"
+    },
+    {
+        "id": "413",
+        "name": "Rapid Fire"
+    },
+    {
+        "id": "414",
+        "name": "Dead Eye"
+    },
+    {
+        "id": "415",
+        "name": "Spirit of Sagittarius"
+    },
+    {
+        "id": "416",
+        "name": "Blessing of Sagittarius"
+    },
+    {
+        "id": "417",
+        "name": "Pain of Sagittarius"
+    },
+    {
+        "id": "418",
+        "name": "Quiver of Holding"
+    },
+    {
+        "id": "419",
+        "name": "Summon Treasure Key"
+    },
+    {
+        "id": "420",
+        "name": "Zealot"
+    },
+    {
+        "id": "421",
+        "name": "Fell Swoop"
+    },
+    {
+        "id": "422",
+        "name": "Polearm Accuracy"
+    },
+    {
+        "id": "423",
+        "name": "Infernal Form"
+    },
+    {
+        "id": "424",
+        "name": "War Frenzy"
+    },
+    {
+        "id": "425",
+        "name": "Hawk Spirit Totem"
+    },
+    {
+        "id": "426",
+        "name": "Battle Force"
+    },
+    {
+        "id": "427",
+        "name": "Spell Force"
+    },
+    {
+        "id": "428",
+        "name": "Inner Rhythm"
+    },
+    {
+        "id": "429",
+        "name": "Knighthood"
+    },
+    {
+        "id": "430",
+        "name": "Master of Combat"
+    },
+    {
+        "id": "431",
+        "name": "Archery"
+    },
+    {
+        "id": "432",
+        "name": "Assassination"
+    },
+    {
+        "id": "433",
+        "name": "Arcane Roar"
+    },
+    {
+        "id": "434",
+        "name": "Necromancy"
+    },
+    {
+        "id": "435",
+        "name": "Summon Lore"
+    },
+    {
+        "id": "436",
+        "name": "Divine Lore"
+    },
+    {
+        "id": "437",
+        "name": "Song of Silence"
+    },
+    {
+        "id": "438",
+        "name": "Soul of the Phoenix"
+    },
+    {
+        "id": "439",
+        "name": "Shield of Revenge"
+    },
+    {
+        "id": "440",
+        "name": "Braveheart"
+    },
+    {
+        "id": "441",
+        "name": "Force Meditation"
+    },
+    {
+        "id": "442",
+        "name": "Sonic Barrier"
+    },
+    {
+        "id": "443",
+        "name": "Force Barrier"
+    },
+    {
+        "id": "444",
+        "name": "Festive Sweeper"
+    },
+    {
+        "id": "445",
+        "name": "Mirage"
+    },
+    {
+        "id": "446",
+        "name": "Dodge"
+    },
+    {
+        "id": "447",
+        "name": "Counterattack"
+    },
+    {
+        "id": "448",
+        "name": "Summon Swoop Cannon"
+    },
+    {
+        "id": "449",
+        "name": "Summon Attractive Cubic"
+    },
+    {
+        "id": "450",
+        "name": "Banish Seraph"
+    },
+    {
+        "id": "451",
+        "name": "Sonic Move"
+    },
+    {
+        "id": "452",
+        "name": "Shock Stomp"
+    },
+    {
+        "id": "453",
+        "name": "Escape Shackle"
+    },
+    {
+        "id": "454",
+        "name": "Symbol of Defense"
+    },
+    {
+        "id": "455",
+        "name": "Symbol of Noise"
+    },
+    {
+        "id": "456",
+        "name": "Symbol of Resistance"
+    },
+    {
+        "id": "457",
+        "name": "Symbol of Honor"
+    },
+    {
+        "id": "458",
+        "name": "Symbol of Energy"
+    },
+    {
+        "id": "459",
+        "name": "Symbol of the Sniper"
+    },
+    {
+        "id": "460",
+        "name": "Symbol of the Assassin"
+    },
+    {
+        "id": "461",
+        "name": "Break Duress"
+    },
+    {
+        "id": "1001",
+        "name": "Soul Cry"
+    },
+    {
+        "id": "1002",
+        "name": "Flame Chant"
+    },
+    {
+        "id": "1003",
+        "name": "Pa'agrian Gift"
+    },
+    {
+        "id": "1004",
+        "name": "The Wisdom of Pa'agrio"
+    },
+    {
+        "id": "1005",
+        "name": "Blessings of Pa'agrio"
+    },
+    {
+        "id": "1006",
+        "name": "Chant of Fire"
+    },
+    {
+        "id": "1007",
+        "name": "Chant of Battle"
+    },
+    {
+        "id": "1008",
+        "name": "The Glory of Pa'agrio"
+    },
+    {
+        "id": "1009",
+        "name": "Chant of Shielding"
+    },
+    {
+        "id": "1010",
+        "name": "Soul Shield"
+    },
+    {
+        "id": "1011",
+        "name": "Heal"
+    },
+    {
+        "id": "1012",
+        "name": "Cure Poison"
+    },
+    {
+        "id": "1013",
+        "name": "Recharge"
+    },
+    {
+        "id": "1015",
+        "name": "Battle Heal"
+    },
+    {
+        "id": "1016",
+        "name": "Resurrection"
+    },
+    {
+        "id": "1018",
+        "name": "Purify"
+    },
+    {
+        "id": "1020",
+        "name": "Vitalize"
+    },
+    {
+        "id": "1027",
+        "name": "Group Heal"
+    },
+    {
+        "id": "1028",
+        "name": "Might of Heaven"
+    },
+    {
+        "id": "1031",
+        "name": "Disrupt Undead"
+    },
+    {
+        "id": "1032",
+        "name": "Invigor"
+    },
+    {
+        "id": "1033",
+        "name": "Resist Poison"
+    },
+    {
+        "id": "1034",
+        "name": "Repose"
+    },
+    {
+        "id": "1035",
+        "name": "Mental Shield"
+    },
+    {
+        "id": "1036",
+        "name": "Magic Barrier"
+    },
+    {
+        "id": "1040",
+        "name": "Shield"
+    },
+    {
+        "id": "1042",
+        "name": "Hold Undead"
+    },
+    {
+        "id": "1043",
+        "name": "Holy Weapon"
+    },
+    {
+        "id": "1044",
+        "name": "Regeneration"
+    },
+    {
+        "id": "1045",
+        "name": "Blessed Body"
+    },
+    {
+        "id": "1047",
+        "name": "Mana Regeneration"
+    },
+    {
+        "id": "1048",
+        "name": "Blessed Soul"
+    },
+    {
+        "id": "1049",
+        "name": "Requiem"
+    },
+    {
+        "id": "1050",
+        "name": "Return"
+    },
+    {
+        "id": "1056",
+        "name": "Cancellation"
+    },
+    {
+        "id": "1059",
+        "name": "Greater Empower"
+    },
+    {
+        "id": "1062",
+        "name": "Berserker Spirit"
+    },
+    {
+        "id": "1064",
+        "name": "Silence"
+    },
+    {
+        "id": "1068",
+        "name": "Might"
+    },
+    {
+        "id": "1069",
+        "name": "Sleep"
+    },
+    {
+        "id": "1071",
+        "name": "Surrender To Water"
+    },
+    {
+        "id": "1072",
+        "name": "Sleeping Cloud"
+    },
+    {
+        "id": "1073",
+        "name": "Kiss of Eva"
+    },
+    {
+        "id": "1074",
+        "name": "Surrender To Wind"
+    },
+    {
+        "id": "1075",
+        "name": "Peace"
+    },
+    {
+        "id": "1077",
+        "name": "Focus"
+    },
+    {
+        "id": "1078",
+        "name": "Concentration"
+    },
+    {
+        "id": "1083",
+        "name": "Surrender To Fire"
+    },
+    {
+        "id": "1085",
+        "name": "Acumen"
+    },
+    {
+        "id": "1086",
+        "name": "Haste"
+    },
+    {
+        "id": "1087",
+        "name": "Agility"
+    },
+    {
+        "id": "1090",
+        "name": "Life Drain"
+    },
+    {
+        "id": "1092",
+        "name": "Fear"
+    },
+    {
+        "id": "1095",
+        "name": "Venom"
+    },
+    {
+        "id": "1096",
+        "name": "Seal of Chaos"
+    },
+    {
+        "id": "1097",
+        "name": "Dreaming Spirit"
+    },
+    {
+        "id": "1099",
+        "name": "Seal of Slow"
+    },
+    {
+        "id": "1100",
+        "name": "Chill Flame"
+    },
+    {
+        "id": "1101",
+        "name": "Blaze Quake"
+    },
+    {
+        "id": "1102",
+        "name": "Aura Sink"
+    },
+    {
+        "id": "1104",
+        "name": "Seal of Winter"
+    },
+    {
+        "id": "1105",
+        "name": "Madness"
+    },
+    {
+        "id": "1107",
+        "name": "Frost Flame"
+    },
+    {
+        "id": "1108",
+        "name": "Seal of Flame"
+    },
+    {
+        "id": "1111",
+        "name": "Summon Kat the Cat"
+    },
+    {
+        "id": "1126",
+        "name": "Servitor Recharge"
+    },
+    {
+        "id": "1127",
+        "name": "Servitor Heal"
+    },
+    {
+        "id": "1128",
+        "name": "Summon Shadow"
+    },
+    {
+        "id": "1129",
+        "name": "Summon Reanimated Man"
+    },
+    {
+        "id": "1139",
+        "name": "Servitor Magic Shield"
+    },
+    {
+        "id": "1140",
+        "name": "Servitor Physical Shield"
+    },
+    {
+        "id": "1141",
+        "name": "Servitor Haste"
+    },
+    {
+        "id": "1144",
+        "name": "Fast Servitor"
+    },
+    {
+        "id": "1145",
+        "name": "Bright Servitor"
+    },
+    {
+        "id": "1146",
+        "name": "Mighty Servitor"
+    },
+    {
+        "id": "1147",
+        "name": "Vampiric Touch"
+    },
+    {
+        "id": "1148",
+        "name": "Death Spike"
+    },
+    {
+        "id": "1151",
+        "name": "Corpse Life Drain"
+    },
+    {
+        "id": "1154",
+        "name": "Summon Corrupted Man"
+    },
+    {
+        "id": "1155",
+        "name": "Corpse Burst"
+    },
+    {
+        "id": "1156",
+        "name": "Forget"
+    },
+    {
+        "id": "1157",
+        "name": "Body To Mind"
+    },
+    {
+        "id": "1159",
+        "name": "Curse Death Link"
+    },
+    {
+        "id": "1160",
+        "name": "Slow"
+    },
+    {
+        "id": "1163",
+        "name": "Curse Discord"
+    },
+    {
+        "id": "1164",
+        "name": "Curse: Weakness"
+    },
+    {
+        "id": "1167",
+        "name": "Poisonous Cloud"
+    },
+    {
+        "id": "1168",
+        "name": "Curse: Poison"
+    },
+    {
+        "id": "1169",
+        "name": "Curse Fear"
+    },
+    {
+        "id": "1170",
+        "name": "Anchor"
+    },
+    {
+        "id": "1171",
+        "name": "Blazing Circle"
+    },
+    {
+        "id": "1172",
+        "name": "Aura Burn"
+    },
+    {
+        "id": "1174",
+        "name": "Frost Wall"
+    },
+    {
+        "id": "1175",
+        "name": "Aqua Swirl"
+    },
+    {
+        "id": "1176",
+        "name": "Tempest"
+    },
+    {
+        "id": "1177",
+        "name": "Wind Strike"
+    },
+    {
+        "id": "1178",
+        "name": "Twister"
+    },
+    {
+        "id": "1181",
+        "name": "Flame Strike"
+    },
+    {
+        "id": "1182",
+        "name": "Resist Aqua"
+    },
+    {
+        "id": "1183",
+        "name": "Freezing Shackle"
+    },
+    {
+        "id": "1184",
+        "name": "Ice Bolt"
+    },
+    {
+        "id": "1189",
+        "name": "Resist Wind"
+    },
+    {
+        "id": "1191",
+        "name": "Resist Fire"
+    },
+    {
+        "id": "1201",
+        "name": "Dryad Root"
+    },
+    {
+        "id": "1204",
+        "name": "Wind Walk"
+    },
+    {
+        "id": "1206",
+        "name": "Wind Shackle"
+    },
+    {
+        "id": "1208",
+        "name": "Seal of Binding"
+    },
+    {
+        "id": "1209",
+        "name": "Seal of Poison"
+    },
+    {
+        "id": "1210",
+        "name": "Seal of Gloom"
+    },
+    {
+        "id": "1213",
+        "name": "Seal of Mirage"
+    },
+    {
+        "id": "1216",
+        "name": "Self Heal"
+    },
+    {
+        "id": "1217",
+        "name": "Greater Heal"
+    },
+    {
+        "id": "1218",
+        "name": "Greater Battle Heal"
+    },
+    {
+        "id": "1219",
+        "name": "Greater Group Heal"
+    },
+    {
+        "id": "1220",
+        "name": "Blaze"
+    },
+    {
+        "id": "1222",
+        "name": "Curse Chaos"
+    },
+    {
+        "id": "1223",
+        "name": "Surrender To Earth"
+    },
+    {
+        "id": "1224",
+        "name": "Surrender To Poison"
+    },
+    {
+        "id": "1225",
+        "name": "Summon Mew the Cat"
+    },
+    {
+        "id": "1226",
+        "name": "Summon Boxer the Unicorn"
+    },
+    {
+        "id": "1227",
+        "name": "Summon Mirage the Unicorn"
+    },
+    {
+        "id": "1228",
+        "name": "Summon Silhouette"
+    },
+    {
+        "id": "1229",
+        "name": "Chant of Life"
+    },
+    {
+        "id": "1230",
+        "name": "Prominence"
+    },
+    {
+        "id": "1231",
+        "name": "Aura Flare"
+    },
+    {
+        "id": "1232",
+        "name": "Blazing Skin"
+    },
+    {
+        "id": "1233",
+        "name": "Decay"
+    },
+    {
+        "id": "1234",
+        "name": "Vampiric Claw"
+    },
+    {
+        "id": "1235",
+        "name": "Hydro Blast"
+    },
+    {
+        "id": "1236",
+        "name": "Frost Bolt"
+    },
+    {
+        "id": "1237",
+        "name": "Ice Dagger"
+    },
+    {
+        "id": "1238",
+        "name": "Freezing Skin"
+    },
+    {
+        "id": "1239",
+        "name": "Hurricane"
+    },
+    {
+        "id": "1240",
+        "name": "Guidance"
+    },
+    {
+        "id": "1242",
+        "name": "Death Whisper"
+    },
+    {
+        "id": "1243",
+        "name": "Bless Shield"
+    },
+    {
+        "id": "1244",
+        "name": "Freezing Flame"
+    },
+    {
+        "id": "1245",
+        "name": "Steal Essence"
+    },
+    {
+        "id": "1246",
+        "name": "Seal of Silence"
+    },
+    {
+        "id": "1247",
+        "name": "Seal of Scourge"
+    },
+    {
+        "id": "1248",
+        "name": "Seal of Suspension"
+    },
+    {
+        "id": "1249",
+        "name": "The Vision of Pa'agrio"
+    },
+    {
+        "id": "1250",
+        "name": "Under the Protection of Pa'agrio"
+    },
+    {
+        "id": "1251",
+        "name": "Chant of Fury"
+    },
+    {
+        "id": "1252",
+        "name": "Chant of Evasion"
+    },
+    {
+        "id": "1253",
+        "name": "Chant of Rage"
+    },
+    {
+        "id": "1254",
+        "name": "Mass Resurrection"
+    },
+    {
+        "id": "1255",
+        "name": "Party Recall"
+    },
+    {
+        "id": "1256",
+        "name": "The Heart of Pa'agrio"
+    },
+    {
+        "id": "1257",
+        "name": "Decrease Weight"
+    },
+    {
+        "id": "1258",
+        "name": "Restore Life"
+    },
+    {
+        "id": "1259",
+        "name": "Resist Shock"
+    },
+    {
+        "id": "1260",
+        "name": "The Tact of Pa'agrio"
+    },
+    {
+        "id": "1261",
+        "name": "The Rage of Pa'agrio"
+    },
+    {
+        "id": "1262",
+        "name": "Transfer Pain"
+    },
+    {
+        "id": "1263",
+        "name": "Curse Gloom"
+    },
+    {
+        "id": "1264",
+        "name": "Solar Spark"
+    },
+    {
+        "id": "1265",
+        "name": "Solar Flare"
+    },
+    {
+        "id": "1266",
+        "name": "Shadow Spark"
+    },
+    {
+        "id": "1267",
+        "name": "Shadow Flare"
+    },
+    {
+        "id": "1268",
+        "name": "Vampiric Rage"
+    },
+    {
+        "id": "1269",
+        "name": "Curse Disease"
+    },
+    {
+        "id": "1271",
+        "name": "Benediction"
+    },
+    {
+        "id": "1272",
+        "name": "Word of Fear"
+    },
+    {
+        "id": "1273",
+        "name": "Serenade of Eva"
+    },
+    {
+        "id": "1274",
+        "name": "Energy Bolt"
+    },
+    {
+        "id": "1275",
+        "name": "Aura Bolt"
+    },
+    {
+        "id": "1276",
+        "name": "Summon Kai the Cat"
+    },
+    {
+        "id": "1277",
+        "name": "Summon Merrow the Unicorn"
+    },
+    {
+        "id": "1278",
+        "name": "Summon Soulless"
+    },
+    {
+        "id": "1279",
+        "name": "Summon Binding Cubic"
+    },
+    {
+        "id": "1280",
+        "name": "Summon Aqua Cubic"
+    },
+    {
+        "id": "1281",
+        "name": "Summon Spark Cubic"
+    },
+    {
+        "id": "1282",
+        "name": "Pa'agrian Haste"
+    },
+    {
+        "id": "1283",
+        "name": "Soul Guard"
+    },
+    {
+        "id": "1284",
+        "name": "Chant of Revenge"
+    },
+    {
+        "id": "1285",
+        "name": "Seed of Fire"
+    },
+    {
+        "id": "1286",
+        "name": "Seed of Water"
+    },
+    {
+        "id": "1287",
+        "name": "Seed of Wind"
+    },
+    {
+        "id": "1288",
+        "name": "Aura Symphony"
+    },
+    {
+        "id": "1289",
+        "name": "Inferno"
+    },
+    {
+        "id": "1290",
+        "name": "Blizzard"
+    },
+    {
+        "id": "1291",
+        "name": "Demon Wind"
+    },
+    {
+        "id": "1292",
+        "name": "Elemental Assault"
+    },
+    {
+        "id": "1293",
+        "name": "Elemental Symphony"
+    },
+    {
+        "id": "1294",
+        "name": "Elemental Storm"
+    },
+    {
+        "id": "1295",
+        "name": "Aqua Splash"
+    },
+    {
+        "id": "1296",
+        "name": "Rain of Fire"
+    },
+    {
+        "id": "1297",
+        "name": "Clear Mind"
+    },
+    {
+        "id": "1298",
+        "name": "Mass Slow"
+    },
+    {
+        "id": "1299",
+        "name": "Servitor Empowerment"
+    },
+    {
+        "id": "1300",
+        "name": "Servitor Cure"
+    },
+    {
+        "id": "1301",
+        "name": "Servitor Blessing"
+    },
+    {
+        "id": "1303",
+        "name": "Wild Magic"
+    },
+    {
+        "id": "1304",
+        "name": "Advanced Block"
+    },
+    {
+        "id": "1305",
+        "name": "The Honor of Pa'agrio"
+    },
+    {
+        "id": "1306",
+        "name": "Ritual of Life"
+    },
+    {
+        "id": "1307",
+        "name": "Prayer"
+    },
+    {
+        "id": "1308",
+        "name": "Chant of Predator"
+    },
+    {
+        "id": "1309",
+        "name": "Chant of Eagle"
+    },
+    {
+        "id": "1310",
+        "name": "Chant of Vampire"
+    },
+    {
+        "id": "1311",
+        "name": "Body Of Avatar"
+    },
+    {
+        "id": "1312",
+        "name": "Fishing"
+    },
+    {
+        "id": "1313",
+        "name": "Pumping"
+    },
+    {
+        "id": "1314",
+        "name": "Reeling"
+    },
+    {
+        "id": "1315",
+        "name": "Fishing Expertise"
+    },
+    {
+        "id": "1316",
+        "name": "Fishing Expertise -C-Grade"
+    },
+    {
+        "id": "1317",
+        "name": "Fishing Expertise -B-Grade"
+    },
+    {
+        "id": "1318",
+        "name": "Fishing Expertise -A-Grade"
+    },
+    {
+        "id": "1319",
+        "name": "Fishing Expertise -S-Grade"
+    },
+    {
+        "id": "1320",
+        "name": "Create Common Item"
+    },
+    {
+        "id": "1321",
+        "name": "Dwarven Craft"
+    },
+    {
+        "id": "1322",
+        "name": "Common Craft"
+    },
+    {
+        "id": "1323",
+        "name": "Noblesse Blessing"
+    },
+    {
+        "id": "1324",
+        "name": "Summon CP Potion"
+    },
+    {
+        "id": "1325",
+        "name": "Fortune of Noblesse"
+    },
+    {
+        "id": "1326",
+        "name": "Harmony of Noblesse"
+    },
+    {
+        "id": "1327",
+        "name": "Symphony of Noblesse"
+    },
+    {
+        "id": "1328",
+        "name": "Mass Summon Storm Cubic"
+    },
+    {
+        "id": "1329",
+        "name": "Mass Summon Aqua Cubic"
+    },
+    {
+        "id": "1330",
+        "name": "Mass Summon Phantom Cubic"
+    },
+    {
+        "id": "1331",
+        "name": "Summon Feline Queen"
+    },
+    {
+        "id": "1332",
+        "name": "Summon Unicorn Seraphim"
+    },
+    {
+        "id": "1333",
+        "name": "Summon Nightshade"
+    },
+    {
+        "id": "1334",
+        "name": "Summon Cursed Man"
+    },
+    {
+        "id": "1335",
+        "name": "Balance Life"
+    },
+    {
+        "id": "1336",
+        "name": "Curse of Doom"
+    },
+    {
+        "id": "1337",
+        "name": "Curse of Abyss"
+    },
+    {
+        "id": "1338",
+        "name": "Arcane Chaos"
+    },
+    {
+        "id": "1339",
+        "name": "Fire Vortex"
+    },
+    {
+        "id": "1340",
+        "name": "Ice Vortex"
+    },
+    {
+        "id": "1341",
+        "name": "Wind Vortex"
+    },
+    {
+        "id": "1342",
+        "name": "Light Vortex"
+    },
+    {
+        "id": "1343",
+        "name": "Dark Vortex"
+    },
+    {
+        "id": "1344",
+        "name": "Mass Warrior Bane"
+    },
+    {
+        "id": "1345",
+        "name": "Mass Mage Bane"
+    },
+    {
+        "id": "1346",
+        "name": "Warrior Servitor"
+    },
+    {
+        "id": "1347",
+        "name": "Wizard Servitor"
+    },
+    {
+        "id": "1348",
+        "name": "Assassin Servitor"
+    },
+    {
+        "id": "1349",
+        "name": "Final Servitor"
+    },
+    {
+        "id": "1350",
+        "name": "Warrior Bane"
+    },
+    {
+        "id": "1351",
+        "name": "Mage Bane"
+    },
+    {
+        "id": "1352",
+        "name": "Elemental Protection"
+    },
+    {
+        "id": "1353",
+        "name": "Divine Protection"
+    },
+    {
+        "id": "1354",
+        "name": "Arcane Protection"
+    },
+    {
+        "id": "1355",
+        "name": "Prophecy of Water"
+    },
+    {
+        "id": "1356",
+        "name": "Prophecy of Fire"
+    },
+    {
+        "id": "1357",
+        "name": "Prophecy of Wind"
+    },
+    {
+        "id": "1358",
+        "name": "Block Shield"
+    },
+    {
+        "id": "1359",
+        "name": "Block Wind Walk"
+    },
+    {
+        "id": "1360",
+        "name": "Mass Block Shield"
+    },
+    {
+        "id": "1361",
+        "name": "Mass Block Wind Walk"
+    },
+    {
+        "id": "1362",
+        "name": "Chant of Spirit"
+    },
+    {
+        "id": "1363",
+        "name": "Chant of Victory"
+    },
+    {
+        "id": "1364",
+        "name": "The Eye of Pa'agrio"
+    },
+    {
+        "id": "1365",
+        "name": "The Soul of Pa'agrio"
+    },
+    {
+        "id": "1366",
+        "name": "Seal of Despair"
+    },
+    {
+        "id": "1367",
+        "name": "Seal of Disease"
+    },
+    {
+        "id": "1368",
+        "name": "Expand Dwarven Craft"
+    },
+    {
+        "id": "1369",
+        "name": "Expand Common Craft"
+    },
+    {
+        "id": "1370",
+        "name": "Expand Trade"
+    },
+    {
+        "id": "1371",
+        "name": "Expand Storage"
+    },
+    {
+        "id": "1372",
+        "name": "Expand Inventory"
+    },
+    {
+        "id": "1373",
+        "name": "Strider Mastery"
+    },
+    {
+        "id": "1374",
+        "name": "Heroic Valor"
+    },
+    {
+        "id": "1375",
+        "name": "Heroic Grandeur"
+    },
+    {
+        "id": "1376",
+        "name": "Heroic Dread"
+    },
+    {
+        "id": "1377",
+        "name": "none"
+    },
+    {
+        "id": "1378",
+        "name": "none"
+    },
+    {
+        "id": "1379",
+        "name": "none"
+    },
+    {
+        "id": "1380",
+        "name": "Betray"
+    },
+    {
+        "id": "1381",
+        "name": "Mass Fear"
+    },
+    {
+        "id": "1382",
+        "name": "Mass Gloom"
+    },
+    {
+        "id": "1383",
+        "name": "Mass Surrender to Fire"
+    },
+    {
+        "id": "1384",
+        "name": "Mass Surrender to Water"
+    },
+    {
+        "id": "1385",
+        "name": "Mass Surrender to Wind"
+    },
+    {
+        "id": "1386",
+        "name": "Arcane Distruption"
+    },
+    {
+        "id": "1387",
+        "name": "Summon Cursed Bones"
+    },
+    {
+        "id": "1388",
+        "name": "Greater Might"
+    },
+    {
+        "id": "1389",
+        "name": "Greater Shield"
+    },
+    {
+        "id": "1390",
+        "name": "War Chant"
+    },
+    {
+        "id": "1391",
+        "name": "Earth Chant"
+    },
+    {
+        "id": "1392",
+        "name": "Holy Resistance"
+    },
+    {
+        "id": "1393",
+        "name": "Unholy Resistance"
+    },
+    {
+        "id": "1394",
+        "name": "Trance"
+    },
+    {
+        "id": "1395",
+        "name": "Erase"
+    },
+    {
+        "id": "1396",
+        "name": "Magical Backfire"
+    },
+    {
+        "id": "1397",
+        "name": "Clarity"
+    },
+    {
+        "id": "1398",
+        "name": "Mana Burn"
+    },
+    {
+        "id": "1399",
+        "name": "Mana Storm"
+    },
+    {
+        "id": "1400",
+        "name": "Turn Undead"
+    },
+    {
+        "id": "1401",
+        "name": "Major Heal"
+    },
+    {
+        "id": "1402",
+        "name": "Major Group Heal"
+    },
+    {
+        "id": "1403",
+        "name": "Summon Friend"
+    },
+    {
+        "id": "1404",
+        "name": "Word of Invitation"
+    },
+    {
+        "id": "1405",
+        "name": "Divine Inspiration"
+    },
+    {
+        "id": "1406",
+        "name": "Summon Feline King"
+    },
+    {
+        "id": "1407",
+        "name": "Summon Magnus the Unicorn"
+    },
+    {
+        "id": "1408",
+        "name": "Summon Spectral Lord"
+    },
+    {
+        "id": "1409",
+        "name": "Cleanse"
+    },
+    {
+        "id": "1410",
+        "name": "Salvation"
+    },
+    {
+        "id": "1411",
+        "name": "Mystic Immunity"
+    },
+    {
+        "id": "1412",
+        "name": "Spell Turning"
+    },
+    {
+        "id": "1413",
+        "name": "Magnus' Chant"
+    },
+    {
+        "id": "1414",
+        "name": "Victories of Pa'agrio"
+    },
+    {
+        "id": "1415",
+        "name": "Pa'agrio's Emblem"
+    },
+    {
+        "id": "1416",
+        "name": "Pa'agrio's Fist"
+    },
+    {
+        "id": "1417",
+        "name": "Aura Flash"
+    },
+    {
+        "id": "1418",
+        "name": "Celestial Shield"
+    },
+    {
+        "id": "1419",
+        "name": "Volcano"
+    },
+    {
+        "id": "1420",
+        "name": "Cyclone"
+    },
+    {
+        "id": "1421",
+        "name": "Raging Waves"
+    },
+    {
+        "id": "1422",
+        "name": "Day of Doom"
+    },
+    {
+        "id": "1423",
+        "name": "Gehenna"
+    },
+    {
+        "id": "1424",
+        "name": "Anti-Summoning Field"
+    },
+    {
+        "id": "1425",
+        "name": "Purification Field"
+    },
+    {
+        "id": "1426",
+        "name": "Miracle"
+    },
+    {
+        "id": "1427",
+        "name": "Flames of Invincibility"
+    },
+    {
+        "id": "1428",
+        "name": "Mass Recharge"
+    },
+    {
+        "id": "1429",
+        "name": "Gate Chant"
+    },
+    {
+        "id": "1430",
+        "name": "Invocation"
+    },
+    {
+        "id": "2001",
+        "name": "Red Potion"
+    },
+    {
+        "id": "2002",
+        "name": "Healing Drug"
+    },
+    {
+        "id": "2003",
+        "name": "Squash Seed"
+    },
+    {
+        "id": "2004",
+        "name": "Large Squash Seed"
+    },
+    {
+        "id": "2005",
+        "name": "Nectar"
+    },
+    {
+        "id": "2006",
+        "name": "Scroll: Enchant Weapon (Grade A)"
+    },
+    {
+        "id": "2007",
+        "name": "Scroll: Enchant Armor (Grade A)"
+    },
+    {
+        "id": "2008",
+        "name": "Item - Beast Spirit Shot"
+    },
+    {
+        "id": "2009",
+        "name": "Item - Beast Blessed Spirit Shot"
+    },
+    {
+        "id": "2010",
+        "name": "Endeavor Potion"
+    },
+    {
+        "id": "2011",
+        "name": "Haste Potion"
+    },
+    {
+        "id": "2012",
+        "name": "Potion of Alacrity"
+    },
+    {
+        "id": "2013",
+        "name": "Scroll Of Escape"
+    },
+    {
+        "id": "2014",
+        "name": "Scroll Of Resurrection"
+    },
+    {
+        "id": "2015",
+        "name": "Scroll: Enchant Weapon (Grade B)"
+    },
+    {
+        "id": "2016",
+        "name": "Scroll: Enchant Armor (Grade B)"
+    },
+    {
+        "id": "2017",
+        "name": "Scroll: Enchant Weapon (Grade C)"
+    },
+    {
+        "id": "2018",
+        "name": "Scroll: Enchant Armor (Grade C)"
+    },
+    {
+        "id": "2019",
+        "name": "Scroll: Enchant Weapon (Grade D)"
+    },
+    {
+        "id": "2020",
+        "name": "Scroll: Enchant Armor (Grade D)"
+    },
+    {
+        "id": "2021",
+        "name": "Scroll: Enchant Weapon (Grade S)"
+    },
+    {
+        "id": "2022",
+        "name": "Scroll: Enchant Armor (Grade S)"
+    },
+    {
+        "id": "2023",
+        "name": "Fairy Firecracker"
+    },
+    {
+        "id": "2024",
+        "name": "Firecracker"
+    },
+    {
+        "id": "2025",
+        "name": "Large Firecracker"
+    },
+    {
+        "id": "2026",
+        "name": "Scroll: Enchant Weapon (Grade S)"
+    },
+    {
+        "id": "2027",
+        "name": "Scroll: Enchant Weapon (Grade A)"
+    },
+    {
+        "id": "2028",
+        "name": "Scroll: Enchant Weapon (Grade B)"
+    },
+    {
+        "id": "2029",
+        "name": "Scroll: Enchant Weapon (Grade C)"
+    },
+    {
+        "id": "2030",
+        "name": "Scroll: Enchant Weapon (Grade D)"
+    },
+    {
+        "id": "2031",
+        "name": "Lesser Healing Potion"
+    },
+    {
+        "id": "2032",
+        "name": "Healing potion"
+    },
+    {
+        "id": "2033",
+        "name": "Item - Beast Soul Shot"
+    },
+    {
+        "id": "2034",
+        "name": "Greater Haste Potion"
+    },
+    {
+        "id": "2035",
+        "name": "Greater Swift Attack Potion"
+    },
+    {
+        "id": "2036",
+        "name": "Blessed Scroll of Escape"
+    },
+    {
+        "id": "2037",
+        "name": "Greater Healing Potion"
+    },
+    {
+        "id": "2038",
+        "name": "Quick Healing Potion"
+    },
+    {
+        "id": "2039",
+        "name": "Soulshot: No Grade"
+    },
+    {
+        "id": "2040",
+        "name": "Scroll of Escape: Clan Hall"
+    },
+    {
+        "id": "2041",
+        "name": "Scroll of Escape: Castle"
+    },
+    {
+        "id": "2042",
+        "name": "Antidote"
+    },
+    {
+        "id": "2043",
+        "name": "Greater Antidote"
+    },
+    {
+        "id": "2044",
+        "name": "Bandage"
+    },
+    {
+        "id": "2045",
+        "name": "Emergency Dressing"
+    },
+    {
+        "id": "2046",
+        "name": "Wolf's Necklace"
+    },
+    {
+        "id": "2047",
+        "name": "Spiritshot: No Grade"
+    },
+    {
+        "id": "2048",
+        "name": "Wolves' Food"
+    },
+    {
+        "id": "2049",
+        "name": "Blessed Scroll of Resurrection"
+    },
+    {
+        "id": "2050",
+        "name": "Scroll of Guidance"
+    },
+    {
+        "id": "2051",
+        "name": "Scroll of Death Whisper"
+    },
+    {
+        "id": "2052",
+        "name": "Scroll of Focus"
+    },
+    {
+        "id": "2053",
+        "name": "Scroll of Greater Acumen"
+    },
+    {
+        "id": "2054",
+        "name": "Scroll of Haste"
+    },
+    {
+        "id": "2055",
+        "name": "Scroll of Agility"
+    },
+    {
+        "id": "2056",
+        "name": "Scroll of Mystic Empower"
+    },
+    {
+        "id": "2057",
+        "name": "Scroll of Might"
+    },
+    {
+        "id": "2058",
+        "name": "Scroll of Wind Walk"
+    },
+    {
+        "id": "2059",
+        "name": "Scroll of Shield"
+    },
+    {
+        "id": "2060",
+        "name": "Healing Medicine"
+    },
+    {
+        "id": "2061",
+        "name": "Blessed Spiritshot: No Grade"
+    },
+    {
+        "id": "2062",
+        "name": "Blessed Scroll of Resurrection"
+    },
+    {
+        "id": "2063",
+        "name": "Hatchling Food"
+    },
+    {
+        "id": "2064",
+        "name": "Scroll of Mana Regeneration"
+    },
+    {
+        "id": "2065",
+        "name": "Box Key"
+    },
+    {
+        "id": "2066",
+        "name": "Item - Theme Sound Crystal"
+    },
+    {
+        "id": "2067",
+        "name": "Item - Theme Sound Crystal"
+    },
+    {
+        "id": "2068",
+        "name": "Item - Race Sound Crystal"
+    },
+    {
+        "id": "2069",
+        "name": "Item - Race Sound Crystal"
+    },
+    {
+        "id": "2070",
+        "name": "Item - Race Sound Crystal"
+    },
+    {
+        "id": "2071",
+        "name": "Item - Race Sound Crystal"
+    },
+    {
+        "id": "2072",
+        "name": "Item - Race Sound Crystal"
+    },
+    {
+        "id": "2073",
+        "name": "Item - Theme Sound Crystal"
+    },
+    {
+        "id": "2074",
+        "name": "Potion of Critical Escape"
+    },
+    {
+        "id": "2075",
+        "name": "Decrease Hate Scroll"
+    },
+    {
+        "id": "2076",
+        "name": "Bless of Eva"
+    },
+    {
+        "id": "2077",
+        "name": "Potion of Revenge"
+    },
+    {
+        "id": "2078",
+        "name": "Compressed Package of Soulshots: No Grade"
+    },
+    {
+        "id": "2079",
+        "name": "Compressed Package of Soulshots: D-grade"
+    },
+    {
+        "id": "2080",
+        "name": "Compressed Package of Soulshots: C-grade"
+    },
+    {
+        "id": "2081",
+        "name": "Compressed Package of Soulshots: B-grade"
+    },
+    {
+        "id": "2082",
+        "name": "Compressed Package of Soulshots: A-grade"
+    },
+    {
+        "id": "2083",
+        "name": "Compressed Package of Soulshots: S-grade"
+    },
+    {
+        "id": "2084",
+        "name": "Compressed Package of Spiritshots: No Grade"
+    },
+    {
+        "id": "2085",
+        "name": "Compressed Package of Spiritshots: D-grade"
+    },
+    {
+        "id": "2086",
+        "name": "Compressed Package of Spiritshots: C-grade"
+    },
+    {
+        "id": "2087",
+        "name": "Compressed Package of Spiritshots: B-grade"
+    },
+    {
+        "id": "2088",
+        "name": "Compressed Package of Spiritshots: A-grade"
+    },
+    {
+        "id": "2089",
+        "name": "Compressed Package of Spiritshots: S-grade"
+    },
+    {
+        "id": "2090",
+        "name": "Compressed Package of Blessed Spiritshots: No Grade"
+    },
+    {
+        "id": "2091",
+        "name": "Compressed Package of Blessed Spiritshots: D-grade"
+    },
+    {
+        "id": "2092",
+        "name": "Compressed Package of Blessed Spiritshots: C-grade"
+    },
+    {
+        "id": "2093",
+        "name": "Compressed Package of Blessed Spiritshots: B-grade"
+    },
+    {
+        "id": "2094",
+        "name": "Compressed Package of Blessed Spiritshots: A-grade"
+    },
+    {
+        "id": "2095",
+        "name": "Compressed Package of Blessed Spiritshots: S-grade"
+    },
+    {
+        "id": "2096",
+        "name": "Soul Crystal"
+    },
+    {
+        "id": "2097",
+        "name": "Sowing"
+    },
+    {
+        "id": "2098",
+        "name": "Harvesting"
+    },
+    {
+        "id": "2099",
+        "name": "Escape: 5 minutes"
+    },
+    {
+        "id": "2100",
+        "name": "Escape: 1 second"
+    },
+    {
+        "id": "2101",
+        "name": "Feed: General Strider"
+    },
+    {
+        "id": "2102",
+        "name": "Feed: Clan Hall Strider"
+    },
+    {
+        "id": "2103",
+        "name": "Mystery Potion"
+    },
+    {
+        "id": "2104",
+        "name": "Greater Compressed Package of Soulshots: No-grade"
+    },
+    {
+        "id": "2105",
+        "name": "Greater Compressed Package of Soulshots: D-grade"
+    },
+    {
+        "id": "2106",
+        "name": "Greater Compressed Package of Soulshots: C-grade"
+    },
+    {
+        "id": "2107",
+        "name": "Greater Compressed Package of Soulshots: B-grade"
+    },
+    {
+        "id": "2108",
+        "name": "Greater Compressed Package of Soulshots: A-grade"
+    },
+    {
+        "id": "2109",
+        "name": "Greater Compressed Package of Soulshots: S-grade"
+    },
+    {
+        "id": "2110",
+        "name": "Greater Compressed Package of Spiritshots: No-grade"
+    },
+    {
+        "id": "2111",
+        "name": "Greater Compressed Package of Spiritshots: D-grade"
+    },
+    {
+        "id": "2112",
+        "name": "Greater Compressed Package of Spiritshots: C-grade"
+    },
+    {
+        "id": "2113",
+        "name": "Greater Compressed Package of Spiritshots: B-grade"
+    },
+    {
+        "id": "2114",
+        "name": "Greater Compressed Package of Spiritshots: A-grade"
+    },
+    {
+        "id": "2115",
+        "name": "Greater Compressed Package of Spiritshots: S-grade"
+    },
+    {
+        "id": "2116",
+        "name": "Greater Compressed Package of Blessed Spiritshots: No-grade"
+    },
+    {
+        "id": "2117",
+        "name": "Greater Compressed Package of Blessed Spiritshots: D-grade"
+    },
+    {
+        "id": "2118",
+        "name": "Greater Compressed Package of Blessed Spiritshots: C-grade"
+    },
+    {
+        "id": "2119",
+        "name": "Greater Compressed Package of Blessed Spiritshots: B-grade"
+    },
+    {
+        "id": "2120",
+        "name": "Greater Compressed Package of Blessed Spiritshots: A-grade"
+    },
+    {
+        "id": "2121",
+        "name": "Greater Compressed Package of Blessed Spiritshots: S-grade"
+    },
+    {
+        "id": "2122",
+        "name": "Facelifting Potion"
+    },
+    {
+        "id": "2123",
+        "name": "Facelifting Potion"
+    },
+    {
+        "id": "2124",
+        "name": "Facelifting Potion"
+    },
+    {
+        "id": "2125",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2126",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2127",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2128",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2129",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2130",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2131",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2132",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2133",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2134",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2135",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2136",
+        "name": "Rice Cake"
+    },
+    {
+        "id": "2137",
+        "name": "Summon Regular Tree"
+    },
+    {
+        "id": "2138",
+        "name": "Summon Special Tree"
+    },
+    {
+        "id": "2139",
+        "name": "Special Tree Recovery Bonus"
+    },
+    {
+        "id": "2140",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2141",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2142",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2143",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2144",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2145",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2146",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2147",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2148",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2149",
+        "name": "Item - Carol Sound Crystal"
+    },
+    {
+        "id": "2150",
+        "name": "Soulshot: D-Grade"
+    },
+    {
+        "id": "2151",
+        "name": "Soulshot: C-Grade"
+    },
+    {
+        "id": "2152",
+        "name": "Soulshot: B-Grade"
+    },
+    {
+        "id": "2153",
+        "name": "Soulshot: A-Grade"
+    },
+    {
+        "id": "2154",
+        "name": "Soulshot: S-Grade"
+    },
+    {
+        "id": "2155",
+        "name": "Spiritshot: D-Grade"
+    },
+    {
+        "id": "2156",
+        "name": "Spiritshot: C-Grade"
+    },
+    {
+        "id": "2157",
+        "name": "Spiritshot: B-Grade"
+    },
+    {
+        "id": "2158",
+        "name": "Spiritshot: A-Grade"
+    },
+    {
+        "id": "2159",
+        "name": "Spiritshot: S-Grade"
+    },
+    {
+        "id": "2160",
+        "name": "Blessed Spiritshot: D-Grade"
+    },
+    {
+        "id": "2161",
+        "name": "Blessed Spiritshot: C-Grade"
+    },
+    {
+        "id": "2162",
+        "name": "Blessed Spiritshot: B-Grade"
+    },
+    {
+        "id": "2163",
+        "name": "Blessed Spiritshot: A-Grade"
+    },
+    {
+        "id": "2164",
+        "name": "Blessed Spiritshot: S-Grade"
+    },
+    {
+        "id": "2165",
+        "name": "Energy Stone"
+    },
+    {
+        "id": "2166",
+        "name": "CP Gauge Potion"
+    },
+    {
+        "id": "2167",
+        "name": "Scroll of SP"
+    },
+    {
+        "id": "2168",
+        "name": "Raid Blessing"
+    },
+    {
+        "id": "2169",
+        "name": "Magic Haste Potion"
+    },
+    {
+        "id": "2170",
+        "name": "Scroll: Cancel Sleep"
+    },
+    {
+        "id": "2171",
+        "name": "Spellbook Paper"
+    },
+    {
+        "id": "2172",
+        "name": "Scroll of Giants"
+    },
+    {
+        "id": "2173",
+        "name": "Book of Giants"
+    },
+    {
+        "id": "2174",
+        "name": "Ingredient Bag"
+    },
+    {
+        "id": "2175",
+        "name": "Ingredient Box"
+    },
+    {
+        "id": "2176",
+        "name": "Ancient Papyrus"
+    },
+    {
+        "id": "2177",
+        "name": "Blessed Scroll of Escape: Clan Hall"
+    },
+    {
+        "id": "2178",
+        "name": "Blessed Scroll of Escape: Castle"
+    },
+    {
+        "id": "2179",
+        "name": "Blessed Scroll of Resurrection: Pet"
+    },
+    {
+        "id": "2180",
+        "name": "Feed: Castle Strider"
+    },
+    {
+        "id": "2181",
+        "name": "Item - Fishing Shot"
+    },
+    {
+        "id": "2182",
+        "name": "Item - Fishing Shot"
+    },
+    {
+        "id": "2183",
+        "name": "Item - Fishing Shot"
+    },
+    {
+        "id": "2184",
+        "name": "Item - Fishing Shot"
+    },
+    {
+        "id": "2185",
+        "name": "Item - Fishing Shot"
+    },
+    {
+        "id": "2186",
+        "name": "Item - Fishing Shot"
+    },
+    {
+        "id": "2187",
+        "name": "Item - Special Sound Crystal"
+    },
+    {
+        "id": "2188",
+        "name": "Golden Spice"
+    },
+    {
+        "id": "2189",
+        "name": "Crystal Spice"
+    },
+    {
+        "id": "2190",
+        "name": "Item - Green Fish"
+    },
+    {
+        "id": "2191",
+        "name": "Item - Jade Fish"
+    },
+    {
+        "id": "2192",
+        "name": "Item - Blue Fish"
+    },
+    {
+        "id": "2193",
+        "name": "Item - Yellow Fish"
+    },
+    {
+        "id": "2194",
+        "name": "Item - Orange Fish"
+    },
+    {
+        "id": "2195",
+        "name": "Item - Violet Fish"
+    },
+    {
+        "id": "2196",
+        "name": "Item - Red Fish"
+    },
+    {
+        "id": "2197",
+        "name": "Item - White Fish"
+    },
+    {
+        "id": "2198",
+        "name": "Item - Black Fish"
+    },
+    {
+        "id": "2199",
+        "name": "Item - Green Treasure Box"
+    },
+    {
+        "id": "2200",
+        "name": "Item - Jade Treasure Box"
+    },
+    {
+        "id": "2201",
+        "name": "Item - Blue Treasure Box"
+    },
+    {
+        "id": "2202",
+        "name": "Item - Yellow Treasure Box"
+    },
+    {
+        "id": "2203",
+        "name": "Item - Orange Treasure Box"
+    },
+    {
+        "id": "2204",
+        "name": "Item - Violet Treasure Box"
+    },
+    {
+        "id": "2205",
+        "name": "Item - Red Treasure Box"
+    },
+    {
+        "id": "2206",
+        "name": "Item - White Treasure Box"
+    },
+    {
+        "id": "2207",
+        "name": "Item - Black Treasure Box"
+    },
+    {
+        "id": "2208",
+        "name": "Item - Blessed Scroll of Enchant Armor"
+    },
+    {
+        "id": "2209",
+        "name": "Item - Blessed Scroll of Enchant Armor"
+    },
+    {
+        "id": "2210",
+        "name": "Item - Blessed Scroll of Enchant Armor"
+    },
+    {
+        "id": "2211",
+        "name": "Item - Blessed Scroll of Enchant Armor"
+    },
+    {
+        "id": "2212",
+        "name": "Item - Blessed Scroll of Enchant Armor"
+    },
+    {
+        "id": "2213",
+        "name": "Escape - to X Town"
+    },
+    {
+        "id": "2214",
+        "name": "Scroll of Escape to Talking Island"
+    },
+    {
+        "id": "2215",
+        "name": "Item - Quest Special Box"
+    },
+    {
+        "id": "2216",
+        "name": "Item - Quest Special Fish"
+    },
+    {
+        "id": "2217",
+        "name": "Item - Quest Treasure Box"
+    },
+    {
+        "id": "2218",
+        "name": "Item - Quest Sac"
+    },
+    {
+        "id": "2219",
+        "name": "Item - Quest Sac"
+    },
+    {
+        "id": "2220",
+        "name": "Item - Easy Green Fish"
+    },
+    {
+        "id": "2221",
+        "name": "Item - Easy Jade Fish"
+    },
+    {
+        "id": "2222",
+        "name": "Item - Easy Blue Fish"
+    },
+    {
+        "id": "2223",
+        "name": "Item - Easy Yellow Fish"
+    },
+    {
+        "id": "2224",
+        "name": "Item - Easy Orange Fish"
+    },
+    {
+        "id": "2225",
+        "name": "Item - Easy Violet Fish"
+    },
+    {
+        "id": "2226",
+        "name": "Item - Easy Red Fish"
+    },
+    {
+        "id": "2227",
+        "name": "Item - Easy White Fish"
+    },
+    {
+        "id": "2228",
+        "name": "Item - Easy Black Fish"
+    },
+    {
+        "id": "2229",
+        "name": "Treasure Chest Key"
+    },
+    {
+        "id": "2230",
+        "name": "Item - Theme Sound Crystal"
+    },
+    {
+        "id": "2231",
+        "name": "Amulet: Protection of Valakas"
+    },
+    {
+        "id": "2232",
+        "name": "Amulet: Slay Valakas"
+    },
+    {
+        "id": "2233",
+        "name": "Amulet: Flames of Valakas"
+    },
+    {
+        "id": "2234",
+        "name": "Soul Breaking Arrow"
+    },
+    {
+        "id": "2235",
+        "name": "Anteroom Door Key"
+    },
+    {
+        "id": "2236",
+        "name": "Chapel Door Key"
+    },
+    {
+        "id": "2237",
+        "name": "Altar Door Key"
+    },
+    {
+        "id": "2238",
+        "name": "Room of Splendor Key"
+    },
+    {
+        "id": "2239",
+        "name": "Petrification Scroll"
+    },
+    {
+        "id": "2240",
+        "name": "Hot Spring Nectar"
+    },
+    {
+        "id": "2241",
+        "name": "Hot Spring Mineral Water"
+    },
+    {
+        "id": "2242",
+        "name": "Hot Spring Fountain Water"
+    },
+    {
+        "id": "2243",
+        "name": "Hot Spring Sulfur"
+    },
+    {
+        "id": "2244",
+        "name": "Herb of Life"
+    },
+    {
+        "id": "2245",
+        "name": "Herb of Mana"
+    },
+    {
+        "id": "2246",
+        "name": "Herb of Power"
+    },
+    {
+        "id": "2247",
+        "name": "Herb of Magic"
+    },
+    {
+        "id": "2248",
+        "name": "Bless of Fire"
+    },
+    {
+        "id": "2249",
+        "name": "Bless of Water"
+    },
+    {
+        "id": "2250",
+        "name": "Bless of Wind"
+    },
+    {
+        "id": "2251",
+        "name": "Bless of Earth"
+    },
+    {
+        "id": "2252",
+        "name": "Bless of Darkness"
+    },
+    {
+        "id": "2253",
+        "name": "Bless of Sacredness"
+    },
+    {
+        "id": "2254",
+        "name": "Crystal of Fire"
+    },
+    {
+        "id": "2255",
+        "name": "Crystal of Water"
+    },
+    {
+        "id": "2256",
+        "name": "Crystal of Wind"
+    },
+    {
+        "id": "2257",
+        "name": "Crystal of Earth"
+    },
+    {
+        "id": "2258",
+        "name": "Crystal of Darkness"
+    },
+    {
+        "id": "2259",
+        "name": "Crystal of Sacredness"
+    },
+    {
+        "id": "2260",
+        "name": "Key of Riddles"
+    },
+    {
+        "id": "2261",
+        "name": "Item - Hard Green Fish"
+    },
+    {
+        "id": "2262",
+        "name": "Item - Hard Jade Fish"
+    },
+    {
+        "id": "2263",
+        "name": "Item - Hard Blue Fish"
+    },
+    {
+        "id": "2264",
+        "name": "Item - Hard Yellow Fish"
+    },
+    {
+        "id": "2265",
+        "name": "Item - Hard Orange Fish"
+    },
+    {
+        "id": "2266",
+        "name": "Item - Hard Violet Fish"
+    },
+    {
+        "id": "2267",
+        "name": "Item - Hard Red Fish"
+    },
+    {
+        "id": "2268",
+        "name": "Item - Hard White Fish"
+    },
+    {
+        "id": "2269",
+        "name": "Item - Hard Black Fish"
+    },
+    {
+        "id": "2270",
+        "name": "Item - Adventurer Box"
+    },
+    {
+        "id": "2271",
+        "name": "Item - Hot Spring Fish"
+    },
+    {
+        "id": "2272",
+        "name": "Item - Fight Song Crystal"
+    },
+    {
+        "id": "2273",
+        "name": "Item - Red Devil Support Box"
+    },
+    {
+        "id": "2274",
+        "name": "Fisherman's Potion"
+    },
+    {
+        "id": "2275",
+        "name": "Fishing Potion"
+    },
+    {
+        "id": "2276",
+        "name": "Dewdrop of Destruction"
+    },
+    {
+        "id": "2277",
+        "name": "Event Gift Box"
+    },
+    {
+        "id": "2278",
+        "name": "Herb of Life"
+    },
+    {
+        "id": "2279",
+        "name": "Herb of Mana"
+    },
+    {
+        "id": "2280",
+        "name": "Herb of Power"
+    },
+    {
+        "id": "2281",
+        "name": "Herb of Magic"
+    },
+    {
+        "id": "2282",
+        "name": "Herb of Atk. Spd."
+    },
+    {
+        "id": "2283",
+        "name": "Herb of Casting Spd."
+    },
+    {
+        "id": "2284",
+        "name": "Herb of Critical Attack"
+    },
+    {
+        "id": "2285",
+        "name": "Herb of Speed"
+    },
+    {
+        "id": "2286",
+        "name": "Scroll: Recovery"
+    },
+    {
+        "id": "2287",
+        "name": "Elixir of Life"
+    },
+    {
+        "id": "2288",
+        "name": "Elixir of Mental Strength"
+    },
+    {
+        "id": "2289",
+        "name": "Elixir of CP"
+    },
+    {
+        "id": "2290",
+        "name": "Halloween Box"
+    },
+    {
+        "id": "2291",
+        "name": "Facelifting Potion"
+    },
+    {
+        "id": "2292",
+        "name": "Facelifting Potion"
+    },
+    {
+        "id": "2293",
+        "name": "Facelifting Potion"
+    },
+    {
+        "id": "2294",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2295",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2296",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2297",
+        "name": "Dye Potion"
+    },
+    {
+        "id": "2298",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2299",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2300",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2301",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2302",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2303",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2304",
+        "name": "Hair Style Change Potion"
+    },
+    {
+        "id": "2305",
+        "name": "Primeval Potion"
+    },
+    {
+        "id": "2306",
+        "name": "Primeval Crystals"
+    },
+    {
+        "id": "2307",
+        "name": "Remove Petrification Scroll"
+    },
+    {
+        "id": "2308",
+        "name": "Event Item"
+    },
+    {
+        "id": "2309",
+        "name": "Pig Chest"
+    },
+    {
+        "id": "2310",
+        "name": "Scroll of Guidance - Event Use"
+    },
+    {
+        "id": "2311",
+        "name": "Scroll of Death Whisper - Event Use"
+    },
+    {
+        "id": "2312",
+        "name": "Scroll of Focus - Event Use"
+    },
+    {
+        "id": "2313",
+        "name": "Scroll of Acumen - Event Use"
+    },
+    {
+        "id": "2314",
+        "name": "Scroll of Haste - Event Use"
+    },
+    {
+        "id": "2315",
+        "name": "Scroll of Agility - Event Use"
+    },
+    {
+        "id": "2316",
+        "name": "Scroll of Empower - Event Use"
+    },
+    {
+        "id": "2317",
+        "name": "Scroll of Might - Event Use"
+    },
+    {
+        "id": "2318",
+        "name": "Scroll of Wind Walk - Event Use"
+    },
+    {
+        "id": "2319",
+        "name": "Scroll of Shield - Event Use"
+    },
+    {
+        "id": "2320",
+        "name": "Blessed Scroll of Escape - Event Use"
+    },
+    {
+        "id": "2321",
+        "name": "Blessed Scroll of Resurrection - Event Use"
+    },
+    {
+        "id": "2322",
+        "name": "Chest Key - For Events Only"
+    },
+    {
+        "id": "2323",
+        "name": "Red Sage's Stone"
+    },
+    {
+        "id": "2324",
+        "name": "Blue Sage's Stone"
+    },
+    {
+        "id": "2325",
+        "name": "Orange Sage's Stone"
+    },
+    {
+        "id": "2326",
+        "name": "Black Sage's Stone"
+    },
+    {
+        "id": "2327",
+        "name": "White Sage's Stone"
+    },
+    {
+        "id": "2328",
+        "name": "Green Sage's Stone"
+    },
+    {
+        "id": "3001",
+        "name": "int_1"
+    },
+    {
+        "id": "3002",
+        "name": "int_2"
+    },
+    {
+        "id": "3003",
+        "name": "str_2"
+    },
+    {
+        "id": "3004",
+        "name": "maxmp_5"
+    },
+    {
+        "id": "3005",
+        "name": "Bleed"
+    },
+    {
+        "id": "3006",
+        "name": "Equip Set Items"
+    },
+    {
+        "id": "3007",
+        "name": "Special Ability: Guidance"
+    },
+    {
+        "id": "3008",
+        "name": "Special Ability: Guidance"
+    },
+    {
+        "id": "3009",
+        "name": "Special Ability: Evasion"
+    },
+    {
+        "id": "3010",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3011",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3012",
+        "name": "Special Ability: Anger"
+    },
+    {
+        "id": "3013",
+        "name": "Special Ability: Health"
+    },
+    {
+        "id": "3014",
+        "name": "Special Ability: Mana Up"
+    },
+    {
+        "id": "3016",
+        "name": "Special Ability: Critical Stun"
+    },
+    {
+        "id": "3018",
+        "name": "Special Ability: Back Blow"
+    },
+    {
+        "id": "3019",
+        "name": "Special Ability: Back Blow"
+    },
+    {
+        "id": "3020",
+        "name": "Special Ability: Critical Bleed"
+    },
+    {
+        "id": "3021",
+        "name": "Special Ability: Critical Bleed"
+    },
+    {
+        "id": "3022",
+        "name": "Special Ability: Critical Drain"
+    },
+    {
+        "id": "3023",
+        "name": "Special Ability: Critical Damage"
+    },
+    {
+        "id": "3024",
+        "name": "Special Ability: Critical Poison"
+    },
+    {
+        "id": "3025",
+        "name": "Special Ability: Critical Anger"
+    },
+    {
+        "id": "3026",
+        "name": "Special Ability: Critical Anger"
+    },
+    {
+        "id": "3027",
+        "name": "Special Ability: Rsk. Focus"
+    },
+    {
+        "id": "3028",
+        "name": "Special Ability: Rsk. Evasion"
+    },
+    {
+        "id": "3029",
+        "name": "Special Ability: Rsk. Evasion"
+    },
+    {
+        "id": "3030",
+        "name": "Special Ability: Rsk. Evasion"
+    },
+    {
+        "id": "3031",
+        "name": "Special Ability: Rsk. Evasion"
+    },
+    {
+        "id": "3032",
+        "name": "Special Ability: Rsk. Haste"
+    },
+    {
+        "id": "3033",
+        "name": "Special Ability: Rsk. Haste"
+    },
+    {
+        "id": "3034",
+        "name": "Special Ability: Rsk. Haste"
+    },
+    {
+        "id": "3035",
+        "name": "Special Ability: Mighty Mortal"
+    },
+    {
+        "id": "3036",
+        "name": "Special Ability: Haste"
+    },
+    {
+        "id": "3037",
+        "name": "Special Ability: Haste"
+    },
+    {
+        "id": "3038",
+        "name": "Special Ability: Haste"
+    },
+    {
+        "id": "3039",
+        "name": "Special Ability: Critical Drain"
+    },
+    {
+        "id": "3040",
+        "name": "Special Ability: Critical Poison"
+    },
+    {
+        "id": "3041",
+        "name": "Special Ability: Critical Poison"
+    },
+    {
+        "id": "3042",
+        "name": "Special Ability: Critical Damage"
+    },
+    {
+        "id": "3043",
+        "name": "Special Ability: Critical Damage"
+    },
+    {
+        "id": "3044",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3045",
+        "name": "Special Ability: Haste"
+    },
+    {
+        "id": "3046",
+        "name": "Special Ability: Guidance"
+    },
+    {
+        "id": "3047",
+        "name": "Special Ability: Acumen"
+    },
+    {
+        "id": "3048",
+        "name": "Special Ability: Conversion"
+    },
+    {
+        "id": "3049",
+        "name": "Special Ability: Increase Critical"
+    },
+    {
+        "id": "3050",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3051",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3052",
+        "name": "Special Ability: Critical Bleed"
+    },
+    {
+        "id": "3053",
+        "name": "Special Ability: Critical Bleed"
+    },
+    {
+        "id": "3054",
+        "name": "Special Ability: Critical Bleed"
+    },
+    {
+        "id": "3055",
+        "name": "Special Ability: Critical Bleed"
+    },
+    {
+        "id": "3056",
+        "name": "Special Ability: Rsk. Haste"
+    },
+    {
+        "id": "3057",
+        "name": "Special Ability: Anger"
+    },
+    {
+        "id": "3058",
+        "name": "Special Ability: Anger"
+    },
+    {
+        "id": "3059",
+        "name": "Special Ability: Critical Drain"
+    },
+    {
+        "id": "3060",
+        "name": "Special Ability: Critical Drain"
+    },
+    {
+        "id": "3061",
+        "name": "Special Ability: Critical Poison"
+    },
+    {
+        "id": "3062",
+        "name": "Special Ability: Critical Poison"
+    },
+    {
+        "id": "3063",
+        "name": "Special Ability: Back Blow"
+    },
+    {
+        "id": "3064",
+        "name": "Special Ability: Guidance"
+    },
+    {
+        "id": "3065",
+        "name": "Special Ability: Guidance"
+    },
+    {
+        "id": "3066",
+        "name": "Special Ability: Critical Damage"
+    },
+    {
+        "id": "3067",
+        "name": "Special Ability: Critical Damage"
+    },
+    {
+        "id": "3068",
+        "name": "Special Ability: Haste"
+    },
+    {
+        "id": "3069",
+        "name": "Special Ability: Risky Evasion"
+    },
+    {
+        "id": "3070",
+        "name": "Special Ability: Critical Stun"
+    },
+    {
+        "id": "3071",
+        "name": "Special Ability: Rsk. Focus"
+    },
+    {
+        "id": "3072",
+        "name": "Special Ability: Empower"
+    },
+    {
+        "id": "3073",
+        "name": "Special Ability: Magic Power"
+    },
+    {
+        "id": "3074",
+        "name": "Special Ability: Magic Silence"
+    },
+    {
+        "id": "3075",
+        "name": "Special Ability: Magic Paralyze"
+    },
+    {
+        "id": "3076",
+        "name": "Special Ability: Empower"
+    },
+    {
+        "id": "3077",
+        "name": "Special Ability: Magic Power"
+    },
+    {
+        "id": "3078",
+        "name": "Special Ability: Magic Silence"
+    },
+    {
+        "id": "3079",
+        "name": "Special Ability: Magic Paralyze"
+    },
+    {
+        "id": "3080",
+        "name": "Item Skill: Aggression"
+    },
+    {
+        "id": "3081",
+        "name": "Item Skill: Charm"
+    },
+    {
+        "id": "3082",
+        "name": "Item Skill: Mana Burn"
+    },
+    {
+        "id": "3083",
+        "name": "Item Skill: Slow"
+    },
+    {
+        "id": "3084",
+        "name": "Item Skill: Winter"
+    },
+    {
+        "id": "3085",
+        "name": "Item Skill: Stun"
+    },
+    {
+        "id": "3086",
+        "name": "Item Skill: Hold"
+    },
+    {
+        "id": "3087",
+        "name": "Item Skill: Sleep"
+    },
+    {
+        "id": "3088",
+        "name": "Item Skill: Paralyze"
+    },
+    {
+        "id": "3089",
+        "name": "Item Skill: Medusa"
+    },
+    {
+        "id": "3090",
+        "name": "Item Skill: Fear"
+    },
+    {
+        "id": "3091",
+        "name": "Item Skill: Poison"
+    },
+    {
+        "id": "3092",
+        "name": "Item Skill: Bleed"
+    },
+    {
+        "id": "3093",
+        "name": "Item Skill: Silence"
+    },
+    {
+        "id": "3094",
+        "name": "Item Skill: Doom"
+    },
+    {
+        "id": "3095",
+        "name": "Item Skill: Mana Burn"
+    },
+    {
+        "id": "3096",
+        "name": "Item Skill: Slow"
+    },
+    {
+        "id": "3097",
+        "name": "Item Skill: Winter"
+    },
+    {
+        "id": "3098",
+        "name": "Item Skill: Stun"
+    },
+    {
+        "id": "3099",
+        "name": "Item Skill: Hold"
+    },
+    {
+        "id": "3100",
+        "name": "Item Skill: Sleep"
+    },
+    {
+        "id": "3101",
+        "name": "Item Skill: Paralyze"
+    },
+    {
+        "id": "3102",
+        "name": "Item Skill: Medusa"
+    },
+    {
+        "id": "3103",
+        "name": "Item Skill: Fear"
+    },
+    {
+        "id": "3104",
+        "name": "Item Skill: Poison"
+    },
+    {
+        "id": "3105",
+        "name": "Item Skill: Bleed"
+    },
+    {
+        "id": "3106",
+        "name": "Item Skill: Silence"
+    },
+    {
+        "id": "3107",
+        "name": "Item Skill: Doom"
+    },
+    {
+        "id": "3108",
+        "name": "Item Skill: Aggression Up"
+    },
+    {
+        "id": "3109",
+        "name": "Item Skill: Aggression Down"
+    },
+    {
+        "id": "3110",
+        "name": "Item Skill: Mana Burn"
+    },
+    {
+        "id": "3111",
+        "name": "Item Skill: Slow"
+    },
+    {
+        "id": "3112",
+        "name": "Item Skill: Winter"
+    },
+    {
+        "id": "3113",
+        "name": "Item Skill: Stun"
+    },
+    {
+        "id": "3114",
+        "name": "Item Skill: Hold"
+    },
+    {
+        "id": "3115",
+        "name": "Item Skill: Sleep"
+    },
+    {
+        "id": "3116",
+        "name": "Item Skill: Paralyze"
+    },
+    {
+        "id": "3117",
+        "name": "Item Skill: Medusa"
+    },
+    {
+        "id": "3118",
+        "name": "Item Skill: Fear"
+    },
+    {
+        "id": "3119",
+        "name": "Item Skill: Poison"
+    },
+    {
+        "id": "3120",
+        "name": "Item Skill: Bleed"
+    },
+    {
+        "id": "3121",
+        "name": "Item Skill: Silence"
+    },
+    {
+        "id": "3122",
+        "name": "Item Skill: Doom"
+    },
+    {
+        "id": "3123",
+        "name": "Item Skill: Heal"
+    },
+    {
+        "id": "3124",
+        "name": "Item Skill: Blessed Body"
+    },
+    {
+        "id": "3125",
+        "name": "Item Skill: Battle Roar"
+    },
+    {
+        "id": "3126",
+        "name": "Item Skill: Prayer"
+    },
+    {
+        "id": "3127",
+        "name": "Item Skill: Recharge"
+    },
+    {
+        "id": "3128",
+        "name": "Item Skill: Blessed Soul"
+    },
+    {
+        "id": "3129",
+        "name": "Item Skill: Mana Gain"
+    },
+    {
+        "id": "3130",
+        "name": "Item Skill: Ritual"
+    },
+    {
+        "id": "3131",
+        "name": "Item Skill: Cheer"
+    },
+    {
+        "id": "3132",
+        "name": "Item Skill: Might"
+    },
+    {
+        "id": "3133",
+        "name": "Item Skill: Empower"
+    },
+    {
+        "id": "3134",
+        "name": "Item Skill: Duel Might"
+    },
+    {
+        "id": "3135",
+        "name": "Item Skill: Shield"
+    },
+    {
+        "id": "3136",
+        "name": "Item Skill: Magic Barrier"
+    },
+    {
+        "id": "3137",
+        "name": "Item Skill: Duel Weakness"
+    },
+    {
+        "id": "3138",
+        "name": "Item Skill: Heal Empower"
+    },
+    {
+        "id": "3139",
+        "name": "Item Skill: Agility"
+    },
+    {
+        "id": "3140",
+        "name": "Item Skill: Guidance"
+    },
+    {
+        "id": "3141",
+        "name": "Item Skill: Focus"
+    },
+    {
+        "id": "3142",
+        "name": "Item Skill: Wild Magic"
+    },
+    {
+        "id": "3143",
+        "name": "Item Skill: Kiss of Eva"
+    },
+    {
+        "id": "3144",
+        "name": "Item Skill: Acrobatics"
+    },
+    {
+        "id": "3145",
+        "name": "Item Skill: Iron Body"
+    },
+    {
+        "id": "3146",
+        "name": "Item Skill: Recall"
+    },
+    {
+        "id": "3147",
+        "name": "Item Skill: Recall"
+    },
+    {
+        "id": "3148",
+        "name": "Item Skill: Vampiric Rage"
+    },
+    {
+        "id": "3149",
+        "name": "Item Skill: Aggression"
+    },
+    {
+        "id": "3150",
+        "name": "Item Skill: Charm"
+    },
+    {
+        "id": "3151",
+        "name": "Item Skill: Peace"
+    },
+    {
+        "id": "3152",
+        "name": "Item Skill: Trick"
+    },
+    {
+        "id": "3153",
+        "name": "Item Skill: Vampiric Touch"
+    },
+    {
+        "id": "3154",
+        "name": "Item Skill: Mana Burn"
+    },
+    {
+        "id": "3155",
+        "name": "Item Skill: Unlock"
+    },
+    {
+        "id": "3156",
+        "name": "Item Skill: Firework"
+    },
+    {
+        "id": "3157",
+        "name": "Item Skill: Large Firework"
+    },
+    {
+        "id": "3158",
+        "name": "Item Skill: Lesser Celestial Shield"
+    },
+    {
+        "id": "3159",
+        "name": "Item Skill: Stealth"
+    },
+    {
+        "id": "3160",
+        "name": "Item Skill: Resurrection"
+    },
+    {
+        "id": "3161",
+        "name": "Item Skill: Skill Clarity"
+    },
+    {
+        "id": "3162",
+        "name": "Item Skill: Spell Clarity"
+    },
+    {
+        "id": "3163",
+        "name": "Item Skill: Music Clarity"
+    },
+    {
+        "id": "3164",
+        "name": "Item Skill: Clarity"
+    },
+    {
+        "id": "3165",
+        "name": "Item Skill: Prominence"
+    },
+    {
+        "id": "3167",
+        "name": "Item Skill: Hydro Blast"
+    },
+    {
+        "id": "3168",
+        "name": "Item Skill: Hurricane"
+    },
+    {
+        "id": "3169",
+        "name": "Item Skill: Stone"
+    },
+    {
+        "id": "3170",
+        "name": "Item Skill: Solar Flare"
+    },
+    {
+        "id": "3171",
+        "name": "Item Skill: Shadow Flare"
+    },
+    {
+        "id": "3172",
+        "name": "Item Skill: Aura Flare"
+    },
+    {
+        "id": "3173",
+        "name": "Item Skill: Prominence"
+    },
+    {
+        "id": "3174",
+        "name": "Item Skill: Hydro Blast"
+    },
+    {
+        "id": "3175",
+        "name": "Item Skill: Hurricane"
+    },
+    {
+        "id": "3176",
+        "name": "Item Skill: Stone"
+    },
+    {
+        "id": "3177",
+        "name": "Item Skill: Solar Flare"
+    },
+    {
+        "id": "3178",
+        "name": "Item Skill: Shadow Flare"
+    },
+    {
+        "id": "3179",
+        "name": "Item Skill: Aura Flare"
+    },
+    {
+        "id": "3180",
+        "name": "Item Skill: Prominence"
+    },
+    {
+        "id": "3181",
+        "name": "Item Skill: Hydro Blast"
+    },
+    {
+        "id": "3182",
+        "name": "Item Skill: Hurricane"
+    },
+    {
+        "id": "3183",
+        "name": "Item Skill: Stone"
+    },
+    {
+        "id": "3184",
+        "name": "Item Skill: Solar Flare"
+    },
+    {
+        "id": "3185",
+        "name": "Item Skill: Shadow Flare"
+    },
+    {
+        "id": "3186",
+        "name": "Item Skill: Aura Flare"
+    },
+    {
+        "id": "3187",
+        "name": "Item Skill: Slow"
+    },
+    {
+        "id": "3188",
+        "name": "Item Skill: Winter"
+    },
+    {
+        "id": "3189",
+        "name": "Item Skill: Stun"
+    },
+    {
+        "id": "3190",
+        "name": "Item Skill: Hold"
+    },
+    {
+        "id": "3191",
+        "name": "Item Skill: Sleep"
+    },
+    {
+        "id": "3192",
+        "name": "Item Skill: Paralyze"
+    },
+    {
+        "id": "3193",
+        "name": "Item Skill: Medusa"
+    },
+    {
+        "id": "3194",
+        "name": "Item Skill: Fear"
+    },
+    {
+        "id": "3195",
+        "name": "Item Skill: Poison"
+    },
+    {
+        "id": "3196",
+        "name": "Item Skill: Bleed"
+    },
+    {
+        "id": "3197",
+        "name": "Item Skill: Silence"
+    },
+    {
+        "id": "3198",
+        "name": "Item Skill: Doom"
+    },
+    {
+        "id": "3199",
+        "name": "Item Skill: Skill Refresh"
+    },
+    {
+        "id": "3200",
+        "name": "Item Skill: Spell Refresh"
+    },
+    {
+        "id": "3201",
+        "name": "Item Skill: Music Refresh"
+    },
+    {
+        "id": "3202",
+        "name": "Item Skill: Refresh"
+    },
+    {
+        "id": "3203",
+        "name": "Item Skill: Mystery Skill"
+    },
+    {
+        "id": "3204",
+        "name": "Item Skill: Reflect Damage"
+    },
+    {
+        "id": "3205",
+        "name": "Item Skill: Party Recall"
+    },
+    {
+        "id": "3206",
+        "name": "Item Skill: Music"
+    },
+    {
+        "id": "3207",
+        "name": "Item Skill: Heal"
+    },
+    {
+        "id": "3208",
+        "name": "Item Skill: Blessed Body"
+    },
+    {
+        "id": "3209",
+        "name": "Item Skill: Prayer"
+    },
+    {
+        "id": "3210",
+        "name": "Item Skill: Recharge"
+    },
+    {
+        "id": "3211",
+        "name": "Item Skill: Blessed Soul"
+    },
+    {
+        "id": "3212",
+        "name": "Item Skill: Mana Gain"
+    },
+    {
+        "id": "3213",
+        "name": "Item Skill: Ritual"
+    },
+    {
+        "id": "3214",
+        "name": "Item Skill: Cheer"
+    },
+    {
+        "id": "3215",
+        "name": "Item Skill: Might"
+    },
+    {
+        "id": "3216",
+        "name": "Item Skill: Empower"
+    },
+    {
+        "id": "3217",
+        "name": "Item Skill: Duel Might"
+    },
+    {
+        "id": "3218",
+        "name": "Item Skill: Shield"
+    },
+    {
+        "id": "3219",
+        "name": "Item Skill: Magic Barrier"
+    },
+    {
+        "id": "3220",
+        "name": "Item Skill: Duel Weakness"
+    },
+    {
+        "id": "3221",
+        "name": "Item Skill: Agility"
+    },
+    {
+        "id": "3222",
+        "name": "Item Skill: Guidance"
+    },
+    {
+        "id": "3223",
+        "name": "Item Skill: Focus"
+    },
+    {
+        "id": "3224",
+        "name": "Item Skill: Wild Magic"
+    },
+    {
+        "id": "3225",
+        "name": "Item Skill: Charm"
+    },
+    {
+        "id": "3226",
+        "name": "Item Skill: Slow"
+    },
+    {
+        "id": "3227",
+        "name": "Item Skill: Winter"
+    },
+    {
+        "id": "3228",
+        "name": "Item Skill: Stun"
+    },
+    {
+        "id": "3229",
+        "name": "Item Skill: Hold"
+    },
+    {
+        "id": "3230",
+        "name": "Item Skill: Sleep"
+    },
+    {
+        "id": "3231",
+        "name": "Item Skill: Paralyze"
+    },
+    {
+        "id": "3232",
+        "name": "Item Skill: Medusa"
+    },
+    {
+        "id": "3233",
+        "name": "Item Skill: Fear"
+    },
+    {
+        "id": "3234",
+        "name": "Item Skill: Poison"
+    },
+    {
+        "id": "3235",
+        "name": "Item Skill: Bleed"
+    },
+    {
+        "id": "3236",
+        "name": "Item Skill: Silence"
+    },
+    {
+        "id": "3237",
+        "name": "Item Skill: Doom"
+    },
+    {
+        "id": "3238",
+        "name": "Item Skill: Prayer"
+    },
+    {
+        "id": "3239",
+        "name": "Item Skill: Mana Gain"
+    },
+    {
+        "id": "3240",
+        "name": "Item Skill: Might"
+    },
+    {
+        "id": "3241",
+        "name": "Item Skill: Empower"
+    },
+    {
+        "id": "3243",
+        "name": "Item Skill: Duel Might"
+    },
+    {
+        "id": "3244",
+        "name": "Item Skill: Shield"
+    },
+    {
+        "id": "3245",
+        "name": "Item Skill: Magic Barrier"
+    },
+    {
+        "id": "3246",
+        "name": "Item Skill: Heal Empower"
+    },
+    {
+        "id": "3247",
+        "name": "Item Skill: Agility"
+    },
+    {
+        "id": "3248",
+        "name": "Item Skill: Guidance"
+    },
+    {
+        "id": "3249",
+        "name": "Item Skill: Focus"
+    },
+    {
+        "id": "3250",
+        "name": "Item Skill: Wild Magic"
+    },
+    {
+        "id": "3251",
+        "name": "Item Skill: Weight Limit"
+    },
+    {
+        "id": "3252",
+        "name": "Item Skill: Kiss of Eva"
+    },
+    {
+        "id": "3253",
+        "name": "Item Skill: Acrobatics"
+    },
+    {
+        "id": "3254",
+        "name": "Item Skill: Iron Body"
+    },
+    {
+        "id": "3255",
+        "name": "Item Skill: Skill Clarity"
+    },
+    {
+        "id": "3256",
+        "name": "Item Skill: Spell Clarity"
+    },
+    {
+        "id": "3257",
+        "name": "Item Skill: Music Clarity"
+    },
+    {
+        "id": "3258",
+        "name": "Item Skill: Clarity"
+    },
+    {
+        "id": "3259",
+        "name": "Item Skill: Reflect Damage"
+    },
+    {
+        "id": "3260",
+        "name": "Forgiveness"
+    },
+    {
+        "id": "3261",
+        "name": "Forgiveness"
+    },
+    {
+        "id": "3262",
+        "name": "Pardon"
+    },
+    {
+        "id": "3263",
+        "name": "Blessed Resurrection"
+    },
+    {
+        "id": "3264",
+        "name": "Blessed Escape"
+    },
+    {
+        "id": "3265",
+        "name": "Mysterious Ability"
+    },
+    {
+        "id": "3266",
+        "name": "Large Fireworks Ability"
+    },
+    {
+        "id": "3500",
+        "name": "Wooden Set"
+    },
+    {
+        "id": "3501",
+        "name": "Devotion Set"
+    },
+    {
+        "id": "3502",
+        "name": "Mithril Heavy Armor Set"
+    },
+    {
+        "id": "3503",
+        "name": "Reinforced Leather Set"
+    },
+    {
+        "id": "3504",
+        "name": "Knowledge Set"
+    },
+    {
+        "id": "3505",
+        "name": "Manticore Set"
+    },
+    {
+        "id": "3506",
+        "name": "Brigandine Set"
+    },
+    {
+        "id": "3507",
+        "name": "Elven Mithril Set"
+    },
+    {
+        "id": "3508",
+        "name": "Mithril Light Armor Set"
+    },
+    {
+        "id": "3509",
+        "name": "Chain Mail Set"
+    },
+    {
+        "id": "3510",
+        "name": "Karmian Set"
+    },
+    {
+        "id": "3511",
+        "name": "Plated Leather Set"
+    },
+    {
+        "id": "3512",
+        "name": "Composite Heavy Armor Set"
+    },
+    {
+        "id": "3513",
+        "name": "Demon's Set"
+    },
+    {
+        "id": "3514",
+        "name": "Theca Leather Light Armor Set"
+    },
+    {
+        "id": "3515",
+        "name": "Drake Leather Set"
+    },
+    {
+        "id": "3516",
+        "name": "Full Plate Set"
+    },
+    {
+        "id": "3517",
+        "name": "Divine Set"
+    },
+    {
+        "id": "3518",
+        "name": "Zubei's Heavy Armor Set"
+    },
+    {
+        "id": "3519",
+        "name": "Avadon Breastplate Heavy Armor Set"
+    },
+    {
+        "id": "3520",
+        "name": "Zubei's Leather Shirt Light Armor Set"
+    },
+    {
+        "id": "3521",
+        "name": "Avadon Light Armor Set"
+    },
+    {
+        "id": "3522",
+        "name": "Tunic of Zubei Robe Set"
+    },
+    {
+        "id": "3523",
+        "name": "Avadon Robe Set"
+    },
+    {
+        "id": "3524",
+        "name": "Blue Wolf Heavy Armor Set"
+    },
+    {
+        "id": "3525",
+        "name": "Doom Heavy Armor Set"
+    },
+    {
+        "id": "3526",
+        "name": "Blue Wolf Light Armor Set"
+    },
+    {
+        "id": "3527",
+        "name": "Doom Light Armor Set"
+    },
+    {
+        "id": "3528",
+        "name": "Blue Wolf Robe Set"
+    },
+    {
+        "id": "3529",
+        "name": "Doom Robe Set"
+    },
+    {
+        "id": "3530",
+        "name": "Dark Crystal Breastplate Heavy Armor Set"
+    },
+    {
+        "id": "3531",
+        "name": "Tallum Heavy Armor Set"
+    },
+    {
+        "id": "3532",
+        "name": "Dark Crystal Light Armor Set"
+    },
+    {
+        "id": "3533",
+        "name": "Tallum Light Armor Set"
+    },
+    {
+        "id": "3534",
+        "name": "Tallum Robe Set"
+    },
+    {
+        "id": "3535",
+        "name": "Dark Crystal Robe Set"
+    },
+    {
+        "id": "3536",
+        "name": "Nightmare Heavy Armor Set"
+    },
+    {
+        "id": "3537",
+        "name": "Majestic Heavy Armor Set"
+    },
+    {
+        "id": "3538",
+        "name": "Nightmarish Leather Light Armor Set"
+    },
+    {
+        "id": "3539",
+        "name": "Majestic Light Armor Set"
+    },
+    {
+        "id": "3540",
+        "name": "Nightmare Robe Set"
+    },
+    {
+        "id": "3541",
+        "name": "Majestic Robe Set"
+    },
+    {
+        "id": "3542",
+        "name": "Special Ability: Critical Damage"
+    },
+    {
+        "id": "3543",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3544",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3545",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3546",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3547",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3548",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3549",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3550",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3551",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3552",
+        "name": "Special Ability: PvP Damage"
+    },
+    {
+        "id": "3553",
+        "name": "Imperial Crusader Heavy Armor Set"
+    },
+    {
+        "id": "3554",
+        "name": "Equipped with Shield"
+    },
+    {
+        "id": "3555",
+        "name": "Draconic Light Armor Set"
+    },
+    {
+        "id": "3556",
+        "name": "Major Arcana Robe Set"
+    },
+    {
+        "id": "3557",
+        "name": "Necklace of Valakas"
+    },
+    {
+        "id": "3558",
+        "name": "Earring of Antharas"
+    },
+    {
+        "id": "3559",
+        "name": "Earring of Zaken"
+    },
+    {
+        "id": "3560",
+        "name": "Earring of Orfen"
+    },
+    {
+        "id": "3561",
+        "name": "Ring of Baium"
+    },
+    {
+        "id": "3562",
+        "name": "Ring of Ant Queen"
+    },
+    {
+        "id": "3563",
+        "name": "Ring of Core"
+    },
+    {
+        "id": "3564",
+        "name": "Special Ability: Haste"
+    },
+    {
+        "id": "3565",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3566",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3567",
+        "name": "Special Ability: Focus"
+    },
+    {
+        "id": "3568",
+        "name": "Special Ability: HP Drain"
+    },
+    {
+        "id": "3569",
+        "name": "Special Ability: HP Regeneration"
+    },
+    {
+        "id": "3570",
+        "name": "Special Ability: Robust Health"
+    },
+    {
+        "id": "3571",
+        "name": "Special Ability: Crt. Stun"
+    },
+    {
+        "id": "3572",
+        "name": "Special Ability: Crt. Damage"
+    },
+    {
+        "id": "3573",
+        "name": "Special Ability: Guidance"
+    },
+    {
+        "id": "3574",
+        "name": "Special Ability: Crt. Slow"
+    },
+    {
+        "id": "3575",
+        "name": "Special Ability: Empower Option"
+    },
+    {
+        "id": "3576",
+        "name": "Special Ability: MP Regeneration"
+    },
+    {
+        "id": "3577",
+        "name": "Special Ability: Magic Hold"
+    },
+    {
+        "id": "3578",
+        "name": "Special Ability: Infinity Blade"
+    },
+    {
+        "id": "3579",
+        "name": "Decrease P. Def."
+    },
+    {
+        "id": "3580",
+        "name": "Special Ability: Infinity Axe"
+    },
+    {
+        "id": "3581",
+        "name": "Discord"
+    },
+    {
+        "id": "3582",
+        "name": "Special Ability: Infinity Cleaver"
+    },
+    {
+        "id": "3583",
+        "name": "Special Ability: Infinity Crusher"
+    },
+    {
+        "id": "3584",
+        "name": "Shock"
+    },
+    {
+        "id": "3585",
+        "name": "Special Ability: Infinity Wing"
+    },
+    {
+        "id": "3586",
+        "name": "Physical Skill Restraint"
+    },
+    {
+        "id": "3587",
+        "name": "Special Ability: Infinity Fang"
+    },
+    {
+        "id": "3588",
+        "name": "Shock"
+    },
+    {
+        "id": "3589",
+        "name": "Special Ability: Infinity Stinger"
+    },
+    {
+        "id": "3590",
+        "name": "Silence"
+    },
+    {
+        "id": "3591",
+        "name": "Special Ability: Infinity Spear"
+    },
+    {
+        "id": "3592",
+        "name": "Dispell"
+    },
+    {
+        "id": "3593",
+        "name": "Special Ability: Infinity Bow"
+    },
+    {
+        "id": "3594",
+        "name": "Slow"
+    },
+    {
+        "id": "3595",
+        "name": "Special Ability: Infinity Scepter"
+    },
+    {
+        "id": "3596",
+        "name": "Full Recover"
+    },
+    {
+        "id": "3597",
+        "name": "Special Ability: Infinity Rod"
+    },
+    {
+        "id": "3598",
+        "name": "Full Recover"
+    },
+    {
+        "id": "3599",
+        "name": "Polearm Multi-attack"
+    },
+    {
+        "id": "3600",
+        "name": "Special Ability: Anger"
+    },
+    {
+        "id": "3601",
+        "name": "Special Ability: Haste"
+    },
+    {
+        "id": "3602",
+        "name": "Special Ability: Guidance"
+    },
+    {
+        "id": "3603",
+        "name": "Demonic Sword Zariche"
+    },
+    {
+        "id": "3604",
+        "name": "Frintezza's Necklace"
+    },
+    {
+        "id": "3605",
+        "name": "Clan Oath Heavy Armor Set"
+    },
+    {
+        "id": "3606",
+        "name": "Clan Oath Light Armor Set"
+    },
+    {
+        "id": "3607",
+        "name": "Clan Oath Robe Set"
+    },
+    {
+        "id": "3608",
+        "name": "Apella Heavy Armor Set"
+    },
+    {
+        "id": "3609",
+        "name": "Apella Light Armor Set"
+    },
+    {
+        "id": "3610",
+        "name": "Apella Robe Set"
+    },
+    {
+        "id": "3611",
+        "name": "Enchant Heavy Armor (Grade D)"
+    },
+    {
+        "id": "3612",
+        "name": "Enchant Light Armor (Grade D)"
+    },
+    {
+        "id": "3613",
+        "name": "Enchant Robe (Grade D)"
+    },
+    {
+        "id": "3614",
+        "name": "Enchant Heavy Armor (Grade C)"
+    },
+    {
+        "id": "3615",
+        "name": "Enchant Light Armor (Grade C)"
+    },
+    {
+        "id": "3616",
+        "name": "Enchant Robe (Grade C)"
+    },
+    {
+        "id": "3617",
+        "name": "Enchant Heavy Armor (Grade B)"
+    },
+    {
+        "id": "3618",
+        "name": "Enchant Light Armor (Grade B)"
+    },
+    {
+        "id": "3619",
+        "name": "Enchant Robe (Grade B)"
+    },
+    {
+        "id": "3620",
+        "name": "Enchant Heavy Armor (Grade A)"
+    },
+    {
+        "id": "3621",
+        "name": "Enchant Light Armor (Grade A)"
+    },
+    {
+        "id": "3622",
+        "name": "Enchant Robe (Grade A)"
+    },
+    {
+        "id": "3623",
+        "name": "Enchant Heavy Armor (Grade S)"
+    },
+    {
+        "id": "3624",
+        "name": "Enchant Light Armor (Grade S)"
+    },
+    {
+        "id": "3625",
+        "name": "Enchant Robe (Grade S)"
+    },
+    {
+        "id": "3626",
+        "name": "Kabokula"
+    },
+    {
+        "id": "3627",
+        "name": "Tapirawa"
+    },
+    {
+        "id": "3628",
+        "name": "Shabonoba"
+    },
+    {
+        "id": "3629",
+        "name": "Blood Sword Akamanah"
+    },
+    {
+        "id": "3630",
+        "name": "Void Burst"
+    },
+    {
+        "id": "3631",
+        "name": "Void Flow"
+    },
+    {
+        "id": "3632",
+        "name": "Clan Gate"
+    },
+    {
+        "id": "3633",
+        "name": "Residential Shock Immunity"
+    },
+    {
+        "id": "4001",
+        "name": "NPC Wind Strike"
+    },
+    {
+        "id": "4002",
+        "name": "NPC HP Drain"
+    },
+    {
+        "id": "4003",
+        "name": "Golem Body"
+    },
+    {
+        "id": "4004",
+        "name": "Fragile Skull"
+    },
+    {
+        "id": "4005",
+        "name": "Floating Target"
+    },
+    {
+        "id": "4006",
+        "name": "Blazing Log"
+    },
+    {
+        "id": "4007",
+        "name": "Immortal Life"
+    },
+    {
+        "id": "4008",
+        "name": "Insect Skin"
+    },
+    {
+        "id": "4009",
+        "name": "Resist Fire"
+    },
+    {
+        "id": "4010",
+        "name": "Resist Water"
+    },
+    {
+        "id": "4011",
+        "name": "Resist Wind"
+    },
+    {
+        "id": "4012",
+        "name": "Resist Earth"
+    },
+    {
+        "id": "4013",
+        "name": "Resistance To Fire, Vulnerable To Water"
+    },
+    {
+        "id": "4014",
+        "name": "Resistance To Water, Vulnerable To Fire"
+    },
+    {
+        "id": "4015",
+        "name": "Resistance To Wind, Vulnerable To Earth"
+    },
+    {
+        "id": "4016",
+        "name": "Resistance To Earth, Vulnerable To Wind"
+    },
+    {
+        "id": "4017",
+        "name": "Queen Ant Brandish"
+    },
+    {
+        "id": "4018",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4019",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4020",
+        "name": "Heal Queen Ant1"
+    },
+    {
+        "id": "4021",
+        "name": "Queen Ant"
+    },
+    {
+        "id": "4022",
+        "name": "Body Of Nurse Ant"
+    },
+    {
+        "id": "4023",
+        "name": "Body Of Royal Guard Ant"
+    },
+    {
+        "id": "4024",
+        "name": "Heal Queen Ant2"
+    },
+    {
+        "id": "4025",
+        "name": "Master Recharge"
+    },
+    {
+        "id": "4026",
+        "name": "Gludio Flame"
+    },
+    {
+        "id": "4027",
+        "name": "Gludio Heal"
+    },
+    {
+        "id": "4028",
+        "name": "NPC Might"
+    },
+    {
+        "id": "4029",
+        "name": "NPC Shield"
+    },
+    {
+        "id": "4030",
+        "name": "NPC Clan Might"
+    },
+    {
+        "id": "4031",
+        "name": "NPC Clan Aegis"
+    },
+    {
+        "id": "4032",
+        "name": "NPC Strike"
+    },
+    {
+        "id": "4033",
+        "name": "NPC Burn"
+    },
+    {
+        "id": "4034",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4035",
+        "name": "Poison"
+    },
+    {
+        "id": "4036",
+        "name": "Poison"
+    },
+    {
+        "id": "4037",
+        "name": "Decrease P.Atk"
+    },
+    {
+        "id": "4038",
+        "name": "Decrease Atk.Spd."
+    },
+    {
+        "id": "4039",
+        "name": "NPC MP Drain"
+    },
+    {
+        "id": "4040",
+        "name": "NPC Bow Attack"
+    },
+    {
+        "id": "4041",
+        "name": "Cruma Blaze"
+    },
+    {
+        "id": "4042",
+        "name": "Nurka Blaze"
+    },
+    {
+        "id": "4043",
+        "name": "Partisan Flame"
+    },
+    {
+        "id": "4044",
+        "name": "Partisan Heal"
+    },
+    {
+        "id": "4045",
+        "name": "Resist Full Magic Attack"
+    },
+    {
+        "id": "4046",
+        "name": "Sleep"
+    },
+    {
+        "id": "4047",
+        "name": "Hold"
+    },
+    {
+        "id": "4048",
+        "name": "NPC Dash"
+    },
+    {
+        "id": "4049",
+        "name": "Cubic Drain"
+    },
+    {
+        "id": "4050",
+        "name": "Cubic DD"
+    },
+    {
+        "id": "4051",
+        "name": "Cubic Heal"
+    },
+    {
+        "id": "4052",
+        "name": "Poison"
+    },
+    {
+        "id": "4053",
+        "name": "Decrease P.Atk"
+    },
+    {
+        "id": "4054",
+        "name": "Decrease P. Def"
+    },
+    {
+        "id": "4055",
+        "name": "Decrease Atk.Speed"
+    },
+    {
+        "id": "4056",
+        "name": "Immortal Attack"
+    },
+    {
+        "id": "4057",
+        "name": "Insect Weak Point"
+    },
+    {
+        "id": "4058",
+        "name": "Plant Weak Point"
+    },
+    {
+        "id": "4059",
+        "name": "Animal Weak Point"
+    },
+    {
+        "id": "4060",
+        "name": "Beast Weak Point"
+    },
+    {
+        "id": "4061",
+        "name": "Dragon Weak Point"
+    },
+    {
+        "id": "4062",
+        "name": "Orfen"
+    },
+    {
+        "id": "4063",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4064",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4065",
+        "name": "NPC Heal"
+    },
+    {
+        "id": "4066",
+        "name": "NPC Twister"
+    },
+    {
+        "id": "4067",
+        "name": "NPC Mortal Blow"
+    },
+    {
+        "id": "4068",
+        "name": "Mechanical Cannon"
+    },
+    {
+        "id": "4069",
+        "name": "NPC Curve Beam Cannon"
+    },
+    {
+        "id": "4070",
+        "name": "Decrease Atk. Spd."
+    },
+    {
+        "id": "4071",
+        "name": "Resist Archery"
+    },
+    {
+        "id": "4072",
+        "name": "Shock"
+    },
+    {
+        "id": "4073",
+        "name": "Shock"
+    },
+    {
+        "id": "4074",
+        "name": "NPC Haste"
+    },
+    {
+        "id": "4075",
+        "name": "Shock"
+    },
+    {
+        "id": "4076",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4077",
+        "name": "NPC Aura Burn"
+    },
+    {
+        "id": "4078",
+        "name": "NPC Flamestrike"
+    },
+    {
+        "id": "4079",
+        "name": "Siege Hammer"
+    },
+    {
+        "id": "4080",
+        "name": "Dark Heal"
+    },
+    {
+        "id": "4081",
+        "name": "Pretending to steal"
+    },
+    {
+        "id": "4082",
+        "name": "Poison of Death"
+    },
+    {
+        "id": "4083",
+        "name": "Die! You fool!"
+    },
+    {
+        "id": "4084",
+        "name": "Resist Physical Attack"
+    },
+    {
+        "id": "4085",
+        "name": "Critical Power"
+    },
+    {
+        "id": "4086",
+        "name": "Critical Chance"
+    },
+    {
+        "id": "4087",
+        "name": "NPC Blaze"
+    },
+    {
+        "id": "4088",
+        "name": "Bleed"
+    },
+    {
+        "id": "4089",
+        "name": "NPC Bear Spirit Totem"
+    },
+    {
+        "id": "4090",
+        "name": "NPC Wolf Spirit Totem"
+    },
+    {
+        "id": "4091",
+        "name": "NPC Ogre Spirit Totem"
+    },
+    {
+        "id": "4092",
+        "name": "NPC Puma Spirit Totem"
+    },
+    {
+        "id": "4093",
+        "name": "Evasion"
+    },
+    {
+        "id": "4094",
+        "name": "NPC Cancel Magic"
+    },
+    {
+        "id": "4095",
+        "name": "Damage Shield"
+    },
+    {
+        "id": "4096",
+        "name": "NPC Hawkeye"
+    },
+    {
+        "id": "4097",
+        "name": "NPC Chant of Life"
+    },
+    {
+        "id": "4098",
+        "name": "Magic Skill Block"
+    },
+    {
+        "id": "4099",
+        "name": "NPC Berserk"
+    },
+    {
+        "id": "4100",
+        "name": "NPC Prominence"
+    },
+    {
+        "id": "4101",
+        "name": "NPC Spinning Slash"
+    },
+    {
+        "id": "4102",
+        "name": "Surrender To Fire"
+    },
+    {
+        "id": "4103",
+        "name": "NPC Ultimate Evasion"
+    },
+    {
+        "id": "4104",
+        "name": "Flame"
+    },
+    {
+        "id": "4105",
+        "name": "NPC Straight Beam Cannon"
+    },
+    {
+        "id": "4106",
+        "name": "Antharas Shock"
+    },
+    {
+        "id": "4107",
+        "name": "Antharas Shock"
+    },
+    {
+        "id": "4108",
+        "name": "Antharas Terror"
+    },
+    {
+        "id": "4109",
+        "name": "Curse of Antharas"
+    },
+    {
+        "id": "4110",
+        "name": "Breath Attack"
+    },
+    {
+        "id": "4111",
+        "name": "Antharas Fossilization"
+    },
+    {
+        "id": "4112",
+        "name": "Ordinary Attack"
+    },
+    {
+        "id": "4113",
+        "name": "Animal doing ordinary attack"
+    },
+    {
+        "id": "4114",
+        "name": "Aden Flame"
+    },
+    {
+        "id": "4115",
+        "name": "Aden Heal"
+    },
+    {
+        "id": "4116",
+        "name": "Resist M.Atk"
+    },
+    {
+        "id": "4117",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4118",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4119",
+        "name": "Decrease Accuracy"
+    },
+    {
+        "id": "4120",
+        "name": "Shock"
+    },
+    {
+        "id": "4121",
+        "name": "Summoned Monster Magic Protection"
+    },
+    {
+        "id": "4122",
+        "name": "Antharas"
+    },
+    {
+        "id": "4123",
+        "name": "Hostile Feeling"
+    },
+    {
+        "id": "4124",
+        "name": "NPC Spear Attack"
+    },
+    {
+        "id": "4125",
+        "name": "Antharas Regeneration"
+    },
+    {
+        "id": "4126",
+        "name": "Reduction in recovery time"
+    },
+    {
+        "id": "4127",
+        "name": "Baium: General Attack"
+    },
+    {
+        "id": "4128",
+        "name": "Wind Of Force"
+    },
+    {
+        "id": "4129",
+        "name": "Earthquake"
+    },
+    {
+        "id": "4130",
+        "name": "Striking of Thunderbolt"
+    },
+    {
+        "id": "4131",
+        "name": "Stun"
+    },
+    {
+        "id": "4132",
+        "name": "Spear: Pound the Ground"
+    },
+    {
+        "id": "4133",
+        "name": "Angel Heal"
+    },
+    {
+        "id": "4134",
+        "name": "Seal Skill"
+    },
+    {
+        "id": "4135",
+        "name": "Baium Heal"
+    },
+    {
+        "id": "4136",
+        "name": "Baium's Gift"
+    },
+    {
+        "id": "4137",
+        "name": "Hydro Screw"
+    },
+    {
+        "id": "4138",
+        "name": "NPC AE - Corpse Burst"
+    },
+    {
+        "id": "4139",
+        "name": "Boom Attack"
+    },
+    {
+        "id": "4140",
+        "name": "Contract Payment"
+    },
+    {
+        "id": "4141",
+        "name": "NPC Wind Fist"
+    },
+    {
+        "id": "4142",
+        "name": "NPC Fast Wind Fist"
+    },
+    {
+        "id": "4143",
+        "name": "Treasure Bomb"
+    },
+    {
+        "id": "4144",
+        "name": "Mimic Strong Attack"
+    },
+    {
+        "id": "4145",
+        "name": "Decrease P. Atk."
+    },
+    {
+        "id": "4146",
+        "name": "Decrease P.Def"
+    },
+    {
+        "id": "4147",
+        "name": "Area Dispel"
+    },
+    {
+        "id": "4148",
+        "name": "Poison"
+    },
+    {
+        "id": "4149",
+        "name": "Bleed"
+    },
+    {
+        "id": "4150",
+        "name": "Flame"
+    },
+    {
+        "id": "4151",
+        "name": "NPC Windstrike - Magic"
+    },
+    {
+        "id": "4152",
+        "name": "NPC HP Drain - Magic"
+    },
+    {
+        "id": "4153",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4154",
+        "name": "NPC MP Drain - Magic"
+    },
+    {
+        "id": "4155",
+        "name": "NPC Twister - Magic"
+    },
+    {
+        "id": "4156",
+        "name": "NPC Curve Beam Cannon - Magic"
+    },
+    {
+        "id": "4157",
+        "name": "NPC Blaze - Magic"
+    },
+    {
+        "id": "4158",
+        "name": "NPC Prominence - Magic"
+    },
+    {
+        "id": "4159",
+        "name": "NPC Straight Beam Cannon - Magic"
+    },
+    {
+        "id": "4160",
+        "name": "NPC Aura Burn - Magic"
+    },
+    {
+        "id": "4161",
+        "name": "Summon PC"
+    },
+    {
+        "id": "4162",
+        "name": "Decrease P. Atk."
+    },
+    {
+        "id": "4163",
+        "name": "NPC Self Damage Shield"
+    },
+    {
+        "id": "4164",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4165",
+        "name": "Icy Air"
+    },
+    {
+        "id": "4166",
+        "name": "Shock"
+    },
+    {
+        "id": "4167",
+        "name": "Curse of Fairy Mymyu"
+    },
+    {
+        "id": "4168",
+        "name": "BOSS Power Strike"
+    },
+    {
+        "id": "4169",
+        "name": "Stun"
+    },
+    {
+        "id": "4170",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4171",
+        "name": "BOSS Spinning Slash"
+    },
+    {
+        "id": "4172",
+        "name": "Stun"
+    },
+    {
+        "id": "4173",
+        "name": "BOSS Might"
+    },
+    {
+        "id": "4174",
+        "name": "BOSS Shield"
+    },
+    {
+        "id": "4175",
+        "name": "BOSS Haste"
+    },
+    {
+        "id": "4176",
+        "name": "BOSS Reflect Damage"
+    },
+    {
+        "id": "4177",
+        "name": "BOSS Cancel Magic"
+    },
+    {
+        "id": "4178",
+        "name": "BOSS Flame Strike"
+    },
+    {
+        "id": "4179",
+        "name": "BOSS Power Strike"
+    },
+    {
+        "id": "4180",
+        "name": "Stun"
+    },
+    {
+        "id": "4181",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4182",
+        "name": "Poison"
+    },
+    {
+        "id": "4183",
+        "name": "Decrease P. Atk."
+    },
+    {
+        "id": "4184",
+        "name": "Decrease Atk. Spd."
+    },
+    {
+        "id": "4185",
+        "name": "Sleep"
+    },
+    {
+        "id": "4186",
+        "name": "Hold"
+    },
+    {
+        "id": "4187",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4188",
+        "name": "Bleed"
+    },
+    {
+        "id": "4189",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4190",
+        "name": "Decrease MP"
+    },
+    {
+        "id": "4191",
+        "name": "BOSS Wind Strike"
+    },
+    {
+        "id": "4192",
+        "name": "BOSS HP Drain"
+    },
+    {
+        "id": "4193",
+        "name": "BOSS Life Drain"
+    },
+    {
+        "id": "4194",
+        "name": "BOSS Aura Burn"
+    },
+    {
+        "id": "4195",
+        "name": "BOSS Twister"
+    },
+    {
+        "id": "4196",
+        "name": "Decreases Speed"
+    },
+    {
+        "id": "4197",
+        "name": "Hold"
+    },
+    {
+        "id": "4198",
+        "name": "Poison"
+    },
+    {
+        "id": "4199",
+        "name": "Decrease P. Atk."
+    },
+    {
+        "id": "4200",
+        "name": "Decrease Atk. Spd."
+    },
+    {
+        "id": "4201",
+        "name": "Sleep"
+    },
+    {
+        "id": "4202",
+        "name": "Hold"
+    },
+    {
+        "id": "4203",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4204",
+        "name": "Bleed"
+    },
+    {
+        "id": "4205",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4206",
+        "name": "Decrease MP"
+    },
+    {
+        "id": "4207",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4208",
+        "name": "Stun"
+    },
+    {
+        "id": "4209",
+        "name": "BOSS Heal"
+    },
+    {
+        "id": "4210",
+        "name": "Life Chant"
+    },
+    {
+        "id": "4211",
+        "name": "BOSS Might"
+    },
+    {
+        "id": "4212",
+        "name": "BOSS Shield"
+    },
+    {
+        "id": "4213",
+        "name": "BOSS Haste"
+    },
+    {
+        "id": "4214",
+        "name": "BOSS Reflect Damage"
+    },
+    {
+        "id": "4215",
+        "name": "Raid Curse"
+    },
+    {
+        "id": "4216",
+        "name": "Scatter Enemy"
+    },
+    {
+        "id": "4217",
+        "name": "None"
+    },
+    {
+        "id": "4218",
+        "name": "Absorb HP MP"
+    },
+    {
+        "id": "4219",
+        "name": "Hold"
+    },
+    {
+        "id": "4220",
+        "name": "Deadly Dual-Sword Weapon"
+    },
+    {
+        "id": "4221",
+        "name": "Deadly Dual-Sword Weapon: Range Attack"
+    },
+    {
+        "id": "4222",
+        "name": "Instant Move"
+    },
+    {
+        "id": "4223",
+        "name": "Face Chance: Night to Day"
+    },
+    {
+        "id": "4224",
+        "name": "Face Chance: Day to Night"
+    },
+    {
+        "id": "4225",
+        "name": "Resist Shock"
+    },
+    {
+        "id": "4226",
+        "name": "Ban Heal"
+    },
+    {
+        "id": "4227",
+        "name": "Zaken Regeneration"
+    },
+    {
+        "id": "4228",
+        "name": "Double Dagger Attack"
+    },
+    {
+        "id": "4229",
+        "name": "NPC Double Wind Fist"
+    },
+    {
+        "id": "4230",
+        "name": "Wild Cannon"
+    },
+    {
+        "id": "4231",
+        "name": "NPC Spit Attack"
+    },
+    {
+        "id": "4232",
+        "name": "NPC AE Strike"
+    },
+    {
+        "id": "4233",
+        "name": "Vampiric Attack"
+    },
+    {
+        "id": "4234",
+        "name": "BOSS Power Throw"
+    },
+    {
+        "id": "4235",
+        "name": "none"
+    },
+    {
+        "id": "4236",
+        "name": "Decrease Heal"
+    },
+    {
+        "id": "4237",
+        "name": "Decreases Speed"
+    },
+    {
+        "id": "4238",
+        "name": "Increase Re-use Time"
+    },
+    {
+        "id": "4239",
+        "name": "Antharas Regeneration"
+    },
+    {
+        "id": "4240",
+        "name": "Antharas Regeneration"
+    },
+    {
+        "id": "4241",
+        "name": "Antharas Regeneration"
+    },
+    {
+        "id": "4242",
+        "name": "Zaken Regeneration"
+    },
+    {
+        "id": "4243",
+        "name": "Venomous Poison"
+    },
+    {
+        "id": "4244",
+        "name": "NPC Wild Sweep"
+    },
+    {
+        "id": "4245",
+        "name": "Mimic of Wrath"
+    },
+    {
+        "id": "4246",
+        "name": "Strong in 'nan' activity magic DOT"
+    },
+    {
+        "id": "4247",
+        "name": "NPC Windstrike - Slow"
+    },
+    {
+        "id": "4248",
+        "name": "NPC HP Drain - Slow"
+    },
+    {
+        "id": "4249",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4250",
+        "name": "NPC Twister - Slow"
+    },
+    {
+        "id": "4251",
+        "name": "NPC Curve Beam Cannon - Slow"
+    },
+    {
+        "id": "4252",
+        "name": "NPC Flame - Slow"
+    },
+    {
+        "id": "4253",
+        "name": "NPC Blaze - Slow"
+    },
+    {
+        "id": "4254",
+        "name": "NPC Prominence - Slow"
+    },
+    {
+        "id": "4255",
+        "name": "NPC Straight Beam Cannon - Slow"
+    },
+    {
+        "id": "4256",
+        "name": "100% Stun Resistance."
+    },
+    {
+        "id": "4257",
+        "name": "NPC Hydroblast - Magic"
+    },
+    {
+        "id": "4258",
+        "name": "Anti Strider Slow"
+    },
+    {
+        "id": "4259",
+        "name": "Toxic Smoke"
+    },
+    {
+        "id": "4260",
+        "name": "Steal Blood"
+    },
+    {
+        "id": "4261",
+        "name": "Mega Storm Strike"
+    },
+    {
+        "id": "4262",
+        "name": "Holiday Wind Walk"
+    },
+    {
+        "id": "4263",
+        "name": "Holiday Haste"
+    },
+    {
+        "id": "4264",
+        "name": "Holiday Empower"
+    },
+    {
+        "id": "4265",
+        "name": "Holiday Might"
+    },
+    {
+        "id": "4266",
+        "name": "Holiday Shield"
+    },
+    {
+        "id": "4267",
+        "name": "Grade Penalty"
+    },
+    {
+        "id": "4268",
+        "name": "Danger Area"
+    },
+    {
+        "id": "4269",
+        "name": "Block All Chat"
+    },
+    {
+        "id": "4270",
+        "name": "Weight Penalty"
+    },
+    {
+        "id": "4271",
+        "name": "Increase Force"
+    },
+    {
+        "id": "4272",
+        "name": "Greater Resist Archery Attack"
+    },
+    {
+        "id": "4273",
+        "name": "Resist Dagger"
+    },
+    {
+        "id": "4274",
+        "name": "Blunt Attack Weak Point"
+    },
+    {
+        "id": "4275",
+        "name": "Sacred Attack Weak Point"
+    },
+    {
+        "id": "4276",
+        "name": "Archery Attack Weak Point"
+    },
+    {
+        "id": "4277",
+        "name": "Resist Poison"
+    },
+    {
+        "id": "4278",
+        "name": "Dark Attack"
+    },
+    {
+        "id": "4279",
+        "name": "Fire Attack Weak Point"
+    },
+    {
+        "id": "4280",
+        "name": "Water Attack Weak Point"
+    },
+    {
+        "id": "4281",
+        "name": "Wind Attack Weak Point"
+    },
+    {
+        "id": "4282",
+        "name": "Earth Attack Weak Point"
+    },
+    {
+        "id": "4283",
+        "name": "Greater Resist Magic Attack"
+    },
+    {
+        "id": "4284",
+        "name": "Resist Bleeding"
+    },
+    {
+        "id": "4285",
+        "name": "Resist Sleep"
+    },
+    {
+        "id": "4286",
+        "name": "Greater Resist Sleep"
+    },
+    {
+        "id": "4287",
+        "name": "Resist Hold"
+    },
+    {
+        "id": "4288",
+        "name": "Greater Resist Hold"
+    },
+    {
+        "id": "4289",
+        "name": "Wyvern Breath"
+    },
+    {
+        "id": "4290",
+        "name": "Race"
+    },
+    {
+        "id": "4291",
+        "name": "Race"
+    },
+    {
+        "id": "4292",
+        "name": "Race"
+    },
+    {
+        "id": "4293",
+        "name": "Race"
+    },
+    {
+        "id": "4294",
+        "name": "Race"
+    },
+    {
+        "id": "4295",
+        "name": "Race"
+    },
+    {
+        "id": "4296",
+        "name": "Race"
+    },
+    {
+        "id": "4297",
+        "name": "Race"
+    },
+    {
+        "id": "4298",
+        "name": "Race"
+    },
+    {
+        "id": "4299",
+        "name": "Race"
+    },
+    {
+        "id": "4300",
+        "name": "Race"
+    },
+    {
+        "id": "4301",
+        "name": "Race"
+    },
+    {
+        "id": "4302",
+        "name": "Race"
+    },
+    {
+        "id": "4303",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4304",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4305",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4306",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4307",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4308",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4309",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4310",
+        "name": "Strong Type"
+    },
+    {
+        "id": "4311",
+        "name": "Feeble Type"
+    },
+    {
+        "id": "4312",
+        "name": "Heavy Armor"
+    },
+    {
+        "id": "4313",
+        "name": "Light Armor"
+    },
+    {
+        "id": "4314",
+        "name": "BOSS Holy Light Burst"
+    },
+    {
+        "id": "4315",
+        "name": "Hold"
+    },
+    {
+        "id": "4316",
+        "name": "Boss Lilim Drain"
+    },
+    {
+        "id": "4317",
+        "name": "Increase Rage Might"
+    },
+    {
+        "id": "4318",
+        "name": "Ultimate Buff"
+    },
+    {
+        "id": "4319",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4320",
+        "name": "Poison"
+    },
+    {
+        "id": "4321",
+        "name": "Decrease P. Def"
+    },
+    {
+        "id": "4322",
+        "name": "Wind Walk for Beginners"
+    },
+    {
+        "id": "4323",
+        "name": "Shield for Beginners"
+    },
+    {
+        "id": "4324",
+        "name": "Bless the Body for Beginners"
+    },
+    {
+        "id": "4325",
+        "name": "Vampiric Rage for Beginners"
+    },
+    {
+        "id": "4326",
+        "name": "Regeneration for Beginners"
+    },
+    {
+        "id": "4327",
+        "name": "Haste for Beginners"
+    },
+    {
+        "id": "4328",
+        "name": "Bless the Soul for Beginners"
+    },
+    {
+        "id": "4329",
+        "name": "Acumen for Beginners"
+    },
+    {
+        "id": "4330",
+        "name": "Concentration for Beginners"
+    },
+    {
+        "id": "4331",
+        "name": "Empower for Beginners"
+    },
+    {
+        "id": "4332",
+        "name": "Mental Aegis"
+    },
+    {
+        "id": "4333",
+        "name": "Resist Dark Attack"
+    },
+    {
+        "id": "4334",
+        "name": "SSQ Cancel"
+    },
+    {
+        "id": "4335",
+        "name": "Sacred Attack"
+    },
+    {
+        "id": "4336",
+        "name": "Dark Attack Weak Point"
+    },
+    {
+        "id": "4337",
+        "name": "Resist Sacred Attack"
+    },
+    {
+        "id": "4338",
+        "name": "Life Cubic for Beginners"
+    },
+    {
+        "id": "4339",
+        "name": "Mimir's Elixir"
+    },
+    {
+        "id": "4340",
+        "name": "Ultimate Buff, 2nd"
+    },
+    {
+        "id": "4341",
+        "name": "Ultimate Buff, 3rd"
+    },
+    {
+        "id": "4342",
+        "name": "Clan Hall: Wind Walk"
+    },
+    {
+        "id": "4343",
+        "name": "Clan Hall: Decrease Weight"
+    },
+    {
+        "id": "4344",
+        "name": "Clan Hall: Shield"
+    },
+    {
+        "id": "4345",
+        "name": "Clan Hall: Might"
+    },
+    {
+        "id": "4346",
+        "name": "Clan Hall: Mental Shield"
+    },
+    {
+        "id": "4347",
+        "name": "Clan Hall: Blessed Body"
+    },
+    {
+        "id": "4348",
+        "name": "Clan Hall: Blessed Soul"
+    },
+    {
+        "id": "4349",
+        "name": "Clan Hall: Magic Barrier"
+    },
+    {
+        "id": "4350",
+        "name": "Clan Hall: Resist Shock"
+    },
+    {
+        "id": "4351",
+        "name": "Clan Hall: Concentration"
+    },
+    {
+        "id": "4352",
+        "name": "Clan Hall: Berserker Spirit"
+    },
+    {
+        "id": "4353",
+        "name": "Clan Hall: Bless Shield"
+    },
+    {
+        "id": "4354",
+        "name": "Clan Hall: Vampiric Rage"
+    },
+    {
+        "id": "4355",
+        "name": "Clan Hall: Acumen"
+    },
+    {
+        "id": "4356",
+        "name": "Clan Hall: Empower"
+    },
+    {
+        "id": "4357",
+        "name": "Clan Hall: Haste"
+    },
+    {
+        "id": "4358",
+        "name": "Clan Hall: Guidance"
+    },
+    {
+        "id": "4359",
+        "name": "Clan Hall: Focus"
+    },
+    {
+        "id": "4360",
+        "name": "Clan Hall: Death Whisper"
+    },
+    {
+        "id": "4361",
+        "name": "Curse of Destruction"
+    },
+    {
+        "id": "4362",
+        "name": "Curse of Destruction"
+    },
+    {
+        "id": "4363",
+        "name": "Curse of Destruction"
+    },
+    {
+        "id": "4364",
+        "name": "Blessing of Prophecy"
+    },
+    {
+        "id": "4365",
+        "name": "Blessing of Prophecy"
+    },
+    {
+        "id": "4366",
+        "name": "Blessing of Prophecy"
+    },
+    {
+        "id": "4367",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4368",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4369",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4370",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4371",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4372",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4373",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4374",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4375",
+        "name": "Clan Hall Manager Buff"
+    },
+    {
+        "id": "4376",
+        "name": "Strong Resistance to P.Atk."
+    },
+    {
+        "id": "4377",
+        "name": "Wield Temper"
+    },
+    {
+        "id": "4378",
+        "name": "Self Damage Shield"
+    },
+    {
+        "id": "4379",
+        "name": "Resist Pole Arm"
+    },
+    {
+        "id": "4380",
+        "name": "Arena CP Recovery"
+    },
+    {
+        "id": "4381",
+        "name": "Magic Skill Block"
+    },
+    {
+        "id": "4382",
+        "name": "Curse of Lake Ghost"
+    },
+    {
+        "id": "4383",
+        "name": "NPC Hate Stone"
+    },
+    {
+        "id": "4384",
+        "name": "Scapegoat's Grace"
+    },
+    {
+        "id": "4385",
+        "name": "Scapegoat's Grace"
+    },
+    {
+        "id": "4386",
+        "name": "Scapegoat's Grace"
+    },
+    {
+        "id": "4387",
+        "name": "Scapegoat's Grace"
+    },
+    {
+        "id": "4388",
+        "name": "Resist Paralysis"
+    },
+    {
+        "id": "4389",
+        "name": "Resist Mental Derangement"
+    },
+    {
+        "id": "4390",
+        "name": "NPC Abnormal Immunity"
+    },
+    {
+        "id": "4391",
+        "name": "Wind Walk"
+    },
+    {
+        "id": "4392",
+        "name": "Shield"
+    },
+    {
+        "id": "4393",
+        "name": "Might"
+    },
+    {
+        "id": "4394",
+        "name": "Blessed Body"
+    },
+    {
+        "id": "4395",
+        "name": "Blessed Soul"
+    },
+    {
+        "id": "4396",
+        "name": "Magic Barrier"
+    },
+    {
+        "id": "4397",
+        "name": "Berserker Spirit"
+    },
+    {
+        "id": "4398",
+        "name": "Bless Shield"
+    },
+    {
+        "id": "4399",
+        "name": "Vampiric Rage"
+    },
+    {
+        "id": "4400",
+        "name": "Acumen"
+    },
+    {
+        "id": "4401",
+        "name": "Empower"
+    },
+    {
+        "id": "4402",
+        "name": "Haste"
+    },
+    {
+        "id": "4403",
+        "name": "Guidance"
+    },
+    {
+        "id": "4404",
+        "name": "Focus"
+    },
+    {
+        "id": "4405",
+        "name": "Death Whisper"
+    },
+    {
+        "id": "4406",
+        "name": "Agility"
+    },
+    {
+        "id": "4407",
+        "name": "Monster Type"
+    },
+    {
+        "id": "4408",
+        "name": "HP Modifiers"
+    },
+    {
+        "id": "4409",
+        "name": "MP Modifiers"
+    },
+    {
+        "id": "4410",
+        "name": "P. Atk. Modifiers"
+    },
+    {
+        "id": "4411",
+        "name": "M. Atk. Modifiers"
+    },
+    {
+        "id": "4412",
+        "name": "P. Def. Modifiers"
+    },
+    {
+        "id": "4413",
+        "name": "M. Def. Modifiers"
+    },
+    {
+        "id": "4414",
+        "name": "Armor Type"
+    },
+    {
+        "id": "4415",
+        "name": "Weapon Type"
+    },
+    {
+        "id": "4416",
+        "name": "Races"
+    },
+    {
+        "id": "4417",
+        "name": "Race Types"
+    },
+    {
+        "id": "4418",
+        "name": "Fire Attacks"
+    },
+    {
+        "id": "4419",
+        "name": "Water Attacks"
+    },
+    {
+        "id": "4420",
+        "name": "Wind Attacks"
+    },
+    {
+        "id": "4421",
+        "name": "Earth Attacks"
+    },
+    {
+        "id": "4422",
+        "name": "Dark Attacks"
+    },
+    {
+        "id": "4423",
+        "name": "Sacred Attacks"
+    },
+    {
+        "id": "4424",
+        "name": "Resist Hand-to-hand Weapons"
+    },
+    {
+        "id": "4425",
+        "name": "Resist Blunt Weapons"
+    },
+    {
+        "id": "4426",
+        "name": "Resist Dual-Sword Weapons"
+    },
+    {
+        "id": "4427",
+        "name": "Resist Swords"
+    },
+    {
+        "id": "4428",
+        "name": "Resist Two-handed Weapons"
+    },
+    {
+        "id": "4429",
+        "name": "Greater Resist Fire Attacks"
+    },
+    {
+        "id": "4430",
+        "name": "Greater Resist Water Attacks"
+    },
+    {
+        "id": "4431",
+        "name": "Greater Resist Wind Attacks"
+    },
+    {
+        "id": "4432",
+        "name": "Greater Resist Earth Attacks"
+    },
+    {
+        "id": "4433",
+        "name": "Greater Resist Sacred Attacks"
+    },
+    {
+        "id": "4434",
+        "name": "Greater Resist Dark Attacks"
+    },
+    {
+        "id": "4435",
+        "name": "Greater Resist Stun"
+    },
+    {
+        "id": "4436",
+        "name": "Greater Resist Poison"
+    },
+    {
+        "id": "4437",
+        "name": "Greater Resist Bleeding"
+    },
+    {
+        "id": "4438",
+        "name": "Greater Resist Sleep"
+    },
+    {
+        "id": "4439",
+        "name": "Greater Resist Hold"
+    },
+    {
+        "id": "4440",
+        "name": "Greater Resist Paralysis"
+    },
+    {
+        "id": "4441",
+        "name": "Greater Resist Mental Derangement"
+    },
+    {
+        "id": "4442",
+        "name": "Greater Resist Hand-to-hand Weapons"
+    },
+    {
+        "id": "4443",
+        "name": "Greater Resist Blunt Weapons"
+    },
+    {
+        "id": "4444",
+        "name": "Higher Resist Bow Weapons"
+    },
+    {
+        "id": "4445",
+        "name": "Greater Resist Spear Weapons"
+    },
+    {
+        "id": "4446",
+        "name": "Greater Resist Dual-Sword Weapons"
+    },
+    {
+        "id": "4447",
+        "name": "Greater Resist Swords"
+    },
+    {
+        "id": "4448",
+        "name": "Greater Resist Daggers"
+    },
+    {
+        "id": "4449",
+        "name": "Greater Resist Two-handed Weapons"
+    },
+    {
+        "id": "4450",
+        "name": "Stun Attack Weak Point"
+    },
+    {
+        "id": "4451",
+        "name": "Poison Attack Weak Point"
+    },
+    {
+        "id": "4452",
+        "name": "Bleed Attack Weak Point"
+    },
+    {
+        "id": "4453",
+        "name": "Sleep Attack Weak Point"
+    },
+    {
+        "id": "4454",
+        "name": "Hold Attack Weak Point"
+    },
+    {
+        "id": "4455",
+        "name": "Paralysis Attack Weak Point"
+    },
+    {
+        "id": "4456",
+        "name": "Mental Attack Weak Point"
+    },
+    {
+        "id": "4457",
+        "name": "Hand-to-hand Weapon Weak Point"
+    },
+    {
+        "id": "4458",
+        "name": "Spear Weapon Weak Point"
+    },
+    {
+        "id": "4459",
+        "name": "Dual-Sword Weapon Weak Point"
+    },
+    {
+        "id": "4460",
+        "name": "Sword Weak Point"
+    },
+    {
+        "id": "4461",
+        "name": "Dagger Weak Point"
+    },
+    {
+        "id": "4462",
+        "name": "Two-handed Weapon Weak Point"
+    },
+    {
+        "id": "4463",
+        "name": "Surrender To Water"
+    },
+    {
+        "id": "4464",
+        "name": "Surrender To Wind"
+    },
+    {
+        "id": "4465",
+        "name": "Surrender To Earth"
+    },
+    {
+        "id": "4466",
+        "name": "Surrender To Darkness"
+    },
+    {
+        "id": "4467",
+        "name": "Surrender To Light"
+    },
+    {
+        "id": "4468",
+        "name": "Area Buff - Wind Walk"
+    },
+    {
+        "id": "4469",
+        "name": "Potion Drinking"
+    },
+    {
+        "id": "4470",
+        "name": "NPC Spoils"
+    },
+    {
+        "id": "4471",
+        "name": "NPC Anger"
+    },
+    {
+        "id": "4472",
+        "name": "NPC Strike Golem"
+    },
+    {
+        "id": "4473",
+        "name": "Stun"
+    },
+    {
+        "id": "4474",
+        "name": "Area Heal - Per"
+    },
+    {
+        "id": "4475",
+        "name": "Perfect Resist Bleeding"
+    },
+    {
+        "id": "4476",
+        "name": "Silent Move"
+    },
+    {
+        "id": "4477",
+        "name": "NPC Frost Wall"
+    },
+    {
+        "id": "4478",
+        "name": "Ice Fairy Aqua Splash"
+    },
+    {
+        "id": "4479",
+        "name": "Ice Fairy Resist Cold"
+    },
+    {
+        "id": "4480",
+        "name": "Ice Fairy Curse Gloom"
+    },
+    {
+        "id": "4481",
+        "name": "Ice Fairy Hex"
+    },
+    {
+        "id": "4482",
+        "name": "Ice Fairy Silence"
+    },
+    {
+        "id": "4483",
+        "name": "Hold"
+    },
+    {
+        "id": "4484",
+        "name": "Eating Follower Heal"
+    },
+    {
+        "id": "4485",
+        "name": "Eating Follower"
+    },
+    {
+        "id": "4486",
+        "name": "Decrease P. Def"
+    },
+    {
+        "id": "4487",
+        "name": "Decrease M. Def."
+    },
+    {
+        "id": "4488",
+        "name": "Hold"
+    },
+    {
+        "id": "4489",
+        "name": "NPC Death MP Bomb"
+    },
+    {
+        "id": "4490",
+        "name": "NPC Holy Wall"
+    },
+    {
+        "id": "4491",
+        "name": "Holy Weapon"
+    },
+    {
+        "id": "4492",
+        "name": "Enlarging Head Curse"
+    },
+    {
+        "id": "4493",
+        "name": "NPC Debuff Shield Slow"
+    },
+    {
+        "id": "4494",
+        "name": "Raid Boss"
+    },
+    {
+        "id": "4495",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4496",
+        "name": "Stun"
+    },
+    {
+        "id": "4497",
+        "name": "Treasure Chest - Level 21"
+    },
+    {
+        "id": "4498",
+        "name": "Treasure Chest - Level 22"
+    },
+    {
+        "id": "4499",
+        "name": "Treasure Chest - Level 25"
+    },
+    {
+        "id": "4500",
+        "name": "Treasure Chest - Level 27"
+    },
+    {
+        "id": "4501",
+        "name": "Treasure Chest - Level 29"
+    },
+    {
+        "id": "4502",
+        "name": "Treasure Chest - Level 31"
+    },
+    {
+        "id": "4503",
+        "name": "Treasure Chest - Level 32"
+    },
+    {
+        "id": "4504",
+        "name": "Treasure Chest - Level 33"
+    },
+    {
+        "id": "4505",
+        "name": "Treasure Chest - Level 35"
+    },
+    {
+        "id": "4506",
+        "name": "Treasure Chest - Level 39"
+    },
+    {
+        "id": "4507",
+        "name": "Treasure Chest - Level 42"
+    },
+    {
+        "id": "4508",
+        "name": "Treasure Chest - Level 43"
+    },
+    {
+        "id": "4509",
+        "name": "Treasure Chest - Level 45"
+    },
+    {
+        "id": "4510",
+        "name": "Treasure Chest - Level 47"
+    },
+    {
+        "id": "4511",
+        "name": "Treasure Chest - Level 49"
+    },
+    {
+        "id": "4512",
+        "name": "Treasure Chest - Level 52"
+    },
+    {
+        "id": "4513",
+        "name": "Squash - Level up"
+    },
+    {
+        "id": "4514",
+        "name": "Squash - Poisoned"
+    },
+    {
+        "id": "4515",
+        "name": "Raid Curse"
+    },
+    {
+        "id": "4516",
+        "name": "Orfen Heal"
+    },
+    {
+        "id": "4517",
+        "name": "Quest - BOSS Defend"
+    },
+    {
+        "id": "4518",
+        "name": "Quest - BOSS Rampage"
+    },
+    {
+        "id": "4519",
+        "name": "Quest - BOSS Defend"
+    },
+    {
+        "id": "4520",
+        "name": "Quest - BOSS Rampage"
+    },
+    {
+        "id": "4521",
+        "name": "Quest - BOSS Resist non Bow Weapon"
+    },
+    {
+        "id": "4522",
+        "name": "Eye of Assassin"
+    },
+    {
+        "id": "4523",
+        "name": "Quest - BOSS Evasion"
+    },
+    {
+        "id": "4524",
+        "name": "Quest - BOSS Bluff"
+    },
+    {
+        "id": "4525",
+        "name": "Quest - BOSS Defend"
+    },
+    {
+        "id": "4526",
+        "name": "Quest - BOSS Summon"
+    },
+    {
+        "id": "4527",
+        "name": "Quest - BOSS Inc HP to Summoned"
+    },
+    {
+        "id": "4528",
+        "name": "Quest - BOSS Movement to Summoned"
+    },
+    {
+        "id": "4529",
+        "name": "Quest - Summoned Explosion"
+    },
+    {
+        "id": "4530",
+        "name": "Quest - Summoned HP Heal"
+    },
+    {
+        "id": "4531",
+        "name": "Quest - Summoned MP Heal"
+    },
+    {
+        "id": "4532",
+        "name": "Quest - BOSS Reflect"
+    },
+    {
+        "id": "4533",
+        "name": "Dance of Resistance"
+    },
+    {
+        "id": "4534",
+        "name": "Dance of Nihil"
+    },
+    {
+        "id": "4535",
+        "name": "Dance of Weakness"
+    },
+    {
+        "id": "4536",
+        "name": "Song of Seduce"
+    },
+    {
+        "id": "4537",
+        "name": "Song of Sweet Whisper"
+    },
+    {
+        "id": "4538",
+        "name": "Song of Temptation"
+    },
+    {
+        "id": "4539",
+        "name": "Curse of Vague"
+    },
+    {
+        "id": "4540",
+        "name": "Curse of Weakness"
+    },
+    {
+        "id": "4541",
+        "name": "Curse of Nihil"
+    },
+    {
+        "id": "4542",
+        "name": "Quest - Henchman 90% Sleep Stun Weakness"
+    },
+    {
+        "id": "4543",
+        "name": "Quest - BOSS Stun Weakness"
+    },
+    {
+        "id": "4544",
+        "name": "Quest - BOSS Weakness"
+    },
+    {
+        "id": "4545",
+        "name": "Quest - BOSS Reflect"
+    },
+    {
+        "id": "4546",
+        "name": "Quest - Commune to Slate"
+    },
+    {
+        "id": "4547",
+        "name": "Gaze of Watcher"
+    },
+    {
+        "id": "4548",
+        "name": "Quest - Dispel Watcher Gaze"
+    },
+    {
+        "id": "4549",
+        "name": "Quest - Unsealed Altar"
+    },
+    {
+        "id": "4550",
+        "name": "Quest - Cursed Altar"
+    },
+    {
+        "id": "4551",
+        "name": "Hot Springs Rheumatism"
+    },
+    {
+        "id": "4552",
+        "name": "Hot Springs Cholera"
+    },
+    {
+        "id": "4553",
+        "name": "Hot Springs Flu"
+    },
+    {
+        "id": "4554",
+        "name": "Hot Spring Malaria"
+    },
+    {
+        "id": "4555",
+        "name": "NPC Resist Mutant"
+    },
+    {
+        "id": "4556",
+        "name": "Dispel Hot Spring Disease A_D"
+    },
+    {
+        "id": "4557",
+        "name": "Dispel Hot Spring Disease B_D"
+    },
+    {
+        "id": "4558",
+        "name": "Dispel Hot Spring Disease C_D"
+    },
+    {
+        "id": "4559",
+        "name": "Hot Spring Illusion"
+    },
+    {
+        "id": "4560",
+        "name": "NPC Fire Burn"
+    },
+    {
+        "id": "4561",
+        "name": "NPC Fire Burn - Magic"
+    },
+    {
+        "id": "4562",
+        "name": "NPC Solar Flare"
+    },
+    {
+        "id": "4563",
+        "name": "NPC Solar Flare - Magic"
+    },
+    {
+        "id": "4564",
+        "name": "NPC Solar Flare - Slow"
+    },
+    {
+        "id": "4565",
+        "name": "NPC Eruption"
+    },
+    {
+        "id": "4566",
+        "name": "NPC Eruption - Magic"
+    },
+    {
+        "id": "4567",
+        "name": "NPC Eruption - Slow"
+    },
+    {
+        "id": "4568",
+        "name": "NPC AE Solar Flare"
+    },
+    {
+        "id": "4569",
+        "name": "NPC AE Solar Flare - Magic"
+    },
+    {
+        "id": "4570",
+        "name": "NPC AE Solar Flare - Slow"
+    },
+    {
+        "id": "4571",
+        "name": "NPC Blazing Circle"
+    },
+    {
+        "id": "4572",
+        "name": "NPC Triple Sonic Slash"
+    },
+    {
+        "id": "4573",
+        "name": "NPC Sonic Blaster"
+    },
+    {
+        "id": "4574",
+        "name": "NPC Sonic Storm"
+    },
+    {
+        "id": "4575",
+        "name": "NPC Clan Buff - Haste"
+    },
+    {
+        "id": "4576",
+        "name": "NPC Clan Buff - Damage Shield"
+    },
+    {
+        "id": "4577",
+        "name": "Decrease Accuracy"
+    },
+    {
+        "id": "4578",
+        "name": "Petrification"
+    },
+    {
+        "id": "4579",
+        "name": "Bleed"
+    },
+    {
+        "id": "4580",
+        "name": "Decrease P. Atk."
+    },
+    {
+        "id": "4581",
+        "name": "Hold"
+    },
+    {
+        "id": "4582",
+        "name": "Poison"
+    },
+    {
+        "id": "4583",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4584",
+        "name": "Reducing P. Def Stun"
+    },
+    {
+        "id": "4585",
+        "name": "NPC Clan Buff - Berserk Might"
+    },
+    {
+        "id": "4586",
+        "name": "Decrease Evasion"
+    },
+    {
+        "id": "4587",
+        "name": "Decrease P. Atk."
+    },
+    {
+        "id": "4588",
+        "name": "NPC Clan Buff - Berserk Haste"
+    },
+    {
+        "id": "4589",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4590",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4591",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4592",
+        "name": "Decrease P. Def."
+    },
+    {
+        "id": "4593",
+        "name": "Decrease P. Def."
+    },
+    {
+        "id": "4594",
+        "name": "Decrease P. Def."
+    },
+    {
+        "id": "4595",
+        "name": "NPC Clan Buff - Acumen Shield"
+    },
+    {
+        "id": "4596",
+        "name": "Bleed"
+    },
+    {
+        "id": "4597",
+        "name": "Bleed"
+    },
+    {
+        "id": "4598",
+        "name": "Bleed"
+    },
+    {
+        "id": "4599",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4600",
+        "name": "Reducing P. Def Shock"
+    },
+    {
+        "id": "4601",
+        "name": "NPC Clan Buff - Acumen Focus"
+    },
+    {
+        "id": "4602",
+        "name": "Decrease P.Atk"
+    },
+    {
+        "id": "4603",
+        "name": "Decrease P.Atk"
+    },
+    {
+        "id": "4604",
+        "name": "Decrease P.Atk"
+    },
+    {
+        "id": "4605",
+        "name": "Surrender To Fire"
+    },
+    {
+        "id": "4606",
+        "name": "Poison"
+    },
+    {
+        "id": "4607",
+        "name": "Magma Attack"
+    },
+    {
+        "id": "4608",
+        "name": "NPC Clan Buff - Berserk"
+    },
+    {
+        "id": "4609",
+        "name": "NPC Clan Buff - Vampiric Rage"
+    },
+    {
+        "id": "4610",
+        "name": "NPC Clan Buff - Focus"
+    },
+    {
+        "id": "4611",
+        "name": "NPC Clan Buff - Death Whisper"
+    },
+    {
+        "id": "4612",
+        "name": "NPC Wide Wild Sweep"
+    },
+    {
+        "id": "4613",
+        "name": "NPC Clan Heal"
+    },
+    {
+        "id": "4614",
+        "name": "NPC Death Bomb"
+    },
+    {
+        "id": "4615",
+        "name": "Bleed"
+    },
+    {
+        "id": "4616",
+        "name": "Fake Petrification"
+    },
+    {
+        "id": "4617",
+        "name": "Dispel Petrification"
+    },
+    {
+        "id": "4618",
+        "name": "NPC Cancel PC Target"
+    },
+    {
+        "id": "4619",
+        "name": "NPC Dispel Sleep"
+    },
+    {
+        "id": "4620",
+        "name": "Paralysis"
+    },
+    {
+        "id": "4621",
+        "name": "NPC AE - 80% HP Drain"
+    },
+    {
+        "id": "4622",
+        "name": "NPC AE - 80% HP Drain - Magic"
+    },
+    {
+        "id": "4623",
+        "name": "NPC AE - 80% HP Drain - Slow"
+    },
+    {
+        "id": "4624",
+        "name": "Decrease HP Regeneration Rate"
+    },
+    {
+        "id": "4625",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4626",
+        "name": "NPC Buff - Physical Barrier"
+    },
+    {
+        "id": "4627",
+        "name": "NPC Buff - Magical Barrier"
+    },
+    {
+        "id": "4628",
+        "name": "Mysterious Aura"
+    },
+    {
+        "id": "4629",
+        "name": "NPC MR - HP Drain"
+    },
+    {
+        "id": "4630",
+        "name": "NPC MR - Twister"
+    },
+    {
+        "id": "4631",
+        "name": "NPC Buff - Acumen Shield WildMagic"
+    },
+    {
+        "id": "4632",
+        "name": "NPC Buff - Acumen Empower WildMagic"
+    },
+    {
+        "id": "4633",
+        "name": "NPC Buff - Acumen Empower Berserk"
+    },
+    {
+        "id": "4634",
+        "name": "NPC Buff - Acumen Empower DamageShield"
+    },
+    {
+        "id": "4635",
+        "name": "NPC Buff - Acumen Berserk WildMagic"
+    },
+    {
+        "id": "4636",
+        "name": "NPC Buff - Acumen Berserk DamageShield"
+    },
+    {
+        "id": "4637",
+        "name": "NPC Buff - Acumen WildMagic DamageShield"
+    },
+    {
+        "id": "4638",
+        "name": "NPC Clan Buff - Acumen Empower WildMagic"
+    },
+    {
+        "id": "4639",
+        "name": "NPC Clan Buff - Acumen Empower Berserk"
+    },
+    {
+        "id": "4640",
+        "name": "Sleep"
+    },
+    {
+        "id": "4641",
+        "name": "NPC Super Strike"
+    },
+    {
+        "id": "4642",
+        "name": "NPC Fast Spell Casting"
+    },
+    {
+        "id": "4643",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "4644",
+        "name": "Area Buff - Haste"
+    },
+    {
+        "id": "4645",
+        "name": "Area Buff - Focus"
+    },
+    {
+        "id": "4646",
+        "name": "Area Buff - Death Whisper"
+    },
+    {
+        "id": "4647",
+        "name": "Area Buff - Might"
+    },
+    {
+        "id": "4648",
+        "name": "Area Buff - Shield"
+    },
+    {
+        "id": "4649",
+        "name": "Poison"
+    },
+    {
+        "id": "4650",
+        "name": "NPC AE - Dispel Hold"
+    },
+    {
+        "id": "4651",
+        "name": "NPC AE - Dispel Slow"
+    },
+    {
+        "id": "4652",
+        "name": "NPC AE Dispel Silence"
+    },
+    {
+        "id": "4653",
+        "name": "NPC Corpse Life Drain"
+    },
+    {
+        "id": "4654",
+        "name": "NPC Death Link"
+    },
+    {
+        "id": "4655",
+        "name": "NPC Death Link - Magic"
+    },
+    {
+        "id": "4656",
+        "name": "NPC Death Link - Slow"
+    },
+    {
+        "id": "4657",
+        "name": "Hold"
+    },
+    {
+        "id": "4658",
+        "name": "Hold"
+    },
+    {
+        "id": "4659",
+        "name": "Hold"
+    },
+    {
+        "id": "4660",
+        "name": "Sleep"
+    },
+    {
+        "id": "4661",
+        "name": "Sleep"
+    },
+    {
+        "id": "4662",
+        "name": "Sleep"
+    },
+    {
+        "id": "4663",
+        "name": "NPC Hate"
+    },
+    {
+        "id": "4664",
+        "name": "NPC 100% HP Drain"
+    },
+    {
+        "id": "4665",
+        "name": "NPC 100% HP Drain - Magic"
+    },
+    {
+        "id": "4666",
+        "name": "NPC 100% HP Drain - Slow"
+    },
+    {
+        "id": "4667",
+        "name": "NPC Strong 100% HP Drain"
+    },
+    {
+        "id": "4668",
+        "name": "NPC Strong 100% HP Drain - Magic"
+    },
+    {
+        "id": "4669",
+        "name": "NPC Strong 100% HP Drain - Slow"
+    },
+    {
+        "id": "4670",
+        "name": "Short Shock"
+    },
+    {
+        "id": "4671",
+        "name": "AV - Teleport"
+    },
+    {
+        "id": "4672",
+        "name": "NPC Corpse Remove"
+    },
+    {
+        "id": "4673",
+        "name": "NPC Dispel Offensive Buff"
+    },
+    {
+        "id": "4674",
+        "name": "NPC Dispel Offensive Buff"
+    },
+    {
+        "id": "4675",
+        "name": "NPC Dispel Fighter Buff"
+    },
+    {
+        "id": "4676",
+        "name": "NPC Dispel Mage Offensive Buff"
+    },
+    {
+        "id": "4677",
+        "name": "NPC Dispel Fighter Defensive Buff"
+    },
+    {
+        "id": "4678",
+        "name": "NPC Dispel Mage Defensive Buff"
+    },
+    {
+        "id": "4679",
+        "name": "Valakas"
+    },
+    {
+        "id": "4680",
+        "name": "Valakas Lava Skin"
+    },
+    {
+        "id": "4681",
+        "name": "Valakas Trample"
+    },
+    {
+        "id": "4682",
+        "name": "Valakas Trample"
+    },
+    {
+        "id": "4683",
+        "name": "Valakas Dragon Breath"
+    },
+    {
+        "id": "4684",
+        "name": "Valakas Dragon Breath"
+    },
+    {
+        "id": "4685",
+        "name": "Valakas Tail Stomp"
+    },
+    {
+        "id": "4686",
+        "name": "Valakas Tail Stomp"
+    },
+    {
+        "id": "4687",
+        "name": "Valakas Tail Stomp"
+    },
+    {
+        "id": "4688",
+        "name": "Valakas Shock"
+    },
+    {
+        "id": "4689",
+        "name": "Valakas Fear"
+    },
+    {
+        "id": "4690",
+        "name": "Valakas Meteor Storm"
+    },
+    {
+        "id": "4691",
+        "name": "Valakas Regeneration"
+    },
+    {
+        "id": "4692",
+        "name": "Quest BOSS Big Body"
+    },
+    {
+        "id": "4693",
+        "name": "Quest BOSS Dispel Big Body"
+    },
+    {
+        "id": "4694",
+        "name": "Ultimate Debuff"
+    },
+    {
+        "id": "4695",
+        "name": "Ultimate Debuff"
+    },
+    {
+        "id": "4696",
+        "name": "Ultimate Debuff"
+    },
+    {
+        "id": "4697",
+        "name": "NPC Monster Hate"
+    },
+    {
+        "id": "4698",
+        "name": "Area Buff - HP Regeneration"
+    },
+    {
+        "id": "4699",
+        "name": "Blessing of Queen"
+    },
+    {
+        "id": "4700",
+        "name": "Gift of Queen"
+    },
+    {
+        "id": "4701",
+        "name": "Cure of Queen"
+    },
+    {
+        "id": "4702",
+        "name": "Blessing of Seraphim"
+    },
+    {
+        "id": "4703",
+        "name": "Gift of Seraphim"
+    },
+    {
+        "id": "4704",
+        "name": "Cure of Seraphim"
+    },
+    {
+        "id": "4705",
+        "name": "Curse of Shade"
+    },
+    {
+        "id": "4706",
+        "name": "Mass Curse of Shade"
+    },
+    {
+        "id": "4707",
+        "name": "Shade Sacrifice"
+    },
+    {
+        "id": "4708",
+        "name": "Cursed Strike"
+    },
+    {
+        "id": "4709",
+        "name": "Cursed Blow"
+    },
+    {
+        "id": "4710",
+        "name": "Wild Stun"
+    },
+    {
+        "id": "4711",
+        "name": "Wild Defense"
+    },
+    {
+        "id": "4712",
+        "name": "Bright Burst"
+    },
+    {
+        "id": "4713",
+        "name": "Bright Heal"
+    },
+    {
+        "id": "4714",
+        "name": "Twilight Dragon"
+    },
+    {
+        "id": "4715",
+        "name": "Wind Dragon"
+    },
+    {
+        "id": "4716",
+        "name": "Star Dragon"
+    },
+    {
+        "id": "4717",
+        "name": "Heal Trick"
+    },
+    {
+        "id": "4718",
+        "name": "Greater Heal Trick"
+    },
+    {
+        "id": "4719",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4720",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4721",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4722",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4723",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4724",
+        "name": "Shock"
+    },
+    {
+        "id": "4725",
+        "name": "Shock"
+    },
+    {
+        "id": "4726",
+        "name": "Shock"
+    },
+    {
+        "id": "4727",
+        "name": "Shock"
+    },
+    {
+        "id": "4728",
+        "name": "Shock"
+    },
+    {
+        "id": "4729",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4730",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4731",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4732",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4733",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4734",
+        "name": "BOSS Spinning Slash"
+    },
+    {
+        "id": "4735",
+        "name": "BOSS Spinning Slasher"
+    },
+    {
+        "id": "4736",
+        "name": "BOSS Spinning Slasher"
+    },
+    {
+        "id": "4737",
+        "name": "BOSS Spinning Slasher"
+    },
+    {
+        "id": "4738",
+        "name": "BOSS Spinning Slasher"
+    },
+    {
+        "id": "4739",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4740",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4741",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4742",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4743",
+        "name": "BOSS Strike"
+    },
+    {
+        "id": "4744",
+        "name": "Shock"
+    },
+    {
+        "id": "4745",
+        "name": "Shock"
+    },
+    {
+        "id": "4746",
+        "name": "Shock"
+    },
+    {
+        "id": "4747",
+        "name": "Shock"
+    },
+    {
+        "id": "4748",
+        "name": "Shock"
+    },
+    {
+        "id": "4749",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4750",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4751",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4752",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4753",
+        "name": "BOSS Mortal Blow"
+    },
+    {
+        "id": "4754",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4755",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4756",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4757",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4758",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4759",
+        "name": "Shock"
+    },
+    {
+        "id": "4760",
+        "name": "Shock"
+    },
+    {
+        "id": "4761",
+        "name": "Shock"
+    },
+    {
+        "id": "4762",
+        "name": "Shock"
+    },
+    {
+        "id": "4763",
+        "name": "Shock"
+    },
+    {
+        "id": "4764",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4765",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4766",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4767",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4768",
+        "name": "BOSS Power Shot"
+    },
+    {
+        "id": "4769",
+        "name": "Shock"
+    },
+    {
+        "id": "4770",
+        "name": "Shock"
+    },
+    {
+        "id": "4771",
+        "name": "Shock"
+    },
+    {
+        "id": "4772",
+        "name": "Shock"
+    },
+    {
+        "id": "4773",
+        "name": "Shock"
+    },
+    {
+        "id": "4774",
+        "name": "BOSS Spear Attack"
+    },
+    {
+        "id": "4775",
+        "name": "BOSS Spear Attack"
+    },
+    {
+        "id": "4776",
+        "name": "BOSS Spear Attack"
+    },
+    {
+        "id": "4777",
+        "name": "BOSS Spear Attack"
+    },
+    {
+        "id": "4778",
+        "name": "BOSS Spear Attack"
+    },
+    {
+        "id": "4779",
+        "name": "BOSS Heal"
+    },
+    {
+        "id": "4780",
+        "name": "BOSS Heal"
+    },
+    {
+        "id": "4781",
+        "name": "BOSS Heal"
+    },
+    {
+        "id": "4782",
+        "name": "BOSS Heal"
+    },
+    {
+        "id": "4783",
+        "name": "BOSS Heal"
+    },
+    {
+        "id": "4784",
+        "name": "BOSS Chant of Life"
+    },
+    {
+        "id": "4785",
+        "name": "BOSS Chant of Life"
+    },
+    {
+        "id": "4786",
+        "name": "BOSS Chant of Life"
+    },
+    {
+        "id": "4787",
+        "name": "BOSS Chant of Life"
+    },
+    {
+        "id": "4788",
+        "name": "BOSS Chant of Life"
+    },
+    {
+        "id": "4789",
+        "name": "NPC High Level"
+    },
+    {
+        "id": "4790",
+        "name": "Raid Boss - Level 23"
+    },
+    {
+        "id": "4791",
+        "name": "Raid Boss - Level 30"
+    },
+    {
+        "id": "4792",
+        "name": "Raid Boss - Level 42"
+    },
+    {
+        "id": "4793",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4794",
+        "name": "Raid Boss - Level 50"
+    },
+    {
+        "id": "4795",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "4796",
+        "name": "Raid Boss - Level 25"
+    },
+    {
+        "id": "4797",
+        "name": "Raid Boss - Level 34"
+    },
+    {
+        "id": "4798",
+        "name": "Raid Boss - Level 34"
+    },
+    {
+        "id": "4799",
+        "name": "Raid Boss - Level 49"
+    },
+    {
+        "id": "4800",
+        "name": "Raid Boss - Level 53"
+    },
+    {
+        "id": "4801",
+        "name": "Raid Boss - Level 58"
+    },
+    {
+        "id": "4802",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4803",
+        "name": "Raid Boss - Level 28"
+    },
+    {
+        "id": "4804",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4805",
+        "name": "Raid Boss - Level 47"
+    },
+    {
+        "id": "4806",
+        "name": "Raid Boss - Level 49"
+    },
+    {
+        "id": "4807",
+        "name": "Raid Boss - Level 51"
+    },
+    {
+        "id": "4808",
+        "name": "Raid Boss - Level 65"
+    },
+    {
+        "id": "4809",
+        "name": "Raid Boss - Level 75"
+    },
+    {
+        "id": "4810",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4811",
+        "name": "Raid Boss - Level 24"
+    },
+    {
+        "id": "4812",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4813",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4814",
+        "name": "Raid Boss - Level 52"
+    },
+    {
+        "id": "4815",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4816",
+        "name": "Raid Boss - Level 69"
+    },
+    {
+        "id": "4817",
+        "name": "Raid Boss - Level 25"
+    },
+    {
+        "id": "4818",
+        "name": "Raid Boss - Level 30"
+    },
+    {
+        "id": "4819",
+        "name": "Raid Boss - Level 39"
+    },
+    {
+        "id": "4820",
+        "name": "Raid Boss - Level 44"
+    },
+    {
+        "id": "4821",
+        "name": "Raid Boss - Level 43"
+    },
+    {
+        "id": "4822",
+        "name": "Raid Boss - Level 59"
+    },
+    {
+        "id": "4823",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4824",
+        "name": "Raid Boss - Level 29"
+    },
+    {
+        "id": "4825",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4826",
+        "name": "Raid Boss - Level 44"
+    },
+    {
+        "id": "4827",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4828",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4829",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "4830",
+        "name": "Raid Boss - Level 74"
+    },
+    {
+        "id": "4831",
+        "name": "Raid Boss - Level 30"
+    },
+    {
+        "id": "4832",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4833",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4834",
+        "name": "Raid Boss - Level 50"
+    },
+    {
+        "id": "4835",
+        "name": "Raid Boss - Level 56"
+    },
+    {
+        "id": "4836",
+        "name": "Raid Boss - Level 65"
+    },
+    {
+        "id": "4837",
+        "name": "Raid Boss - Level 79"
+    },
+    {
+        "id": "4838",
+        "name": "Raid Boss - Level 24"
+    },
+    {
+        "id": "4839",
+        "name": "Raid Boss - Level 33"
+    },
+    {
+        "id": "4840",
+        "name": "Raid Boss - Level 50"
+    },
+    {
+        "id": "4841",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4842",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4843",
+        "name": "Raid Boss - Level 65"
+    },
+    {
+        "id": "4844",
+        "name": "Raid Boss - Level 78"
+    },
+    {
+        "id": "4845",
+        "name": "Raid Boss - Level 21"
+    },
+    {
+        "id": "4846",
+        "name": "Raid Boss - Level 25"
+    },
+    {
+        "id": "4847",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4848",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4849",
+        "name": "Raid Boss - Level 48"
+    },
+    {
+        "id": "4850",
+        "name": "Raid Boss - Level 54"
+    },
+    {
+        "id": "4851",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "4852",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4853",
+        "name": "Raid Boss - Level 25"
+    },
+    {
+        "id": "4854",
+        "name": "Raid Boss - Level 30"
+    },
+    {
+        "id": "4855",
+        "name": "Raid Boss - Level 38"
+    },
+    {
+        "id": "4856",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4857",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4858",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "4859",
+        "name": "Raid Boss - Level 59"
+    },
+    {
+        "id": "4860",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4861",
+        "name": "Raid Boss - Level 30"
+    },
+    {
+        "id": "4862",
+        "name": "Raid Boss - Level 34"
+    },
+    {
+        "id": "4863",
+        "name": "Raid Boss - Level 43"
+    },
+    {
+        "id": "4864",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4865",
+        "name": "Raid Boss - Level 36"
+    },
+    {
+        "id": "4866",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4867",
+        "name": "Raid Boss - Level 50"
+    },
+    {
+        "id": "4868",
+        "name": "Raid Boss - Level 73"
+    },
+    {
+        "id": "4869",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4870",
+        "name": "Raid Boss - Level 62"
+    },
+    {
+        "id": "4871",
+        "name": "Raid Boss - Level 75"
+    },
+    {
+        "id": "4872",
+        "name": "Raid Boss - Level 57"
+    },
+    {
+        "id": "4873",
+        "name": "Raid Boss - Level 69"
+    },
+    {
+        "id": "4874",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "4875",
+        "name": "Raid Boss - Level 72"
+    },
+    {
+        "id": "4876",
+        "name": "Raid Boss - Level 59"
+    },
+    {
+        "id": "4877",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4878",
+        "name": "Raid Boss - Level 75"
+    },
+    {
+        "id": "4879",
+        "name": "Raid Boss - Level 78"
+    },
+    {
+        "id": "4880",
+        "name": "Raid Boss - Level 72"
+    },
+    {
+        "id": "4881",
+        "name": "Raid Boss - Level 75"
+    },
+    {
+        "id": "4882",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4883",
+        "name": "Raid Boss - Level 65"
+    },
+    {
+        "id": "4884",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "4885",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4886",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4887",
+        "name": "Raid Boss - Level 67"
+    },
+    {
+        "id": "4888",
+        "name": "Raid Boss - Level 75"
+    },
+    {
+        "id": "4889",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4890",
+        "name": "Raid Boss - Level 28"
+    },
+    {
+        "id": "4891",
+        "name": "Raid Boss - Level 50"
+    },
+    {
+        "id": "4892",
+        "name": "Raid Boss - Level 75"
+    },
+    {
+        "id": "4893",
+        "name": "Raid Boss - Level 50"
+    },
+    {
+        "id": "4894",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4895",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4896",
+        "name": "Raid Boss - Level 75"
+    },
+    {
+        "id": "4897",
+        "name": "Raid Boss - Level 80"
+    },
+    {
+        "id": "4898",
+        "name": "Raid Boss - Level 80"
+    },
+    {
+        "id": "4899",
+        "name": "Raid Boss - Level 20"
+    },
+    {
+        "id": "4900",
+        "name": "Raid Boss - Level 78"
+    },
+    {
+        "id": "4901",
+        "name": "Raid Boss - Level 78"
+    },
+    {
+        "id": "4902",
+        "name": "Raid Boss - Level 74"
+    },
+    {
+        "id": "4903",
+        "name": "Raid Boss - Level 80"
+    },
+    {
+        "id": "4904",
+        "name": "Raid Boss - Level 84"
+    },
+    {
+        "id": "4905",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "4906",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "4907",
+        "name": "Raid Boss - Level 80"
+    },
+    {
+        "id": "4908",
+        "name": "Raid Boss - Level 84"
+    },
+    {
+        "id": "4909",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "4910",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "4911",
+        "name": "Raid Boss - Level 85"
+    },
+    {
+        "id": "4912",
+        "name": "Raid Boss - Level 66"
+    },
+    {
+        "id": "4913",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4914",
+        "name": "Raid Boss - Level 71"
+    },
+    {
+        "id": "4915",
+        "name": "Raid Boss - Level 28"
+    },
+    {
+        "id": "4916",
+        "name": "Raid Boss - Level 38"
+    },
+    {
+        "id": "4917",
+        "name": "Raid Boss - Level 48"
+    },
+    {
+        "id": "4918",
+        "name": "Raid Boss - Level 58"
+    },
+    {
+        "id": "4919",
+        "name": "Raid Boss - Level 68"
+    },
+    {
+        "id": "4920",
+        "name": "Raid Boss - Level 78"
+    },
+    {
+        "id": "4921",
+        "name": "Raid Boss - Level 81"
+    },
+    {
+        "id": "4922",
+        "name": "Raid Boss - Level 81"
+    },
+    {
+        "id": "4923",
+        "name": "Raid Boss - Level 81"
+    },
+    {
+        "id": "4924",
+        "name": "Raid Boss - Level 81"
+    },
+    {
+        "id": "4925",
+        "name": "Raid Boss - Level 30"
+    },
+    {
+        "id": "4926",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4927",
+        "name": "Raid Boss - Level 21"
+    },
+    {
+        "id": "4928",
+        "name": "Raid Boss - Level 26"
+    },
+    {
+        "id": "4929",
+        "name": "Raid Boss - Level 23"
+    },
+    {
+        "id": "4930",
+        "name": "Raid Boss - Level 26"
+    },
+    {
+        "id": "4931",
+        "name": "Raid Boss - Level 23"
+    },
+    {
+        "id": "4932",
+        "name": "Raid Boss - Level 25"
+    },
+    {
+        "id": "4933",
+        "name": "Raid Boss - Level 20"
+    },
+    {
+        "id": "4934",
+        "name": "Raid Boss - Level 21"
+    },
+    {
+        "id": "4935",
+        "name": "Raid Boss - Level 20"
+    },
+    {
+        "id": "4936",
+        "name": "Raid Boss - Level 21"
+    },
+    {
+        "id": "4937",
+        "name": "Raid Boss - Level 34"
+    },
+    {
+        "id": "4938",
+        "name": "Raid Boss - Level 36"
+    },
+    {
+        "id": "4939",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4940",
+        "name": "Raid Boss - Level 33"
+    },
+    {
+        "id": "4941",
+        "name": "Raid Boss - Level 32"
+    },
+    {
+        "id": "4942",
+        "name": "Raid Boss - Level 38"
+    },
+    {
+        "id": "4943",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4944",
+        "name": "Raid Boss - Level 35"
+    },
+    {
+        "id": "4945",
+        "name": "Raid Boss - Level 32"
+    },
+    {
+        "id": "4946",
+        "name": "Raid Boss - Level 33"
+    },
+    {
+        "id": "4947",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "4948",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4949",
+        "name": "Raid Boss - Level 47"
+    },
+    {
+        "id": "4950",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4951",
+        "name": "Raid Boss - Level 44"
+    },
+    {
+        "id": "4952",
+        "name": "Raid Boss - Level 48"
+    },
+    {
+        "id": "4953",
+        "name": "Raid Boss - Level 61"
+    },
+    {
+        "id": "4954",
+        "name": "Raid Boss - Level 25"
+    },
+    {
+        "id": "4955",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4956",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4957",
+        "name": "Raid Boss - Level 44"
+    },
+    {
+        "id": "4958",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4959",
+        "name": "Raid Boss - Level 65"
+    },
+    {
+        "id": "4960",
+        "name": "Raid Boss - Level 71"
+    },
+    {
+        "id": "4961",
+        "name": "Raid Boss - Level 79"
+    },
+    {
+        "id": "4962",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4963",
+        "name": "Raid Boss - Level 49"
+    },
+    {
+        "id": "4964",
+        "name": "Raid Boss - Level 51"
+    },
+    {
+        "id": "4965",
+        "name": "Raid Boss - Level 56"
+    },
+    {
+        "id": "4966",
+        "name": "Raid Boss - Level 64"
+    },
+    {
+        "id": "4967",
+        "name": "Raid Boss - Level 66"
+    },
+    {
+        "id": "4968",
+        "name": "Raid Boss - Level 52"
+    },
+    {
+        "id": "4969",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4970",
+        "name": "Raid Boss - Level 65"
+    },
+    {
+        "id": "4971",
+        "name": "Raid Boss - Level 53"
+    },
+    {
+        "id": "4972",
+        "name": "Raid Boss - Level 50"
+    },
+    {
+        "id": "4973",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4974",
+        "name": "Raid Boss - Level 40"
+    },
+    {
+        "id": "4975",
+        "name": "Raid Boss - Level 55"
+    },
+    {
+        "id": "4976",
+        "name": "Raid Boss - Level 52"
+    },
+    {
+        "id": "4977",
+        "name": "Raid Boss - Level 45"
+    },
+    {
+        "id": "4978",
+        "name": "Raid Boss - Level 81"
+    },
+    {
+        "id": "4979",
+        "name": "Raid Boss - Level 82"
+    },
+    {
+        "id": "4980",
+        "name": "Raid Boss - Level 83"
+    },
+    {
+        "id": "4981",
+        "name": "Raid Boss - Level 84"
+    },
+    {
+        "id": "4982",
+        "name": "Raid Boss - Level 85"
+    },
+    {
+        "id": "4983",
+        "name": "Raid Boss - Level 25"
+    },
+    {
+        "id": "4984",
+        "name": "Raid Boss - Level 44"
+    },
+    {
+        "id": "4985",
+        "name": "Raid Boss - Level 70"
+    },
+    {
+        "id": "4986",
+        "name": "Raid Boss - Level 72"
+    },
+    {
+        "id": "4987",
+        "name": "Raid Boss - Level 74"
+    },
+    {
+        "id": "4988",
+        "name": "Raid Boss - Level 76"
+    },
+    {
+        "id": "4989",
+        "name": "Npc - Hot Spring Nectar"
+    },
+    {
+        "id": "4990",
+        "name": "Npc - Hot Spring Mineral"
+    },
+    {
+        "id": "4991",
+        "name": "Hot Spring Sulfur"
+    },
+    {
+        "id": "4992",
+        "name": "Shock"
+    },
+    {
+        "id": "4993",
+        "name": "Venom - Strike"
+    },
+    {
+        "id": "4994",
+        "name": "Venom - Sonic Storm"
+    },
+    {
+        "id": "4995",
+        "name": "Venom - Teleport"
+    },
+    {
+        "id": "4996",
+        "name": "Venom - Range Teleport"
+    },
+    {
+        "id": "4997",
+        "name": "Lidia - Regen"
+    },
+    {
+        "id": "4998",
+        "name": "Lidia - Twister"
+    },
+    {
+        "id": "4999",
+        "name": "Lidia - Range Life Drain"
+    },
+    {
+        "id": "5000",
+        "name": "Alfred - Super Strike"
+    },
+    {
+        "id": "5001",
+        "name": "Alfred - Life Drain"
+    },
+    {
+        "id": "5002",
+        "name": "Giselle - Vampiric Rage"
+    },
+    {
+        "id": "5003",
+        "name": "Giselle - Tempest"
+    },
+    {
+        "id": "5004",
+        "name": "Dimensional Shock"
+    },
+    {
+        "id": "5005",
+        "name": "Frintezza's Ghost Summoning"
+    },
+    {
+        "id": "5006",
+        "name": "Frintezza's Melody"
+    },
+    {
+        "id": "5007",
+        "name": "Frintezza's Songs"
+    },
+    {
+        "id": "5008",
+        "name": "Frintezza's Songs"
+    },
+    {
+        "id": "5009",
+        "name": "Frintezza's Ghostly Fighter"
+    },
+    {
+        "id": "5010",
+        "name": "Frintezza's Ghostly Mage"
+    },
+    {
+        "id": "5011",
+        "name": "Frintezza's Bomber Ghost"
+    },
+    {
+        "id": "5012",
+        "name": "Breath of Scarlet"
+    },
+    {
+        "id": "5013",
+        "name": "Frintezza Ghost Drain"
+    },
+    {
+        "id": "5014",
+        "name": "Frintezza's Daemon Attack"
+    },
+    {
+        "id": "5015",
+        "name": "Frintezza's Daemon Charge"
+    },
+    {
+        "id": "5016",
+        "name": "Yoke of Scarlet"
+    },
+    {
+        "id": "5017",
+        "name": "Frintezza's Daemon Morph"
+    },
+    {
+        "id": "5018",
+        "name": "Frintezza's Daemon Field"
+    },
+    {
+        "id": "5019",
+        "name": "Frintezza's Daemon Drain"
+    },
+    {
+        "id": "5020",
+        "name": "Forced Action"
+    },
+    {
+        "id": "5021",
+        "name": "Inspiration of Einhasad"
+    },
+    {
+        "id": "5022",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "5023",
+        "name": "Hold"
+    },
+    {
+        "id": "5024",
+        "name": "Decrease Atk.Speed"
+    },
+    {
+        "id": "5025",
+        "name": "Raid Boss - Level 30"
+    },
+    {
+        "id": "5026",
+        "name": "Raid Boss - Level 39"
+    },
+    {
+        "id": "5027",
+        "name": "Raid Boss - Level 37"
+    },
+    {
+        "id": "5028",
+        "name": "Raid Boss - Level 53"
+    },
+    {
+        "id": "5029",
+        "name": "Raid Boss - Level 52"
+    },
+    {
+        "id": "5030",
+        "name": "Raid Boss - Level 59"
+    },
+    {
+        "id": "5031",
+        "name": "Raid Boss - Level 80"
+    },
+    {
+        "id": "5032",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "5033",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "5034",
+        "name": "Raid Boss - Level 73"
+    },
+    {
+        "id": "5035",
+        "name": "Raid Boss - Level 76"
+    },
+    {
+        "id": "5036",
+        "name": "Raid Boss - Level 60"
+    },
+    {
+        "id": "5037",
+        "name": "Decrease Casting Speed"
+    },
+    {
+        "id": "5038",
+        "name": "Summon PVP Penalty"
+    },
+    {
+        "id": "5039",
+        "name": "NPC - Ultra Bomb"
+    },
+    {
+        "id": "5040",
+        "name": "NPC - Healing Potion"
+    },
+    {
+        "id": "5041",
+        "name": "Charm of Courage"
+    },
+    {
+        "id": "5042",
+        "name": "NPC Dispel Bomb"
+    },
+    {
+        "id": "5043",
+        "name": "NPC Super Sonic Blaster"
+    },
+    {
+        "id": "5044",
+        "name": "NPC Ultimate Defense"
+    },
+    {
+        "id": "5045",
+        "name": "Castle Power Strike"
+    },
+    {
+        "id": "5046",
+        "name": "Castle Power Shot"
+    },
+    {
+        "id": "5047",
+        "name": "Castle Spinning Slash"
+    },
+    {
+        "id": "5048",
+        "name": "Castle Burst Shot"
+    },
+    {
+        "id": "5049",
+        "name": "Castle Blow"
+    },
+    {
+        "id": "5050",
+        "name": "Castle DD Fire"
+    },
+    {
+        "id": "5051",
+        "name": "Castle Self AE Fire"
+    },
+    {
+        "id": "5052",
+        "name": "Castle Long AE Fire"
+    },
+    {
+        "id": "5053",
+        "name": "Castle DD Water"
+    },
+    {
+        "id": "5054",
+        "name": "Castle Self AE Water"
+    },
+    {
+        "id": "5055",
+        "name": "Castle Long AE Water"
+    },
+    {
+        "id": "5056",
+        "name": "Castle DD Wind"
+    },
+    {
+        "id": "5057",
+        "name": "Castle Self AE Wind"
+    },
+    {
+        "id": "5058",
+        "name": "Castle Long AE Wind"
+    },
+    {
+        "id": "5059",
+        "name": "Castle DD Earth"
+    },
+    {
+        "id": "5060",
+        "name": "Castle Self AE Earth"
+    },
+    {
+        "id": "5061",
+        "name": "Castle Long AE Earth"
+    },
+    {
+        "id": "5062",
+        "name": "Castle DD Holy"
+    },
+    {
+        "id": "5063",
+        "name": "Castle Self AE Holy"
+    },
+    {
+        "id": "5064",
+        "name": "Castle Long AE Holy"
+    },
+    {
+        "id": "5065",
+        "name": "Castle DD Unholy"
+    },
+    {
+        "id": "5066",
+        "name": "Castle Self AE Unholy"
+    },
+    {
+        "id": "5067",
+        "name": "Castle Long AE Unholy"
+    },
+    {
+        "id": "5068",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "5069",
+        "name": "Decrease Atk.Spd."
+    },
+    {
+        "id": "5070",
+        "name": "Decrease Casting Spd"
+    },
+    {
+        "id": "5071",
+        "name": "Decrease P.Atk"
+    },
+    {
+        "id": "5072",
+        "name": "Decrease M. Atk."
+    },
+    {
+        "id": "5073",
+        "name": "Quest Trap - Power Shot"
+    },
+    {
+        "id": "5074",
+        "name": "The Victor of War"
+    },
+    {
+        "id": "5075",
+        "name": "The Vanquished of War"
+    },
+    {
+        "id": "5076",
+        "name": "Death Penalty"
+    },
+    {
+        "id": "5077",
+        "name": "NPC Remove Death Penalty"
+    },
+    {
+        "id": "5078",
+        "name": "Frintezza Critical Power"
+    },
+    {
+        "id": "5079",
+        "name": "NPC Focused Haste"
+    },
+    {
+        "id": "5080",
+        "name": "NPC Mighty Haste"
+    },
+    {
+        "id": "5081",
+        "name": "Silence"
+    },
+    {
+        "id": "5082",
+        "name": "NPC Spinning, Slashing Trick"
+    },
+    {
+        "id": "5083",
+        "name": "Shock"
+    },
+    {
+        "id": "5084",
+        "name": "NPC Blinding Blow"
+    },
+    {
+        "id": "5085",
+        "name": "Anesthesia"
+    },
+    {
+        "id": "5086",
+        "name": "Deadly Poison"
+    },
+    {
+        "id": "5087",
+        "name": "Berserk"
+    },
+    {
+        "id": "5088",
+        "name": "Signal"
+    },
+    {
+        "id": "5089",
+        "name": "Representation - Enter the Sailren Nest Quest"
+    },
+    {
+        "id": "5090",
+        "name": "Sailren Production"
+    },
+    {
+        "id": "5091",
+        "name": "Sailren Production 2"
+    },
+    {
+        "id": "5092",
+        "name": "Antharas Terror"
+    },
+    {
+        "id": "5093",
+        "name": "Antharas Meteor"
+    },
+    {
+        "id": "5094",
+        "name": "Antharas Subordinate Suicide "
+    },
+    {
+        "id": "5095",
+        "name": "Antharas Subordinate Melee Attack"
+    },
+    {
+        "id": "5096",
+        "name": "Antharas Subordinate Remote Attack"
+    },
+    {
+        "id": "5097",
+        "name": "Antharas Subordinate Suicide (Narrow Range)"
+    },
+    {
+        "id": "5098",
+        "name": "Capture Penalty"
+    },
+    {
+        "id": "5099",
+        "name": "Cancel Capture A"
+    },
+    {
+        "id": "5100",
+        "name": "Cancel Capture B"
+    },
+    {
+        "id": "5101",
+        "name": "Cancel Capture C"
+    },
+    {
+        "id": "5102",
+        "name": "Cancel All Capture"
+    },
+    {
+        "id": "5103",
+        "name": "Production - Clan / Transfer"
+    },
+    {
+        "id": "5104",
+        "name": "Battle Force"
+    },
+    {
+        "id": "5105",
+        "name": "Spell Force"
+    },
+    {
+        "id": "5106",
+        "name": "Capture A State"
+    },
+    {
+        "id": "5107",
+        "name": "Capture B State"
+    },
+    {
+        "id": "5108",
+        "name": "Capture C State"
+    },
+    {
+        "id": "5109",
+        "name": "Production - Clan Gate"
+    },
+    {
+        "id": "5110",
+        "name": "Cannon Fodder"
+    },
+    {
+        "id": "5111",
+        "name": "Big Bang"
+    },
+    {
+        "id": "5112",
+        "name": "Shock"
+    },
+    {
+        "id": "5113",
+        "name": "Castle Self AE Dispell Buff"
+    },
+    {
+        "id": "5114",
+        "name": "Hold"
+    },
+    {
+        "id": "5115",
+        "name": "Cubic Hate"
+    },
+    {
+        "id": "5116",
+        "name": "Hold"
+    },
+    {
+        "id": "5117",
+        "name": "Stun"
+    },
+    {
+        "id": "5118",
+        "name": "Cancel Sailren Use"
+    },
+    {
+        "id": "5119",
+        "name": "Bleed"
+    },
+    {
+        "id": "5120",
+        "name": "Stun"
+    },
+    {
+        "id": "5121",
+        "name": "Production - Corpse Revival"
+    },
+    {
+        "id": "5122",
+        "name": "Sailren Use Might"
+    },
+    {
+        "id": "5123",
+        "name": "Maximum Defense"
+    },
+    {
+        "id": "5124",
+        "name": "Anti-Music"
+    },
+    {
+        "id": "5125",
+        "name": "Maximum Resist Status"
+    },
+    {
+        "id": "5126",
+        "name": "Maximum Recovery"
+    },
+    {
+        "id": "5127",
+        "name": "Recover Force"
+    },
+    {
+        "id": "5128",
+        "name": "Maximum Archery"
+    },
+    {
+        "id": "5129",
+        "name": "Smokescreen"
+    },
+    {
+        "id": "5130",
+        "name": "Volcano"
+    },
+    {
+        "id": "5131",
+        "name": "Tsunami"
+    },
+    {
+        "id": "5132",
+        "name": "Cyclone"
+    },
+    {
+        "id": "5133",
+        "name": "Gehenna"
+    },
+    {
+        "id": "5134",
+        "name": "Anti-Summoning Field"
+    },
+    {
+        "id": "5135",
+        "name": "Slash"
+    },
+    {
+        "id": "5136",
+        "name": "Spin Slash"
+    },
+    {
+        "id": "5137",
+        "name": "Hold of King"
+    },
+    {
+        "id": "5138",
+        "name": "Whiplash"
+    },
+    {
+        "id": "5139",
+        "name": "Tidal Wave"
+    },
+    {
+        "id": "5140",
+        "name": "Dark Curse"
+    },
+    {
+        "id": "5141",
+        "name": "Dicing Death"
+    },
+    {
+        "id": "5142",
+        "name": "Corpse Kaboom"
+    },
+    {
+        "id": "5143",
+        "name": "Sailren Use Blow"
+    },
+    {
+        "id": "5144",
+        "name": "Mirage"
+    },
+    {
+        "id": "5145",
+        "name": "Day of Doom"
+    },
+    {
+        "id": "5146",
+        "name": "Heal"
+    },
+    {
+        "id": "5147",
+        "name": "Blessed Body"
+    },
+    {
+        "id": "5148",
+        "name": "Prayer"
+    },
+    {
+        "id": "5149",
+        "name": "Recharge"
+    },
+    {
+        "id": "5150",
+        "name": "Blessed Soul"
+    },
+    {
+        "id": "5151",
+        "name": "Mana Gain"
+    },
+    {
+        "id": "5152",
+        "name": "Ritual"
+    },
+    {
+        "id": "5153",
+        "name": "Cheer"
+    },
+    {
+        "id": "5154",
+        "name": "Might"
+    },
+    {
+        "id": "5156",
+        "name": "Empower"
+    },
+    {
+        "id": "5157",
+        "name": "Duel Might"
+    },
+    {
+        "id": "5158",
+        "name": "Shield"
+    },
+    {
+        "id": "5159",
+        "name": "Magic Barrier"
+    },
+    {
+        "id": "5160",
+        "name": "Duel Weakness"
+    },
+    {
+        "id": "5161",
+        "name": "Agility"
+    },
+    {
+        "id": "5162",
+        "name": "Guidance"
+    },
+    {
+        "id": "5163",
+        "name": "Focus"
+    },
+    {
+        "id": "5164",
+        "name": "Wild Magic"
+    },
+    {
+        "id": "5165",
+        "name": "Charm"
+    },
+    {
+        "id": "5166",
+        "name": "Slow"
+    },
+    {
+        "id": "5167",
+        "name": "Winter"
+    },
+    {
+        "id": "5168",
+        "name": "Stun"
+    },
+    {
+        "id": "5169",
+        "name": "Hold"
+    },
+    {
+        "id": "5170",
+        "name": "Sleep"
+    },
+    {
+        "id": "5171",
+        "name": "Paralyze"
+    },
+    {
+        "id": "5172",
+        "name": "Medusa"
+    },
+    {
+        "id": "5173",
+        "name": "Fear"
+    },
+    {
+        "id": "5174",
+        "name": "Poison"
+    },
+    {
+        "id": "5175",
+        "name": "Bleed"
+    },
+    {
+        "id": "5176",
+        "name": "Silence"
+    },
+    {
+        "id": "5177",
+        "name": "Doom"
+    },
+    {
+        "id": "5178",
+        "name": "NPC Burn"
+    },
+    {
+        "id": "5179",
+        "name": "Raid Boss - Level 86"
+    },
+    {
+        "id": "5180",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "5181",
+        "name": "Raid Boss - Level 87"
+    },
+    {
+        "id": "5182",
+        "name": "Blessing of Protection"
+    },
+    {
+        "id": "5183",
+        "name": "Production: Dimensional Stun"
+    },
+    {
+        "id": "5184",
+        "name": "Production: Valakas Dragon Breath"
+    },
+    {
+        "id": "5185",
+        "name": "Production: Magic-type Guard"
+    },
+    {
+        "id": "5186",
+        "name": "Pet Haste"
+    },
+    {
+        "id": "5187",
+        "name": "Pet Vampiric Rage"
+    },
+    {
+        "id": "5188",
+        "name": "Pet Regeneration"
+    },
+    {
+        "id": "5189",
+        "name": "Pet Blessed Body"
+    },
+    {
+        "id": "5190",
+        "name": "Pet Blessed Soul"
+    },
+    {
+        "id": "5191",
+        "name": "Pet Guidance"
+    },
+    {
+        "id": "5192",
+        "name": "Pet Wind Walk"
+    },
+    {
+        "id": "5193",
+        "name": "Pet Acumen"
+    },
+    {
+        "id": "5194",
+        "name": "Pet Empower"
+    },
+    {
+        "id": "5195",
+        "name": "Pet Greater Heal"
+    },
+    {
+        "id": "5196",
+        "name": "Pet Wind Shackle"
+    },
+    {
+        "id": "5197",
+        "name": "Pet Hex"
+    },
+    {
+        "id": "5198",
+        "name": "Pet Slow"
+    },
+    {
+        "id": "5199",
+        "name": "Pet Curse Gloom"
+    },
+    {
+        "id": "5200",
+        "name": "Pet Recharge"
+    },
+    {
+        "id": "5201",
+        "name": "Pet Concentration"
+    },
+    {
+        "id": "5202",
+        "name": "NPC Ranged Stun"
+    },
+    {
+        "id": "5203",
+        "name": "NPC Ranged Fear"
+    },
+    {
+        "id": "5204",
+        "name": "Production-First Gigantic Pig Combination"
+    },
+    {
+        "id": "5205",
+        "name": "Boss Regeneration"
+    },
+    {
+        "id": "5206",
+        "name": "Decrease Speed"
+    },
+    {
+        "id": "5207",
+        "name": "Decrease Atk. Spd."
+    },
+    {
+        "id": "5208",
+        "name": "Golden Pig Wind Walk"
+    },
+    {
+        "id": "5209",
+        "name": "Golden Pig Shield"
+    },
+    {
+        "id": "5210",
+        "name": "Golden Pig Blessed Body"
+    },
+    {
+        "id": "5211",
+        "name": "Golden Pig Vampiric Rage"
+    },
+    {
+        "id": "5212",
+        "name": "Golden Pig Regeneration"
+    },
+    {
+        "id": "5213",
+        "name": "Golden Pig Haste"
+    },
+    {
+        "id": "5214",
+        "name": "Golden Pig Blessed Soul"
+    },
+    {
+        "id": "5215",
+        "name": "Golden Pig Acumen"
+    },
+    {
+        "id": "5216",
+        "name": "Golden Pig Concentration"
+    },
+    {
+        "id": "5217",
+        "name": "Golden Pig Empower"
+    },
+    {
+        "id": "5218",
+        "name": "Production: Event Teleport"
+    },
+    {
+        "id": "5219",
+        "name": "Huge Pig Stun"
+    },
+    {
+        "id": "5220",
+        "name": "Huge Pig Fear"
+    },
+    {
+        "id": "7000",
+        "name": "NPC Default"
+    },
+    {
+        "id": "7001",
+        "name": "Dispel Buff"
+    },
+    {
+        "id": "7002",
+        "name": "Dispel Debuff"
+    },
+    {
+        "id": "7003",
+        "name": "Dispel All"
+    },
+    {
+        "id": "7004",
+        "name": "Dispel Petrification"
+    },
+    {
+        "id": "7005",
+        "name": "Greater Chant of Vampire"
+    },
+    {
+        "id": "7006",
+        "name": "The Love of Pa'agrio"
+    },
+    {
+        "id": "7007",
+        "name": "Greater Seal of Flame"
+    },
+    {
+        "id": "7028",
+        "name": "For Stationary NPCs"
+    },
+    {
+        "id": "7029",
+        "name": "Super Haste"
+    },
+    {
+        "id": "7030",
+        "name": "Summon King Bugbear"
+    },
+    {
+        "id": "7031",
+        "name": "Summon Skeleton Royal Guard"
+    },
+    {
+        "id": "7032",
+        "name": "Summon Hunter Gargoyle"
+    },
+    {
+        "id": "7033",
+        "name": "Test Flame Strike"
+    },
+    {
+        "id": "7034",
+        "name": "Test Aqua Splash"
+    },
+    {
+        "id": "7035",
+        "name": "Display - Swoop Cannon"
+    },
+    {
+        "id": "7036",
+        "name": "Display - Valakas"
+    },
+    {
+        "id": "7037",
+        "name": "Display - Tyrannosaurus Capture"
+    },
+    {
+        "id": "7038",
+        "name": "Channeling DD Test: Short"
+    },
+    {
+        "id": "7039",
+        "name": "Channeling DD Test: Middle"
+    },
+    {
+        "id": "7040",
+        "name": "Channeling DD Test: Long"
+    }
+]
