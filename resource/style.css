@@ -264,7 +264,12 @@ body::before {
     background-image: linear-gradient(#dddcdc, #ffffff), linear-gradient(135deg, #030303, #c5c1c1 50%);
 }
 
-.modal-backdrop {
-    background-color: #000000 !important;
+.modal::before {
+    content: '';
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
     filter: blur(10px);
+    background-color: #00000021;
 }
