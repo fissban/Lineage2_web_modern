@@ -1,3 +1,8 @@
 .panel-home {
     border-bottom: 1px solid #ff9b07;
+    transition: all 0.25s;
+}
+
+.panel-home:hover {
+    background-color: #000000a8 !important;
 }
