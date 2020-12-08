@@ -1,28 +1,9 @@
-[
-    {
-        "id": "20853",
-        "name": "Kel Mahum",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "6"
-            },
-            {
-                "id": "4072",
-                "level": "6"
-            },
-            {
-                "id": "4090",
-                "level": "1"
-            },
-            {
-                "id": "4412",
-                "level": "13"
-            }
-        ]
-    }
-]
+{
+	"id": "20853", 
+	"name": "Kel Mahum", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4032", "level": "6"}, {"id": "4072", "level": "6"}, {"id": "4090", "level": "1"}, {"id": "4412", "level": "13"}]
+}

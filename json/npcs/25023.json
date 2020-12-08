@@ -1,79 +1,9 @@
-[
-    {
-        "id": "25023",
-        "name": "Stakato Queen Zyrnna",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "262",
-                "min": "1",
-                "max": "1",
-                "chance": "75089"
-            },
-            {
-                "id": "353",
-                "min": "1",
-                "max": "1",
-                "chance": "115226"
-            },
-            {
-                "id": "380",
-                "min": "1",
-                "max": "1",
-                "chance": "184645"
-            },
-            {
-                "id": "1950",
-                "min": "53",
-                "max": "157",
-                "chance": "69633"
-            },
-            {
-                "id": "1951",
-                "min": "24",
-                "max": "72",
-                "chance": "236903"
-            },
-            {
-                "id": "2053",
-                "min": "12",
-                "max": "36",
-                "chance": "232829"
-            },
-            {
-                "id": "951",
-                "min": "1",
-                "max": "3",
-                "chance": "796395"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4183",
-                "level": "3"
-            },
-            {
-                "id": "4189",
-                "level": "3"
-            },
-            {
-                "id": "4194",
-                "level": "3"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4798",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25023", 
+	"name": "Stakato Queen Zyrnna", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"262", "min":"1", "max":"1", "chance":"75089"}, {"id":"353", "min":"1", "max":"1", "chance":"115226"}, {"id":"380", "min":"1", "max":"1", "chance":"184645"}, {"id":"1950", "min":"53", "max":"157", "chance":"69633"}, {"id":"1951", "min":"24", "max":"72", "chance":"236903"}, {"id":"2053", "min":"12", "max":"36", "chance":"232829"}, {"id":"951", "min":"1", "max":"3", "chance":"796395"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4183", "level": "3"}, {"id": "4189", "level": "3"}, {"id": "4194", "level": "3"}, {"id": "4494", "level": "1"}, {"id": "4798", "level": "1"}]
+}

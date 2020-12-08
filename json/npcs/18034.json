@@ -1,47 +1,9 @@
-[
-    {
-        "id": "18034",
-        "name": "Witch's Offering Berserker",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "57",
-                "min": "585",
-                "max": "1171",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4071",
-                "level": "5"
-            },
-            {
-                "id": "4244",
-                "level": "5"
-            },
-            {
-                "id": "4273",
-                "level": "3"
-            },
-            {
-                "id": "4274",
-                "level": "1"
-            },
-            {
-                "id": "4413",
-                "level": "15"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            },
-            {
-                "id": "4439",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "18034", 
+	"name": "Witch's Offering Berserker", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"57", "min":"585", "max":"1171", "chance":"700000"}],
+	"skills":[{"id": "4071", "level": "5"}, {"id": "4244", "level": "5"}, {"id": "4273", "level": "3"}, {"id": "4274", "level": "1"}, {"id": "4413", "level": "15"}, {"id": "4438", "level": "2"}, {"id": "4439", "level": "2"}]
+}

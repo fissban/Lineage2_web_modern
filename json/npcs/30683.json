@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30683",
-        "name": "Daunt",
-        "title": "Prefect",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30683", 
+	"name": "Daunt", 
+	"title": "Prefect", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

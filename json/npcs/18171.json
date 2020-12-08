@@ -1,36 +1,9 @@
-[
-    {
-        "id": "18171",
-        "name": "Imperial Guard",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4408",
-                "level": "14"
-            },
-            {
-                "id": "4561",
-                "level": "9"
-            },
-            {
-                "id": "4603",
-                "level": "9"
-            },
-            {
-                "id": "4609",
-                "level": "4"
-            }
-        ]
-    }
-]
+{
+	"id": "18171", 
+	"name": "Imperial Guard", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}, {"id": "4408", "level": "14"}, {"id": "4561", "level": "9"}, {"id": "4603", "level": "9"}, {"id": "4609", "level": "4"}]
+}

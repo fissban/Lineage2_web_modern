@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27102",
-        "name": "Pako The Cat",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27102", 
+	"name": "Pako The Cat", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

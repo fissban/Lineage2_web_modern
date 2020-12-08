@@ -1,11 +1,9 @@
-[
-    {
-        "id": "16022",
-        "name": "Tame Tiny Baby Cougar",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "16022", 
+	"name": "Tame Tiny Baby Cougar", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

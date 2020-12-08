@@ -1,31 +1,9 @@
-[
-    {
-        "id": "25174",
-        "name": "Karuta's Follower",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1342",
-                "min": "20",
-                "max": "60",
-                "chance": "559200"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4214",
-                "level": "4"
-            },
-            {
-                "id": "4781",
-                "level": "4"
-            }
-        ]
-    }
-]
+{
+	"id": "25174", 
+	"name": "Karuta's Follower", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"559200"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4214", "level": "4"}, {"id": "4781", "level": "4"}]
+}

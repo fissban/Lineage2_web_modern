@@ -1,28 +1,9 @@
-[
-    {
-        "id": "18328",
-        "name": "Hall Alarm Device",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4390",
-                "level": "1"
-            },
-            {
-                "id": "4408",
-                "level": "16"
-            },
-            {
-                "id": "4413",
-                "level": "16"
-            }
-        ]
-    }
-]
+{
+	"id": "18328", 
+	"name": "Hall Alarm Device", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4390", "level": "1"}, {"id": "4408", "level": "16"}, {"id": "4413", "level": "16"}]
+}

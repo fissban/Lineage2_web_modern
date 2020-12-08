@@ -1,35 +1,9 @@
-[
-    {
-        "id": "25114",
-        "name": "Meana's Guard Doll",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1341",
-                "min": "10",
-                "max": "30",
-                "chance": "859422"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4726",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "25114", 
+	"name": "Meana's Guard Doll", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"859422"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}, {"id": "4726", "level": "2"}]
+}

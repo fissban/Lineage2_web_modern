@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30559",
-        "name": "Kunai",
-        "title": "Armor Merchant",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30559", 
+	"name": "Kunai", 
+	"title": "Armor Merchant", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

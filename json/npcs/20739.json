@@ -1,32 +1,9 @@
-[
-    {
-        "id": "20739",
-        "name": "Bepook's Pet",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4408",
-                "level": "9"
-            },
-            {
-                "id": "4410",
-                "level": "13"
-            },
-            {
-                "id": "4411",
-                "level": "13"
-            },
-            {
-                "id": "4412",
-                "level": "9"
-            },
-            {
-                "id": "4413",
-                "level": "9"
-            }
-        ]
-    }
-]
+{
+	"id": "20739", 
+	"name": "Bepook's Pet", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4408", "level": "9"}, {"id": "4410", "level": "13"}, {"id": "4411", "level": "13"}, {"id": "4412", "level": "9"}, {"id": "4413", "level": "9"}]
+}

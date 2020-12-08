@@ -1,36 +1,9 @@
-[
-    {
-        "id": "18189",
-        "name": "Knight of Darkness",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "9"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4408",
-                "level": "14"
-            },
-            {
-                "id": "4413",
-                "level": "17"
-            },
-            {
-                "id": "4573",
-                "level": "9"
-            }
-        ]
-    }
-]
+{
+	"id": "18189", 
+	"name": "Knight of Darkness", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4032", "level": "9"}, {"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}, {"id": "4408", "level": "14"}, {"id": "4413", "level": "17"}, {"id": "4573", "level": "9"}]
+}

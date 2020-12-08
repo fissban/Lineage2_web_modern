@@ -1,43 +1,9 @@
-[
-    {
-        "id": "25253",
-        "name": "Handmaiden of Themis",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "20",
-                "max": "60",
-                "chance": "898500"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4192",
-                "level": "6"
-            },
-            {
-                "id": "4202",
-                "level": "6"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25253", 
+	"name": "Handmaiden of Themis", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"898500"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4192", "level": "6"}, {"id": "4202", "level": "6"}, {"id": "4278", "level": "1"}, {"id": "4333", "level": "5"}, {"id": "4414", "level": "3"}]
+}

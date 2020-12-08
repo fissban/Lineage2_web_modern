@@ -1,65 +1,9 @@
-[
-    {
-        "id": "21452",
-        "name": "Alpine Kookaburra",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "57",
-                "min": "986",
-                "max": "1982",
-                "chance": "700000"
-            },
-            {
-                "id": "1875",
-                "min": "1",
-                "max": "1",
-                "chance": "164372"
-            },
-            {
-                "id": "3035",
-                "min": "1",
-                "max": "1",
-                "chance": "3287"
-            },
-            {
-                "id": "4081",
-                "min": "1",
-                "max": "1",
-                "chance": "24301"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "6"
-            },
-            {
-                "id": "4092",
-                "level": "1"
-            },
-            {
-                "id": "4410",
-                "level": "9"
-            },
-            {
-                "id": "4411",
-                "level": "9"
-            },
-            {
-                "id": "4412",
-                "level": "13"
-            },
-            {
-                "id": "4413",
-                "level": "13"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "21452", 
+	"name": "Alpine Kookaburra", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"57", "min":"986", "max":"1982", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"164372"}, {"id":"3035", "min":"1", "max":"1", "chance":"3287"}, {"id":"4081", "min":"1", "max":"1", "chance":"24301"}],
+	"skills":[{"id": "4032", "level": "6"}, {"id": "4092", "level": "1"}, {"id": "4410", "level": "9"}, {"id": "4411", "level": "9"}, {"id": "4412", "level": "13"}, {"id": "4413", "level": "13"}, {"id": "4438", "level": "2"}]
+}

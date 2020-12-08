@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27032",
-        "name": "Lizardman Warrior",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27032", 
+	"name": "Lizardman Warrior", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

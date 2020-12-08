@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27045",
-        "name": "Kuruka Ratman Leader",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27045", 
+	"name": "Kuruka Ratman Leader", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

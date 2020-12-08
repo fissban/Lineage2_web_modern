@@ -1,72 +1,9 @@
-[
-    {
-        "id": "20121",
-        "name": "Giant Toad",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "4",
-                "min": "1",
-                "max": "1",
-                "chance": "7622"
-            },
-            {
-                "id": "7",
-                "min": "1",
-                "max": "1",
-                "chance": "7622"
-            },
-            {
-                "id": "17",
-                "min": "10",
-                "max": "30",
-                "chance": "73166"
-            },
-            {
-                "id": "1786",
-                "min": "1",
-                "max": "1",
-                "chance": "11707"
-            },
-            {
-                "id": "1866",
-                "min": "1",
-                "max": "1",
-                "chance": "9756"
-            },
-            {
-                "id": "1871",
-                "min": "1",
-                "max": "1",
-                "chance": "14634"
-            },
-            {
-                "id": "57",
-                "min": "30",
-                "max": "42",
-                "chance": "700000"
-            },
-            {
-                "id": "1786",
-                "min": "1",
-                "max": "1",
-                "chance": "45293"
-            },
-            {
-                "id": "1788",
-                "min": "1",
-                "max": "1",
-                "chance": "45293"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "1",
-                "chance": "113233"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "20121", 
+	"name": "Giant Toad", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"4", "min":"1", "max":"1", "chance":"7622"}, {"id":"7", "min":"1", "max":"1", "chance":"7622"}, {"id":"17", "min":"10", "max":"30", "chance":"73166"}, {"id":"1786", "min":"1", "max":"1", "chance":"11707"}, {"id":"1866", "min":"1", "max":"1", "chance":"9756"}, {"id":"1871", "min":"1", "max":"1", "chance":"14634"}, {"id":"57", "min":"30", "max":"42", "chance":"700000"}, {"id":"1786", "min":"1", "max":"1", "chance":"45293"}, {"id":"1788", "min":"1", "max":"1", "chance":"45293"}, {"id":"1864", "min":"1", "max":"1", "chance":"113233"}],
+	"skills":[]
+}

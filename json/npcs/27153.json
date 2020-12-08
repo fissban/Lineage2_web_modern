@@ -1,28 +1,9 @@
-[
-    {
-        "id": "27153",
-        "name": "Alexandro Sanches",
-        "title": "Dark Lord",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4276",
-                "level": "1"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4281",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            }
-        ]
-    }
-]
+{
+	"id": "27153", 
+	"name": "Alexandro Sanches", 
+	"title": "Dark Lord", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4276", "level": "1"}, {"id": "4278", "level": "1"}, {"id": "4281", "level": "1"}, {"id": "4333", "level": "5"}]
+}

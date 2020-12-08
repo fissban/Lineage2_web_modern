@@ -1,11 +1,9 @@
-[
-    {
-        "id": "20309",
-        "name": "Brown Fox",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "20309", 
+	"name": "Brown Fox", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

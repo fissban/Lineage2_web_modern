@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27172",
-        "name": "Harit Lizardman Zealot",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27172", 
+	"name": "Harit Lizardman Zealot", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

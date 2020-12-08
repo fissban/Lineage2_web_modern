@@ -1,69 +1,9 @@
-[
-    {
-        "id": "21453",
-        "name": "Alpine Kookaburra",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "57",
-                "min": "825",
-                "max": "1667",
-                "chance": "700000"
-            },
-            {
-                "id": "3956",
-                "min": "1",
-                "max": "1",
-                "chance": "2763"
-            },
-            {
-                "id": "4082",
-                "min": "1",
-                "max": "1",
-                "chance": "23411"
-            },
-            {
-                "id": "4083",
-                "min": "1",
-                "max": "1",
-                "chance": "23411"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4092",
-                "level": "1"
-            },
-            {
-                "id": "4160",
-                "level": "6"
-            },
-            {
-                "id": "4257",
-                "level": "6"
-            },
-            {
-                "id": "4410",
-                "level": "9"
-            },
-            {
-                "id": "4411",
-                "level": "9"
-            },
-            {
-                "id": "4412",
-                "level": "13"
-            },
-            {
-                "id": "4413",
-                "level": "13"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "21453", 
+	"name": "Alpine Kookaburra", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"57", "min":"825", "max":"1667", "chance":"700000"}, {"id":"3956", "min":"1", "max":"1", "chance":"2763"}, {"id":"4082", "min":"1", "max":"1", "chance":"23411"}, {"id":"4083", "min":"1", "max":"1", "chance":"23411"}],
+	"skills":[{"id": "4092", "level": "1"}, {"id": "4160", "level": "6"}, {"id": "4257", "level": "6"}, {"id": "4410", "level": "9"}, {"id": "4411", "level": "9"}, {"id": "4412", "level": "13"}, {"id": "4413", "level": "13"}, {"id": "4438", "level": "2"}]
+}

@@ -1,23 +1,9 @@
-[
-    {
-        "id": "25232",
-        "name": "Ragoth's Herald",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1342",
-                "min": "20",
-                "max": "60",
-                "chance": "917600"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25232", 
+	"name": "Ragoth's Herald", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"917600"}],
+	"skills":[{"id": "4045", "level": "1"}]
+}

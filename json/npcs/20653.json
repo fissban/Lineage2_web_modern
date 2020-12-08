@@ -1,16 +1,9 @@
-[
-    {
-        "id": "20653",
-        "name": "Lesser Giant",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4408",
-                "level": "11"
-            }
-        ]
-    }
-]
+{
+	"id": "20653", 
+	"name": "Lesser Giant", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4408", "level": "11"}]
+}

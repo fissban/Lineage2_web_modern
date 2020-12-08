@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30338",
-        "name": "Melville",
-        "title": "Guard",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30338", 
+	"name": "Melville", 
+	"title": "Guard", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

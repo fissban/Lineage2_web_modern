@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27116",
-        "name": "Lava Salamander",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27116", 
+	"name": "Lava Salamander", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

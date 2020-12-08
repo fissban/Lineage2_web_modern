@@ -1,16 +1,9 @@
-[
-    {
-        "id": "27187",
-        "name": "Fairy Tree of Twilight",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4071",
-                "level": "5"
-            }
-        ]
-    }
-]
+{
+	"id": "27187", 
+	"name": "Fairy Tree of Twilight", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4071", "level": "5"}]
+}

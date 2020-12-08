@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27123",
-        "name": "Leto Lizardman Leader",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27123", 
+	"name": "Leto Lizardman Leader", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

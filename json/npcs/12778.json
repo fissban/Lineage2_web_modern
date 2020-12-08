@@ -1,11 +1,9 @@
-[
-    {
-        "id": "12778",
-        "name": "High Quality Large Squash",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "12778", 
+	"name": "High Quality Large Squash", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

@@ -1,66 +1,9 @@
-[
-    {
-        "id": "22215",
-        "name": "Tyrannosaurus",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "5541",
-                "min": "1",
-                "max": "1",
-                "chance": "20000"
-            },
-            {
-                "id": "8627",
-                "min": "1",
-                "max": "1",
-                "chance": "45454"
-            },
-            {
-                "id": "8633",
-                "min": "1",
-                "max": "1",
-                "chance": "58823"
-            },
-            {
-                "id": "8894",
-                "min": "1",
-                "max": "1",
-                "chance": "52632"
-            },
-            {
-                "id": "8895",
-                "min": "1",
-                "max": "1",
-                "chance": "333333"
-            },
-            {
-                "id": "8956",
-                "min": "1",
-                "max": "1",
-                "chance": "4975"
-            },
-            {
-                "id": "8894",
-                "min": "1",
-                "max": "1",
-                "chance": "44775"
-            },
-            {
-                "id": "8895",
-                "min": "1",
-                "max": "1",
-                "chance": "29412"
-            },
-            {
-                "id": "57",
-                "min": "80380",
-                "max": "138860",
-                "chance": "700000"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "22215", 
+	"name": "Tyrannosaurus", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"5541", "min":"1", "max":"1", "chance":"20000"}, {"id":"8627", "min":"1", "max":"1", "chance":"45454"}, {"id":"8633", "min":"1", "max":"1", "chance":"58823"}, {"id":"8894", "min":"1", "max":"1", "chance":"52632"}, {"id":"8895", "min":"1", "max":"1", "chance":"333333"}, {"id":"8956", "min":"1", "max":"1", "chance":"4975"}, {"id":"8894", "min":"1", "max":"1", "chance":"44775"}, {"id":"8895", "min":"1", "max":"1", "chance":"29412"}, {"id":"57", "min":"80380", "max":"138860", "chance":"700000"}],
+	"skills":[]
+}

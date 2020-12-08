@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27082",
-        "name": "Enku Orc Overlord",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27082", 
+	"name": "Enku Orc Overlord", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

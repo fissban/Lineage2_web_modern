@@ -1,20 +1,9 @@
-[
-    {
-        "id": "27117",
-        "name": "Nahir",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            }
-        ]
-    }
-]
+{
+	"id": "27117", 
+	"name": "Nahir", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4278", "level": "1"}, {"id": "4333", "level": "5"}]
+}

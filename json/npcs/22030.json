@@ -1,65 +1,9 @@
-[
-    {
-        "id": "22030",
-        "name": "Ragna Orc Shaman",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1868",
-                "min": "1",
-                "max": "1",
-                "chance": "250000"
-            },
-            {
-                "id": "1873",
-                "min": "1",
-                "max": "1",
-                "chance": "52632"
-            },
-            {
-                "id": "1876",
-                "min": "1",
-                "max": "1",
-                "chance": "25641"
-            },
-            {
-                "id": "1895",
-                "min": "1",
-                "max": "1",
-                "chance": "37037"
-            },
-            {
-                "id": "1953",
-                "min": "1",
-                "max": "1",
-                "chance": "8333"
-            },
-            {
-                "id": "57",
-                "min": "505",
-                "max": "1018",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4065",
-                "level": "1"
-            },
-            {
-                "id": "4100",
-                "level": "1"
-            },
-            {
-                "id": "4160",
-                "level": "1"
-            },
-            {
-                "id": "4411",
-                "level": "13"
-            }
-        ]
-    }
-]
+{
+	"id": "22030", 
+	"name": "Ragna Orc Shaman", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1868", "min":"1", "max":"1", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"52632"}, {"id":"1876", "min":"1", "max":"1", "chance":"25641"}, {"id":"1895", "min":"1", "max":"1", "chance":"37037"}, {"id":"1953", "min":"1", "max":"1", "chance":"8333"}, {"id":"57", "min":"505", "max":"1018", "chance":"700000"}],
+	"skills":[{"id": "4065", "level": "1"}, {"id": "4100", "level": "1"}, {"id": "4160", "level": "1"}, {"id": "4411", "level": "13"}]
+}

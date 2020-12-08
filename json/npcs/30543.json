@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30543",
-        "name": "Ethan",
-        "title": "Defender",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30543", 
+	"name": "Ethan", 
+	"title": "Defender", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

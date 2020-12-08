@@ -1,24 +1,9 @@
-[
-    {
-        "id": "29043",
-        "name": "Howling Ifrit",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4209",
-                "level": "9"
-            },
-            {
-                "id": "4211",
-                "level": "9"
-            }
-        ]
-    }
-]
+{
+	"id": "29043", 
+	"name": "Howling Ifrit", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4209", "level": "9"}, {"id": "4211", "level": "9"}]
+}

@@ -1,81 +1,9 @@
-[
-    {
-        "id": "25249",
-        "name": "Palatanos of Horrific Power",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "6674",
-                "min": "1",
-                "max": "1",
-                "chance": "25881"
-            },
-            {
-                "id": "6675",
-                "min": "1",
-                "max": "1",
-                "chance": "41305"
-            },
-            {
-                "id": "6701",
-                "min": "53",
-                "max": "157",
-                "chance": "93828"
-            },
-            {
-                "id": "6702",
-                "min": "24",
-                "max": "72",
-                "chance": "264209"
-            },
-            {
-                "id": "3936",
-                "min": "1",
-                "max": "1",
-                "chance": "719611"
-            },
-            {
-                "id": "6578",
-                "min": "1",
-                "max": "1",
-                "chance": "63966"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4197",
-                "level": "8"
-            },
-            {
-                "id": "4273",
-                "level": "3"
-            },
-            {
-                "id": "4274",
-                "level": "1"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4881",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25249", 
+	"name": "Palatanos of Horrific Power", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"6674", "min":"1", "max":"1", "chance":"25881"}, {"id":"6675", "min":"1", "max":"1", "chance":"41305"}, {"id":"6701", "min":"53", "max":"157", "chance":"93828"}, {"id":"6702", "min":"24", "max":"72", "chance":"264209"}, {"id":"3936", "min":"1", "max":"1", "chance":"719611"}, {"id":"6578", "min":"1", "max":"1", "chance":"63966"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4197", "level": "8"}, {"id": "4273", "level": "3"}, {"id": "4274", "level": "1"}, {"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}, {"id": "4494", "level": "1"}, {"id": "4881", "level": "1"}]
+}

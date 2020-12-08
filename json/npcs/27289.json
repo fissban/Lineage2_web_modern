@@ -1,40 +1,9 @@
-[
-    {
-        "id": "27289",
-        "name": "Ancient Sword Master Iron",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "1",
-                "level": "37"
-            },
-            {
-                "id": "260",
-                "level": "37"
-            },
-            {
-                "id": "4032",
-                "level": "8"
-            },
-            {
-                "id": "4067",
-                "level": "8"
-            },
-            {
-                "id": "4412",
-                "level": "18"
-            },
-            {
-                "id": "4414",
-                "level": "1"
-            },
-            {
-                "id": "4579",
-                "level": "8"
-            }
-        ]
-    }
-]
+{
+	"id": "27289", 
+	"name": "Ancient Sword Master Iron", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "1", "level": "37"}, {"id": "260", "level": "37"}, {"id": "4032", "level": "8"}, {"id": "4067", "level": "8"}, {"id": "4412", "level": "18"}, {"id": "4414", "level": "1"}, {"id": "4579", "level": "8"}]
+}

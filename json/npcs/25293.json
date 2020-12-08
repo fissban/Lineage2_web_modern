@@ -1,67 +1,9 @@
-[
-    {
-        "id": "25293",
-        "name": "Hestia Guardian Deity of the Hot Springs",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "6684",
-                "min": "1",
-                "max": "1",
-                "chance": "43765"
-            },
-            {
-                "id": "959",
-                "min": "1",
-                "max": "1",
-                "chance": "39486"
-            },
-            {
-                "id": "960",
-                "min": "1",
-                "max": "1",
-                "chance": "394857"
-            },
-            {
-                "id": "6577",
-                "min": "1",
-                "max": "1",
-                "chance": "6582"
-            },
-            {
-                "id": "6711",
-                "min": "60",
-                "max": "180",
-                "chance": "157213"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4185",
-                "level": "8"
-            },
-            {
-                "id": "4187",
-                "level": "8"
-            },
-            {
-                "id": "4194",
-                "level": "8"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4901",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25293", 
+	"name": "Hestia Guardian Deity of the Hot Springs", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"6684", "min":"1", "max":"1", "chance":"43765"}, {"id":"959", "min":"1", "max":"1", "chance":"39486"}, {"id":"960", "min":"1", "max":"1", "chance":"394857"}, {"id":"6577", "min":"1", "max":"1", "chance":"6582"}, {"id":"6711", "min":"60", "max":"180", "chance":"157213"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4185", "level": "8"}, {"id": "4187", "level": "8"}, {"id": "4194", "level": "8"}, {"id": "4494", "level": "1"}, {"id": "4901", "level": "1"}]
+}

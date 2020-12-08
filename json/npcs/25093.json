@@ -1,27 +1,9 @@
-[
-    {
-        "id": "25093",
-        "name": "Korim Chief Guard Kaywon",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "20",
-                "max": "60",
-                "chance": "898500"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4720",
-                "level": "6"
-            }
-        ]
-    }
-]
+{
+	"id": "25093", 
+	"name": "Korim Chief Guard Kaywon", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"898500"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4720", "level": "6"}]
+}

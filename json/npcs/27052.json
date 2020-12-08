@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27052",
-        "name": "Minsku",
-        "title": "Orc Betrayer",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27052", 
+	"name": "Minsku", 
+	"title": "Orc Betrayer", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

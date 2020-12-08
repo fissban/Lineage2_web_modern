@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30930",
-        "name": "Rogent",
-        "title": "Antique Appraiser",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30930", 
+	"name": "Rogent", 
+	"title": "Antique Appraiser", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

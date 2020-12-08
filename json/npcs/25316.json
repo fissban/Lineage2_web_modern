@@ -1,81 +1,9 @@
-[
-    {
-        "id": "25316",
-        "name": "Soul of Water Ashutar",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "6371",
-                "min": "1",
-                "max": "1",
-                "chance": "7197"
-            },
-            {
-                "id": "6680",
-                "min": "1",
-                "max": "1",
-                "chance": "13457"
-            },
-            {
-                "id": "6695",
-                "min": "3",
-                "max": "9",
-                "chance": "620691"
-            },
-            {
-                "id": "6707",
-                "min": "12",
-                "max": "36",
-                "chance": "241685"
-            },
-            {
-                "id": "3936",
-                "min": "1",
-                "max": "1",
-                "chance": "569081"
-            },
-            {
-                "id": "6578",
-                "min": "1",
-                "max": "1",
-                "chance": "50586"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4010",
-                "level": "5"
-            },
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4187",
-                "level": "1"
-            },
-            {
-                "id": "4190",
-                "level": "1"
-            },
-            {
-                "id": "4196",
-                "level": "1"
-            },
-            {
-                "id": "4279",
-                "level": "1"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4910",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25316", 
+	"name": "Soul of Water Ashutar", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"6371", "min":"1", "max":"1", "chance":"7197"}, {"id":"6680", "min":"1", "max":"1", "chance":"13457"}, {"id":"6695", "min":"3", "max":"9", "chance":"620691"}, {"id":"6707", "min":"12", "max":"36", "chance":"241685"}, {"id":"3936", "min":"1", "max":"1", "chance":"569081"}, {"id":"6578", "min":"1", "max":"1", "chance":"50586"}],
+	"skills":[{"id": "4010", "level": "5"}, {"id": "4045", "level": "1"}, {"id": "4187", "level": "1"}, {"id": "4190", "level": "1"}, {"id": "4196", "level": "1"}, {"id": "4279", "level": "1"}, {"id": "4494", "level": "1"}, {"id": "4910", "level": "1"}]
+}

@@ -1,31 +1,9 @@
-[
-    {
-        "id": "25402",
-        "name": "Retainer of Skyla",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "6036",
-                "min": "1",
-                "max": "1",
-                "chance": "9547"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4733",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25402", 
+	"name": "Retainer of Skyla", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"6036", "min":"1", "max":"1", "chance":"9547"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4414", "level": "3"}, {"id": "4733", "level": "3"}]
+}

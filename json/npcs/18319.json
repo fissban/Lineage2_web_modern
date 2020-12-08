@@ -1,63 +1,9 @@
-[
-    {
-        "id": "18319",
-        "name": "Caught Frog",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "6529",
-                "min": "1",
-                "max": "1",
-                "chance": "1159"
-            },
-            {
-                "id": "6519",
-                "min": "1",
-                "max": "1",
-                "chance": "86953"
-            },
-            {
-                "id": "6522",
-                "min": "1",
-                "max": "1",
-                "chance": "57969"
-            },
-            {
-                "id": "6525",
-                "min": "1",
-                "max": "1",
-                "chance": "72461"
-            },
-            {
-                "id": "6535",
-                "min": "12",
-                "max": "36",
-                "chance": "120768"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4382",
-                "level": "1"
-            },
-            {
-                "id": "4413",
-                "level": "15"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            },
-            {
-                "id": "4439",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "18319", 
+	"name": "Caught Frog", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"6529", "min":"1", "max":"1", "chance":"1159"}, {"id":"6519", "min":"1", "max":"1", "chance":"86953"}, {"id":"6522", "min":"1", "max":"1", "chance":"57969"}, {"id":"6525", "min":"1", "max":"1", "chance":"72461"}, {"id":"6535", "min":"12", "max":"36", "chance":"120768"}],
+	"skills":[{"id": "4382", "level": "1"}, {"id": "4413", "level": "15"}, {"id": "4414", "level": "3"}, {"id": "4438", "level": "2"}, {"id": "4439", "level": "2"}]
+}

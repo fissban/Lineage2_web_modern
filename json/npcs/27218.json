@@ -1,20 +1,9 @@
-[
-    {
-        "id": "27218",
-        "name": "Triol's Pawn",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4073",
-                "level": "6"
-            },
-            {
-                "id": "4414",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "27218", 
+	"name": "Triol's Pawn", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4073", "level": "6"}, {"id": "4414", "level": "1"}]
+}

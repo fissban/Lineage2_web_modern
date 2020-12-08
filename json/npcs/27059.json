@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27059",
-        "name": "Uoph",
-        "title": "Kaboo Chief",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27059", 
+	"name": "Uoph", 
+	"title": "Kaboo Chief", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

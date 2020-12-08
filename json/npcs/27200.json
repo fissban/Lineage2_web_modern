@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27200",
-        "name": "Krudel Lizardman",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27200", 
+	"name": "Krudel Lizardman", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

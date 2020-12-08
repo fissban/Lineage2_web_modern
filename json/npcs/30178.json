@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30178",
-        "name": "Zenkin",
-        "title": "Armor Merchant",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30178", 
+	"name": "Zenkin", 
+	"title": "Armor Merchant", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

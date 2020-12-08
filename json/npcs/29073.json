@@ -1,11 +1,9 @@
-[
-    {
-        "id": "29073",
-        "name": "Dragon Bomber",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "29073", 
+	"name": "Dragon Bomber", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

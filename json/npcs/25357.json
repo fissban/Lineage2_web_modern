@@ -1,65 +1,9 @@
-[
-    {
-        "id": "25357",
-        "name": "Sukar Wererat Chief",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "222",
-                "min": "1",
-                "max": "1",
-                "chance": "159449"
-            },
-            {
-                "id": "605",
-                "min": "4",
-                "max": "12",
-                "chance": "128485"
-            },
-            {
-                "id": "1123",
-                "min": "2",
-                "max": "4",
-                "chance": "342628"
-            },
-            {
-                "id": "955",
-                "min": "1",
-                "max": "1",
-                "chance": "443703"
-            },
-            {
-                "id": "956",
-                "min": "8",
-                "max": "22",
-                "chance": "246502"
-            },
-            {
-                "id": "6387",
-                "min": "24",
-                "max": "72",
-                "chance": "92438"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4178",
-                "level": "2"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4927",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25357", 
+	"name": "Sukar Wererat Chief", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"222", "min":"1", "max":"1", "chance":"159449"}, {"id":"605", "min":"4", "max":"12", "chance":"128485"}, {"id":"1123", "min":"2", "max":"4", "chance":"342628"}, {"id":"955", "min":"1", "max":"1", "chance":"443703"}, {"id":"956", "min":"8", "max":"22", "chance":"246502"}, {"id":"6387", "min":"24", "max":"72", "chance":"92438"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4178", "level": "2"}, {"id": "4494", "level": "1"}, {"id": "4927", "level": "1"}]
+}

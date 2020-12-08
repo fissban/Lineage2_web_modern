@@ -1,84 +1,9 @@
-[
-    {
-        "id": "21100",
-        "name": "Langk Lizardman Sentinel",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "845",
-                "min": "1",
-                "max": "1",
-                "chance": "886"
-            },
-            {
-                "id": "877",
-                "min": "1",
-                "max": "1",
-                "chance": "1330"
-            },
-            {
-                "id": "908",
-                "min": "1",
-                "max": "1",
-                "chance": "662"
-            },
-            {
-                "id": "1817",
-                "min": "1",
-                "max": "1",
-                "chance": "7870"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "1",
-                "chance": "78691"
-            },
-            {
-                "id": "1869",
-                "min": "1",
-                "max": "1",
-                "chance": "39346"
-            },
-            {
-                "id": "1880",
-                "min": "1",
-                "max": "1",
-                "chance": "3935"
-            },
-            {
-                "id": "1897",
-                "min": "1",
-                "max": "1",
-                "chance": "9369"
-            },
-            {
-                "id": "57",
-                "min": "125",
-                "max": "213",
-                "chance": "700000"
-            },
-            {
-                "id": "1800",
-                "min": "1",
-                "max": "1",
-                "chance": "83774"
-            },
-            {
-                "id": "1897",
-                "min": "1",
-                "max": "1",
-                "chance": "63429"
-            },
-            {
-                "id": "1924",
-                "min": "1",
-                "max": "1",
-                "chance": "85936"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "21100", 
+	"name": "Langk Lizardman Sentinel", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"845", "min":"1", "max":"1", "chance":"886"}, {"id":"877", "min":"1", "max":"1", "chance":"1330"}, {"id":"908", "min":"1", "max":"1", "chance":"662"}, {"id":"1817", "min":"1", "max":"1", "chance":"7870"}, {"id":"1864", "min":"1", "max":"1", "chance":"78691"}, {"id":"1869", "min":"1", "max":"1", "chance":"39346"}, {"id":"1880", "min":"1", "max":"1", "chance":"3935"}, {"id":"1897", "min":"1", "max":"1", "chance":"9369"}, {"id":"57", "min":"125", "max":"213", "chance":"700000"}, {"id":"1800", "min":"1", "max":"1", "chance":"83774"}, {"id":"1897", "min":"1", "max":"1", "chance":"63429"}, {"id":"1924", "min":"1", "max":"1", "chance":"85936"}],
+	"skills":[]
+}

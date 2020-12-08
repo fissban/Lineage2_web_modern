@@ -1,27 +1,9 @@
-[
-    {
-        "id": "25201",
-        "name": "Guard of Sheshark",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "20",
-                "max": "60",
-                "chance": "957000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4724",
-                "level": "7"
-            }
-        ]
-    }
-]
+{
+	"id": "25201", 
+	"name": "Guard of Sheshark", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"957000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4724", "level": "7"}]
+}

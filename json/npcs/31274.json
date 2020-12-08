@@ -1,16 +1,9 @@
-[
-    {
-        "id": "31274",
-        "name": "Fundin",
-        "title": "Mineral Trader",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31274", 
+	"name": "Fundin", 
+	"title": "Mineral Trader", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

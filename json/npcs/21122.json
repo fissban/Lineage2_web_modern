@@ -1,66 +1,9 @@
-[
-    {
-        "id": "21122",
-        "name": "Kasha Bugbear",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "273",
-                "min": "1",
-                "max": "1",
-                "chance": "83"
-            },
-            {
-                "id": "1868",
-                "min": "1",
-                "max": "1",
-                "chance": "133704"
-            },
-            {
-                "id": "1873",
-                "min": "1",
-                "max": "1",
-                "chance": "26741"
-            },
-            {
-                "id": "2016",
-                "min": "1",
-                "max": "1",
-                "chance": "1175"
-            },
-            {
-                "id": "5268",
-                "min": "1",
-                "max": "1",
-                "chance": "2675"
-            },
-            {
-                "id": "57",
-                "min": "151",
-                "max": "278",
-                "chance": "700000"
-            },
-            {
-                "id": "1928",
-                "min": "1",
-                "max": "1",
-                "chance": "49451"
-            },
-            {
-                "id": "1929",
-                "min": "1",
-                "max": "1",
-                "chance": "43804"
-            },
-            {
-                "id": "2176",
-                "min": "1",
-                "max": "1",
-                "chance": "162431"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "21122", 
+	"name": "Kasha Bugbear", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"273", "min":"1", "max":"1", "chance":"83"}, {"id":"1868", "min":"1", "max":"1", "chance":"133704"}, {"id":"1873", "min":"1", "max":"1", "chance":"26741"}, {"id":"2016", "min":"1", "max":"1", "chance":"1175"}, {"id":"5268", "min":"1", "max":"1", "chance":"2675"}, {"id":"57", "min":"151", "max":"278", "chance":"700000"}, {"id":"1928", "min":"1", "max":"1", "chance":"49451"}, {"id":"1929", "min":"1", "max":"1", "chance":"43804"}, {"id":"2176", "min":"1", "max":"1", "chance":"162431"}],
+	"skills":[]
+}

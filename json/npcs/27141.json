@@ -1,16 +1,9 @@
-[
-    {
-        "id": "27141",
-        "name": "Breka Overlord Jaka",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "27141", 
+	"name": "Breka Overlord Jaka", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4032", "level": "3"}]
+}

@@ -1,49 +1,9 @@
-[
-    {
-        "id": "22190",
-        "name": "Ritual Sacrifice",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1895",
-                "min": "1",
-                "max": "1",
-                "chance": "350000"
-            },
-            {
-                "id": "57",
-                "min": "7411",
-                "max": "7610",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "9"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4408",
-                "level": "10"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4422",
-                "level": "3"
-            },
-            {
-                "id": "4614",
-                "level": "9"
-            }
-        ]
-    }
-]
+{
+	"id": "22190", 
+	"name": "Ritual Sacrifice", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1895", "min":"1", "max":"1", "chance":"350000"}, {"id":"57", "min":"7411", "max":"7610", "chance":"700000"}],
+	"skills":[{"id": "4032", "level": "9"}, {"id": "4275", "level": "2"}, {"id": "4408", "level": "10"}, {"id": "4414", "level": "3"}, {"id": "4422", "level": "3"}, {"id": "4614", "level": "9"}]
+}

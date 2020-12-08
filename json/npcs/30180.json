@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30180",
-        "name": "Sara",
-        "title": "Grocer",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30180", 
+	"name": "Sara", 
+	"title": "Grocer", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

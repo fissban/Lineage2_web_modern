@@ -1,31 +1,9 @@
-[
-    {
-        "id": "25361",
-        "name": "Yellow Hornet",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1341",
-                "min": "10",
-                "max": "30",
-                "chance": "710311"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4733",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "25361", 
+	"name": "Yellow Hornet", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"710311"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4414", "level": "3"}, {"id": "4733", "level": "2"}]
+}

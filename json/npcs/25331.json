@@ -1,43 +1,9 @@
-[
-    {
-        "id": "25331",
-        "name": "Mina",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "20",
-                "max": "60",
-                "chance": "928000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4193",
-                "level": "7"
-            },
-            {
-                "id": "4203",
-                "level": "7"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25331", 
+	"name": "Mina", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"928000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4193", "level": "7"}, {"id": "4203", "level": "7"}, {"id": "4278", "level": "1"}, {"id": "4333", "level": "5"}, {"id": "4414", "level": "3"}]
+}

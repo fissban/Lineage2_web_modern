@@ -1,20 +1,9 @@
-[
-    {
-        "id": "27309",
-        "name": "Minervia Van Hacken",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4408",
-                "level": "17"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "27309", 
+	"name": "Minervia Van Hacken", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4408", "level": "17"}, {"id": "4414", "level": "3"}]
+}

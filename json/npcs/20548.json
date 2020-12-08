@@ -1,72 +1,9 @@
-[
-    {
-        "id": "20548",
-        "name": "Ol Mahum Deserter",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "625",
-                "min": "1",
-                "max": "1",
-                "chance": "1472"
-            },
-            {
-                "id": "1148",
-                "min": "1",
-                "max": "1",
-                "chance": "1033"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "1",
-                "chance": "94944"
-            },
-            {
-                "id": "1869",
-                "min": "1",
-                "max": "1",
-                "chance": "47472"
-            },
-            {
-                "id": "1880",
-                "min": "1",
-                "max": "1",
-                "chance": "4748"
-            },
-            {
-                "id": "5268",
-                "min": "1",
-                "max": "1",
-                "chance": "1899"
-            },
-            {
-                "id": "57",
-                "min": "147",
-                "max": "260",
-                "chance": "700000"
-            },
-            {
-                "id": "1804",
-                "min": "1",
-                "max": "1",
-                "chance": "12857"
-            },
-            {
-                "id": "1865",
-                "min": "1",
-                "max": "3",
-                "chance": "321422"
-            },
-            {
-                "id": "1930",
-                "min": "1",
-                "max": "1",
-                "chance": "82416"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "20548", 
+	"name": "Ol Mahum Deserter", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"625", "min":"1", "max":"1", "chance":"1472"}, {"id":"1148", "min":"1", "max":"1", "chance":"1033"}, {"id":"1864", "min":"1", "max":"1", "chance":"94944"}, {"id":"1869", "min":"1", "max":"1", "chance":"47472"}, {"id":"1880", "min":"1", "max":"1", "chance":"4748"}, {"id":"5268", "min":"1", "max":"1", "chance":"1899"}, {"id":"57", "min":"147", "max":"260", "chance":"700000"}, {"id":"1804", "min":"1", "max":"1", "chance":"12857"}, {"id":"1865", "min":"1", "max":"3", "chance":"321422"}, {"id":"1930", "min":"1", "max":"1", "chance":"82416"}],
+	"skills":[]
+}

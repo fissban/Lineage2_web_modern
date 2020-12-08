@@ -1,47 +1,9 @@
-[
-    {
-        "id": "25278",
-        "name": "Dead Soul of Stigma",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1539",
-                "min": "1",
-                "max": "1",
-                "chance": "154489"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4211",
-                "level": "4"
-            },
-            {
-                "id": "4276",
-                "level": "1"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4779",
-                "level": "4"
-            }
-        ]
-    }
-]
+{
+	"id": "25278", 
+	"name": "Dead Soul of Stigma", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1539", "min":"1", "max":"1", "chance":"154489"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4211", "level": "4"}, {"id": "4276", "level": "1"}, {"id": "4278", "level": "1"}, {"id": "4333", "level": "5"}, {"id": "4414", "level": "3"}, {"id": "4779", "level": "4"}]
+}

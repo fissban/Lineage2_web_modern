@@ -1,57 +1,9 @@
-[
-    {
-        "id": "21498",
-        "name": "Alpine Cougar",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "57",
-                "min": "2355",
-                "max": "4724",
-                "chance": "700000"
-            },
-            {
-                "id": "5497",
-                "min": "1",
-                "max": "1",
-                "chance": "137944"
-            },
-            {
-                "id": "6337",
-                "min": "1",
-                "max": "1",
-                "chance": "30171"
-            },
-            {
-                "id": "6339",
-                "min": "1",
-                "max": "1",
-                "chance": "45256"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4073",
-                "level": "6"
-            },
-            {
-                "id": "4074",
-                "level": "2"
-            },
-            {
-                "id": "4232",
-                "level": "6"
-            },
-            {
-                "id": "4408",
-                "level": "10"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "21498", 
+	"name": "Alpine Cougar", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"57", "min":"2355", "max":"4724", "chance":"700000"}, {"id":"5497", "min":"1", "max":"1", "chance":"137944"}, {"id":"6337", "min":"1", "max":"1", "chance":"30171"}, {"id":"6339", "min":"1", "max":"1", "chance":"45256"}],
+	"skills":[{"id": "4073", "level": "6"}, {"id": "4074", "level": "2"}, {"id": "4232", "level": "6"}, {"id": "4408", "level": "10"}, {"id": "4438", "level": "2"}]
+}

@@ -1,39 +1,9 @@
-[
-    {
-        "id": "25279",
-        "name": "Evil Spirit of Stigma",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1342",
-                "min": "20",
-                "max": "60",
-                "chance": "695200"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4276",
-                "level": "1"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25279", 
+	"name": "Evil Spirit of Stigma", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"695200"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4276", "level": "1"}, {"id": "4278", "level": "1"}, {"id": "4333", "level": "5"}, {"id": "4414", "level": "3"}]
+}

@@ -1,73 +1,9 @@
-[
-    {
-        "id": "22205",
-        "name": "Deinonychus",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "5534",
-                "min": "1",
-                "max": "1",
-                "chance": "4902"
-            },
-            {
-                "id": "8627",
-                "min": "1",
-                "max": "1",
-                "chance": "11111"
-            },
-            {
-                "id": "8633",
-                "min": "1",
-                "max": "1",
-                "chance": "1229"
-            },
-            {
-                "id": "8887",
-                "min": "1",
-                "max": "1",
-                "chance": "34483"
-            },
-            {
-                "id": "8954",
-                "min": "1",
-                "max": "1",
-                "chance": "1229"
-            },
-            {
-                "id": "8955",
-                "min": "1",
-                "max": "1",
-                "chance": "1229"
-            },
-            {
-                "id": "8880",
-                "min": "1",
-                "max": "1",
-                "chance": "19713"
-            },
-            {
-                "id": "57",
-                "min": "5987",
-                "max": "12110",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "5079",
-                "level": "1"
-            },
-            {
-                "id": "5082",
-                "level": "1"
-            },
-            {
-                "id": "5084",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "22205", 
+	"name": "Deinonychus", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"5534", "min":"1", "max":"1", "chance":"4902"}, {"id":"8627", "min":"1", "max":"1", "chance":"11111"}, {"id":"8633", "min":"1", "max":"1", "chance":"1229"}, {"id":"8887", "min":"1", "max":"1", "chance":"34483"}, {"id":"8954", "min":"1", "max":"1", "chance":"1229"}, {"id":"8955", "min":"1", "max":"1", "chance":"1229"}, {"id":"8880", "min":"1", "max":"1", "chance":"19713"}, {"id":"57", "min":"5987", "max":"12110", "chance":"700000"}],
+	"skills":[{"id": "5079", "level": "1"}, {"id": "5082", "level": "1"}, {"id": "5084", "level": "1"}]
+}

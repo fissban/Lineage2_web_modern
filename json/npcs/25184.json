@@ -1,31 +1,9 @@
-[
-    {
-        "id": "25184",
-        "name": "Devil Blader of Chaos",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1343",
-                "min": "20",
-                "max": "60",
-                "chance": "871429"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25184", 
+	"name": "Devil Blader of Chaos", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"871429"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}]
+}

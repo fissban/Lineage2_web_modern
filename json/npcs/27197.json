@@ -1,24 +1,9 @@
-[
-    {
-        "id": "27197",
-        "name": "Bejewelled Alligator",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4071",
-                "level": "5"
-            },
-            {
-                "id": "4073",
-                "level": "4"
-            },
-            {
-                "id": "4408",
-                "level": "11"
-            }
-        ]
-    }
-]
+{
+	"id": "27197", 
+	"name": "Bejewelled Alligator", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4071", "level": "5"}, {"id": "4073", "level": "4"}, {"id": "4408", "level": "11"}]
+}

@@ -1,63 +1,9 @@
-[
-    {
-        "id": "22014",
-        "name": "Ghost of a Morek Chief",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1341",
-                "min": "10",
-                "max": "29",
-                "chance": "200000"
-            },
-            {
-                "id": "1865",
-                "min": "1",
-                "max": "1",
-                "chance": "22222"
-            },
-            {
-                "id": "1870",
-                "min": "1",
-                "max": "1",
-                "chance": "52632"
-            },
-            {
-                "id": "1879",
-                "min": "1",
-                "max": "1",
-                "chance": "7353"
-            },
-            {
-                "id": "57",
-                "min": "275",
-                "max": "548",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "1"
-            },
-            {
-                "id": "4274",
-                "level": "3"
-            },
-            {
-                "id": "4413",
-                "level": "13"
-            },
-            {
-                "id": "4414",
-                "level": "1"
-            },
-            {
-                "id": "4458",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "22014", 
+	"name": "Ghost of a Morek Chief", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1341", "min":"10", "max":"29", "chance":"200000"}, {"id":"1865", "min":"1", "max":"1", "chance":"22222"}, {"id":"1870", "min":"1", "max":"1", "chance":"52632"}, {"id":"1879", "min":"1", "max":"1", "chance":"7353"}, {"id":"57", "min":"275", "max":"548", "chance":"700000"}],
+	"skills":[{"id": "4032", "level": "1"}, {"id": "4274", "level": "3"}, {"id": "4413", "level": "13"}, {"id": "4414", "level": "1"}, {"id": "4458", "level": "3"}]
+}

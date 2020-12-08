@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30419",
-        "name": "Arkenia",
-        "title": "Witch",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30419", 
+	"name": "Arkenia", 
+	"title": "Witch", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

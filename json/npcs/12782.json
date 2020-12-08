@@ -1,24 +1,9 @@
-[
-    {
-        "id": "12782",
-        "name": "Baby Cougar",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4121",
-                "level": "1"
-            },
-            {
-                "id": "4717",
-                "level": "1"
-            },
-            {
-                "id": "4718",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "12782", 
+	"name": "Baby Cougar", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4121", "level": "1"}, {"id": "4717", "level": "1"}, {"id": "4718", "level": "1"}]
+}

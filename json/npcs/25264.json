@@ -1,47 +1,9 @@
-[
-    {
-        "id": "25264",
-        "name": "Kelone's Assassin",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1343",
-                "min": "20",
-                "max": "60",
-                "chance": "932000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4191",
-                "level": "6"
-            },
-            {
-                "id": "4204",
-                "level": "6"
-            },
-            {
-                "id": "4273",
-                "level": "3"
-            },
-            {
-                "id": "4274",
-                "level": "1"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25264", 
+	"name": "Kelone's Assassin", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"932000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4191", "level": "6"}, {"id": "4204", "level": "6"}, {"id": "4273", "level": "3"}, {"id": "4274", "level": "1"}, {"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}]
+}

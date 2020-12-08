@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27053",
-        "name": "Chuchu",
-        "title": "Orc Betrayer",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27053", 
+	"name": "Chuchu", 
+	"title": "Orc Betrayer", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

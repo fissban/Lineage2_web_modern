@@ -1,35 +1,9 @@
-[
-    {
-        "id": "25215",
-        "name": "Sika's Wizard",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1341",
-                "min": "20",
-                "max": "60",
-                "chance": "736000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4191",
-                "level": "3"
-            },
-            {
-                "id": "4200",
-                "level": "3"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25215", 
+	"name": "Sika's Wizard", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"736000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4191", "level": "3"}, {"id": "4200", "level": "3"}, {"id": "4414", "level": "3"}]
+}

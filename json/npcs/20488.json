@@ -1,77 +1,9 @@
-[
-    {
-        "id": "20488",
-        "name": "Kuruka Ratman Hunter",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "256",
-                "min": "1",
-                "max": "1",
-                "chance": "178"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "1",
-                "chance": "80765"
-            },
-            {
-                "id": "1869",
-                "min": "1",
-                "max": "1",
-                "chance": "40383"
-            },
-            {
-                "id": "2140",
-                "min": "1",
-                "max": "1",
-                "chance": "8077"
-            },
-            {
-                "id": "57",
-                "min": "100",
-                "max": "161",
-                "chance": "700000"
-            },
-            {
-                "id": "412",
-                "min": "1",
-                "max": "1",
-                "chance": "3229"
-            },
-            {
-                "id": "734",
-                "min": "1",
-                "max": "1",
-                "chance": "34178"
-            },
-            {
-                "id": "1800",
-                "min": "1",
-                "max": "1",
-                "chance": "64486"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4410",
-                "level": "10"
-            },
-            {
-                "id": "4411",
-                "level": "10"
-            },
-            {
-                "id": "4412",
-                "level": "12"
-            },
-            {
-                "id": "4413",
-                "level": "12"
-            }
-        ]
-    }
-]
+{
+	"id": "20488", 
+	"name": "Kuruka Ratman Hunter", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"256", "min":"1", "max":"1", "chance":"178"}, {"id":"1864", "min":"1", "max":"1", "chance":"80765"}, {"id":"1869", "min":"1", "max":"1", "chance":"40383"}, {"id":"2140", "min":"1", "max":"1", "chance":"8077"}, {"id":"57", "min":"100", "max":"161", "chance":"700000"}, {"id":"412", "min":"1", "max":"1", "chance":"3229"}, {"id":"734", "min":"1", "max":"1", "chance":"34178"}, {"id":"1800", "min":"1", "max":"1", "chance":"64486"}],
+	"skills":[{"id": "4410", "level": "10"}, {"id": "4411", "level": "10"}, {"id": "4412", "level": "12"}, {"id": "4413", "level": "12"}]
+}

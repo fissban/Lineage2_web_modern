@@ -1,28 +1,9 @@
-[
-    {
-        "id": "18308",
-        "name": "Offering of /Forbidden Path Evoked Spirit",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4413",
-                "level": "15"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            },
-            {
-                "id": "4439",
-                "level": "2"
-            },
-            {
-                "id": "4572",
-                "level": "8"
-            }
-        ]
-    }
-]
+{
+	"id": "18308", 
+	"name": "Offering of /Forbidden Path Evoked Spirit", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4413", "level": "15"}, {"id": "4438", "level": "2"}, {"id": "4439", "level": "2"}, {"id": "4572", "level": "8"}]
+}

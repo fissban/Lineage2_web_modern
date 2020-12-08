@@ -1,35 +1,9 @@
-[
-    {
-        "id": "25002",
-        "name": "Guard of Kutus",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "17",
-                "min": "10",
-                "max": "30",
-                "chance": "919333"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4191",
-                "level": "2"
-            },
-            {
-                "id": "4198",
-                "level": "2"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25002", 
+	"name": "Guard of Kutus", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"17", "min":"10", "max":"30", "chance":"919333"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4191", "level": "2"}, {"id": "4198", "level": "2"}, {"id": "4414", "level": "3"}]
+}

@@ -1,16 +1,9 @@
-[
-    {
-        "id": "31127",
-        "name": "Festival Guide",
-        "title": "Level 31 and Below",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31127", 
+	"name": "Festival Guide", 
+	"title": "Level 31 and Below", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

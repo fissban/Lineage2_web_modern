@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30730",
-        "name": "Jax",
-        "title": "Bodyguard",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30730", 
+	"name": "Jax", 
+	"title": "Bodyguard", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

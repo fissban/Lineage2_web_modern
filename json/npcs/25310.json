@@ -1,31 +1,9 @@
-[
-    {
-        "id": "25310",
-        "name": "Shadith's Royal Guard Captain",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "60",
-                "max": "180",
-                "chance": "403000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4741",
-                "level": "8"
-            }
-        ]
-    }
-]
+{
+	"id": "25310", 
+	"name": "Shadith's Royal Guard Captain", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"403000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4414", "level": "3"}, {"id": "4741", "level": "8"}]
+}

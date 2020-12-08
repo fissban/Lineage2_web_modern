@@ -1,32 +1,9 @@
-[
-    {
-        "id": "18343",
-        "name": "Gatekeeper Zombie",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4408",
-                "level": "16"
-            },
-            {
-                "id": "4411",
-                "level": "15"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4422",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "18343", 
+	"name": "Gatekeeper Zombie", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4275", "level": "2"}, {"id": "4408", "level": "16"}, {"id": "4411", "level": "15"}, {"id": "4414", "level": "3"}, {"id": "4422", "level": "3"}]
+}

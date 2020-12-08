@@ -1,24 +1,9 @@
-[
-    {
-        "id": "29034",
-        "name": "Freki's Ifrit",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4193",
-                "level": "9"
-            },
-            {
-                "id": "4203",
-                "level": "9"
-            }
-        ]
-    }
-]
+{
+	"id": "29034", 
+	"name": "Freki's Ifrit", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4193", "level": "9"}, {"id": "4203", "level": "9"}]
+}

@@ -1,27 +1,9 @@
-[
-    {
-        "id": "25206",
-        "name": "Ashakiel's Blade",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "60",
-                "max": "180",
-                "chance": "359667"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4729",
-                "level": "8"
-            }
-        ]
-    }
-]
+{
+	"id": "25206", 
+	"name": "Ashakiel's Blade", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"359667"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4729", "level": "8"}]
+}

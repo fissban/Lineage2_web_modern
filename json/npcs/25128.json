@@ -1,87 +1,9 @@
-[
-    {
-        "id": "25128",
-        "name": "Vuku Grand Seer Gharmash",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "851",
-                "min": "7",
-                "max": "19",
-                "chance": "26614"
-            },
-            {
-                "id": "882",
-                "min": "6",
-                "max": "16",
-                "chance": "47101"
-            },
-            {
-                "id": "914",
-                "min": "1",
-                "max": "1",
-                "chance": "258412"
-            },
-            {
-                "id": "951",
-                "min": "1",
-                "max": "1",
-                "chance": "295996"
-            },
-            {
-                "id": "952",
-                "min": "3",
-                "max": "9",
-                "chance": "361773"
-            },
-            {
-                "id": "1905",
-                "min": "81",
-                "max": "243",
-                "chance": "125687"
-            },
-            {
-                "id": "1906",
-                "min": "480",
-                "max": "1440",
-                "chance": "29971"
-            },
-            {
-                "id": "1907",
-                "min": "140",
-                "max": "420",
-                "chance": "52004"
-            },
-            {
-                "id": "6573",
-                "min": "1",
-                "max": "1",
-                "chance": "10854"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4197",
-                "level": "3"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4839",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25128", 
+	"name": "Vuku Grand Seer Gharmash", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"851", "min":"7", "max":"19", "chance":"26614"}, {"id":"882", "min":"6", "max":"16", "chance":"47101"}, {"id":"914", "min":"1", "max":"1", "chance":"258412"}, {"id":"951", "min":"1", "max":"1", "chance":"295996"}, {"id":"952", "min":"3", "max":"9", "chance":"361773"}, {"id":"1905", "min":"81", "max":"243", "chance":"125687"}, {"id":"1906", "min":"480", "max":"1440", "chance":"29971"}, {"id":"1907", "min":"140", "max":"420", "chance":"52004"}, {"id":"6573", "min":"1", "max":"1", "chance":"10854"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4197", "level": "3"}, {"id": "4414", "level": "3"}, {"id": "4494", "level": "1"}, {"id": "4839", "level": "1"}]
+}

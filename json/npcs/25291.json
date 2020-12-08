@@ -1,35 +1,9 @@
-[
-    {
-        "id": "25291",
-        "name": "Family of Daimon",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "60",
-                "max": "180",
-                "chance": "381000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4194",
-                "level": "8"
-            },
-            {
-                "id": "4205",
-                "level": "8"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25291", 
+	"name": "Family of Daimon", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"381000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4194", "level": "8"}, {"id": "4205", "level": "8"}, {"id": "4414", "level": "3"}]
+}

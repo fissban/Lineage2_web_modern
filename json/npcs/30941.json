@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30941",
-        "name": "Malcom6",
-        "title": "Prince of Wild Beast",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30941", 
+	"name": "Malcom6", 
+	"title": "Prince of Wild Beast", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

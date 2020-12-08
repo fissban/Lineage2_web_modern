@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27019",
-        "name": "Orc Warrior Leader",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27019", 
+	"name": "Orc Warrior Leader", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

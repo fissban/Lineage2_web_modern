@@ -1,24 +1,9 @@
-[
-    {
-        "id": "14665",
-        "name": "Mechanic Golem",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4068",
-                "level": "4"
-            },
-            {
-                "id": "4121",
-                "level": "1"
-            },
-            {
-                "id": "5038",
-                "level": "15"
-            }
-        ]
-    }
-]
+{
+	"id": "14665", 
+	"name": "Mechanic Golem", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4068", "level": "4"}, {"id": "4121", "level": "1"}, {"id": "5038", "level": "15"}]
+}

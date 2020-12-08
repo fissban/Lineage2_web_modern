@@ -1,49 +1,9 @@
-[
-    {
-        "id": "18109",
-        "name": "Treasures of the Festival",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "955",
-                "min": "1",
-                "max": "1",
-                "chance": "2000"
-            },
-            {
-                "id": "956",
-                "min": "1",
-                "max": "1",
-                "chance": "15000"
-            },
-            {
-                "id": "1060",
-                "min": "1",
-                "max": "1",
-                "chance": "50000"
-            },
-            {
-                "id": "1061",
-                "min": "1",
-                "max": "1",
-                "chance": "50000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4413",
-                "level": "17"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "18109", 
+	"name": "Treasures of the Festival", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"955", "min":"1", "max":"1", "chance":"2000"}, {"id":"956", "min":"1", "max":"1", "chance":"15000"}, {"id":"1060", "min":"1", "max":"1", "chance":"50000"}, {"id":"1061", "min":"1", "max":"1", "chance":"50000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4413", "level": "17"}, {"id": "4414", "level": "3"}]
+}

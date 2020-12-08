@@ -1,24 +1,9 @@
-[
-    {
-        "id": "18119",
-        "name": "Corpse of Deadman",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4279",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "18119", 
+	"name": "Corpse of Deadman", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}, {"id": "4279", "level": "1"}]
+}

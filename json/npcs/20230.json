@@ -1,75 +1,9 @@
-[
-    {
-        "id": "20230",
-        "name": "Marsh Stakato Worker",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "292",
-                "min": "1",
-                "max": "1",
-                "chance": "95"
-            },
-            {
-                "id": "956",
-                "min": "1",
-                "max": "1",
-                "chance": "2548"
-            },
-            {
-                "id": "1865",
-                "min": "1",
-                "max": "1",
-                "chance": "76418"
-            },
-            {
-                "id": "1870",
-                "min": "1",
-                "max": "1",
-                "chance": "76418"
-            },
-            {
-                "id": "1874",
-                "min": "1",
-                "max": "1",
-                "chance": "5095"
-            },
-            {
-                "id": "57",
-                "min": "237",
-                "max": "472",
-                "chance": "700000"
-            },
-            {
-                "id": "434",
-                "min": "1",
-                "max": "1",
-                "chance": "1120"
-            },
-            {
-                "id": "1834",
-                "min": "1",
-                "max": "2",
-                "chance": "621516"
-            },
-            {
-                "id": "1870",
-                "min": "1",
-                "max": "2",
-                "chance": "559364"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "3"
-            },
-            {
-                "id": "4279",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "20230", 
+	"name": "Marsh Stakato Worker", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"292", "min":"1", "max":"1", "chance":"95"}, {"id":"956", "min":"1", "max":"1", "chance":"2548"}, {"id":"1865", "min":"1", "max":"1", "chance":"76418"}, {"id":"1870", "min":"1", "max":"1", "chance":"76418"}, {"id":"1874", "min":"1", "max":"1", "chance":"5095"}, {"id":"57", "min":"237", "max":"472", "chance":"700000"}, {"id":"434", "min":"1", "max":"1", "chance":"1120"}, {"id":"1834", "min":"1", "max":"2", "chance":"621516"}, {"id":"1870", "min":"1", "max":"2", "chance":"559364"}],
+	"skills":[{"id": "4032", "level": "3"}, {"id": "4279", "level": "1"}]
+}

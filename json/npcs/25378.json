@@ -1,65 +1,9 @@
-[
-    {
-        "id": "25378",
-        "name": "Madness Beast",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "258",
-                "min": "1",
-                "max": "1",
-                "chance": "216737"
-            },
-            {
-                "id": "432",
-                "min": "2",
-                "max": "4",
-                "chance": "157340"
-            },
-            {
-                "id": "465",
-                "min": "1",
-                "max": "3",
-                "chance": "377858"
-            },
-            {
-                "id": "955",
-                "min": "1",
-                "max": "1",
-                "chance": "383036"
-            },
-            {
-                "id": "956",
-                "min": "8",
-                "max": "22",
-                "chance": "212799"
-            },
-            {
-                "id": "6387",
-                "min": "24",
-                "max": "72",
-                "chance": "79800"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4197",
-                "level": "2"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4935",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25378", 
+	"name": "Madness Beast", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"258", "min":"1", "max":"1", "chance":"216737"}, {"id":"432", "min":"2", "max":"4", "chance":"157340"}, {"id":"465", "min":"1", "max":"3", "chance":"377858"}, {"id":"955", "min":"1", "max":"1", "chance":"383036"}, {"id":"956", "min":"8", "max":"22", "chance":"212799"}, {"id":"6387", "min":"24", "max":"72", "chance":"79800"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4197", "level": "2"}, {"id": "4494", "level": "1"}, {"id": "4935", "level": "1"}]
+}

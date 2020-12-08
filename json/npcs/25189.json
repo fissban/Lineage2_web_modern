@@ -1,59 +1,9 @@
-[
-    {
-        "id": "25189",
-        "name": "Cronos's Servitor Mumu",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "280",
-                "min": "1",
-                "max": "1",
-                "chance": "42149"
-            },
-            {
-                "id": "438",
-                "min": "1",
-                "max": "1",
-                "chance": "117898"
-            },
-            {
-                "id": "1953",
-                "min": "12",
-                "max": "36",
-                "chance": "337510"
-            },
-            {
-                "id": "2054",
-                "min": "3",
-                "max": "9",
-                "chance": "538062"
-            },
-            {
-                "id": "952",
-                "min": "12",
-                "max": "36",
-                "chance": "273183"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4197",
-                "level": "3"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4862",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25189", 
+	"name": "Cronos's Servitor Mumu", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"280", "min":"1", "max":"1", "chance":"42149"}, {"id":"438", "min":"1", "max":"1", "chance":"117898"}, {"id":"1953", "min":"12", "max":"36", "chance":"337510"}, {"id":"2054", "min":"3", "max":"9", "chance":"538062"}, {"id":"952", "min":"12", "max":"36", "chance":"273183"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4197", "level": "3"}, {"id": "4494", "level": "1"}, {"id": "4862", "level": "1"}]
+}

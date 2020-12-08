@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27055",
-        "name": "Zakan",
-        "title": "Orc Betrayer",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27055", 
+	"name": "Zakan", 
+	"title": "Orc Betrayer", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

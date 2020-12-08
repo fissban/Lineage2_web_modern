@@ -1,35 +1,9 @@
-[
-    {
-        "id": "25403",
-        "name": "Follower of Skyla",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1341",
-                "min": "10",
-                "max": "30",
-                "chance": "954667"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4196",
-                "level": "3"
-            },
-            {
-                "id": "4204",
-                "level": "3"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25403", 
+	"name": "Follower of Skyla", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"954667"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4196", "level": "3"}, {"id": "4204", "level": "3"}, {"id": "4414", "level": "3"}]
+}

@@ -1,60 +1,9 @@
-[
-    {
-        "id": "20475",
-        "name": "Kasha Wolf",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "253",
-                "min": "1",
-                "max": "1",
-                "chance": "10394"
-            },
-            {
-                "id": "1786",
-                "min": "1",
-                "max": "1",
-                "chance": "10644"
-            },
-            {
-                "id": "1868",
-                "min": "1",
-                "max": "1",
-                "chance": "26609"
-            },
-            {
-                "id": "1873",
-                "min": "1",
-                "max": "1",
-                "chance": "5322"
-            },
-            {
-                "id": "57",
-                "min": "19",
-                "max": "29",
-                "chance": "700000"
-            },
-            {
-                "id": "426",
-                "min": "1",
-                "max": "1",
-                "chance": "52525"
-            },
-            {
-                "id": "1786",
-                "min": "1",
-                "max": "1",
-                "chance": "30885"
-            },
-            {
-                "id": "1873",
-                "min": "1",
-                "max": "1",
-                "chance": "15442"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "20475", 
+	"name": "Kasha Wolf", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"253", "min":"1", "max":"1", "chance":"10394"}, {"id":"1786", "min":"1", "max":"1", "chance":"10644"}, {"id":"1868", "min":"1", "max":"1", "chance":"26609"}, {"id":"1873", "min":"1", "max":"1", "chance":"5322"}, {"id":"57", "min":"19", "max":"29", "chance":"700000"}, {"id":"426", "min":"1", "max":"1", "chance":"52525"}, {"id":"1786", "min":"1", "max":"1", "chance":"30885"}, {"id":"1873", "min":"1", "max":"1", "chance":"15442"}],
+	"skills":[]
+}

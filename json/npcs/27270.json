@@ -1,28 +1,9 @@
-[
-    {
-        "id": "27270",
-        "name": "Fallen Angel Naverius",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4539",
-                "level": "1"
-            },
-            {
-                "id": "4540",
-                "level": "1"
-            },
-            {
-                "id": "4541",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "27270", 
+	"name": "Fallen Angel Naverius", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4414", "level": "3"}, {"id": "4539", "level": "1"}, {"id": "4540", "level": "1"}, {"id": "4541", "level": "1"}]
+}

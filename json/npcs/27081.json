@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27081",
-        "name": "Vultus Son Of Voltar",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27081", 
+	"name": "Vultus Son Of Voltar", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

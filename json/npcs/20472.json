@@ -1,89 +1,9 @@
-[
-    {
-        "id": "20472",
-        "name": "Kaboo Orc Fighter Leader",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "66",
-                "min": "1",
-                "max": "1",
-                "chance": "156"
-            },
-            {
-                "id": "1333",
-                "min": "1",
-                "max": "1",
-                "chance": "156"
-            },
-            {
-                "id": "736",
-                "min": "1",
-                "max": "1",
-                "chance": "21000"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "1",
-                "chance": "83999"
-            },
-            {
-                "id": "1869",
-                "min": "1",
-                "max": "1",
-                "chance": "42000"
-            },
-            {
-                "id": "2010",
-                "min": "1",
-                "max": "1",
-                "chance": "1635"
-            },
-            {
-                "id": "57",
-                "min": "114",
-                "max": "157",
-                "chance": "700000"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "2",
-                "chance": "426554"
-            },
-            {
-                "id": "1867",
-                "min": "1",
-                "max": "2",
-                "chance": "284370"
-            },
-            {
-                "id": "1922",
-                "min": "1",
-                "max": "1",
-                "chance": "54407"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4410",
-                "level": "10"
-            },
-            {
-                "id": "4411",
-                "level": "10"
-            },
-            {
-                "id": "4412",
-                "level": "12"
-            },
-            {
-                "id": "4413",
-                "level": "12"
-            }
-        ]
-    }
-]
+{
+	"id": "20472", 
+	"name": "Kaboo Orc Fighter Leader", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"66", "min":"1", "max":"1", "chance":"156"}, {"id":"1333", "min":"1", "max":"1", "chance":"156"}, {"id":"736", "min":"1", "max":"1", "chance":"21000"}, {"id":"1864", "min":"1", "max":"1", "chance":"83999"}, {"id":"1869", "min":"1", "max":"1", "chance":"42000"}, {"id":"2010", "min":"1", "max":"1", "chance":"1635"}, {"id":"57", "min":"114", "max":"157", "chance":"700000"}, {"id":"1864", "min":"1", "max":"2", "chance":"426554"}, {"id":"1867", "min":"1", "max":"2", "chance":"284370"}, {"id":"1922", "min":"1", "max":"1", "chance":"54407"}],
+	"skills":[{"id": "4410", "level": "10"}, {"id": "4411", "level": "10"}, {"id": "4412", "level": "12"}, {"id": "4413", "level": "12"}]
+}

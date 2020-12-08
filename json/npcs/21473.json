@@ -1,65 +1,9 @@
-[
-    {
-        "id": "21473",
-        "name": "Alpine Buffalo",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "57",
-                "min": "1047",
-                "max": "2118",
-                "chance": "700000"
-            },
-            {
-                "id": "4043",
-                "min": "1",
-                "max": "1",
-                "chance": "87759"
-            },
-            {
-                "id": "4118",
-                "min": "1",
-                "max": "1",
-                "chance": "10900"
-            },
-            {
-                "id": "5230",
-                "min": "1",
-                "max": "1",
-                "chance": "3510"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4067",
-                "level": "6"
-            },
-            {
-                "id": "4099",
-                "level": "2"
-            },
-            {
-                "id": "4410",
-                "level": "9"
-            },
-            {
-                "id": "4411",
-                "level": "9"
-            },
-            {
-                "id": "4412",
-                "level": "13"
-            },
-            {
-                "id": "4413",
-                "level": "13"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "21473", 
+	"name": "Alpine Buffalo", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"57", "min":"1047", "max":"2118", "chance":"700000"}, {"id":"4043", "min":"1", "max":"1", "chance":"87759"}, {"id":"4118", "min":"1", "max":"1", "chance":"10900"}, {"id":"5230", "min":"1", "max":"1", "chance":"3510"}],
+	"skills":[{"id": "4067", "level": "6"}, {"id": "4099", "level": "2"}, {"id": "4410", "level": "9"}, {"id": "4411", "level": "9"}, {"id": "4412", "level": "13"}, {"id": "4413", "level": "13"}, {"id": "4438", "level": "2"}]
+}

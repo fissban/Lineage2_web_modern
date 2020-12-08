@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30609",
-        "name": "Creta",
-        "title": "Astrologer",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30609", 
+	"name": "Creta", 
+	"title": "Astrologer", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

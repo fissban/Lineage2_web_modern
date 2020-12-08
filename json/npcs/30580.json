@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30580",
-        "name": "Parugon",
-        "title": "Centurion",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30580", 
+	"name": "Parugon", 
+	"title": "Centurion", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

@@ -1,35 +1,9 @@
-[
-    {
-        "id": "25008",
-        "name": "Cletu's Retainer",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "6036",
-                "min": "1",
-                "max": "1",
-                "chance": "16213"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4214",
-                "level": "3"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4780",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "25008", 
+	"name": "Cletu's Retainer", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"6036", "min":"1", "max":"1", "chance":"16213"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4214", "level": "3"}, {"id": "4414", "level": "3"}, {"id": "4780", "level": "3"}]
+}

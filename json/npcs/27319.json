@@ -1,20 +1,9 @@
-[
-    {
-        "id": "27319",
-        "name": "Black Leopard",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4410",
-                "level": "13"
-            },
-            {
-                "id": "4412",
-                "level": "12"
-            }
-        ]
-    }
-]
+{
+	"id": "27319", 
+	"name": "Black Leopard", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4410", "level": "13"}, {"id": "4412", "level": "12"}]
+}

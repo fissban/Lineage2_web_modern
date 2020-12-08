@@ -1,71 +1,9 @@
-[
-    {
-        "id": "22175",
-        "name": "Andreas' Captain of the Royal Guard",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1868",
-                "min": "1",
-                "max": "1",
-                "chance": "43478"
-            },
-            {
-                "id": "1873",
-                "min": "1",
-                "max": "1",
-                "chance": "11111"
-            },
-            {
-                "id": "1876",
-                "min": "1",
-                "max": "1",
-                "chance": "11111"
-            },
-            {
-                "id": "1895",
-                "min": "1",
-                "max": "1",
-                "chance": "5555"
-            },
-            {
-                "id": "57",
-                "min": "215",
-                "max": "508",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4047",
-                "level": "9"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4408",
-                "level": "8"
-            },
-            {
-                "id": "4414",
-                "level": "1"
-            },
-            {
-                "id": "4422",
-                "level": "3"
-            },
-            {
-                "id": "4573",
-                "level": "9"
-            },
-            {
-                "id": "4612",
-                "level": "9"
-            }
-        ]
-    }
-]
+{
+	"id": "22175", 
+	"name": "Andreas' Captain of the Royal Guard", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1868", "min":"1", "max":"1", "chance":"43478"}, {"id":"1873", "min":"1", "max":"1", "chance":"11111"}, {"id":"1876", "min":"1", "max":"1", "chance":"11111"}, {"id":"1895", "min":"1", "max":"1", "chance":"5555"}, {"id":"57", "min":"215", "max":"508", "chance":"700000"}],
+	"skills":[{"id": "4047", "level": "9"}, {"id": "4275", "level": "2"}, {"id": "4408", "level": "8"}, {"id": "4414", "level": "1"}, {"id": "4422", "level": "3"}, {"id": "4573", "level": "9"}, {"id": "4612", "level": "9"}]
+}

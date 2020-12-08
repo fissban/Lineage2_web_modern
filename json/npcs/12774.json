@@ -1,11 +1,9 @@
-[
-    {
-        "id": "12774",
-        "name": "Young Squash",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "12774", 
+	"name": "Young Squash", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

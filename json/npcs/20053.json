@@ -1,84 +1,9 @@
-[
-    {
-        "id": "20053",
-        "name": "Ol Mahum Patrol",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "39",
-                "min": "1",
-                "max": "1",
-                "chance": "940"
-            },
-            {
-                "id": "51",
-                "min": "1",
-                "max": "1",
-                "chance": "940"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "1",
-                "chance": "69312"
-            },
-            {
-                "id": "1869",
-                "min": "1",
-                "max": "1",
-                "chance": "34656"
-            },
-            {
-                "id": "1878",
-                "min": "1",
-                "max": "1",
-                "chance": "13863"
-            },
-            {
-                "id": "1930",
-                "min": "1",
-                "max": "1",
-                "chance": "14811"
-            },
-            {
-                "id": "2151",
-                "min": "1",
-                "max": "1",
-                "chance": "9654"
-            },
-            {
-                "id": "5437",
-                "min": "1",
-                "max": "1",
-                "chance": "848"
-            },
-            {
-                "id": "57",
-                "min": "134",
-                "max": "238",
-                "chance": "700000"
-            },
-            {
-                "id": "1898",
-                "min": "1",
-                "max": "1",
-                "chance": "30130"
-            },
-            {
-                "id": "1926",
-                "min": "1",
-                "max": "1",
-                "chance": "29627"
-            },
-            {
-                "id": "2015",
-                "min": "1",
-                "max": "1",
-                "chance": "3577"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "20053", 
+	"name": "Ol Mahum Patrol", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"39", "min":"1", "max":"1", "chance":"940"}, {"id":"51", "min":"1", "max":"1", "chance":"940"}, {"id":"1864", "min":"1", "max":"1", "chance":"69312"}, {"id":"1869", "min":"1", "max":"1", "chance":"34656"}, {"id":"1878", "min":"1", "max":"1", "chance":"13863"}, {"id":"1930", "min":"1", "max":"1", "chance":"14811"}, {"id":"2151", "min":"1", "max":"1", "chance":"9654"}, {"id":"5437", "min":"1", "max":"1", "chance":"848"}, {"id":"57", "min":"134", "max":"238", "chance":"700000"}, {"id":"1898", "min":"1", "max":"1", "chance":"30130"}, {"id":"1926", "min":"1", "max":"1", "chance":"29627"}, {"id":"2015", "min":"1", "max":"1", "chance":"3577"}],
+	"skills":[]
+}

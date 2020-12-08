@@ -1,24 +1,9 @@
-[
-    {
-        "id": "14857",
-        "name": "Swoop Cannon",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4121",
-                "level": "1"
-            },
-            {
-                "id": "5110",
-                "level": "1"
-            },
-            {
-                "id": "5111",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "14857", 
+	"name": "Swoop Cannon", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4121", "level": "1"}, {"id": "5110", "level": "1"}, {"id": "5111", "level": "1"}]
+}

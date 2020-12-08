@@ -1,43 +1,9 @@
-[
-    {
-        "id": "25483",
-        "name": "Phantom of Kenishee",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1342",
-                "min": "20",
-                "max": "60",
-                "chance": "785600"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4212",
-                "level": "6"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4788",
-                "level": "6"
-            }
-        ]
-    }
-]
+{
+	"id": "25483", 
+	"name": "Phantom of Kenishee", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"785600"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4212", "level": "6"}, {"id": "4278", "level": "1"}, {"id": "4333", "level": "5"}, {"id": "4414", "level": "3"}, {"id": "4788", "level": "6"}]
+}

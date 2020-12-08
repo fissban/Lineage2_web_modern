@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30629",
-        "name": "Rukal",
-        "title": "Bard",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30629", 
+	"name": "Rukal", 
+	"title": "Bard", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

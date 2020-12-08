@@ -1,20 +1,9 @@
-[
-    {
-        "id": "20851",
-        "name": "Theeder",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4085",
-                "level": "1"
-            },
-            {
-                "id": "4086",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "20851", 
+	"name": "Theeder", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4085", "level": "1"}, {"id": "4086", "level": "1"}]
+}

@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27129",
-        "name": "Ol Mahum Inspector",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27129", 
+	"name": "Ol Mahum Inspector", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

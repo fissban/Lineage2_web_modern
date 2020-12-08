@@ -1,39 +1,9 @@
-[
-    {
-        "id": "25221",
-        "name": "Death Mage Krician",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "20",
-                "max": "60",
-                "chance": "986500"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4194",
-                "level": "7"
-            },
-            {
-                "id": "4204",
-                "level": "7"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25221", 
+	"name": "Death Mage Krician", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"986500"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4194", "level": "7"}, {"id": "4204", "level": "7"}, {"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}]
+}

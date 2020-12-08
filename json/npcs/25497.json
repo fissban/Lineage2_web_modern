@@ -1,31 +1,9 @@
-[
-    {
-        "id": "25497",
-        "name": "Fafurion's Envoy",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1342",
-                "min": "20",
-                "max": "60",
-                "chance": "755200"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4743",
-                "level": "5"
-            }
-        ]
-    }
-]
+{
+	"id": "25497", 
+	"name": "Fafurion's Envoy", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"755200"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4414", "level": "3"}, {"id": "4743", "level": "5"}]
+}

@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27050",
-        "name": "Picubo",
-        "title": "Orc Betrayer",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27050", 
+	"name": "Picubo", 
+	"title": "Orc Betrayer", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

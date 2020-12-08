@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27029",
-        "name": "Phantom Salamander",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27029", 
+	"name": "Phantom Salamander", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

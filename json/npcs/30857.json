@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30857",
-        "name": "Orven",
-        "title": "High Priest",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30857", 
+	"name": "Orven", 
+	"title": "High Priest", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

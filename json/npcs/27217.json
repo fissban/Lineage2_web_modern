@@ -1,20 +1,9 @@
-[
-    {
-        "id": "27217",
-        "name": "Soul of Well",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4073",
-                "level": "6"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "27217", 
+	"name": "Soul of Well", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4073", "level": "6"}, {"id": "4414", "level": "3"}]
+}

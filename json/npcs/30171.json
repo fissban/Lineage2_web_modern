@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30171",
-        "name": "Galios",
-        "title": "Magister",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30171", 
+	"name": "Galios", 
+	"title": "Magister", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

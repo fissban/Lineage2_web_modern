@@ -1,66 +1,9 @@
-[
-    {
-        "id": "20532",
-        "name": "Brown Keltir",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "18",
-                "min": "1",
-                "max": "1",
-                "chance": "47493"
-            },
-            {
-                "id": "41",
-                "min": "1",
-                "max": "1",
-                "chance": "33677"
-            },
-            {
-                "id": "1786",
-                "min": "1",
-                "max": "1",
-                "chance": "4940"
-            },
-            {
-                "id": "1868",
-                "min": "1",
-                "max": "1",
-                "chance": "12349"
-            },
-            {
-                "id": "1873",
-                "min": "1",
-                "max": "1",
-                "chance": "2470"
-            },
-            {
-                "id": "57",
-                "min": "8",
-                "max": "13",
-                "chance": "700000"
-            },
-            {
-                "id": "35",
-                "min": "1",
-                "max": "1",
-                "chance": "96841"
-            },
-            {
-                "id": "1786",
-                "min": "1",
-                "max": "1",
-                "chance": "14332"
-            },
-            {
-                "id": "1787",
-                "min": "1",
-                "max": "1",
-                "chance": "14332"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "20532", 
+	"name": "Brown Keltir", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"18", "min":"1", "max":"1", "chance":"47493"}, {"id":"41", "min":"1", "max":"1", "chance":"33677"}, {"id":"1786", "min":"1", "max":"1", "chance":"4940"}, {"id":"1868", "min":"1", "max":"1", "chance":"12349"}, {"id":"1873", "min":"1", "max":"1", "chance":"2470"}, {"id":"57", "min":"8", "max":"13", "chance":"700000"}, {"id":"35", "min":"1", "max":"1", "chance":"96841"}, {"id":"1786", "min":"1", "max":"1", "chance":"14332"}, {"id":"1787", "min":"1", "max":"1", "chance":"14332"}],
+	"skills":[]
+}

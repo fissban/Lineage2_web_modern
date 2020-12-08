@@ -1,11 +1,9 @@
-[
-    {
-        "id": "27157",
-        "name": "Leto Chief Narak",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "27157", 
+	"name": "Leto Chief Narak", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

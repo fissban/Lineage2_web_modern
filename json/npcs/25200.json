@@ -1,31 +1,9 @@
-[
-    {
-        "id": "25200",
-        "name": "Family of Sheshark",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1344",
-                "min": "20",
-                "max": "60",
-                "chance": "957000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4195",
-                "level": "7"
-            },
-            {
-                "id": "4200",
-                "level": "7"
-            }
-        ]
-    }
-]
+{
+	"id": "25200", 
+	"name": "Family of Sheshark", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"957000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4195", "level": "7"}, {"id": "4200", "level": "7"}]
+}

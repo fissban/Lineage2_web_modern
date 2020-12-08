@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30968",
-        "name": "Jennifer",
-        "title": "Lady Orc",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30968", 
+	"name": "Jennifer", 
+	"title": "Lady Orc", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

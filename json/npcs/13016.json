@@ -1,11 +1,9 @@
-[
-    {
-        "id": "13016",
-        "name": "King Squash",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "13016", 
+	"name": "King Squash", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

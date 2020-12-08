@@ -1,24 +1,9 @@
-[
-    {
-        "id": "25510",
-        "name": "Varangka's Descendant",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4731",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25510", 
+	"name": "Varangka's Descendant", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4414", "level": "3"}, {"id": "4731", "level": "1"}]
+}

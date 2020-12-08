@@ -1,36 +1,9 @@
-[
-    {
-        "id": "18309",
-        "name": "Flame of the Branded",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4408",
-                "level": "11"
-            },
-            {
-                "id": "4413",
-                "level": "19"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            },
-            {
-                "id": "4439",
-                "level": "2"
-            },
-            {
-                "id": "4444",
-                "level": "2"
-            },
-            {
-                "id": "4614",
-                "level": "4"
-            }
-        ]
-    }
-]
+{
+	"id": "18309", 
+	"name": "Flame of the Branded", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4408", "level": "11"}, {"id": "4413", "level": "19"}, {"id": "4438", "level": "2"}, {"id": "4439", "level": "2"}, {"id": "4444", "level": "2"}, {"id": "4614", "level": "4"}]
+}

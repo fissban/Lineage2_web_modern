@@ -1,72 +1,9 @@
-[
-    {
-        "id": "20470",
-        "name": "Kaboo Orc Grunt",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "19",
-                "min": "1",
-                "max": "1",
-                "chance": "9012"
-            },
-            {
-                "id": "42",
-                "min": "1",
-                "max": "1",
-                "chance": "6311"
-            },
-            {
-                "id": "735",
-                "min": "1",
-                "max": "1",
-                "chance": "1198"
-            },
-            {
-                "id": "1864",
-                "min": "1",
-                "max": "1",
-                "chance": "28746"
-            },
-            {
-                "id": "1869",
-                "min": "1",
-                "max": "1",
-                "chance": "14373"
-            },
-            {
-                "id": "2135",
-                "min": "1",
-                "max": "1",
-                "chance": "4228"
-            },
-            {
-                "id": "57",
-                "min": "51",
-                "max": "72",
-                "chance": "700000"
-            },
-            {
-                "id": "1060",
-                "min": "1",
-                "max": "1",
-                "chance": "216259"
-            },
-            {
-                "id": "1791",
-                "min": "1",
-                "max": "1",
-                "chance": "17988"
-            },
-            {
-                "id": "2006",
-                "min": "1",
-                "max": "1",
-                "chance": "6951"
-            }
-        ],
-        "skills": []
-    }
-]
+{
+	"id": "20470", 
+	"name": "Kaboo Orc Grunt", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"19", "min":"1", "max":"1", "chance":"9012"}, {"id":"42", "min":"1", "max":"1", "chance":"6311"}, {"id":"735", "min":"1", "max":"1", "chance":"1198"}, {"id":"1864", "min":"1", "max":"1", "chance":"28746"}, {"id":"1869", "min":"1", "max":"1", "chance":"14373"}, {"id":"2135", "min":"1", "max":"1", "chance":"4228"}, {"id":"57", "min":"51", "max":"72", "chance":"700000"}, {"id":"1060", "min":"1", "max":"1", "chance":"216259"}, {"id":"1791", "min":"1", "max":"1", "chance":"17988"}, {"id":"2006", "min":"1", "max":"1", "chance":"6951"}],
+	"skills":[]
+}

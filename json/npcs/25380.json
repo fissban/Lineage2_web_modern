@@ -1,81 +1,9 @@
-[
-    {
-        "id": "25380",
-        "name": "Kaysha Herald of Icarus",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "292",
-                "min": "1",
-                "max": "1",
-                "chance": "159449"
-            },
-            {
-                "id": "392",
-                "min": "1",
-                "max": "1",
-                "chance": "342627"
-            },
-            {
-                "id": "414",
-                "min": "1",
-                "max": "3",
-                "chance": "273827"
-            },
-            {
-                "id": "955",
-                "min": "1",
-                "max": "1",
-                "chance": "443703"
-            },
-            {
-                "id": "956",
-                "min": "8",
-                "max": "22",
-                "chance": "246502"
-            },
-            {
-                "id": "6387",
-                "min": "24",
-                "max": "72",
-                "chance": "92438"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4187",
-                "level": "2"
-            },
-            {
-                "id": "4188",
-                "level": "2"
-            },
-            {
-                "id": "4192",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4333",
-                "level": "5"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4936",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25380", 
+	"name": "Kaysha Herald of Icarus", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"292", "min":"1", "max":"1", "chance":"159449"}, {"id":"392", "min":"1", "max":"1", "chance":"342627"}, {"id":"414", "min":"1", "max":"3", "chance":"273827"}, {"id":"955", "min":"1", "max":"1", "chance":"443703"}, {"id":"956", "min":"8", "max":"22", "chance":"246502"}, {"id":"6387", "min":"24", "max":"72", "chance":"92438"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4187", "level": "2"}, {"id": "4188", "level": "2"}, {"id": "4192", "level": "2"}, {"id": "4278", "level": "1"}, {"id": "4333", "level": "5"}, {"id": "4494", "level": "1"}, {"id": "4936", "level": "1"}]
+}

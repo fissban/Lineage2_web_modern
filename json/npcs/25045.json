@@ -1,35 +1,9 @@
-[
-    {
-        "id": "25045",
-        "name": "Dark Mage's of Barion",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1342",
-                "min": "20",
-                "max": "60",
-                "chance": "612000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4213",
-                "level": "4"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4781",
-                "level": "4"
-            }
-        ]
-    }
-]
+{
+	"id": "25045", 
+	"name": "Dark Mage's of Barion", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"612000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4213", "level": "4"}, {"id": "4414", "level": "3"}, {"id": "4781", "level": "4"}]
+}

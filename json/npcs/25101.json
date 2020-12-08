@@ -1,23 +1,9 @@
-[
-    {
-        "id": "25101",
-        "name": "Fighter of Sea of Spores",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1341",
-                "min": "20",
-                "max": "60",
-                "chance": "890667"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25101", 
+	"name": "Fighter of Sea of Spores", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"890667"}],
+	"skills":[{"id": "4045", "level": "1"}]
+}

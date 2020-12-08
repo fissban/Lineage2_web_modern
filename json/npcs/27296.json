@@ -1,36 +1,9 @@
-[
-    {
-        "id": "27296",
-        "name": "Monument Watcher Ezekiel",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "19",
-                "level": "37"
-            },
-            {
-                "id": "101",
-                "level": "40"
-            },
-            {
-                "id": "4032",
-                "level": "8"
-            },
-            {
-                "id": "4067",
-                "level": "8"
-            },
-            {
-                "id": "4414",
-                "level": "1"
-            },
-            {
-                "id": "4579",
-                "level": "8"
-            }
-        ]
-    }
-]
+{
+	"id": "27296", 
+	"name": "Monument Watcher Ezekiel", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "19", "level": "37"}, {"id": "101", "level": "40"}, {"id": "4032", "level": "8"}, {"id": "4067", "level": "8"}, {"id": "4414", "level": "1"}, {"id": "4579", "level": "8"}]
+}

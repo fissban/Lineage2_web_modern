@@ -1,43 +1,9 @@
-[
-    {
-        "id": "18065",
-        "name": "Offering of Branded Zealot",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "57",
-                "min": "194",
-                "max": "387",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4032",
-                "level": "3"
-            },
-            {
-                "id": "4225",
-                "level": "5"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            },
-            {
-                "id": "4439",
-                "level": "2"
-            },
-            {
-                "id": "4445",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "18065", 
+	"name": "Offering of Branded Zealot", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"57", "min":"194", "max":"387", "chance":"700000"}],
+	"skills":[{"id": "4032", "level": "3"}, {"id": "4225", "level": "5"}, {"id": "4414", "level": "3"}, {"id": "4438", "level": "2"}, {"id": "4439", "level": "2"}, {"id": "4445", "level": "2"}]
+}

@@ -1,16 +1,9 @@
-[
-    {
-        "id": "18344",
-        "name": "Ancient Egg",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4408",
-                "level": "8"
-            }
-        ]
-    }
-]
+{
+	"id": "18344", 
+	"name": "Ancient Egg", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4408", "level": "8"}]
+}

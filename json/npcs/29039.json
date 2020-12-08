@@ -1,24 +1,9 @@
-[
-    {
-        "id": "29039",
-        "name": "Kinaz's Ifrit",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4210",
-                "level": "9"
-            },
-            {
-                "id": "4212",
-                "level": "9"
-            }
-        ]
-    }
-]
+{
+	"id": "29039", 
+	"name": "Kinaz's Ifrit", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4210", "level": "9"}, {"id": "4212", "level": "9"}]
+}

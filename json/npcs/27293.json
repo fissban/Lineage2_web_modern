@@ -1,40 +1,9 @@
-[
-    {
-        "id": "27293",
-        "name": "Khavatari Uruz",
-        "title": "Quest Monster",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "280",
-                "level": "37"
-            },
-            {
-                "id": "281",
-                "level": "37"
-            },
-            {
-                "id": "4032",
-                "level": "8"
-            },
-            {
-                "id": "4067",
-                "level": "8"
-            },
-            {
-                "id": "4412",
-                "level": "18"
-            },
-            {
-                "id": "4414",
-                "level": "1"
-            },
-            {
-                "id": "4579",
-                "level": "8"
-            }
-        ]
-    }
-]
+{
+	"id": "27293", 
+	"name": "Khavatari Uruz", 
+	"title": "Quest Monster", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "280", "level": "37"}, {"id": "281", "level": "37"}, {"id": "4032", "level": "8"}, {"id": "4067", "level": "8"}, {"id": "4412", "level": "18"}, {"id": "4414", "level": "1"}, {"id": "4579", "level": "8"}]
+}

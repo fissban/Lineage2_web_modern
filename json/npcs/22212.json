@@ -1,65 +1,9 @@
-[
-    {
-        "id": "22212",
-        "name": "Wild Strider",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "960",
-                "min": "1",
-                "max": "1",
-                "chance": "372"
-            },
-            {
-                "id": "5538",
-                "min": "1",
-                "max": "1",
-                "chance": "5587"
-            },
-            {
-                "id": "8954",
-                "min": "1",
-                "max": "1",
-                "chance": "2604"
-            },
-            {
-                "id": "8955",
-                "min": "1",
-                "max": "1",
-                "chance": "372"
-            },
-            {
-                "id": "8956",
-                "min": "1",
-                "max": "1",
-                "chance": "744"
-            },
-            {
-                "id": "57",
-                "min": "5944",
-                "max": "12130",
-                "chance": "700000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4067",
-                "level": "1"
-            },
-            {
-                "id": "5080",
-                "level": "1"
-            },
-            {
-                "id": "5083",
-                "level": "1"
-            },
-            {
-                "id": "5084",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "22212", 
+	"name": "Wild Strider", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"960", "min":"1", "max":"1", "chance":"372"}, {"id":"5538", "min":"1", "max":"1", "chance":"5587"}, {"id":"8954", "min":"1", "max":"1", "chance":"2604"}, {"id":"8955", "min":"1", "max":"1", "chance":"372"}, {"id":"8956", "min":"1", "max":"1", "chance":"744"}, {"id":"57", "min":"5944", "max":"12130", "chance":"700000"}],
+	"skills":[{"id": "4067", "level": "1"}, {"id": "5080", "level": "1"}, {"id": "5083", "level": "1"}, {"id": "5084", "level": "1"}]
+}

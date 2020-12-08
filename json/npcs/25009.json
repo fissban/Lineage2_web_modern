@@ -1,23 +1,9 @@
-[
-    {
-        "id": "25009",
-        "name": "Cletu's Pawn",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1341",
-                "min": "20",
-                "max": "60",
-                "chance": "810667"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25009", 
+	"name": "Cletu's Pawn", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"810667"}],
+	"skills":[{"id": "4045", "level": "1"}]
+}

@@ -1,47 +1,9 @@
-[
-    {
-        "id": "25471",
-        "name": "Utenus's Wizard",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1343",
-                "min": "20",
-                "max": "60",
-                "chance": "901714"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4195",
-                "level": "6"
-            },
-            {
-                "id": "4205",
-                "level": "6"
-            },
-            {
-                "id": "4273",
-                "level": "3"
-            },
-            {
-                "id": "4274",
-                "level": "1"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4444",
-                "level": "2"
-            }
-        ]
-    }
-]
+{
+	"id": "25471", 
+	"name": "Utenus's Wizard", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"901714"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4195", "level": "6"}, {"id": "4205", "level": "6"}, {"id": "4273", "level": "3"}, {"id": "4274", "level": "1"}, {"id": "4414", "level": "3"}, {"id": "4444", "level": "2"}]
+}

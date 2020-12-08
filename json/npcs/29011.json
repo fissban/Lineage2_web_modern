@@ -1,20 +1,9 @@
-[
-    {
-        "id": "29011",
-        "name": "Susceptor",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4001",
-                "level": "4"
-            },
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "29011", 
+	"name": "Susceptor", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4001", "level": "4"}, {"id": "4045", "level": "1"}]
+}

@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30943",
-        "name": "Malcom8",
-        "title": "Rabbit Prince",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30943", 
+	"name": "Malcom8", 
+	"title": "Rabbit Prince", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

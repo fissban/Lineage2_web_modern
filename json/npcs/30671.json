@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30671",
-        "name": "Croto",
-        "title": "Chief",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30671", 
+	"name": "Croto", 
+	"title": "Chief", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

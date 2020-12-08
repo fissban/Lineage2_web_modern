@@ -1,47 +1,9 @@
-[
-    {
-        "id": "25462",
-        "name": "Ereve's Squire",
-        "title": "Raid Fighter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "1342",
-                "min": "20",
-                "max": "60",
-                "chance": "724800"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4273",
-                "level": "3"
-            },
-            {
-                "id": "4274",
-                "level": "1"
-            },
-            {
-                "id": "4275",
-                "level": "2"
-            },
-            {
-                "id": "4278",
-                "level": "1"
-            },
-            {
-                "id": "4414",
-                "level": "3"
-            },
-            {
-                "id": "4728",
-                "level": "5"
-            }
-        ]
-    }
-]
+{
+	"id": "25462", 
+	"name": "Ereve's Squire", 
+	"title": "Raid Fighter", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"724800"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4273", "level": "3"}, {"id": "4274", "level": "1"}, {"id": "4275", "level": "2"}, {"id": "4278", "level": "1"}, {"id": "4414", "level": "3"}, {"id": "4728", "level": "5"}]
+}

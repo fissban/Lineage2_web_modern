@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30945",
-        "name": "Malcom10",
-        "title": "Prince",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30945", 
+	"name": "Malcom10", 
+	"title": "Prince", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

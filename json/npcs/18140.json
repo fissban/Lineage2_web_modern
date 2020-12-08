@@ -1,28 +1,9 @@
-[
-    {
-        "id": "18140",
-        "name": "Imperial Mosaic",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4033",
-                "level": "9"
-            },
-            {
-                "id": "4160",
-                "level": "9"
-            },
-            {
-                "id": "4408",
-                "level": "14"
-            },
-            {
-                "id": "4412",
-                "level": "17"
-            }
-        ]
-    }
-]
+{
+	"id": "18140", 
+	"name": "Imperial Mosaic", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4033", "level": "9"}, {"id": "4160", "level": "9"}, {"id": "4408", "level": "14"}, {"id": "4412", "level": "17"}]
+}

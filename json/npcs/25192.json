@@ -1,79 +1,9 @@
-[
-    {
-        "id": "25192",
-        "name": "Earth Protector Panathen",
-        "title": "Raid Boss",
-        "isRaid": "true",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "325",
-                "min": "1",
-                "max": "1",
-                "chance": "47599"
-            },
-            {
-                "id": "440",
-                "min": "1",
-                "max": "1",
-                "chance": "128813"
-            },
-            {
-                "id": "1970",
-                "min": "12",
-                "max": "36",
-                "chance": "423696"
-            },
-            {
-                "id": "2088",
-                "min": "12",
-                "max": "36",
-                "chance": "200576"
-            },
-            {
-                "id": "6574",
-                "min": "1",
-                "max": "1",
-                "chance": "505949"
-            },
-            {
-                "id": "8164",
-                "min": "4",
-                "max": "4",
-                "chance": "250000"
-            },
-            {
-                "id": "8176",
-                "min": "1",
-                "max": "1",
-                "chance": "250000"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4183",
-                "level": "4"
-            },
-            {
-                "id": "4189",
-                "level": "4"
-            },
-            {
-                "id": "4191",
-                "level": "4"
-            },
-            {
-                "id": "4494",
-                "level": "1"
-            },
-            {
-                "id": "4863",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "25192", 
+	"name": "Earth Protector Panathen", 
+	"title": "Raid Boss", 
+	"isRaid": "true", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"325", "min":"1", "max":"1", "chance":"47599"}, {"id":"440", "min":"1", "max":"1", "chance":"128813"}, {"id":"1970", "min":"12", "max":"36", "chance":"423696"}, {"id":"2088", "min":"12", "max":"36", "chance":"200576"}, {"id":"6574", "min":"1", "max":"1", "chance":"505949"}, {"id":"8164", "min":"4", "max":"4", "chance":"250000"}, {"id":"8176", "min":"1", "max":"1", "chance":"250000"}],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4183", "level": "4"}, {"id": "4189", "level": "4"}, {"id": "4191", "level": "4"}, {"id": "4494", "level": "1"}, {"id": "4863", "level": "1"}]
+}

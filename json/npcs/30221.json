@@ -1,16 +1,9 @@
-[
-    {
-        "id": "30221",
-        "name": "Rayen",
-        "title": "Sentinel",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "30221", 
+	"name": "Rayen", 
+	"title": "Sentinel", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

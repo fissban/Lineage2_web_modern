@@ -1,20 +1,9 @@
-[
-    {
-        "id": "31020",
-        "name": "Nasty Green",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4390",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31020", 
+	"name": "Nasty Green", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4390", "level": "1"}]
+}

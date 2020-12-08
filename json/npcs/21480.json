@@ -1,61 +1,9 @@
-[
-    {
-        "id": "21480",
-        "name": "Alpine Buffalo",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [
-            {
-                "id": "57",
-                "min": "2297",
-                "max": "4608",
-                "chance": "700000"
-            },
-            {
-                "id": "1889",
-                "min": "1",
-                "max": "1",
-                "chance": "382283"
-            },
-            {
-                "id": "4080",
-                "min": "1",
-                "max": "1",
-                "chance": "117952"
-            },
-            {
-                "id": "5446",
-                "min": "1",
-                "max": "1",
-                "chance": "3133"
-            }
-        ],
-        "skills": [
-            {
-                "id": "4160",
-                "level": "6"
-            },
-            {
-                "id": "4232",
-                "level": "6"
-            },
-            {
-                "id": "4408",
-                "level": "10"
-            },
-            {
-                "id": "4438",
-                "level": "2"
-            },
-            {
-                "id": "4566",
-                "level": "6"
-            },
-            {
-                "id": "4633",
-                "level": "3"
-            }
-        ]
-    }
-]
+{
+	"id": "21480", 
+	"name": "Alpine Buffalo", 
+	"title": "", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[{"id":"57", "min":"2297", "max":"4608", "chance":"700000"}, {"id":"1889", "min":"1", "max":"1", "chance":"382283"}, {"id":"4080", "min":"1", "max":"1", "chance":"117952"}, {"id":"5446", "min":"1", "max":"1", "chance":"3133"}],
+	"skills":[{"id": "4160", "level": "6"}, {"id": "4232", "level": "6"}, {"id": "4408", "level": "10"}, {"id": "4438", "level": "2"}, {"id": "4566", "level": "6"}, {"id": "4633", "level": "3"}]
+}
