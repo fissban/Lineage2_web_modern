@@ -2,6 +2,7 @@
 	"id": "22137", 
 	"name": "Penance Guard", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"10", "max":"30", "chance":"71429"}, {"id":"1866", "min":"1", "max":"1", "chance":"14493"}, {"id":"1871", "min":"1", "max":"1", "chance":"15625"}, {"id":"1877", "min":"1", "max":"1", "chance":"4115"}, {"id":"4040", "min":"1", "max":"1", "chance":"1267"}, {"id":"4041", "min":"1", "max":"1", "chance":"675"}, {"id":"5541", "min":"1", "max":"1", "chance":"3759"}, {"id":"57", "min":"493", "max":"1007", "chance":"700000"}],

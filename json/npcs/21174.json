@@ -2,6 +2,7 @@
 	"id": "21174", 
 	"name": "Lith Commander", 
 	"title": "", 
+	"level": "45", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6360", "min":"33", "max":"62", "chance":"700000"}, {"id":"6361", "min":"211", "max":"425", "chance":"700000"}, {"id":"6362", "min":"25", "max":"45", "chance":"700000"}, {"id":"281", "min":"1", "max":"1", "chance":"68"}, {"id":"1868", "min":"1", "max":"3", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"76923"}, {"id":"1876", "min":"1", "max":"1", "chance":"40000"}, {"id":"1895", "min":"1", "max":"1", "chance":"55556"}, {"id":"2074", "min":"1", "max":"1", "chance":"5479"}, {"id":"2164", "min":"1", "max":"1", "chance":"13699"}, {"id":"3002", "min":"1", "max":"1", "chance":"11905"}, {"id":"4042", "min":"1", "max":"1", "chance":"3509"}, {"id":"1873", "min":"1", "max":"3", "chance":"654639"}, {"id":"1908", "min":"1", "max":"1", "chance":"309962"}, {"id":"2163", "min":"1", "max":"1", "chance":"167000"}],

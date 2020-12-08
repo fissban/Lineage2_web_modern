@@ -2,6 +2,7 @@
 	"id": "21138", 
 	"name": "Greedy Geist", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"292", "min":"1", "max":"1", "chance":"65"}, {"id":"1341", "min":"10", "max":"30", "chance":"116423"}, {"id":"1829", "min":"1", "max":"1", "chance":"13971"}, {"id":"1864", "min":"1", "max":"2", "chance":"69854"}, {"id":"1869", "min":"1", "max":"1", "chance":"34927"}, {"id":"1880", "min":"1", "max":"1", "chance":"3493"}, {"id":"5550", "min":"1", "max":"1", "chance":"466"}, {"id":"57", "min":"162", "max":"324", "chance":"700000"}, {"id":"956", "min":"1", "max":"1", "chance":"12783"}, {"id":"1864", "min":"1", "max":"1", "chance":"766967"}, {"id":"1869", "min":"1", "max":"1", "chance":"383484"}],

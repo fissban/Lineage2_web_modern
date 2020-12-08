@@ -2,6 +2,7 @@
 	"id": "30869", 
 	"name": "Lemper", 
 	"title": "Pet Manager", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

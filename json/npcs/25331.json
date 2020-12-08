@@ -2,6 +2,7 @@
 	"id": "25331", 
 	"name": "Mina", 
 	"title": "Raid Fighter", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"928000"}],

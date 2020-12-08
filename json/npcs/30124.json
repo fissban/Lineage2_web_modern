@@ -2,6 +2,7 @@
 	"id": "30124", 
 	"name": "Zerome", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

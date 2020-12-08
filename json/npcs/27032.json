@@ -2,6 +2,7 @@
 	"id": "27032", 
 	"name": "Lizardman Warrior", 
 	"title": "Quest Monster", 
+	"level": "13", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "22154", 
 	"name": "Ritual Sacrifice", 
 	"title": "", 
+	"level": "85", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"150", "max":"450", "chance":"7092"}, {"id":"1868", "min":"4", "max":"12", "chance":"166667"}, {"id":"1873", "min":"3", "max":"9", "chance":"7092"}, {"id":"1876", "min":"1", "max":"1", "chance":"52632"}, {"id":"1895", "min":"1", "max":"1", "chance":"55556"}, {"id":"4042", "min":"1", "max":"1", "chance":"14285"}, {"id":"6342", "min":"1", "max":"1", "chance":"23809"}, {"id":"6344", "min":"1", "max":"1", "chance":"14285"}, {"id":"6346", "min":"1", "max":"1", "chance":"9615"}, {"id":"57", "min":"4954", "max":"10040", "chance":"700000"}, {"id":"1895", "min":"1", "max":"5", "chance":"550000"}],

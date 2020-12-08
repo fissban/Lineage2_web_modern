@@ -2,6 +2,7 @@
 	"id": "25310", 
 	"name": "Shadith's Royal Guard Captain", 
 	"title": "Raid Fighter", 
+	"level": "79", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"403000"}],

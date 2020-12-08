@@ -2,6 +2,7 @@
 	"id": "25249", 
 	"name": "Palatanos of Horrific Power", 
 	"title": "Raid Boss", 
+	"level": "75", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6674", "min":"1", "max":"1", "chance":"25881"}, {"id":"6675", "min":"1", "max":"1", "chance":"41305"}, {"id":"6701", "min":"53", "max":"157", "chance":"93828"}, {"id":"6702", "min":"24", "max":"72", "chance":"264209"}, {"id":"3936", "min":"1", "max":"1", "chance":"719611"}, {"id":"6578", "min":"1", "max":"1", "chance":"63966"}],

@@ -2,6 +2,7 @@
 	"id": "30284", 
 	"name": "Alberius", 
 	"title": "Sentinel Knight", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

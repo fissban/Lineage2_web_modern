@@ -2,6 +2,7 @@
 	"id": "21373", 
 	"name": "Varka's Prophet", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5326", "min":"1", "max":"1", "chance":"25"}, {"id":"5329", "min":"1", "max":"1", "chance":"25"}, {"id":"959", "min":"1", "max":"1", "chance":"30"}, {"id":"1895", "min":"1", "max":"1", "chance":"142857"}, {"id":"4040", "min":"1", "max":"1", "chance":"9804"}, {"id":"4042", "min":"1", "max":"1", "chance":"8547"}, {"id":"4043", "min":"1", "max":"1", "chance":"16393"}, {"id":"5487", "min":"1", "max":"1", "chance":"4239"}, {"id":"5488", "min":"1", "max":"1", "chance":"4239"}, {"id":"8732", "min":"1", "max":"1", "chance":"3846"}, {"id":"8742", "min":"1", "max":"1", "chance":"1010"}, {"id":"8752", "min":"1", "max":"1", "chance":"63"}, {"id":"57", "min":"5113", "max":"10480", "chance":"700000"}, {"id":"959", "min":"1", "max":"1", "chance":"510"}, {"id":"1895", "min":"1", "max":"7", "chance":"910171"}, {"id":"4040", "min":"1", "max":"1", "chance":"254848"}],

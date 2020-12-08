@@ -2,6 +2,7 @@
 	"id": "25490", 
 	"name": "Gwindorr", 
 	"title": "Raid Boss", 
+	"level": "40", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"263", "min":"1", "max":"1", "chance":"32459"}, {"id":"631", "min":"1", "max":"1", "chance":"124193"}, {"id":"2413", "min":"1", "max":"1", "chance":"87395"}, {"id":"2495", "min":"1", "max":"1", "chance":"124193"}, {"id":"1964", "min":"40", "max":"120", "chance":"83422"}, {"id":"2073", "min":"3", "max":"9", "chance":"478774"}, {"id":"2936", "min":"14", "max":"42", "chance":"216482"}, {"id":"2945", "min":"81", "max":"243", "chance":"41196"}, {"id":"951", "min":"1", "max":"1", "chance":"875931"}, {"id":"8164", "min":"4", "max":"9", "chance":"250000"}, {"id":"8176", "min":"1", "max":"1", "chance":"250000"}],

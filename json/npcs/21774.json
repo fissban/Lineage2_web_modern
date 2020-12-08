@@ -2,6 +2,7 @@
 	"id": "21774", 
 	"name": "Messenger Invader Soldier", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"305", "min":"1", "max":"1", "chance":"11"}, {"id":"959", "min":"1", "max":"1", "chance":"19"}, {"id":"1868", "min":"3", "max":"9", "chance":"111111"}, {"id":"1873", "min":"1", "max":"1", "chance":"111111"}, {"id":"1876", "min":"1", "max":"1", "chance":"50000"}, {"id":"1895", "min":"1", "max":"1", "chance":"90909"}, {"id":"4042", "min":"1", "max":"1", "chance":"5208"}, {"id":"5541", "min":"1", "max":"1", "chance":"3798"}, {"id":"8732", "min":"1", "max":"1", "chance":"1608"}, {"id":"8742", "min":"1", "max":"1", "chance":"803"}, {"id":"57", "min":"3773", "max":"7702", "chance":"700000"}, {"id":"1876", "min":"1", "max":"3", "chance":"937757"}, {"id":"1895", "min":"1", "max":"5", "chance":"893102"}, {"id":"5546", "min":"1", "max":"1", "chance":"28259"}],

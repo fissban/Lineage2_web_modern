@@ -2,6 +2,7 @@
 	"id": "20781", 
 	"name": "Delu Lizardman Shaman", 
 	"title": "", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"436", "min":"1", "max":"1", "chance":"206"}, {"id":"469", "min":"1", "max":"1", "chance":"329"}, {"id":"1875", "min":"1", "max":"1", "chance":"2607"}, {"id":"1879", "min":"1", "max":"1", "chance":"6516"}, {"id":"1885", "min":"1", "max":"1", "chance":"3258"}, {"id":"2187", "min":"1", "max":"1", "chance":"1746"}, {"id":"2273", "min":"1", "max":"1", "chance":"280"}, {"id":"5549", "min":"1", "max":"1", "chance":"3425"}, {"id":"5550", "min":"1", "max":"1", "chance":"342"}, {"id":"6667", "min":"1", "max":"1", "chance":"25000"}, {"id":"57", "min":"248", "max":"496", "chance":"700000"}, {"id":"1901", "min":"1", "max":"1", "chance":"81246"}, {"id":"1938", "min":"1", "max":"1", "chance":"39544"}, {"id":"2192", "min":"1", "max":"1", "chance":"75029"}],

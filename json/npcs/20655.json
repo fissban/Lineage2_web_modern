@@ -2,6 +2,7 @@
 	"id": "20655", 
 	"name": "Lesser Giant Shooter", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"110", "min":"1", "max":"1", "chance":"57"}, {"id":"2416", "min":"1", "max":"1", "chance":"40"}, {"id":"2417", "min":"1", "max":"1", "chance":"40"}, {"id":"1343", "min":"20", "max":"60", "chance":"100000"}, {"id":"1865", "min":"1", "max":"1", "chance":"142857"}, {"id":"1870", "min":"1", "max":"1", "chance":"111111"}, {"id":"1874", "min":"1", "max":"1", "chance":"5000"}, {"id":"4039", "min":"1", "max":"1", "chance":"5495"}, {"id":"4043", "min":"1", "max":"1", "chance":"3247"}, {"id":"4077", "min":"1", "max":"1", "chance":"10729"}, {"id":"4088", "min":"1", "max":"1", "chance":"9014"}, {"id":"4089", "min":"1", "max":"1", "chance":"9014"}, {"id":"4989", "min":"1", "max":"1", "chance":"1053"}, {"id":"5276", "min":"1", "max":"1", "chance":"212"}, {"id":"6670", "min":"1", "max":"1", "chance":"22727"}, {"id":"8729", "min":"1", "max":"1", "chance":"750"}, {"id":"8739", "min":"1", "max":"1", "chance":"159"}, {"id":"57", "min":"1960", "max":"3968", "chance":"700000"}, {"id":"4053", "min":"1", "max":"1", "chance":"207665"}, {"id":"4067", "min":"1", "max":"1", "chance":"173432"}, {"id":"4160", "min":"1", "max":"1", "chance":"13725"}],

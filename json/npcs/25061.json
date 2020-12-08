@@ -2,6 +2,7 @@
 	"id": "25061", 
 	"name": "Kael's Bead", 
 	"title": "Raid Fighter", 
+	"level": "23", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1061", "min":"1", "max":"1", "chance":"116364"}],

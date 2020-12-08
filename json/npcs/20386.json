@@ -2,6 +2,7 @@
 	"id": "20386", 
 	"name": "Balor Orc Fighter", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"3", "min":"1", "max":"1", "chance":"860"}, {"id":"17", "min":"10", "max":"30", "chance":"134369"}, {"id":"1666", "min":"1", "max":"1", "chance":"8958"}, {"id":"1864", "min":"1", "max":"1", "chance":"53748"}, {"id":"1869", "min":"1", "max":"1", "chance":"26874"}, {"id":"2005", "min":"1", "max":"1", "chance":"3840"}, {"id":"57", "min":"98", "max":"132", "chance":"700000"}, {"id":"1060", "min":"1", "max":"1", "chance":"404348"}, {"id":"1666", "min":"1", "max":"1", "chance":"60652"}, {"id":"1796", "min":"1", "max":"1", "chance":"228876"}],

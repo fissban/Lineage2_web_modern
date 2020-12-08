@@ -2,6 +2,7 @@
 	"id": "18068", 
 	"name": "Offering of Branded Saint", 
 	"title": "", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"253", "max":"504", "chance":"700000"}],

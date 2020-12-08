@@ -2,6 +2,7 @@
 	"id": "21746", 
 	"name": "Forbidden Path Invader Elite Soldier", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6670", "min":"1", "max":"3", "chance":"250000"}, {"id":"8728", "min":"1", "max":"1", "chance":"45455"}, {"id":"8738", "min":"1", "max":"1", "chance":"12658"}, {"id":"8748", "min":"1", "max":"1", "chance":"1965"}, {"id":"57", "min":"3753", "max":"7629", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"3721"}, {"id":"6670", "min":"1", "max":"3", "chance":"775155"}],

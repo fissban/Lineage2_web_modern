@@ -2,6 +2,7 @@
 	"id": "30176", 
 	"name": "Valleria", 
 	"title": "Grand Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "20997", 
 	"name": "Soldier of Grief", 
 	"title": "", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"60", "min":"1", "max":"1", "chance":"36"}, {"id":"1868", "min":"1", "max":"1", "chance":"111111"}, {"id":"1873", "min":"1", "max":"1", "chance":"25000"}, {"id":"1876", "min":"1", "max":"1", "chance":"11905"}, {"id":"1895", "min":"1", "max":"1", "chance":"14493"}, {"id":"1977", "min":"1", "max":"1", "chance":"3792"}, {"id":"2170", "min":"1", "max":"1", "chance":"2114"}, {"id":"3012", "min":"1", "max":"1", "chance":"1209"}, {"id":"4042", "min":"1", "max":"1", "chance":"680"}, {"id":"8725", "min":"1", "max":"1", "chance":"1739"}, {"id":"8735", "min":"1", "max":"1", "chance":"454"}, {"id":"8755", "min":"1", "max":"1", "chance":"59"}, {"id":"57", "min":"501", "max":"1017", "chance":"700000"}, {"id":"1539", "min":"1", "max":"2", "chance":"275438"}, {"id":"1915", "min":"1", "max":"2", "chance":"109205"}, {"id":"4601", "min":"1", "max":"1", "chance":"2754"}],

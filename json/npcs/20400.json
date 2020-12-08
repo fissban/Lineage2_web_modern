@@ -2,6 +2,7 @@
 	"id": "20400", 
 	"name": "Blood Fungus", 
 	"title": "", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"114", "min":"1", "max":"1", "chance":"1408"}, {"id":"115", "min":"1", "max":"1", "chance":"1408"}, {"id":"876", "min":"1", "max":"1", "chance":"2112"}, {"id":"907", "min":"1", "max":"1", "chance":"1056"}, {"id":"1798", "min":"1", "max":"1", "chance":"40369"}, {"id":"1864", "min":"1", "max":"1", "chance":"82352"}, {"id":"1869", "min":"1", "max":"1", "chance":"41176"}, {"id":"1896", "min":"1", "max":"1", "chance":"10469"}, {"id":"57", "min":"112", "max":"154", "chance":"700000"}, {"id":"1803", "min":"1", "max":"1", "chance":"175710"}, {"id":"1921", "min":"1", "max":"1", "chance":"134900"}, {"id":"1923", "min":"1", "max":"1", "chance":"85695"}],

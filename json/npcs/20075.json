@@ -2,6 +2,7 @@
 	"id": "20075", 
 	"name": "Ant Larva", 
 	"title": "", 
+	"level": "29", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"848", "min":"1", "max":"1", "chance":"249"}, {"id":"879", "min":"1", "max":"1", "chance":"374"}, {"id":"911", "min":"1", "max":"1", "chance":"187"}, {"id":"955", "min":"1", "max":"1", "chance":"142"}, {"id":"1831", "min":"1", "max":"1", "chance":"125000"}, {"id":"1866", "min":"1", "max":"1", "chance":"23256"}, {"id":"1871", "min":"1", "max":"1", "chance":"43478"}, {"id":"1877", "min":"1", "max":"1", "chance":"895"}, {"id":"1900", "min":"1", "max":"1", "chance":"5798"}, {"id":"2193", "min":"1", "max":"1", "chance":"6250"}, {"id":"57", "min":"164", "max":"326", "chance":"700000"}, {"id":"348", "min":"1", "max":"1", "chance":"583"}, {"id":"1061", "min":"1", "max":"2", "chance":"235088"}, {"id":"2153", "min":"1", "max":"1", "chance":"60326"}],

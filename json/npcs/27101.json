@@ -2,6 +2,7 @@
 	"id": "27101", 
 	"name": "Drevanul Prince Zeruel", 
 	"title": "Quest Monster", 
+	"level": "42", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

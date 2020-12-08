@@ -2,6 +2,7 @@
 	"id": "20118", 
 	"name": "Dre Vanul Scout", 
 	"title": "", 
+	"level": "21", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"87", "min":"1", "max":"1", "chance":"30"}, {"id":"155", "min":"1", "max":"1", "chance":"30"}, {"id":"177", "min":"1", "max":"1", "chance":"30"}, {"id":"1868", "min":"1", "max":"1", "chance":"71499"}, {"id":"1873", "min":"1", "max":"1", "chance":"14300"}, {"id":"2014", "min":"1", "max":"1", "chance":"412"}, {"id":"2179", "min":"1", "max":"1", "chance":"17105"}, {"id":"5273", "min":"1", "max":"1", "chance":"1430"}, {"id":"57", "min":"110", "max":"197", "chance":"700000"}, {"id":"846", "min":"1", "max":"1", "chance":"3026"}, {"id":"1866", "min":"1", "max":"1", "chance":"161368"}, {"id":"5549", "min":"1", "max":"1", "chance":"24205"}],

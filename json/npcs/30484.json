@@ -2,6 +2,7 @@
 	"id": "30484", 
 	"name": "Ponti", 
 	"title": "Gatekeeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

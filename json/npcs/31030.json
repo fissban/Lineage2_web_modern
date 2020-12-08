@@ -2,6 +2,7 @@
 	"id": "31030", 
 	"name": "Chest of Hallate", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "25491", 
 	"name": "Guard of Gwindorr", 
 	"title": "Raid Fighter", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6036", "min":"1", "max":"1", "chance":"14720"}],

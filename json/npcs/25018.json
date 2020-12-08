@@ -2,6 +2,7 @@
 	"id": "25018", 
 	"name": "Support of the 3rd Guardian", 
 	"title": "Raid Fighter", 
+	"level": "59", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"60", "max":"180", "chance":"341600"}],

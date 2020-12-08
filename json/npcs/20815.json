@@ -2,6 +2,7 @@
 	"id": "20815", 
 	"name": "Hound Dog of Hallate", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2391", "min":"1", "max":"1", "chance":"26"}, {"id":"2392", "min":"1", "max":"1", "chance":"26"}, {"id":"1865", "min":"1", "max":"1", "chance":"200000"}, {"id":"1870", "min":"1", "max":"1", "chance":"200000"}, {"id":"1874", "min":"1", "max":"1", "chance":"13889"}, {"id":"4039", "min":"1", "max":"1", "chance":"6410"}, {"id":"4043", "min":"1", "max":"1", "chance":"5587"}, {"id":"4082", "min":"1", "max":"1", "chance":"5129"}, {"id":"4083", "min":"1", "max":"1", "chance":"5129"}, {"id":"5000", "min":"1", "max":"1", "chance":"413"}, {"id":"6670", "min":"1", "max":"1", "chance":"37037"}, {"id":"8729", "min":"1", "max":"1", "chance":"2475"}, {"id":"8739", "min":"1", "max":"1", "chance":"1238"}, {"id":"57", "min":"2487", "max":"5035", "chance":"700000"}, {"id":"4052", "min":"1", "max":"1", "chance":"217631"}, {"id":"4054", "min":"1", "max":"1", "chance":"121075"}, {"id":"4984", "min":"1", "max":"1", "chance":"17414"}],

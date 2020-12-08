@@ -2,6 +2,7 @@
 	"id": "20330", 
 	"name": "Mineshaft Bat", 
 	"title": "", 
+	"level": "11", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"37", "min":"1", "max":"1", "chance":"2497"}, {"id":"49", "min":"1", "max":"1", "chance":"2497"}, {"id":"1798", "min":"1", "max":"1", "chance":"32431"}, {"id":"1864", "min":"1", "max":"1", "chance":"66159"}, {"id":"1869", "min":"1", "max":"1", "chance":"33080"}, {"id":"1921", "min":"1", "max":"1", "chance":"21342"}, {"id":"57", "min":"91", "max":"122", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"12352"}, {"id":"1866", "min":"1", "max":"1", "chance":"111988"}, {"id":"1896", "min":"1", "max":"1", "chance":"71179"}],

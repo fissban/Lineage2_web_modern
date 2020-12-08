@@ -2,6 +2,7 @@
 	"id": "27161", 
 	"name": "Taik Overlord Kakran", 
 	"title": "Quest Monster", 
+	"level": "45", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

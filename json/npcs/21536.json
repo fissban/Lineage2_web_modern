@@ -2,6 +2,7 @@
 	"id": "21536", 
 	"name": "Crown of Splendor", 
 	"title": "", 
+	"level": "66", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"234", "min":"1", "max":"1", "chance":"7"}, {"id":"1894", "min":"1", "max":"1", "chance":"3676"}, {"id":"4039", "min":"1", "max":"1", "chance":"4292"}, {"id":"4041", "min":"1", "max":"1", "chance":"766"}, {"id":"4044", "min":"1", "max":"1", "chance":"2755"}, {"id":"4119", "min":"1", "max":"1", "chance":"1939"}, {"id":"6337", "min":"1", "max":"1", "chance":"153"}, {"id":"6670", "min":"1", "max":"1", "chance":"18868"}, {"id":"8729", "min":"1", "max":"1", "chance":"766"}, {"id":"8739", "min":"1", "max":"1", "chance":"460"}, {"id":"8749", "min":"1", "max":"1", "chance":"156"}, {"id":"57", "min":"1212", "max":"2457", "chance":"700000"}, {"id":"4053", "min":"1", "max":"1", "chance":"128534"}, {"id":"5446", "min":"1", "max":"1", "chance":"1639"}, {"id":"5452", "min":"1", "max":"1", "chance":"1639"}],

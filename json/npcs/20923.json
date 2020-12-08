@@ -2,6 +2,7 @@
 	"id": "20923", 
 	"name": "Maille Lizardman Shaman", 
 	"title": "", 
+	"level": "28", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"432", "min":"1", "max":"1", "chance":"215"}, {"id":"465", "min":"1", "max":"1", "chance":"343"}, {"id":"735", "min":"1", "max":"1", "chance":"1863"}, {"id":"1875", "min":"1", "max":"1", "chance":"1491"}, {"id":"1879", "min":"1", "max":"1", "chance":"3726"}, {"id":"1885", "min":"1", "max":"1", "chance":"1863"}, {"id":"5549", "min":"1", "max":"1", "chance":"2236"}, {"id":"5550", "min":"1", "max":"1", "chance":"299"}, {"id":"57", "min":"102", "max":"201", "chance":"700000"}, {"id":"2019", "min":"1", "max":"1", "chance":"5139"}, {"id":"2152", "min":"1", "max":"1", "chance":"42069"}, {"id":"2263", "min":"1", "max":"1", "chance":"3710"}],

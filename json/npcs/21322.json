@@ -2,6 +2,7 @@
 	"id": "21322", 
 	"name": "Hot Springs Bandersnatch", 
 	"title": "", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"288", "min":"1", "max":"1", "chance":"12"}, {"id":"1344", "min":"20", "max":"60", "chance":"125000"}, {"id":"1866", "min":"1", "max":"1", "chance":"142857"}, {"id":"1871", "min":"1", "max":"1", "chance":"200000"}, {"id":"1877", "min":"1", "max":"1", "chance":"6667"}, {"id":"4040", "min":"1", "max":"1", "chance":"3817"}, {"id":"4041", "min":"1", "max":"1", "chance":"2817"}, {"id":"5272", "min":"1", "max":"1", "chance":"48"}, {"id":"5535", "min":"1", "max":"1", "chance":"3454"}, {"id":"8732", "min":"1", "max":"1", "chance":"1383"}, {"id":"8742", "min":"1", "max":"1", "chance":"382"}, {"id":"8752", "min":"1", "max":"1", "chance":"15"}, {"id":"57", "min":"2752", "max":"5635", "chance":"700000"}, {"id":"5272", "min":"1", "max":"1", "chance":"3046"}, {"id":"5277", "min":"1", "max":"1", "chance":"3046"}, {"id":"5480", "min":"1", "max":"1", "chance":"30756"}],

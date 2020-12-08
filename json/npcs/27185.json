@@ -2,6 +2,7 @@
 	"id": "27185", 
 	"name": "Fairy Tree of Wind", 
 	"title": "Quest Monster", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

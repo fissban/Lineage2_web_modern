@@ -2,6 +2,7 @@
 	"id": "31045", 
 	"name": "Kitzka", 
 	"title": "Valley Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

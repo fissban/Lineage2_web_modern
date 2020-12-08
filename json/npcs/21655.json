@@ -2,6 +2,7 @@
 	"id": "21655", 
 	"name": "Arimanes of Destruction", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5311", "min":"1", "max":"1", "chance":"19"}, {"id":"5316", "min":"1", "max":"1", "chance":"19"}, {"id":"960", "min":"1", "max":"1", "chance":"213"}, {"id":"1344", "min":"100", "max":"300", "chance":"33333"}, {"id":"1865", "min":"1", "max":"3", "chance":"125000"}, {"id":"1870", "min":"2", "max":"6", "chance":"111111"}, {"id":"1875", "min":"1", "max":"1", "chance":"21739"}, {"id":"1879", "min":"1", "max":"1", "chance":"66667"}, {"id":"4040", "min":"1", "max":"1", "chance":"9259"}, {"id":"5522", "min":"1", "max":"1", "chance":"3161"}, {"id":"5523", "min":"1", "max":"1", "chance":"3161"}, {"id":"8732", "min":"1", "max":"1", "chance":"2532"}, {"id":"8742", "min":"1", "max":"1", "chance":"593"}, {"id":"57", "min":"5046", "max":"10335", "chance":"700000"}, {"id":"6344", "min":"1", "max":"1", "chance":"184250"}, {"id":"6346", "min":"1", "max":"1", "chance":"409201"}, {"id":"6901", "min":"1", "max":"1", "chance":"12569"}],

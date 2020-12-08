@@ -2,6 +2,7 @@
 	"id": "21609", 
 	"name": "Zaken's Watchman", 
 	"title": "", 
+	"level": "45", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"439", "min":"1", "max":"1", "chance":"97"}, {"id":"471", "min":"1", "max":"1", "chance":"156"}, {"id":"1865", "min":"1", "max":"1", "chance":"73513"}, {"id":"1870", "min":"1", "max":"1", "chance":"73513"}, {"id":"1875", "min":"1", "max":"1", "chance":"4901"}, {"id":"1879", "min":"1", "max":"1", "chance":"12253"}, {"id":"1954", "min":"1", "max":"1", "chance":"9771"}, {"id":"1962", "min":"1", "max":"1", "chance":"5882"}, {"id":"2303", "min":"1", "max":"1", "chance":"322"}, {"id":"2990", "min":"1", "max":"1", "chance":"5835"}, {"id":"3000", "min":"1", "max":"1", "chance":"4713"}, {"id":"3033", "min":"1", "max":"1", "chance":"245"}, {"id":"3954", "min":"1", "max":"1", "chance":"246"}, {"id":"4040", "min":"1", "max":"1", "chance":"1471"}, {"id":"57", "min":"628", "max":"1275", "chance":"700000"}, {"id":"1871", "min":"1", "max":"5", "chance":"777719"}, {"id":"1879", "min":"1", "max":"1", "chance":"259240"}, {"id":"1906", "min":"1", "max":"1", "chance":"213806"}],

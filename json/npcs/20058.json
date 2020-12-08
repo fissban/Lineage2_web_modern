@@ -2,6 +2,7 @@
 	"id": "20058", 
 	"name": "Ol Mahum Guard", 
 	"title": "", 
+	"level": "22", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"16", "min":"1", "max":"1", "chance":"146"}, {"id":"1865", "min":"1", "max":"1", "chance":"44570"}, {"id":"1870", "min":"1", "max":"1", "chance":"44570"}, {"id":"1879", "min":"1", "max":"1", "chance":"7429"}, {"id":"2258", "min":"1", "max":"1", "chance":"1090"}, {"id":"57", "min":"137", "max":"246", "chance":"700000"}, {"id":"1865", "min":"1", "max":"2", "chance":"301771"}, {"id":"1873", "min":"1", "max":"1", "chance":"120708"}, {"id":"1926", "min":"1", "max":"1", "chance":"30482"}],

@@ -2,6 +2,7 @@
 	"id": "30146", 
 	"name": "Mirabel", 
 	"title": "Gatekeeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

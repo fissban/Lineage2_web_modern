@@ -2,6 +2,7 @@
 	"id": "21144", 
 	"name": "Catacomb Shadow", 
 	"title": "", 
+	"level": "34", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"47", "min":"1", "max":"1", "chance":"1160"}, {"id":"628", "min":"1", "max":"1", "chance":"1657"}, {"id":"1865", "min":"1", "max":"1", "chance":"147186"}, {"id":"1870", "min":"1", "max":"1", "chance":"147186"}, {"id":"1875", "min":"1", "max":"1", "chance":"9813"}, {"id":"1879", "min":"1", "max":"1", "chance":"24531"}, {"id":"2187", "min":"1", "max":"1", "chance":"6571"}, {"id":"6035", "min":"1", "max":"1", "chance":"12266"}, {"id":"57", "min":"702", "max":"1399", "chance":"700000"}, {"id":"1901", "min":"1", "max":"1", "chance":"229413"}, {"id":"1938", "min":"1", "max":"1", "chance":"111661"}, {"id":"2154", "min":"1", "max":"1", "chance":"177832"}],

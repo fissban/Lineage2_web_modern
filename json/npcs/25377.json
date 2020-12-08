@@ -2,6 +2,7 @@
 	"id": "25377", 
 	"name": "Priest Zombie of Farakelsus", 
 	"title": "Raid Fighter", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1060", "min":"1", "max":"1", "chance":"353630"}],

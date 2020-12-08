@@ -2,6 +2,7 @@
 	"id": "22039", 
 	"name": "Ragna Orc Commander", 
 	"title": "", 
+	"level": "49", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"717", "max":"1431", "chance":"700000"}],

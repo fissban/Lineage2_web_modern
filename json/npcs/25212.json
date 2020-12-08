@@ -2,6 +2,7 @@
 	"id": "25212", 
 	"name": "Sebek's Priest", 
 	"title": "Raid Fighter", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"597333"}],

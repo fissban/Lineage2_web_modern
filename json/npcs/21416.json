@@ -2,6 +2,7 @@
 	"id": "21416", 
 	"name": "Imperial Commander", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"289", "min":"1", "max":"1", "chance":"15"}, {"id":"960", "min":"1", "max":"1", "chance":"222"}, {"id":"1344", "min":"100", "max":"300", "chance":"52632"}, {"id":"1866", "min":"2", "max":"6", "chance":"100000"}, {"id":"1871", "min":"1", "max":"3", "chance":"111111"}, {"id":"1885", "min":"1", "max":"1", "chance":"47619"}, {"id":"4041", "min":"1", "max":"1", "chance":"4822"}, {"id":"5220", "min":"1", "max":"1", "chance":"9346"}, {"id":"5534", "min":"1", "max":"1", "chance":"5328"}, {"id":"8732", "min":"1", "max":"1", "chance":"1408"}, {"id":"8752", "min":"1", "max":"1", "chance":"469"}, {"id":"57", "min":"5276", "max":"10804", "chance":"700000"}, {"id":"1885", "min":"1", "max":"3", "chance":"547540"}, {"id":"4041", "min":"1", "max":"1", "chance":"114269"}, {"id":"5480", "min":"1", "max":"1", "chance":"58966"}],

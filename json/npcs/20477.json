@@ -2,6 +2,7 @@
 	"id": "20477", 
 	"name": "Kasha Timber Wolf", 
 	"title": "", 
+	"level": "6", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"12", "min":"1", "max":"1", "chance":"364"}, {"id":"215", "min":"1", "max":"1", "chance":"364"}, {"id":"1796", "min":"1", "max":"1", "chance":"14300"}, {"id":"1833", "min":"1", "max":"1", "chance":"30315"}, {"id":"1866", "min":"1", "max":"1", "chance":"7579"}, {"id":"1871", "min":"1", "max":"1", "chance":"11369"}, {"id":"57", "min":"41", "max":"58", "chance":"700000"}, {"id":"906", "min":"1", "max":"1", "chance":"14254"}, {"id":"1060", "min":"1", "max":"1", "chance":"171046"}, {"id":"1872", "min":"1", "max":"1", "chance":"102628"}],

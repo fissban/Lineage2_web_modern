@@ -2,6 +2,7 @@
 	"id": "20810", 
 	"name": "Seer of Hallate", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"91", "min":"1", "max":"1", "chance":"7"}, {"id":"92", "min":"1", "max":"1", "chance":"7"}, {"id":"1874", "min":"1", "max":"1", "chance":"6250"}, {"id":"1878", "min":"1", "max":"1", "chance":"52632"}, {"id":"1884", "min":"1", "max":"1", "chance":"83333"}, {"id":"1889", "min":"1", "max":"1", "chance":"6536"}, {"id":"4105", "min":"1", "max":"1", "chance":"1707"}, {"id":"4106", "min":"1", "max":"1", "chance":"1679"}, {"id":"4159", "min":"1", "max":"1", "chance":"906"}, {"id":"5220", "min":"1", "max":"1", "chance":"4525"}, {"id":"8728", "min":"1", "max":"1", "chance":"1812"}, {"id":"8738", "min":"1", "max":"1", "chance":"201"}, {"id":"8748", "min":"1", "max":"1", "chance":"403"}, {"id":"8758", "min":"1", "max":"1", "chance":"101"}, {"id":"57", "min":"1629", "max":"3312", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"1615"}, {"id":"4109", "min":"1", "max":"1", "chance":"22751"}, {"id":"4974", "min":"1", "max":"1", "chance":"65557"}],

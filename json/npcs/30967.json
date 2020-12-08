@@ -2,6 +2,7 @@
 	"id": "30967", 
 	"name": "Statue of Light", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

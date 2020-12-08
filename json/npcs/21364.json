@@ -2,6 +2,7 @@
 	"id": "21364", 
 	"name": "Varka Silenos Seer", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5312", "min":"1", "max":"1", "chance":"35"}, {"id":"5315", "min":"1", "max":"1", "chance":"50"}, {"id":"5317", "min":"1", "max":"1", "chance":"35"}, {"id":"960", "min":"1", "max":"1", "chance":"158"}, {"id":"1344", "min":"30", "max":"90", "chance":"90909"}, {"id":"1868", "min":"1", "max":"3", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"90909"}, {"id":"1889", "min":"1", "max":"1", "chance":"14706"}, {"id":"4044", "min":"1", "max":"1", "chance":"8065"}, {"id":"5495", "min":"1", "max":"1", "chance":"6985"}, {"id":"5527", "min":"1", "max":"1", "chance":"5500"}, {"id":"5528", "min":"1", "max":"1", "chance":"5500"}, {"id":"5549", "min":"1", "max":"1", "chance":"22727"}, {"id":"8732", "min":"1", "max":"1", "chance":"1408"}, {"id":"8742", "min":"1", "max":"1", "chance":"704"}, {"id":"57", "min":"3760", "max":"7675", "chance":"700000"}, {"id":"6691", "min":"1", "max":"1", "chance":"20197"}, {"id":"6693", "min":"1", "max":"1", "chance":"20563"}, {"id":"6694", "min":"1", "max":"1", "chance":"20563"}],

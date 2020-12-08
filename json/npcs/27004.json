@@ -2,6 +2,7 @@
 	"id": "27004", 
 	"name": "Spirit Of Mirrors", 
 	"title": "Quest Monster", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

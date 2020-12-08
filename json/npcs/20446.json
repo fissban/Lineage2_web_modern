@@ -2,6 +2,7 @@
 	"id": "20446", 
 	"name": "Utuku Orc", 
 	"title": "", 
+	"level": "6", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"22", "min":"1", "max":"1", "chance":"1890"}, {"id":"29", "min":"1", "max":"1", "chance":"3022"}, {"id":"1791", "min":"1", "max":"1", "chance":"2830"}, {"id":"1864", "min":"1", "max":"1", "chance":"30618"}, {"id":"1869", "min":"1", "max":"1", "chance":"15309"}, {"id":"57", "min":"41", "max":"58", "chance":"700000"}, {"id":"1869", "min":"1", "max":"1", "chance":"77741"}, {"id":"1870", "min":"1", "max":"1", "chance":"77741"}, {"id":"2007", "min":"1", "max":"1", "chance":"5553"}],

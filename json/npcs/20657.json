@@ -2,6 +2,7 @@
 	"id": "20657", 
 	"name": "Lesser Giant Mage", 
 	"title": "", 
+	"level": "64", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2398", "min":"1", "max":"1", "chance":"11"}, {"id":"2399", "min":"1", "max":"1", "chance":"11"}, {"id":"2403", "min":"1", "max":"1", "chance":"17"}, {"id":"2404", "min":"1", "max":"1", "chance":"17"}, {"id":"1866", "min":"1", "max":"1", "chance":"66667"}, {"id":"1871", "min":"1", "max":"1", "chance":"111111"}, {"id":"1877", "min":"1", "max":"1", "chance":"4926"}, {"id":"4040", "min":"1", "max":"1", "chance":"2347"}, {"id":"4041", "min":"1", "max":"1", "chance":"469"}, {"id":"4084", "min":"1", "max":"1", "chance":"2213"}, {"id":"4085", "min":"1", "max":"1", "chance":"2213"}, {"id":"4086", "min":"1", "max":"1", "chance":"2987"}, {"id":"4087", "min":"1", "max":"1", "chance":"2987"}, {"id":"4960", "min":"1", "max":"1", "chance":"2114"}, {"id":"5276", "min":"1", "max":"1", "chance":"1408"}, {"id":"8729", "min":"1", "max":"1", "chance":"1408"}, {"id":"8739", "min":"1", "max":"1", "chance":"235"}, {"id":"8759", "min":"1", "max":"1", "chance":"154"}, {"id":"57", "min":"1397", "max":"2824", "chance":"700000"}, {"id":"1877", "min":"1", "max":"1", "chance":"137950"}, {"id":"1914", "min":"1", "max":"2", "chance":"193750"}, {"id":"1920", "min":"1", "max":"1", "chance":"118007"}],

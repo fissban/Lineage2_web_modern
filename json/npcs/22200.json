@@ -2,6 +2,7 @@
 	"id": "22200", 
 	"name": "Ornithomimus", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5533", "min":"1", "max":"1", "chance":"1984"}, {"id":"8342", "min":"1", "max":"1", "chance":"3968"}, {"id":"8349", "min":"1", "max":"1", "chance":"1984"}, {"id":"8627", "min":"1", "max":"1", "chance":"5952"}, {"id":"8633", "min":"1", "max":"1", "chance":"3968"}, {"id":"8878", "min":"1", "max":"1", "chance":"20408"}, {"id":"8897", "min":"1", "max":"1", "chance":"9091"}, {"id":"8954", "min":"1", "max":"1", "chance":"6849"}, {"id":"8955", "min":"1", "max":"1", "chance":"6849"}, {"id":"8888", "min":"1", "max":"1", "chance":"12858"}, {"id":"8886", "min":"1", "max":"1", "chance":"12858"}, {"id":"57", "min":"6036", "max":"12300", "chance":"700000"}],

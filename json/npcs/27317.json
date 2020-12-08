@@ -2,6 +2,7 @@
 	"id": "27317", 
 	"name": "Restrainer of Glory", 
 	"title": "Quest Monster", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

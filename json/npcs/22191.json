@@ -2,6 +2,7 @@
 	"id": "22191", 
 	"name": "Andreas' Captain of the Royal Guard", 
 	"title": "", 
+	"level": "87", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5320", "min":"1", "max":"1", "chance":"13"}, {"id":"5323", "min":"1", "max":"1", "chance":"13"}, {"id":"5480", "min":"1", "max":"1", "chance":"1980"}, {"id":"5481", "min":"1", "max":"1", "chance":"1980"}, {"id":"959", "min":"1", "max":"1", "chance":"14"}, {"id":"1895", "min":"1", "max":"1", "chance":"100829"}, {"id":"4040", "min":"1", "max":"1", "chance":"7058"}, {"id":"4042", "min":"1", "max":"1", "chance":"5882"}, {"id":"4043", "min":"1", "max":"1", "chance":"11763"}, {"id":"57", "min":"2350", "max":"4817", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "30179", 
 	"name": "Raudia", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

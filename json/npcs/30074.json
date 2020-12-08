@@ -2,6 +2,7 @@
 	"id": "30074", 
 	"name": "Harlan", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "25186", 
 	"name": "Hellena's Marksman", 
 	"title": "Raid Fighter", 
+	"level": "34", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"565333"}],

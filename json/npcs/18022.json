@@ -2,6 +2,7 @@
 	"id": "18022", 
 	"name": "Apostate's Offering Warrior", 
 	"title": "", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"265", "max":"529", "chance":"700000"}],

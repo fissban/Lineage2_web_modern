@@ -2,6 +2,7 @@
 	"id": "25366", 
 	"name": "Kuroboros' Priest", 
 	"title": "Raid Boss", 
+	"level": "23", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"259", "min":"1", "max":"1", "chance":"162747"}, {"id":"848", "min":"3", "max":"9", "chance":"68342"}, {"id":"879", "min":"3", "max":"7", "chance":"123015"}, {"id":"911", "min":"1", "max":"1", "chance":"307537"}, {"id":"1900", "min":"84", "max":"252", "chance":"56880"}, {"id":"6575", "min":"1", "max":"1", "chance":"37740"}, {"id":"6576", "min":"1", "max":"1", "chance":"339659"}],

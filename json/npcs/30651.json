@@ -2,6 +2,7 @@
 	"id": "30651", 
 	"name": "Dorf", 
 	"title": "Wanderer", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

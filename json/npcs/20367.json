@@ -2,6 +2,7 @@
 	"id": "20367", 
 	"name": "Merkenis Escort", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"44", "min":"1", "max":"1", "chance":"666"}, {"id":"102", "min":"1", "max":"1", "chance":"955"}, {"id":"945", "min":"1", "max":"1", "chance":"1973"}, {"id":"735", "min":"1", "max":"1", "chance":"2262"}, {"id":"1864", "min":"1", "max":"1", "chance":"54276"}, {"id":"1869", "min":"1", "max":"1", "chance":"27138"}, {"id":"1878", "min":"1", "max":"1", "chance":"10856"}, {"id":"1924", "min":"1", "max":"1", "chance":"10943"}, {"id":"5153", "min":"1", "max":"1", "chance":"1086"}, {"id":"57", "min":"106", "max":"184", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"612488"}, {"id":"1864", "min":"1", "max":"1", "chance":"459366"}, {"id":"1896", "min":"1", "max":"1", "chance":"97323"}],

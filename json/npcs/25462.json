@@ -2,6 +2,7 @@
 	"id": "25462", 
 	"name": "Ereve's Squire", 
 	"title": "Raid Fighter", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"724800"}],

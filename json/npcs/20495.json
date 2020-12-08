@@ -2,6 +2,7 @@
 	"id": "20495", 
 	"name": "Turek Orc Warlord", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"69", "min":"1", "max":"1", "chance":"32"}, {"id":"125", "min":"1", "max":"1", "chance":"32"}, {"id":"126", "min":"1", "max":"1", "chance":"32"}, {"id":"128", "min":"1", "max":"1", "chance":"32"}, {"id":"955", "min":"1", "max":"1", "chance":"1044"}, {"id":"1875", "min":"1", "max":"1", "chance":"5208"}, {"id":"1879", "min":"1", "max":"1", "chance":"11111"}, {"id":"1885", "min":"1", "max":"1", "chance":"4525"}, {"id":"2021", "min":"1", "max":"1", "chance":"1298"}, {"id":"2274", "min":"1", "max":"1", "chance":"408"}, {"id":"2975", "min":"1", "max":"1", "chance":"10101"}, {"id":"5549", "min":"1", "max":"1", "chance":"6944"}, {"id":"5550", "min":"1", "max":"1", "chance":"1044"}, {"id":"6667", "min":"1", "max":"1", "chance":"43478"}, {"id":"57", "min":"397", "max":"793", "chance":"700000"}, {"id":"1900", "min":"1", "max":"1", "chance":"102868"}, {"id":"1936", "min":"1", "max":"1", "chance":"76940"}, {"id":"2267", "min":"1", "max":"1", "chance":"9723"}],

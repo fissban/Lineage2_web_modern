@@ -2,6 +2,7 @@
 	"id": "27183", 
 	"name": "Ark Guardian Shadowfang", 
 	"title": "Quest Monster", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

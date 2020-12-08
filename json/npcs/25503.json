@@ -2,6 +2,7 @@
 	"id": "25503", 
 	"name": "Akata's Lackey", 
 	"title": "Raid Fighter", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

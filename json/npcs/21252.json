@@ -2,6 +2,7 @@
 	"id": "21252", 
 	"name": "Crypt Guard", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5297", "min":"1", "max":"1", "chance":"21"}, {"id":"5298", "min":"1", "max":"1", "chance":"33"}, {"id":"5301", "min":"1", "max":"1", "chance":"14"}, {"id":"5276", "min":"1", "max":"1", "chance":"402"}, {"id":"5478", "min":"1", "max":"1", "chance":"2951"}, {"id":"5479", "min":"1", "max":"1", "chance":"2077"}, {"id":"5482", "min":"1", "max":"1", "chance":"4631"}, {"id":"8730", "min":"1", "max":"1", "chance":"70"}, {"id":"57", "min":"2875", "max":"5849", "chance":"700000"}, {"id":"4053", "min":"1", "max":"1", "chance":"305530"}, {"id":"5230", "min":"1", "max":"1", "chance":"9504"}, {"id":"5478", "min":"1", "max":"1", "chance":"59940"}],

@@ -2,6 +2,7 @@
 	"id": "25171", 
 	"name": "Hellion's Archers", 
 	"title": "Raid Fighter", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"664000"}],

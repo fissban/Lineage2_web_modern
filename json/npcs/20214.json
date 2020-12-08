@@ -2,6 +2,7 @@
 	"id": "20214", 
 	"name": "Excuro", 
 	"title": "", 
+	"level": "41", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"851", "min":"1", "max":"1", "chance":"184"}, {"id":"882", "min":"1", "max":"1", "chance":"275"}, {"id":"914", "min":"1", "max":"1", "chance":"137"}, {"id":"1805", "min":"1", "max":"1", "chance":"393"}, {"id":"1865", "min":"1", "max":"1", "chance":"166667"}, {"id":"1870", "min":"1", "max":"1", "chance":"142857"}, {"id":"1875", "min":"1", "max":"1", "chance":"10753"}, {"id":"1879", "min":"1", "max":"1", "chance":"26316"}, {"id":"1905", "min":"1", "max":"1", "chance":"10784"}, {"id":"1906", "min":"1", "max":"1", "chance":"15238"}, {"id":"1907", "min":"1", "max":"1", "chance":"7712"}, {"id":"5269", "min":"1", "max":"1", "chance":"393"}, {"id":"57", "min":"545", "max":"1090", "chance":"700000"}, {"id":"1877", "min":"1", "max":"1", "chance":"52984"}, {"id":"1879", "min":"1", "max":"1", "chance":"220767"}, {"id":"2997", "min":"1", "max":"2", "chance":"105127"}],

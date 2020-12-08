@@ -2,6 +2,7 @@
 	"id": "27120", 
 	"name": "Luell Of Zephyr Winds", 
 	"title": "Quest Monster", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

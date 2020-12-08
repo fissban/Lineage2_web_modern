@@ -2,6 +2,7 @@
 	"id": "18325", 
 	"name": "Caught Flava", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6534", "min":"1", "max":"1", "chance":"17"}, {"id":"6521", "min":"2", "max":"6", "chance":"70774"}, {"id":"6524", "min":"1", "max":"1", "chance":"212320"}, {"id":"6527", "min":"2", "max":"6", "chance":"47183"}, {"id":"6540", "min":"3", "max":"9", "chance":"141547"}],

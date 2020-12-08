@@ -2,6 +2,7 @@
 	"id": "20845", 
 	"name": "Pirate's Zombie Captain", 
 	"title": "", 
+	"level": "52", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"75", "min":"1", "max":"1", "chance":"3"}, {"id":"76", "min":"1", "max":"1", "chance":"3"}, {"id":"77", "min":"1", "max":"1", "chance":"3"}, {"id":"84", "min":"1", "max":"1", "chance":"3"}, {"id":"134", "min":"1", "max":"1", "chance":"3"}, {"id":"145", "min":"1", "max":"1", "chance":"3"}, {"id":"1868", "min":"1", "max":"1", "chance":"121101"}, {"id":"1873", "min":"1", "max":"1", "chance":"24221"}, {"id":"1876", "min":"1", "max":"1", "chance":"12111"}, {"id":"1895", "min":"1", "max":"1", "chance":"17301"}, {"id":"2089", "min":"1", "max":"1", "chance":"275"}, {"id":"2090", "min":"1", "max":"1", "chance":"275"}, {"id":"2091", "min":"1", "max":"1", "chance":"275"}, {"id":"2092", "min":"1", "max":"1", "chance":"275"}, {"id":"2095", "min":"1", "max":"1", "chance":"275"}, {"id":"2096", "min":"1", "max":"1", "chance":"275"}, {"id":"3017", "min":"1", "max":"1", "chance":"1692"}, {"id":"4042", "min":"1", "max":"1", "chance":"1010"}, {"id":"4608", "min":"1", "max":"1", "chance":"135"}, {"id":"5155", "min":"1", "max":"1", "chance":"122"}, {"id":"6669", "min":"1", "max":"1", "chance":"14082"}, {"id":"8735", "min":"1", "max":"1", "chance":"5000"}, {"id":"57", "min":"593", "max":"1199", "chance":"700000"}, {"id":"2100", "min":"1", "max":"1", "chance":"8254"}, {"id":"2354", "min":"1", "max":"1", "chance":"2389"}, {"id":"4042", "min":"1", "max":"1", "chance":"24403"}],

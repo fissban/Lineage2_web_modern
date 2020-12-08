@@ -2,6 +2,7 @@
 	"id": "30710", 
 	"name": "Weston", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

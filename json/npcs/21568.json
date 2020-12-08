@@ -2,6 +2,7 @@
 	"id": "21568", 
 	"name": "Devil Bat", 
 	"title": "", 
+	"level": "68", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"235", "min":"1", "max":"1", "chance":"6"}, {"id":"1343", "min":"10", "max":"30", "chance":"166667"}, {"id":"1865", "min":"1", "max":"1", "chance":"100000"}, {"id":"1870", "min":"1", "max":"1", "chance":"111111"}, {"id":"1874", "min":"1", "max":"1", "chance":"7042"}, {"id":"4039", "min":"1", "max":"1", "chance":"3356"}, {"id":"4043", "min":"1", "max":"1", "chance":"3663"}, {"id":"5536", "min":"1", "max":"1", "chance":"1642"}, {"id":"6337", "min":"1", "max":"1", "chance":"306"}, {"id":"8730", "min":"1", "max":"1", "chance":"917"}, {"id":"8740", "min":"1", "max":"1", "chance":"611"}, {"id":"57", "min":"1318", "max":"2679", "chance":"700000"}, {"id":"730", "min":"1", "max":"1", "chance":"2722"}, {"id":"5526", "min":"1", "max":"1", "chance":"50497"}, {"id":"6335", "min":"1", "max":"1", "chance":"12564"}],

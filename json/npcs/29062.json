@@ -2,6 +2,7 @@
 	"id": "29062", 
 	"name": "Andreas Van Halter", 
 	"title": "Seer of Pagan", 
+	"level": "87", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6684", "min":"1", "max":"1", "chance":"17056"}, {"id":"6711", "min":"12", "max":"36", "chance":"306342"}, {"id":"7575", "min":"1", "max":"1", "chance":"10504"}, {"id":"7579", "min":"12", "max":"36", "chance":"233504"}, {"id":"959", "min":"1", "max":"1", "chance":"32009"}, {"id":"960", "min":"1", "max":"1", "chance":"320095"}, {"id":"6577", "min":"1", "max":"1", "chance":"5335"}, {"id":"8921", "min":"1", "max":"1", "chance":"320095"}],

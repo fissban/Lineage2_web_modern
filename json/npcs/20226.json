@@ -2,6 +2,7 @@
 	"id": "20226", 
 	"name": "Gray Ant", 
 	"title": "", 
+	"level": "26", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"123", "min":"1", "max":"1", "chance":"26"}, {"id":"5285", "min":"1", "max":"1", "chance":"26"}, {"id":"1866", "min":"1", "max":"1", "chance":"41667"}, {"id":"1871", "min":"1", "max":"1", "chance":"62500"}, {"id":"2017", "min":"1", "max":"1", "chance":"687"}, {"id":"2178", "min":"1", "max":"1", "chance":"12048"}, {"id":"5220", "min":"1", "max":"1", "chance":"1845"}, {"id":"5531", "min":"1", "max":"1", "chance":"868"}, {"id":"57", "min":"160", "max":"305", "chance":"700000"}, {"id":"413", "min":"1", "max":"1", "chance":"1884"}, {"id":"1868", "min":"1", "max":"1", "chance":"736790"}, {"id":"1899", "min":"1", "max":"1", "chance":"57562"}],

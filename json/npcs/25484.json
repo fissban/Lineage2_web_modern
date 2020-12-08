@@ -2,6 +2,7 @@
 	"id": "25484", 
 	"name": "Zaken's Chief Mate Tillion", 
 	"title": "Raid Boss", 
+	"level": "50", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"229", "min":"1", "max":"1", "chance":"5883"}, {"id":"243", "min":"1", "max":"1", "chance":"5883"}, {"id":"503", "min":"1", "max":"1", "chance":"21878"}, {"id":"633", "min":"1", "max":"1", "chance":"31231"}, {"id":"673", "min":"1", "max":"1", "chance":"31231"}, {"id":"2415", "min":"1", "max":"1", "chance":"21878"}, {"id":"4072", "min":"23", "max":"67", "chance":"84941"}, {"id":"4101", "min":"11", "max":"31", "chance":"234931"}, {"id":"4102", "min":"16", "max":"48", "chance":"119448"}, {"id":"4110", "min":"2", "max":"4", "chance":"479447"}, {"id":"4439", "min":"60", "max":"180", "chance":"48911"}, {"id":"4109", "min":"4", "max":"12", "chance":"179793"}, {"id":"4607", "min":"1", "max":"3", "chance":"183865"}, {"id":"4608", "min":"1", "max":"1", "chance":"367730"}, {"id":"4609", "min":"1", "max":"1", "chance":"367730"}, {"id":"6573", "min":"1", "max":"1", "chance":"11033"}],

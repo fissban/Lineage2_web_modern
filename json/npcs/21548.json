@@ -2,6 +2,7 @@
 	"id": "21548", 
 	"name": "Resurrected Knight", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"268", "min":"1", "max":"1", "chance":"5"}, {"id":"1343", "min":"10", "max":"30", "chance":"83333"}, {"id":"1868", "min":"1", "max":"1", "chance":"111111"}, {"id":"1873", "min":"1", "max":"1", "chance":"25641"}, {"id":"1889", "min":"1", "max":"1", "chance":"3610"}, {"id":"4044", "min":"1", "max":"1", "chance":"1642"}, {"id":"4120", "min":"1", "max":"1", "chance":"1397"}, {"id":"5281", "min":"1", "max":"1", "chance":"107"}, {"id":"5346", "min":"1", "max":"1", "chance":"131"}, {"id":"5549", "min":"1", "max":"1", "chance":"6897"}, {"id":"6670", "min":"1", "max":"1", "chance":"9524"}, {"id":"8729", "min":"1", "max":"1", "chance":"722"}, {"id":"8739", "min":"1", "max":"1", "chance":"263"}, {"id":"57", "min":"875", "max":"1772", "chance":"700000"}, {"id":"4044", "min":"1", "max":"1", "chance":"72124"}, {"id":"4086", "min":"1", "max":"1", "chance":"50774"}, {"id":"5549", "min":"1", "max":"1", "chance":"216373"}],

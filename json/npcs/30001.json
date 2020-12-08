@@ -2,6 +2,7 @@
 	"id": "30001", 
 	"name": "Lector", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "30711", 
 	"name": "Byron", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

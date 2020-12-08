@@ -2,6 +2,7 @@
 	"id": "31255", 
 	"name": "Buzz the Cat", 
 	"title": "Event Manager", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

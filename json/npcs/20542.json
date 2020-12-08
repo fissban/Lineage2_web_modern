@@ -2,6 +2,7 @@
 	"id": "20542", 
 	"name": "Skeleton Longbowman", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"272", "min":"1", "max":"1", "chance":"99"}, {"id":"1801", "min":"1", "max":"1", "chance":"13476"}, {"id":"1864", "min":"1", "max":"1", "chance":"53500"}, {"id":"1869", "min":"1", "max":"1", "chance":"26750"}, {"id":"1878", "min":"1", "max":"1", "chance":"10700"}, {"id":"2013", "min":"1", "max":"1", "chance":"1444"}, {"id":"5158", "min":"1", "max":"1", "chance":"1070"}, {"id":"57", "min":"106", "max":"181", "chance":"700000"}, {"id":"734", "min":"1", "max":"1", "chance":"37733"}, {"id":"1869", "min":"1", "max":"1", "chance":"226397"}, {"id":"1878", "min":"1", "max":"1", "chance":"90559"}],

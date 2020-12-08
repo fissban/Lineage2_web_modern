@@ -2,6 +2,7 @@
 	"id": "29003", 
 	"name": "Nurse Ant", 
 	"title": "", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

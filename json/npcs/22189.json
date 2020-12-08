@@ -2,6 +2,7 @@
 	"id": "22189", 
 	"name": "Andreas' Royal Guards", 
 	"title": "", 
+	"level": "86", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"4456", "max":"7385", "chance":"700000"}],

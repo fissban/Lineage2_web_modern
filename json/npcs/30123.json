@@ -2,6 +2,7 @@
 	"id": "30123", 
 	"name": "Vesa", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

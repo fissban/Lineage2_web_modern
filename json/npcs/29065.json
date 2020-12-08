@@ -2,6 +2,7 @@
 	"id": "29065", 
 	"name": "Sailren", 
 	"title": "Sealed Evil Power", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "true", 
 	"drops":[{"id":"6680", "min":"1", "max":"1", "chance":"7303"}, {"id":"6707", "min":"3", "max":"9", "chance":"524645"}, {"id":"6367", "min":"1", "max":"1", "chance":"4497"}, {"id":"6691", "min":"3", "max":"9", "chance":"395312"}, {"id":"959", "min":"1", "max":"1", "chance":"18273"}, {"id":"960", "min":"1", "max":"1", "chance":"182734"}, {"id":"6577", "min":"1", "max":"1", "chance":"3046"}],

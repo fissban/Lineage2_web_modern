@@ -2,6 +2,7 @@
 	"id": "18014", 
 	"name": "Offering of Branded Berserker", 
 	"title": "", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"228", "max":"455", "chance":"700000"}],

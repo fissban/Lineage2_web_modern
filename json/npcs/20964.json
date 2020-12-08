@@ -2,6 +2,7 @@
 	"id": "20964", 
 	"name": "Huge Footmark", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5289", "min":"1", "max":"1", "chance":"11"}, {"id":"5292", "min":"1", "max":"1", "chance":"15"}, {"id":"5294", "min":"1", "max":"1", "chance":"11"}, {"id":"1868", "min":"1", "max":"1", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"23256"}, {"id":"1876", "min":"1", "max":"1", "chance":"15625"}, {"id":"1895", "min":"1", "max":"1", "chance":"18868"}, {"id":"4042", "min":"1", "max":"1", "chance":"1701"}, {"id":"4174", "min":"1", "max":"1", "chance":"283"}, {"id":"5494", "min":"1", "max":"1", "chance":"1899"}, {"id":"5525", "min":"1", "max":"1", "chance":"1398"}, {"id":"5526", "min":"1", "max":"1", "chance":"1398"}, {"id":"8730", "min":"1", "max":"1", "chance":"567"}, {"id":"8740", "min":"1", "max":"1", "chance":"283"}, {"id":"8750", "min":"1", "max":"1", "chance":"283"}, {"id":"57", "min":"741", "max":"1507", "chance":"700000"}, {"id":"1874", "min":"1", "max":"1", "chance":"122460"}, {"id":"1875", "min":"1", "max":"1", "chance":"122460"}, {"id":"3035", "min":"1", "max":"1", "chance":"2449"}],

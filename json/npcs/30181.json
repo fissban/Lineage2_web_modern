@@ -2,6 +2,7 @@
 	"id": "30181", 
 	"name": "Galibredo", 
 	"title": "Accessory Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

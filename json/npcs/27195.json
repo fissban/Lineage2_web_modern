@@ -2,6 +2,7 @@
 	"id": "27195", 
 	"name": "Male Ant", 
 	"title": "Quest Monster", 
+	"level": "32", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

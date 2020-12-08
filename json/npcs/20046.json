@@ -2,6 +2,7 @@
 	"id": "20046", 
 	"name": "Stink Zombie", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"845", "min":"1", "max":"1", "chance":"813"}, {"id":"877", "min":"1", "max":"1", "chance":"1221"}, {"id":"908", "min":"1", "max":"1", "chance":"608"}, {"id":"1867", "min":"1", "max":"1", "chance":"48184"}, {"id":"1872", "min":"1", "max":"1", "chance":"48184"}, {"id":"1882", "min":"1", "max":"1", "chance":"8031"}, {"id":"1897", "min":"1", "max":"1", "chance":"8604"}, {"id":"2173", "min":"1", "max":"1", "chance":"9794"}, {"id":"57", "min":"115", "max":"195", "chance":"700000"}, {"id":"735", "min":"1", "max":"1", "chance":"20390"}, {"id":"1897", "min":"1", "max":"1", "chance":"58257"}, {"id":"2139", "min":"1", "max":"1", "chance":"48936"}],

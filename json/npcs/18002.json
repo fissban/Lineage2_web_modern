@@ -2,6 +2,7 @@
 	"id": "18002", 
 	"name": "Blood Queen", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

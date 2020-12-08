@@ -2,6 +2,7 @@
 	"id": "20091", 
 	"name": "Young Fox", 
 	"title": "", 
+	"level": "1", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

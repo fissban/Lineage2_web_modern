@@ -2,6 +2,7 @@
 	"id": "20680", 
 	"name": "Marsh Drake", 
 	"title": "", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"299", "min":"1", "max":"1", "chance":"3"}, {"id":"301", "min":"1", "max":"1", "chance":"4"}, {"id":"303", "min":"1", "max":"1", "chance":"4"}, {"id":"1874", "min":"1", "max":"1", "chance":"3448"}, {"id":"1878", "min":"1", "max":"1", "chance":"22727"}, {"id":"1884", "min":"1", "max":"1", "chance":"32258"}, {"id":"1889", "min":"1", "max":"1", "chance":"3205"}, {"id":"2113", "min":"1", "max":"1", "chance":"437"}, {"id":"2114", "min":"1", "max":"1", "chance":"437"}, {"id":"2122", "min":"1", "max":"1", "chance":"412"}, {"id":"4441", "min":"1", "max":"1", "chance":"966"}, {"id":"5220", "min":"1", "max":"1", "chance":"1631"}, {"id":"5280", "min":"1", "max":"1", "chance":"121"}, {"id":"8311", "min":"1", "max":"1", "chance":"60"}, {"id":"8726", "min":"1", "max":"1", "chance":"1511"}, {"id":"8736", "min":"1", "max":"1", "chance":"302"}, {"id":"8746", "min":"1", "max":"1", "chance":"14"}, {"id":"57", "min":"590", "max":"1202", "chance":"700000"}, {"id":"1873", "min":"1", "max":"2", "chance":"585562"}, {"id":"1876", "min":"1", "max":"1", "chance":"292781"}, {"id":"3034", "min":"1", "max":"1", "chance":"2928"}],

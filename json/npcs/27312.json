@@ -2,6 +2,7 @@
 	"id": "27312", 
 	"name": "Mysterious Servitor", 
 	"title": "Quest Monster", 
+	"level": "81", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

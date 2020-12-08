@@ -2,6 +2,7 @@
 	"id": "21161", 
 	"name": "Lesser Ancient Soldier", 
 	"title": "", 
+	"level": "73", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6323", "min":"1", "max":"1", "chance":"47"}, {"id":"6324", "min":"1", "max":"1", "chance":"62"}, {"id":"6325", "min":"1", "max":"1", "chance":"93"}, {"id":"1866", "min":"1", "max":"1", "chance":"142857"}, {"id":"1871", "min":"1", "max":"1", "chance":"200000"}, {"id":"1877", "min":"1", "max":"1", "chance":"7634"}, {"id":"4040", "min":"1", "max":"1", "chance":"3509"}, {"id":"4041", "min":"1", "max":"1", "chance":"2004"}, {"id":"5276", "min":"1", "max":"1", "chance":"125"}, {"id":"6341", "min":"1", "max":"1", "chance":"11159"}, {"id":"6343", "min":"1", "max":"1", "chance":"8627"}, {"id":"6345", "min":"1", "max":"1", "chance":"15434"}, {"id":"8731", "min":"1", "max":"1", "chance":"2381"}, {"id":"8741", "min":"1", "max":"1", "chance":"63"}, {"id":"8761", "min":"1", "max":"1", "chance":"63"}, {"id":"57", "min":"3302", "max":"6724", "chance":"700000"}, {"id":"3035", "min":"1", "max":"1", "chance":"10926"}, {"id":"4041", "min":"1", "max":"1", "chance":"71260"}, {"id":"5485", "min":"1", "max":"1", "chance":"68911"}],

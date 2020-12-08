@@ -2,6 +2,7 @@
 	"id": "21736", 
 	"name": "Forbidden Path Invader Warrior", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"97", "min":"1", "max":"1", "chance":"11"}, {"id":"1866", "min":"1", "max":"1", "chance":"145778"}, {"id":"1871", "min":"1", "max":"1", "chance":"218667"}, {"id":"1885", "min":"1", "max":"1", "chance":"18223"}, {"id":"4041", "min":"1", "max":"1", "chance":"1902"}, {"id":"4115", "min":"1", "max":"1", "chance":"2862"}, {"id":"5220", "min":"1", "max":"1", "chance":"8747"}, {"id":"5446", "min":"1", "max":"1", "chance":"120"}, {"id":"8729", "min":"1", "max":"1", "chance":"943"}, {"id":"57", "min":"1797", "max":"3638", "chance":"700000"}, {"id":"4090", "min":"1", "max":"1", "chance":"199401"}, {"id":"5220", "min":"1", "max":"1", "chance":"177666"}, {"id":"5438", "min":"1", "max":"1", "chance":"2427"}],

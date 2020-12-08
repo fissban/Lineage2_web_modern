@@ -2,6 +2,7 @@
 	"id": "27163", 
 	"name": "Vanor Elder Kerunos", 
 	"title": "Quest Monster", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

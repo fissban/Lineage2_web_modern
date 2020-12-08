@@ -2,6 +2,7 @@
 	"id": "30718", 
 	"name": "Joan", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

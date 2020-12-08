@@ -2,6 +2,7 @@
 	"id": "20203", 
 	"name": "Dion Grizzly", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"176", "min":"1", "max":"1", "chance":"116"}, {"id":"2501", "min":"1", "max":"1", "chance":"116"}, {"id":"1867", "min":"1", "max":"1", "chance":"42148"}, {"id":"1872", "min":"1", "max":"1", "chance":"42148"}, {"id":"1882", "min":"1", "max":"1", "chance":"7025"}, {"id":"2174", "min":"1", "max":"1", "chance":"13744"}, {"id":"5273", "min":"1", "max":"1", "chance":"1265"}, {"id":"57", "min":"124", "max":"215", "chance":"700000"}, {"id":"1882", "min":"1", "max":"2", "chance":"59453"}, {"id":"1897", "min":"1", "max":"1", "chance":"63700"}],

@@ -2,6 +2,7 @@
 	"id": "21219", 
 	"name": "Vault Priest", 
 	"title": "", 
+	"level": "47", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"440", "min":"1", "max":"1", "chance":"196"}, {"id":"951", "min":"1", "max":"1", "chance":"186"}, {"id":"1866", "min":"1", "max":"1", "chance":"125000"}, {"id":"1871", "min":"1", "max":"1", "chance":"200000"}, {"id":"1877", "min":"1", "max":"1", "chance":"8929"}, {"id":"1970", "min":"1", "max":"1", "chance":"15466"}, {"id":"4040", "min":"1", "max":"1", "chance":"2237"}, {"id":"4041", "min":"1", "max":"1", "chance":"2237"}, {"id":"5812", "min":"1", "max":"1", "chance":"76950"}, {"id":"5813", "min":"1", "max":"1", "chance":"129852"}, {"id":"57", "min":"1258", "max":"2567", "chance":"700000"}, {"id":"1911", "min":"1", "max":"1", "chance":"232505"}, {"id":"1912", "min":"1", "max":"1", "chance":"336857"}, {"id":"2166", "min":"1", "max":"1", "chance":"105967"}],

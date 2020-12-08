@@ -2,6 +2,7 @@
 	"id": "21079", 
 	"name": "Valac's Creature", 
 	"title": "", 
+	"level": "69", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5304", "min":"1", "max":"1", "chance":"15"}, {"id":"5305", "min":"1", "max":"1", "chance":"24"}, {"id":"5308", "min":"1", "max":"1", "chance":"11"}, {"id":"730", "min":"1", "max":"1", "chance":"1639"}, {"id":"1868", "min":"1", "max":"3", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"71429"}, {"id":"1876", "min":"1", "max":"1", "chance":"27778"}, {"id":"1895", "min":"1", "max":"1", "chance":"40000"}, {"id":"4042", "min":"1", "max":"1", "chance":"4926"}, {"id":"5161", "min":"1", "max":"1", "chance":"296"}, {"id":"5485", "min":"1", "max":"1", "chance":"2175"}, {"id":"5486", "min":"1", "max":"1", "chance":"1530"}, {"id":"5489", "min":"1", "max":"1", "chance":"3413"}, {"id":"8730", "min":"1", "max":"1", "chance":"3279"}, {"id":"8740", "min":"1", "max":"1", "chance":"1639"}, {"id":"57", "min":"2121", "max":"4306", "chance":"700000"}, {"id":"1895", "min":"1", "max":"3", "chance":"750339"}, {"id":"4042", "min":"1", "max":"1", "chance":"87540"}, {"id":"5478", "min":"1", "max":"1", "chance":"44167"}],

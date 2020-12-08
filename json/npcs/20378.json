@@ -2,6 +2,7 @@
 	"id": "20378", 
 	"name": "Stone Giant", 
 	"title": "", 
+	"level": "13", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"114", "min":"1", "max":"1", "chance":"1357"}, {"id":"115", "min":"1", "max":"1", "chance":"1357"}, {"id":"876", "min":"1", "max":"1", "chance":"2036"}, {"id":"907", "min":"1", "max":"1", "chance":"1018"}, {"id":"736", "min":"1", "max":"1", "chance":"19845"}, {"id":"1866", "min":"1", "max":"1", "chance":"26460"}, {"id":"1871", "min":"1", "max":"1", "chance":"39690"}, {"id":"1896", "min":"1", "max":"1", "chance":"10091"}, {"id":"57", "min":"106", "max":"150", "chance":"700000"}, {"id":"49", "min":"1", "max":"1", "chance":"15211"}, {"id":"1831", "min":"1", "max":"1", "chance":"537455"}, {"id":"1896", "min":"1", "max":"1", "chance":"85401"}],

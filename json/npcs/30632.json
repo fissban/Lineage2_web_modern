@@ -2,6 +2,7 @@
 	"id": "30632", 
 	"name": "Endrigo", 
 	"title": "Warden", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

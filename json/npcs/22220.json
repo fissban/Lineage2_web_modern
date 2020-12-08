@@ -2,6 +2,7 @@
 	"id": "22220", 
 	"name": "Deinonychus", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5534", "min":"1", "max":"1", "chance":"5263"}, {"id":"8627", "min":"1", "max":"1", "chance":"1314"}, {"id":"8633", "min":"1", "max":"1", "chance":"2188"}, {"id":"8880", "min":"1", "max":"1", "chance":"19608"}, {"id":"8954", "min":"1", "max":"1", "chance":"1751"}, {"id":"8955", "min":"1", "max":"1", "chance":"1314"}, {"id":"8956", "min":"1", "max":"1", "chance":"438"}, {"id":"57", "min":"4893", "max":"9986", "chance":"700000"}, {"id":"1875", "min":"1", "max":"3", "chance":"680000"}],

@@ -2,6 +2,7 @@
 	"id": "20768", 
 	"name": "Timak Orc Troop Shaman", 
 	"title": "", 
+	"level": "44", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"631", "min":"1", "max":"1", "chance":"179"}, {"id":"2413", "min":"1", "max":"1", "chance":"126"}, {"id":"2495", "min":"1", "max":"1", "chance":"179"}, {"id":"1832", "min":"1", "max":"1", "chance":"83333"}, {"id":"1865", "min":"1", "max":"1", "chance":"71429"}, {"id":"1870", "min":"1", "max":"1", "chance":"66667"}, {"id":"1875", "min":"1", "max":"1", "chance":"2439"}, {"id":"1879", "min":"1", "max":"1", "chance":"11364"}, {"id":"1964", "min":"1", "max":"1", "chance":"9612"}, {"id":"2163", "min":"1", "max":"1", "chance":"3247"}, {"id":"2315", "min":"1", "max":"1", "chance":"311"}, {"id":"2319", "min":"1", "max":"1", "chance":"311"}, {"id":"2936", "min":"1", "max":"1", "chance":"8730"}, {"id":"2945", "min":"1", "max":"1", "chance":"9612"}, {"id":"8723", "min":"1", "max":"1", "chance":"1623"}, {"id":"57", "min":"606", "max":"1242", "chance":"700000"}, {"id":"1908", "min":"1", "max":"1", "chance":"143002"}, {"id":"1909", "min":"1", "max":"1", "chance":"203930"}, {"id":"2163", "min":"1", "max":"1", "chance":"77046"}],

@@ -2,6 +2,7 @@
 	"id": "21379", 
 	"name": "Tepra Scorpion", 
 	"title": "", 
+	"level": "79", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5311", "min":"1", "max":"1", "chance":"18"}, {"id":"5316", "min":"1", "max":"1", "chance":"18"}, {"id":"960", "min":"1", "max":"1", "chance":"210"}, {"id":"1344", "min":"40", "max":"120", "chance":"111111"}, {"id":"1864", "min":"5", "max":"15", "chance":"71429"}, {"id":"1865", "min":"3", "max":"9", "chance":"58824"}, {"id":"1866", "min":"3", "max":"9", "chance":"38462"}, {"id":"1868", "min":"12", "max":"36", "chance":"32258"}, {"id":"1873", "min":"1", "max":"1", "chance":"166667"}, {"id":"5522", "min":"1", "max":"1", "chance":"3122"}, {"id":"5523", "min":"1", "max":"1", "chance":"3122"}, {"id":"8732", "min":"1", "max":"1", "chance":"2020"}, {"id":"8742", "min":"1", "max":"1", "chance":"782"}, {"id":"57", "min":"4995", "max":"10193", "chance":"700000"}, {"id":"5515", "min":"1", "max":"1", "chance":"209654"}, {"id":"5522", "min":"1", "max":"1", "chance":"42275"}, {"id":"6901", "min":"1", "max":"1", "chance":"12414"}],

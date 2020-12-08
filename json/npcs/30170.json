@@ -2,6 +2,7 @@
 	"id": "30170", 
 	"name": "Radic", 
 	"title": "Warehouse Keeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

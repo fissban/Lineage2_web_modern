@@ -2,6 +2,7 @@
 	"id": "30171", 
 	"name": "Galios", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

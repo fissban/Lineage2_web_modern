@@ -2,6 +2,7 @@
 	"id": "21175", 
 	"name": "Lilim Butcher", 
 	"title": "", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"268", "max":"532", "chance":"700000"}, {"id":"6362", "min":"25", "max":"45", "chance":"700000"}, {"id":"227", "min":"1", "max":"1", "chance":"29"}, {"id":"242", "min":"1", "max":"1", "chance":"29"}, {"id":"951", "min":"1", "max":"1", "chance":"423"}, {"id":"1866", "min":"1", "max":"1", "chance":"166667"}, {"id":"1871", "min":"1", "max":"3", "chance":"83333"}, {"id":"1877", "min":"1", "max":"1", "chance":"9346"}, {"id":"2083", "min":"1", "max":"1", "chance":"2740"}, {"id":"2084", "min":"1", "max":"1", "chance":"2740"}, {"id":"4040", "min":"1", "max":"1", "chance":"5714"}, {"id":"4041", "min":"1", "max":"1", "chance":"2114"}, {"id":"6037", "min":"1", "max":"3", "chance":"250000"}, {"id":"440", "min":"1", "max":"1", "chance":"1053"}, {"id":"1912", "min":"1", "max":"1", "chance":"401114"}, {"id":"4590", "min":"1", "max":"1", "chance":"12408"}],

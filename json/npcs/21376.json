@@ -2,6 +2,7 @@
 	"id": "21376", 
 	"name": "Scarlet Stakato Worker", 
 	"title": "", 
+	"level": "78", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"235", "min":"1", "max":"1", "chance":"20"}, {"id":"1867", "min":"1", "max":"3", "chance":"200000"}, {"id":"1872", "min":"4", "max":"12", "chance":"76963"}, {"id":"1875", "min":"1", "max":"1", "chance":"25000"}, {"id":"1881", "min":"1", "max":"1", "chance":"55556"}, {"id":"3036", "min":"1", "max":"1", "chance":"270"}, {"id":"4041", "min":"1", "max":"1", "chance":"3610"}, {"id":"5536", "min":"1", "max":"1", "chance":"6184"}, {"id":"8732", "min":"1", "max":"1", "chance":"3205"}, {"id":"8742", "min":"1", "max":"1", "chance":"801"}, {"id":"57", "min":"4952", "max":"10108", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"820385"}, {"id":"4041", "min":"1", "max":"1", "chance":"107007"}, {"id":"5544", "min":"1", "max":"1", "chance":"33721"}],

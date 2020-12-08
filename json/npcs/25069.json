@@ -2,6 +2,7 @@
 	"id": "25069", 
 	"name": "Shaka's Follower", 
 	"title": "Raid Fighter", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"755200"}],

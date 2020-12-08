@@ -2,6 +2,7 @@
 	"id": "20280", 
 	"name": "Headless Knight", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "27137", 
 	"name": "Demon King", 
 	"title": "Quest Monster", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

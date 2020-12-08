@@ -2,6 +2,7 @@
 	"id": "30075", 
 	"name": "Xaber", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

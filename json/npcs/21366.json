@@ -2,6 +2,7 @@
 	"id": "21366", 
 	"name": "Varka Silenos General", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5311", "min":"1", "max":"1", "chance":"13"}, {"id":"5316", "min":"1", "max":"1", "chance":"13"}, {"id":"960", "min":"1", "max":"1", "chance":"212"}, {"id":"1344", "min":"20", "max":"60", "chance":"250000"}, {"id":"1894", "min":"1", "max":"1", "chance":"14085"}, {"id":"4039", "min":"1", "max":"1", "chance":"11111"}, {"id":"4041", "min":"1", "max":"1", "chance":"2331"}, {"id":"4044", "min":"1", "max":"1", "chance":"12658"}, {"id":"5522", "min":"1", "max":"1", "chance":"2254"}, {"id":"5523", "min":"1", "max":"1", "chance":"2254"}, {"id":"8732", "min":"1", "max":"1", "chance":"2227"}, {"id":"8742", "min":"1", "max":"1", "chance":"477"}, {"id":"8752", "min":"1", "max":"1", "chance":"265"}, {"id":"57", "min":"3605", "max":"7357", "chance":"700000"}, {"id":"6698", "min":"1", "max":"2", "chance":"175995"}, {"id":"6699", "min":"1", "max":"2", "chance":"195290"}, {"id":"6700", "min":"1", "max":"1", "chance":"107266"}],

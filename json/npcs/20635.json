@@ -2,6 +2,7 @@
 	"id": "20635", 
 	"name": "Carinkain", 
 	"title": "", 
+	"level": "45", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"263", "min":"1", "max":"1", "chance":"21"}, {"id":"1866", "min":"1", "max":"1", "chance":"27778"}, {"id":"1871", "min":"1", "max":"1", "chance":"43478"}, {"id":"1885", "min":"1", "max":"1", "chance":"1555"}, {"id":"2073", "min":"1", "max":"1", "chance":"1773"}, {"id":"3002", "min":"1", "max":"1", "chance":"2591"}, {"id":"3004", "min":"1", "max":"1", "chance":"2591"}, {"id":"4041", "min":"1", "max":"1", "chance":"570"}, {"id":"5220", "min":"1", "max":"1", "chance":"1555"}, {"id":"8723", "min":"1", "max":"1", "chance":"2591"}, {"id":"8733", "min":"1", "max":"1", "chance":"1037"}, {"id":"57", "min":"392", "max":"796", "chance":"700000"}, {"id":"1959", "min":"1", "max":"1", "chance":"26145"}, {"id":"2163", "min":"1", "max":"1", "chance":"49522"}, {"id":"2215", "min":"1", "max":"1", "chance":"12365"}],

@@ -2,6 +2,7 @@
 	"id": "27049", 
 	"name": "Heitafu", 
 	"title": "Orc Betrayer", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "27044", 
 	"name": "Kasha Bear Totem Spirit", 
 	"title": "Quest Monster", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

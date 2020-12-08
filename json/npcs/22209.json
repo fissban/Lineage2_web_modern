@@ -2,6 +2,7 @@
 	"id": "22209", 
 	"name": "Pachycephalosaurus", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"960", "min":"1", "max":"1", "chance":"485"}, {"id":"5537", "min":"1", "max":"1", "chance":"5814"}, {"id":"8752", "min":"1", "max":"1", "chance":"300"}, {"id":"8954", "min":"1", "max":"1", "chance":"2427"}, {"id":"8955", "min":"1", "max":"1", "chance":"485"}, {"id":"8956", "min":"1", "max":"1", "chance":"485"}, {"id":"57", "min":"6054", "max":"12340", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "21564", 
 	"name": "Skull Collector", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2391", "min":"1", "max":"1", "chance":"14"}, {"id":"2392", "min":"1", "max":"1", "chance":"14"}, {"id":"1868", "min":"1", "max":"1", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"45455"}, {"id":"1889", "min":"1", "max":"1", "chance":"7813"}, {"id":"4044", "min":"1", "max":"1", "chance":"2427"}, {"id":"4082", "min":"1", "max":"1", "chance":"2608"}, {"id":"4083", "min":"1", "max":"1", "chance":"2608"}, {"id":"5466", "min":"1", "max":"1", "chance":"58"}, {"id":"5549", "min":"1", "max":"1", "chance":"10204"}, {"id":"8730", "min":"1", "max":"1", "chance":"1563"}, {"id":"8740", "min":"1", "max":"1", "chance":"347"}, {"id":"57", "min":"1257", "max":"2568", "chance":"700000"}, {"id":"4120", "min":"1", "max":"1", "chance":"13658"}, {"id":"4121", "min":"1", "max":"1", "chance":"13612"}, {"id":"5166", "min":"1", "max":"1", "chance":"4167"}],

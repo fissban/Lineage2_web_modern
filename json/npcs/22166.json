@@ -2,6 +2,7 @@
 	"id": "22166", 
 	"name": "Triol's Believer", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6327", "min":"1", "max":"1", "chance":"88"}, {"id":"6328", "min":"1", "max":"1", "chance":"88"}, {"id":"1864", "min":"4", "max":"12", "chance":"16606"}, {"id":"1869", "min":"1", "max":"3", "chance":"200000"}, {"id":"1880", "min":"1", "max":"1", "chance":"58823"}, {"id":"4043", "min":"1", "max":"1", "chance":"33333"}, {"id":"5550", "min":"1", "max":"1", "chance":"8928"}, {"id":"6342", "min":"1", "max":"1", "chance":"20000"}, {"id":"6344", "min":"1", "max":"1", "chance":"12658"}, {"id":"6346", "min":"1", "max":"1", "chance":"25641"}, {"id":"7910", "min":"1", "max":"1", "chance":"27027"}, {"id":"57", "min":"6161", "max":"12570", "chance":"700000"}, {"id":"1877", "min":"1", "max":"1", "chance":"300000"}, {"id":"4040", "min":"1", "max":"1", "chance":"400000"}],

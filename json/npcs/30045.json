@@ -2,6 +2,7 @@
 	"id": "30045", 
 	"name": "Kenyos", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

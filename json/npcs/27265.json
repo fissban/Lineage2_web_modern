@@ -2,6 +2,7 @@
 	"id": "27265", 
 	"name": "Lich King Icarus", 
 	"title": "Quest Monster", 
+	"level": "81", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

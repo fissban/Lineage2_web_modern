@@ -2,6 +2,7 @@
 	"id": "30195", 
 	"name": "Brecson", 
 	"title": "Grand Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

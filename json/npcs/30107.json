@@ -2,6 +2,7 @@
 	"id": "30107", 
 	"name": "Goldian", 
 	"title": "Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

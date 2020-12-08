@@ -2,6 +2,7 @@
 	"id": "21519", 
 	"name": "Frenzy Stakato Drone", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5290", "min":"1", "max":"1", "chance":"20"}, {"id":"5291", "min":"1", "max":"1", "chance":"20"}, {"id":"5295", "min":"1", "max":"1", "chance":"20"}, {"id":"5296", "min":"1", "max":"1", "chance":"20"}, {"id":"1868", "min":"1", "max":"1", "chance":"303532"}, {"id":"1873", "min":"1", "max":"1", "chance":"60707"}, {"id":"1876", "min":"1", "max":"1", "chance":"30354"}, {"id":"1895", "min":"1", "max":"1", "chance":"43362"}, {"id":"4042", "min":"1", "max":"1", "chance":"2530"}, {"id":"5282", "min":"1", "max":"1", "chance":"68"}, {"id":"5496", "min":"1", "max":"1", "chance":"2669"}, {"id":"5497", "min":"1", "max":"1", "chance":"2669"}, {"id":"5508", "min":"1", "max":"1", "chance":"2669"}, {"id":"5509", "min":"1", "max":"1", "chance":"2669"}, {"id":"57", "min":"1240", "max":"2533", "chance":"700000"}],

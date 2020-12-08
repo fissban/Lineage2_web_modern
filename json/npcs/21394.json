@@ -2,6 +2,7 @@
 	"id": "21394", 
 	"name": "Lavasaurus", 
 	"title": "", 
+	"level": "79", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"270", "min":"1", "max":"1", "chance":"16"}, {"id":"960", "min":"1", "max":"1", "chance":"276"}, {"id":"1344", "min":"20", "max":"60", "chance":"333333"}, {"id":"1894", "min":"1", "max":"1", "chance":"18182"}, {"id":"4039", "min":"1", "max":"1", "chance":"21739"}, {"id":"4041", "min":"1", "max":"1", "chance":"9091"}, {"id":"4044", "min":"1", "max":"1", "chance":"10870"}, {"id":"5538", "min":"1", "max":"1", "chance":"5662"}, {"id":"8732", "min":"1", "max":"1", "chance":"1495"}, {"id":"8742", "min":"1", "max":"1", "chance":"1495"}, {"id":"57", "min":"5623", "max":"11476", "chance":"700000"}, {"id":"1808", "min":"1", "max":"1", "chance":"6211"}, {"id":"3036", "min":"1", "max":"1", "chance":"6211"}, {"id":"5527", "min":"1", "max":"1", "chance":"167086"}],

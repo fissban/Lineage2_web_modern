@@ -2,6 +2,7 @@
 	"id": "20617", 
 	"name": "Sentinel Of Water", 
 	"title": "", 
+	"level": "31", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"392", "min":"1", "max":"1", "chance":"403"}, {"id":"414", "min":"1", "max":"1", "chance":"644"}, {"id":"1867", "min":"1", "max":"1", "chance":"107223"}, {"id":"1872", "min":"1", "max":"1", "chance":"107223"}, {"id":"1875", "min":"1", "max":"1", "chance":"5362"}, {"id":"1881", "min":"1", "max":"1", "chance":"10723"}, {"id":"2184", "min":"1", "max":"1", "chance":"8447"}, {"id":"57", "min":"311", "max":"620", "chance":"700000"}, {"id":"435", "min":"1", "max":"1", "chance":"1473"}, {"id":"1875", "min":"1", "max":"1", "chance":"49053"}, {"id":"1933", "min":"1", "max":"1", "chance":"86564"}],

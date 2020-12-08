@@ -2,6 +2,7 @@
 	"id": "30471", 
 	"name": "Rupio", 
 	"title": "Blacksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

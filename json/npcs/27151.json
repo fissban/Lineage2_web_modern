@@ -2,6 +2,7 @@
 	"id": "27151", 
 	"name": "Delu Lizardman Headhunter", 
 	"title": "Quest Monster", 
+	"level": "28", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "25263", 
 	"name": "Kernon's Faithful Servant Kelone", 
 	"title": "Raid Boss", 
+	"level": "67", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"212", "min":"1", "max":"1", "chance":"10358"}, {"id":"2504", "min":"1", "max":"1", "chance":"10358"}, {"id":"5297", "min":"1", "max":"1", "chance":"24278"}, {"id":"5298", "min":"1", "max":"1", "chance":"38823"}, {"id":"5301", "min":"1", "max":"1", "chance":"16584"}, {"id":"5478", "min":"9", "max":"27", "chance":"196781"}, {"id":"5479", "min":"20", "max":"60", "chance":"62311"}, {"id":"5482", "min":"28", "max":"84", "chance":"99279"}, {"id":"5532", "min":"8", "max":"22", "chance":"213069"}, {"id":"5543", "min":"4", "max":"12", "chance":"403270"}, {"id":"729", "min":"1", "max":"1", "chance":"136507"}, {"id":"6570", "min":"1", "max":"1", "chance":"136507"}, {"id":"8166", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"8", "chance":"250000"}],

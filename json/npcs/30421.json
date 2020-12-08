@@ -2,6 +2,7 @@
 	"id": "30421", 
 	"name": "Varika", 
 	"title": "Witch", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

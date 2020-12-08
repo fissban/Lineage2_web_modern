@@ -2,6 +2,7 @@
 	"id": "21462", 
 	"name": "Alpine Kookaburra", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"2059", "max":"4152", "chance":"700000"}, {"id":"4114", "min":"1", "max":"1", "chance":"22614"}, {"id":"5281", "min":"1", "max":"1", "chance":"6888"}, {"id":"5438", "min":"1", "max":"1", "chance":"2823"}],

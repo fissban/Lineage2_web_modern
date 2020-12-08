@@ -2,6 +2,7 @@
 	"id": "30121", 
 	"name": "Jeronin", 
 	"title": "Captain", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "30332", 
 	"name": "Bathis", 
 	"title": "Captain", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

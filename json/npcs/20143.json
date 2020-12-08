@@ -2,6 +2,7 @@
 	"id": "20143", 
 	"name": "Grizzly", 
 	"title": "", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"20", "min":"1", "max":"1", "chance":"4533"}, {"id":"43", "min":"1", "max":"1", "chance":"3166"}, {"id":"17", "min":"10", "max":"30", "chance":"157499"}, {"id":"1798", "min":"1", "max":"1", "chance":"30882"}, {"id":"1866", "min":"1", "max":"1", "chance":"21000"}, {"id":"1871", "min":"1", "max":"1", "chance":"31500"}, {"id":"57", "min":"114", "max":"157", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"15682"}, {"id":"1867", "min":"1", "max":"3", "chance":"284370"}, {"id":"1872", "min":"1", "max":"2", "chance":"284370"}],

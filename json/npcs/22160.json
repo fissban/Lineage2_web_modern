@@ -2,6 +2,7 @@
 	"id": "22160", 
 	"name": "Triol's Priest", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6327", "min":"1", "max":"1", "chance":"88"}, {"id":"1895", "min":"1", "max":"1", "chance":"250000"}, {"id":"4040", "min":"1", "max":"1", "chance":"7518"}, {"id":"4042", "min":"1", "max":"1", "chance":"12048"}, {"id":"4043", "min":"1", "max":"1", "chance":"12048"}, {"id":"6342", "min":"1", "max":"1", "chance":"19607"}, {"id":"6344", "min":"1", "max":"1", "chance":"16606"}, {"id":"6346", "min":"1", "max":"1", "chance":"16606"}, {"id":"7910", "min":"1", "max":"1", "chance":"10989"}, {"id":"57", "min":"6430", "max":"13130", "chance":"700000"}, {"id":"6691", "min":"1", "max":"1", "chance":"125000"}, {"id":"6693", "min":"1", "max":"1", "chance":"125000"}, {"id":"6694", "min":"1", "max":"1", "chance":"125000"}],

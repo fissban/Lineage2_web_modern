@@ -2,6 +2,7 @@
 	"id": "20433", 
 	"name": "Festering Bat", 
 	"title": "", 
+	"level": "13", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"429", "min":"1", "max":"1", "chance":"799"}, {"id":"464", "min":"1", "max":"1", "chance":"1279"}, {"id":"735", "min":"1", "max":"1", "chance":"2648"}, {"id":"1794", "min":"1", "max":"1", "chance":"2337"}, {"id":"1865", "min":"1", "max":"1", "chance":"31774"}, {"id":"1870", "min":"1", "max":"1", "chance":"31774"}, {"id":"1922", "min":"1", "max":"1", "chance":"8106"}, {"id":"1923", "min":"1", "max":"1", "chance":"13023"}, {"id":"57", "min":"113", "max":"160", "chance":"700000"}, {"id":"1864", "min":"1", "max":"2", "chance":"430270"}, {"id":"1865", "min":"1", "max":"1", "chance":"215135"}, {"id":"1921", "min":"1", "max":"1", "chance":"138797"}],

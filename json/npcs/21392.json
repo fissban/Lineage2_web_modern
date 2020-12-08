@@ -2,6 +2,7 @@
 	"id": "21392", 
 	"name": "Blazing Ifrit", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5313", "min":"1", "max":"1", "chance":"87"}, {"id":"5314", "min":"1", "max":"1", "chance":"87"}, {"id":"5318", "min":"1", "max":"1", "chance":"87"}, {"id":"5319", "min":"1", "max":"1", "chance":"87"}, {"id":"959", "min":"1", "max":"1", "chance":"41"}, {"id":"1868", "min":"3", "max":"9", "chance":"250000"}, {"id":"1873", "min":"2", "max":"6", "chance":"62500"}, {"id":"1889", "min":"1", "max":"1", "chance":"50000"}, {"id":"4044", "min":"1", "max":"1", "chance":"25641"}, {"id":"5502", "min":"1", "max":"1", "chance":"12809"}, {"id":"5503", "min":"1", "max":"1", "chance":"12809"}, {"id":"5514", "min":"1", "max":"1", "chance":"12809"}, {"id":"5515", "min":"1", "max":"1", "chance":"12809"}, {"id":"5549", "min":"1", "max":"1", "chance":"66667"}, {"id":"8732", "min":"1", "max":"1", "chance":"7874"}, {"id":"8742", "min":"1", "max":"1", "chance":"1053"}, {"id":"8752", "min":"1", "max":"1", "chance":"175"}, {"id":"57", "min":"8265", "max":"16868", "chance":"700000"}, {"id":"959", "min":"1", "max":"1", "chance":"822"}, {"id":"4044", "min":"1", "max":"1", "chance":"684717"}, {"id":"5549", "min":"1", "max":"3", "chance":"684717"}],

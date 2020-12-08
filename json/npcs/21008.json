@@ -2,6 +2,7 @@
 	"id": "21008", 
 	"name": "Doom Archer", 
 	"title": "", 
+	"level": "62", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"601", "min":"1", "max":"1", "chance":"23"}, {"id":"2439", "min":"1", "max":"1", "chance":"23"}, {"id":"2475", "min":"1", "max":"1", "chance":"23"}, {"id":"2487", "min":"1", "max":"1", "chance":"23"}, {"id":"1867", "min":"1", "max":"1", "chance":"111111"}, {"id":"1872", "min":"1", "max":"1", "chance":"111111"}, {"id":"1882", "min":"1", "max":"1", "chance":"23810"}, {"id":"1894", "min":"1", "max":"1", "chance":"3333"}, {"id":"4042", "min":"1", "max":"1", "chance":"1176"}, {"id":"4090", "min":"1", "max":"1", "chance":"4141"}, {"id":"4091", "min":"1", "max":"1", "chance":"4141"}, {"id":"4096", "min":"1", "max":"1", "chance":"4141"}, {"id":"4099", "min":"1", "max":"1", "chance":"4141"}, {"id":"4983", "min":"1", "max":"1", "chance":"224"}, {"id":"5276", "min":"1", "max":"1", "chance":"141"}, {"id":"8729", "min":"1", "max":"1", "chance":"1961"}, {"id":"8739", "min":"1", "max":"1", "chance":"392"}, {"id":"57", "min":"1011", "max":"2047", "chance":"700000"}, {"id":"4052", "min":"1", "max":"1", "chance":"88462"}, {"id":"4983", "min":"1", "max":"1", "chance":"5305"}, {"id":"5230", "min":"1", "max":"1", "chance":"3331"}],

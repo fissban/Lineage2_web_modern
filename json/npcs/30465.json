@@ -2,6 +2,7 @@
 	"id": "30465", 
 	"name": "Herven", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

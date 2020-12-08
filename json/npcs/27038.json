@@ -2,6 +2,7 @@
 	"id": "27038", 
 	"name": "Cat's Eye Bandit", 
 	"title": "Quest Monster", 
+	"level": "15", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

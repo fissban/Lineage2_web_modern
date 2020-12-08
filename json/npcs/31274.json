@@ -2,6 +2,7 @@
 	"id": "31274", 
 	"name": "Fundin", 
 	"title": "Mineral Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

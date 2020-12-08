@@ -2,6 +2,7 @@
 	"id": "27116", 
 	"name": "Lava Salamander", 
 	"title": "Quest Monster", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

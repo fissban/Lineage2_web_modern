@@ -2,6 +2,7 @@
 	"id": "13007", 
 	"name": "Special Christmas Tree", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

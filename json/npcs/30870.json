@@ -2,6 +2,7 @@
 	"id": "30870", 
 	"name": "Kurtiz", 
 	"title": "Captain", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "20105", 
 	"name": "Dark Horror", 
 	"title": "", 
+	"level": "16", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"15", "min":"1", "max":"1", "chance":"105"}, {"id":"735", "min":"1", "max":"1", "chance":"2953"}, {"id":"1867", "min":"1", "max":"1", "chance":"47246"}, {"id":"1872", "min":"1", "max":"1", "chance":"47246"}, {"id":"2011", "min":"1", "max":"1", "chance":"1617"}, {"id":"2140", "min":"1", "max":"1", "chance":"7087"}, {"id":"57", "min":"119", "max":"185", "chance":"700000"}, {"id":"734", "min":"1", "max":"1", "chance":"39986"}, {"id":"1801", "min":"1", "max":"1", "chance":"120865"}, {"id":"1872", "min":"1", "max":"1", "chance":"319890"}],

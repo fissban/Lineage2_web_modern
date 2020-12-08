@@ -2,6 +2,7 @@
 	"id": "30911", 
 	"name": "Brikus", 
 	"title": "Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

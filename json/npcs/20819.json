@@ -2,6 +2,7 @@
 	"id": "20819", 
 	"name": "Archer of Abyss", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"171", "min":"1", "max":"1", "chance":"4"}, {"id":"175", "min":"1", "max":"1", "chance":"4"}, {"id":"210", "min":"1", "max":"1", "chance":"4"}, {"id":"730", "min":"1", "max":"1", "chance":"152"}, {"id":"1874", "min":"1", "max":"1", "chance":"11494"}, {"id":"1878", "min":"1", "max":"1", "chance":"45455"}, {"id":"1884", "min":"1", "max":"1", "chance":"90909"}, {"id":"1889", "min":"1", "max":"1", "chance":"97096"}, {"id":"4116", "min":"1", "max":"1", "chance":"1065"}, {"id":"4117", "min":"1", "max":"1", "chance":"1065"}, {"id":"4118", "min":"1", "max":"1", "chance":"1009"}, {"id":"4159", "min":"1", "max":"1", "chance":"518"}, {"id":"4402", "min":"1", "max":"1", "chance":"366"}, {"id":"5220", "min":"1", "max":"1", "chance":"6173"}, {"id":"8729", "min":"1", "max":"1", "chance":"2208"}, {"id":"8749", "min":"1", "max":"1", "chance":"441"}, {"id":"57", "min":"1999", "max":"4054", "chance":"700000"}, {"id":"4053", "min":"1", "max":"1", "chance":"212010"}, {"id":"4078", "min":"1", "max":"1", "chance":"72249"}, {"id":"5230", "min":"1", "max":"1", "chance":"6595"}],

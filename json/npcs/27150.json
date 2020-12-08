@@ -2,6 +2,7 @@
 	"id": "27150", 
 	"name": "Black Legion Stormtrooper", 
 	"title": "Quest Monster", 
+	"level": "43", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

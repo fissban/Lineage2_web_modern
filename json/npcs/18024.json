@@ -2,6 +2,7 @@
 	"id": "18024", 
 	"name": "Apostate's Offering Berserker", 
 	"title": "", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"381", "max":"761", "chance":"700000"}],

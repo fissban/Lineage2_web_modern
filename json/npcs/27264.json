@@ -2,6 +2,7 @@
 	"id": "27264", 
 	"name": "Death Lord Hallate", 
 	"title": "Quest Monster", 
+	"level": "81", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

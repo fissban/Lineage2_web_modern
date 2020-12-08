@@ -2,6 +2,7 @@
 	"id": "20962", 
 	"name": "Bloody Priest", 
 	"title": "", 
+	"level": "66", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2391", "min":"1", "max":"1", "chance":"8"}, {"id":"2392", "min":"1", "max":"1", "chance":"8"}, {"id":"1865", "min":"1", "max":"1", "chance":"50000"}, {"id":"1870", "min":"1", "max":"1", "chance":"55556"}, {"id":"1875", "min":"1", "max":"1", "chance":"4926"}, {"id":"1879", "min":"1", "max":"1", "chance":"14925"}, {"id":"3956", "min":"1", "max":"1", "chance":"154"}, {"id":"4040", "min":"1", "max":"1", "chance":"771"}, {"id":"4082", "min":"1", "max":"1", "chance":"1574"}, {"id":"4083", "min":"1", "max":"1", "chance":"1574"}, {"id":"5230", "min":"1", "max":"1", "chance":"107"}, {"id":"8729", "min":"1", "max":"1", "chance":"1080"}, {"id":"57", "min":"762", "max":"1545", "chance":"700000"}, {"id":"4054", "min":"1", "max":"1", "chance":"37144"}, {"id":"4077", "min":"1", "max":"1", "chance":"84831"}, {"id":"5230", "min":"1", "max":"1", "chance":"2514"}],

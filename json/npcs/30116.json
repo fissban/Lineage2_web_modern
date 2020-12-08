@@ -2,6 +2,7 @@
 	"id": "30116", 
 	"name": "Dustin", 
 	"title": "Priest", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "25413", 
 	"name": "Necrosentinel Archer", 
 	"title": "Raid Fighter", 
+	"level": "46", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"612000"}],

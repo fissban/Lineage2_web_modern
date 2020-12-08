@@ -2,6 +2,7 @@
 	"id": "20543", 
 	"name": "Ghost", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"309", "min":"1", "max":"1", "chance":"99"}, {"id":"310", "min":"1", "max":"1", "chance":"99"}, {"id":"1867", "min":"1", "max":"1", "chance":"35826"}, {"id":"1872", "min":"1", "max":"1", "chance":"35826"}, {"id":"1882", "min":"1", "max":"1", "chance":"5971"}, {"id":"2139", "min":"1", "max":"1", "chance":"5374"}, {"id":"6037", "min":"1", "max":"1", "chance":"53739"}, {"id":"57", "min":"105", "max":"183", "chance":"700000"}, {"id":"908", "min":"1", "max":"1", "chance":"3822"}, {"id":"1882", "min":"1", "max":"1", "chance":"50535"}, {"id":"2252", "min":"1", "max":"1", "chance":"9320"}],

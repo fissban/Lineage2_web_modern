@@ -2,6 +2,7 @@
 	"id": "21433", 
 	"name": "Jamadar Beetle", 
 	"title": "", 
+	"level": "79", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5311", "min":"1", "max":"1", "chance":"30"}, {"id":"5316", "min":"1", "max":"1", "chance":"30"}, {"id":"959", "min":"1", "max":"1", "chance":"41"}, {"id":"1868", "min":"15", "max":"45", "chance":"66754"}, {"id":"1873", "min":"2", "max":"6", "chance":"100130"}, {"id":"1876", "min":"1", "max":"1", "chance":"200259"}, {"id":"1895", "min":"3", "max":"9", "chance":"47681"}, {"id":"4042", "min":"1", "max":"1", "chance":"16689"}, {"id":"5522", "min":"1", "max":"1", "chance":"5115"}, {"id":"5523", "min":"1", "max":"1", "chance":"5115"}, {"id":"57", "min":"8184", "max":"16701", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "25076", 
 	"name": "Princess Molrang", 
 	"title": "Raid Boss", 
+	"level": "25", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"293", "min":"1", "max":"1", "chance":"67330"}, {"id":"296", "min":"1", "max":"1", "chance":"67330"}, {"id":"58", "min":"1", "max":"1", "chance":"67769"}, {"id":"59", "min":"1", "max":"1", "chance":"97651"}, {"id":"349", "min":"1", "max":"1", "chance":"67769"}, {"id":"350", "min":"1", "max":"1", "chance":"67769"}, {"id":"351", "min":"1", "max":"1", "chance":"61092"}, {"id":"378", "min":"1", "max":"1", "chance":"97651"}, {"id":"379", "min":"1", "max":"1", "chance":"97650"}, {"id":"6575", "min":"1", "max":"1", "chance":"93777"}],

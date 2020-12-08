@@ -2,6 +2,7 @@
 	"id": "20580", 
 	"name": "Leto Lizardman Warrior", 
 	"title": "", 
+	"level": "38", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"395", "min":"1", "max":"1", "chance":"148"}, {"id":"417", "min":"1", "max":"1", "chance":"237"}, {"id":"1868", "min":"1", "max":"1", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"50000"}, {"id":"1889", "min":"1", "max":"1", "chance":"9259"}, {"id":"1942", "min":"1", "max":"1", "chance":"8435"}, {"id":"1943", "min":"1", "max":"1", "chance":"13135"}, {"id":"2194", "min":"1", "max":"1", "chance":"12987"}, {"id":"2288", "min":"1", "max":"1", "chance":"402"}, {"id":"5549", "min":"1", "max":"1", "chance":"13333"}, {"id":"57", "min":"541", "max":"1080", "chance":"700000"}, {"id":"1868", "min":"1", "max":"7", "chance":"853135"}, {"id":"1881", "min":"1", "max":"1", "chance":"170627"}, {"id":"2031", "min":"1", "max":"1", "chance":"12954"}],

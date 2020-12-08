@@ -2,6 +2,7 @@
 	"id": "30070", 
 	"name": "Sylvain", 
 	"title": "High Priest", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

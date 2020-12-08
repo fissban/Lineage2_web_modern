@@ -2,6 +2,7 @@
 	"id": "20371", 
 	"name": "Mist Terror", 
 	"title": "", 
+	"level": "15", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"429", "min":"1", "max":"1", "chance":"731"}, {"id":"464", "min":"1", "max":"1", "chance":"1171"}, {"id":"1803", "min":"1", "max":"1", "chance":"32579"}, {"id":"1866", "min":"1", "max":"1", "chance":"25846"}, {"id":"1871", "min":"1", "max":"1", "chance":"38769"}, {"id":"1922", "min":"1", "max":"1", "chance":"7418"}, {"id":"1923", "min":"1", "max":"1", "chance":"11917"}, {"id":"57", "min":"99", "max":"150", "chance":"700000"}, {"id":"114", "min":"1", "max":"1", "chance":"11218"}, {"id":"1869", "min":"1", "max":"1", "chance":"196871"}, {"id":"1896", "min":"1", "max":"1", "chance":"83420"}],

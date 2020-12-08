@@ -2,6 +2,7 @@
 	"id": "27293", 
 	"name": "Khavatari Uruz", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

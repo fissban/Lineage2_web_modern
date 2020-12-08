@@ -2,6 +2,7 @@
 	"id": "18296", 
 	"name": "Dark Omen Invader Food", 
 	"title": "", 
+	"level": "75", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"959", "min":"1", "max":"1", "chance":"70"}, {"id":"960", "min":"1", "max":"1", "chance":"698"}, {"id":"57", "min":"995", "max":"1993", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "27261", 
 	"name": "Bead of Sacred Flame", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

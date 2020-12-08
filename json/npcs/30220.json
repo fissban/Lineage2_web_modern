@@ -2,6 +2,7 @@
 	"id": "30220", 
 	"name": "Starden", 
 	"title": "Sentinel", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

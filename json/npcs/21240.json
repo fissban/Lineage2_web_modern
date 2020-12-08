@@ -2,6 +2,7 @@
 	"id": "21240", 
 	"name": "Barrow Overlord", 
 	"title": "", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"224", "min":"1", "max":"1", "chance":"42"}, {"id":"1660", "min":"1", "max":"1", "chance":"42"}, {"id":"1341", "min":"60", "max":"180", "chance":"142857"}, {"id":"1866", "min":"1", "max":"1", "chance":"166667"}, {"id":"1871", "min":"2", "max":"6", "chance":"58824"}, {"id":"1877", "min":"1", "max":"1", "chance":"8065"}, {"id":"2038", "min":"1", "max":"1", "chance":"3037"}, {"id":"2044", "min":"1", "max":"1", "chance":"3037"}, {"id":"57", "min":"932", "max":"1861", "chance":"700000"}, {"id":"1866", "min":"1", "max":"3", "chance":"741221"}, {"id":"1871", "min":"1", "max":"5", "chance":"741221"}, {"id":"1903", "min":"1", "max":"1", "chance":"370920"}],

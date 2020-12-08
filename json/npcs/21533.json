@@ -2,6 +2,7 @@
 	"id": "21533", 
 	"name": "Alliance of Splendor", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"864", "min":"1", "max":"1", "chance":"28"}, {"id":"895", "min":"1", "max":"1", "chance":"42"}, {"id":"926", "min":"1", "max":"1", "chance":"21"}, {"id":"1343", "min":"10", "max":"30", "chance":"125000"}, {"id":"1866", "min":"1", "max":"1", "chance":"58824"}, {"id":"1871", "min":"1", "max":"1", "chance":"83333"}, {"id":"1877", "min":"1", "max":"1", "chance":"3861"}, {"id":"4040", "min":"1", "max":"1", "chance":"1718"}, {"id":"4041", "min":"1", "max":"1", "chance":"698"}, {"id":"4052", "min":"1", "max":"1", "chance":"4565"}, {"id":"4053", "min":"1", "max":"1", "chance":"5526"}, {"id":"4054", "min":"1", "max":"1", "chance":"2540"}, {"id":"5456", "min":"1", "max":"1", "chance":"41"}, {"id":"8729", "min":"1", "max":"1", "chance":"1558"}, {"id":"8739", "min":"1", "max":"1", "chance":"322"}, {"id":"57", "min":"1270", "max":"2576", "chance":"700000"}, {"id":"4077", "min":"1", "max":"1", "chance":"117809"}, {"id":"4078", "min":"1", "max":"1", "chance":"38254"}, {"id":"5348", "min":"1", "max":"1", "chance":"3099"}, {"id":"5470", "min":"1", "max":"1", "chance":"1431"}],

@@ -2,6 +2,7 @@
 	"id": "22131", 
 	"name": "Pilgrim of Light", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5326", "min":"1", "max":"1", "chance":"44"}, {"id":"5329", "min":"1", "max":"1", "chance":"44"}, {"id":"960", "min":"1", "max":"1", "chance":"414"}, {"id":"1868", "min":"1", "max":"1", "chance":"5000"}, {"id":"1873", "min":"1", "max":"1", "chance":"5000"}, {"id":"1889", "min":"1", "max":"1", "chance":"5000"}, {"id":"1894", "min":"1", "max":"1", "chance":"40000"}, {"id":"4039", "min":"1", "max":"1", "chance":"40000"}, {"id":"4041", "min":"1", "max":"1", "chance":"9901"}, {"id":"4044", "min":"1", "max":"1", "chance":"38462"}, {"id":"5487", "min":"1", "max":"1", "chance":"6622"}, {"id":"5488", "min":"1", "max":"1", "chance":"7299"}, {"id":"5549", "min":"1", "max":"1", "chance":"5000"}, {"id":"8056", "min":"1", "max":"1", "chance":"31250"}, {"id":"57", "min":"7789", "max":"15900", "chance":"700000"}, {"id":"960", "min":"1", "max":"1", "chance":"1500"}, {"id":"6694", "min":"1", "max":"1", "chance":"25000"}, {"id":"6704", "min":"1", "max":"1", "chance":"330500"}, {"id":"6705", "min":"1", "max":"1", "chance":"319600"}, {"id":"6706", "min":"1", "max":"1", "chance":"383000"}, {"id":"6901", "min":"1", "max":"1", "chance":"5000"}],

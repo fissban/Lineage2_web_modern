@@ -2,6 +2,7 @@
 	"id": "30094", 
 	"name": "Gentler", 
 	"title": "Wizard-use Equipment Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "20041", 
 	"name": "Tainted Zombie", 
 	"title": "", 
+	"level": "18", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"217", "min":"1", "max":"1", "chance":"103"}, {"id":"218", "min":"1", "max":"1", "chance":"103"}, {"id":"1866", "min":"1", "max":"1", "chance":"31148"}, {"id":"1871", "min":"1", "max":"1", "chance":"46722"}, {"id":"2253", "min":"1", "max":"1", "chance":"1915"}, {"id":"57", "min":"114", "max":"187", "chance":"700000"}, {"id":"1817", "min":"1", "max":"1", "chance":"47452"}, {"id":"1880", "min":"1", "max":"1", "chance":"23726"}, {"id":"2012", "min":"1", "max":"1", "chance":"4943"}],

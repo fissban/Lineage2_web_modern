@@ -2,6 +2,7 @@
 	"id": "30028", 
 	"name": "Pintage", 
 	"title": "Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

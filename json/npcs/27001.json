@@ -2,6 +2,7 @@
 	"id": "27001", 
 	"name": "Orc Sniper", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

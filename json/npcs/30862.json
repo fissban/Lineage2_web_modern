@@ -2,6 +2,7 @@
 	"id": "30862", 
 	"name": "Oltlin", 
 	"title": "Grand Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "22009", 
 	"name": "Ghost of a Loyal Vassal", 
 	"title": "", 
+	"level": "31", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"848", "min":"1", "max":"1", "chance":"204"}, {"id":"879", "min":"1", "max":"1", "chance":"321"}, {"id":"911", "min":"1", "max":"1", "chance":"409"}, {"id":"1829", "min":"1", "max":"1", "chance":"15873"}, {"id":"1832", "min":"1", "max":"1", "chance":"55556"}, {"id":"1875", "min":"1", "max":"1", "chance":"4762"}, {"id":"1879", "min":"1", "max":"1", "chance":"7353"}, {"id":"1885", "min":"1", "max":"1", "chance":"5000"}, {"id":"1900", "min":"1", "max":"1", "chance":"7092"}, {"id":"5549", "min":"1", "max":"1", "chance":"4525"}, {"id":"5550", "min":"1", "max":"1", "chance":"238"}, {"id":"57", "min":"226", "max":"451", "chance":"700000"}, {"id":"1832", "min":"1", "max":"2", "chance":"25641"}, {"id":"1936", "min":"1", "max":"1", "chance":"6882"}, {"id":"2184", "min":"1", "max":"1", "chance":"58192"}],

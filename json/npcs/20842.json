@@ -2,6 +2,7 @@
 	"id": "20842", 
 	"name": "Musveren", 
 	"title": "", 
+	"level": "49", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"853", "min":"1", "max":"1", "chance":"72"}, {"id":"884", "min":"1", "max":"1", "chance":"109"}, {"id":"916", "min":"1", "max":"1", "chance":"54"}, {"id":"952", "min":"1", "max":"1", "chance":"937"}, {"id":"1865", "min":"1", "max":"1", "chance":"70215"}, {"id":"1870", "min":"1", "max":"1", "chance":"70215"}, {"id":"1874", "min":"1", "max":"1", "chance":"4682"}, {"id":"1911", "min":"1", "max":"1", "chance":"5224"}, {"id":"1912", "min":"1", "max":"1", "chance":"7568"}, {"id":"1913", "min":"1", "max":"1", "chance":"4271"}, {"id":"4039", "min":"1", "max":"1", "chance":"2341"}, {"id":"4043", "min":"1", "max":"1", "chance":"2341"}, {"id":"57", "min":"383", "max":"781", "chance":"700000"}, {"id":"1976", "min":"1", "max":"1", "chance":"57819"}, {"id":"2167", "min":"1", "max":"1", "chance":"48512"}, {"id":"2335", "min":"1", "max":"1", "chance":"2211"}],

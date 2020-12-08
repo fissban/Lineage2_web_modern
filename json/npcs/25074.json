@@ -2,6 +2,7 @@
 	"id": "25074", 
 	"name": "Rudelto's Banshee", 
 	"title": "Raid Fighter", 
+	"level": "68", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"870500"}],

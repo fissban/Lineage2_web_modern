@@ -2,6 +2,7 @@
 	"id": "14702", 
 	"name": "Big Boom", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

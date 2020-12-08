@@ -2,6 +2,7 @@
 	"id": "30523", 
 	"name": "Gouph", 
 	"title": "Collector", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

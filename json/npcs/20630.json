@@ -2,6 +2,7 @@
 	"id": "20630", 
 	"name": "Taik Orc", 
 	"title": "", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"629", "min":"1", "max":"1", "chance":"168"}, {"id":"2411", "min":"1", "max":"1", "chance":"117"}, {"id":"2493", "min":"1", "max":"1", "chance":"168"}, {"id":"1866", "min":"1", "max":"1", "chance":"41667"}, {"id":"1871", "min":"1", "max":"1", "chance":"71429"}, {"id":"1885", "min":"1", "max":"1", "chance":"6757"}, {"id":"1947", "min":"1", "max":"1", "chance":"9431"}, {"id":"2286", "min":"1", "max":"1", "chance":"312"}, {"id":"2922", "min":"1", "max":"1", "chance":"2523"}, {"id":"2929", "min":"1", "max":"1", "chance":"9431"}, {"id":"2987", "min":"1", "max":"1", "chance":"4219"}, {"id":"5220", "min":"1", "max":"1", "chance":"2959"}, {"id":"5472", "min":"1", "max":"1", "chance":"6757"}, {"id":"57", "min":"319", "max":"636", "chance":"700000"}, {"id":"1902", "min":"1", "max":"1", "chance":"77024"}, {"id":"1943", "min":"1", "max":"1", "chance":"60383"}, {"id":"2291", "min":"1", "max":"1", "chance":"4223"}],

@@ -2,6 +2,7 @@
 	"id": "18060", 
 	"name": "Offering of the Branded", 
 	"title": "", 
+	"level": "32", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"173", "max":"347", "chance":"700000"}],

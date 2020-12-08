@@ -2,6 +2,7 @@
 	"id": "22138", 
 	"name": "Chapel Guard", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"10", "max":"30", "chance":"21277"}, {"id":"1868", "min":"1", "max":"1", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"2667"}, {"id":"1876", "min":"1", "max":"1", "chance":"8474"}, {"id":"1895", "min":"1", "max":"1", "chance":"62500"}, {"id":"4042", "min":"1", "max":"1", "chance":"9346"}, {"id":"5523", "min":"1", "max":"1", "chance":"771"}, {"id":"57", "min":"546", "max":"1112", "chance":"700000"}],

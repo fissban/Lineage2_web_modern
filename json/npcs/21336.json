@@ -2,6 +2,7 @@
 	"id": "21336", 
 	"name": "Ketra Orc White Captain", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5320", "min":"1", "max":"1", "chance":"16"}, {"id":"5323", "min":"1", "max":"1", "chance":"16"}, {"id":"960", "min":"1", "max":"1", "chance":"127"}, {"id":"1344", "min":"40", "max":"120", "chance":"66667"}, {"id":"1864", "min":"5", "max":"15", "chance":"50000"}, {"id":"1865", "min":"3", "max":"9", "chance":"43478"}, {"id":"1866", "min":"3", "max":"9", "chance":"25000"}, {"id":"1868", "min":"1", "max":"3", "chance":"166667"}, {"id":"1873", "min":"1", "max":"1", "chance":"83333"}, {"id":"5480", "min":"1", "max":"1", "chance":"2638"}, {"id":"5481", "min":"1", "max":"1", "chance":"2638"}, {"id":"8732", "min":"1", "max":"1", "chance":"1901"}, {"id":"8742", "min":"1", "max":"1", "chance":"380"}, {"id":"8752", "min":"1", "max":"1", "chance":"127"}, {"id":"57", "min":"3195", "max":"6545", "chance":"700000"}, {"id":"5277", "min":"1", "max":"1", "chance":"3537"}, {"id":"5502", "min":"1", "max":"1", "chance":"134421"}, {"id":"5503", "min":"1", "max":"2", "chance":"134421"}],

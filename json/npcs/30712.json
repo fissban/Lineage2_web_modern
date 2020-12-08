@@ -2,6 +2,7 @@
 	"id": "30712", 
 	"name": "Makhis", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

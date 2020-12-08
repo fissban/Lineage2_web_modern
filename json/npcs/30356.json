@@ -2,6 +2,7 @@
 	"id": "30356", 
 	"name": "Altima", 
 	"title": "Sentry", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

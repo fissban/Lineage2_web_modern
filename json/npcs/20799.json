@@ -2,6 +2,7 @@
 	"id": "20799", 
 	"name": "Queen Undine Lad", 
 	"title": "", 
+	"level": "46", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"354", "min":"1", "max":"1", "chance":"81"}, {"id":"381", "min":"1", "max":"1", "chance":"129"}, {"id":"1866", "min":"1", "max":"1", "chance":"71429"}, {"id":"1871", "min":"1", "max":"1", "chance":"90909"}, {"id":"1877", "min":"1", "max":"1", "chance":"6579"}, {"id":"1959", "min":"1", "max":"1", "chance":"5465"}, {"id":"1960", "min":"1", "max":"1", "chance":"11116"}, {"id":"2230", "min":"1", "max":"1", "chance":"2625"}, {"id":"2326", "min":"1", "max":"1", "chance":"404"}, {"id":"4040", "min":"1", "max":"1", "chance":"2625"}, {"id":"4041", "min":"1", "max":"1", "chance":"657"}, {"id":"8723", "min":"1", "max":"1", "chance":"1969"}, {"id":"8733", "min":"1", "max":"1", "chance":"1314"}, {"id":"8743", "min":"1", "max":"1", "chance":"612"}, {"id":"57", "min":"690", "max":"1411", "chance":"700000"}, {"id":"2065", "min":"1", "max":"1", "chance":"13270"}, {"id":"2164", "min":"1", "max":"1", "chance":"132064"}, {"id":"2317", "min":"1", "max":"1", "chance":"5982"}],

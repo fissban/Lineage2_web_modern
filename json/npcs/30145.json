@@ -2,6 +2,7 @@
 	"id": "30145", 
 	"name": "Vlasty", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

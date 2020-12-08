@@ -2,6 +2,7 @@
 	"id": "21214", 
 	"name": "Vault Sentinel", 
 	"title": "", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"223", "min":"1", "max":"1", "chance":"41"}, {"id":"238", "min":"1", "max":"1", "chance":"41"}, {"id":"239", "min":"1", "max":"1", "chance":"41"}, {"id":"241", "min":"1", "max":"1", "chance":"41"}, {"id":"1865", "min":"1", "max":"1", "chance":"166667"}, {"id":"1870", "min":"1", "max":"1", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"12346"}, {"id":"1879", "min":"1", "max":"1", "chance":"29412"}, {"id":"2028", "min":"1", "max":"1", "chance":"2338"}, {"id":"2189", "min":"1", "max":"1", "chance":"7246"}, {"id":"57", "min":"781", "max":"1559", "chance":"700000"}, {"id":"1865", "min":"1", "max":"3", "chance":"924982"}, {"id":"1875", "min":"1", "max":"1", "chance":"123331"}, {"id":"1901", "min":"1", "max":"1", "chance":"255520"}],

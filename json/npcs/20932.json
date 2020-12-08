@@ -2,6 +2,7 @@
 	"id": "20932", 
 	"name": "Hatu Crimson Bear", 
 	"title": "", 
+	"level": "38", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"850", "min":"1", "max":"1", "chance":"82"}, {"id":"881", "min":"1", "max":"1", "chance":"122"}, {"id":"913", "min":"1", "max":"1", "chance":"61"}, {"id":"1060", "min":"1", "max":"1", "chance":"90909"}, {"id":"1866", "min":"1", "max":"1", "chance":"25641"}, {"id":"1871", "min":"1", "max":"1", "chance":"38462"}, {"id":"1885", "min":"1", "max":"1", "chance":"4348"}, {"id":"1902", "min":"1", "max":"1", "chance":"3844"}, {"id":"1903", "min":"1", "max":"1", "chance":"6329"}, {"id":"1904", "min":"1", "max":"1", "chance":"3541"}, {"id":"2159", "min":"1", "max":"1", "chance":"2008"}, {"id":"2201", "min":"1", "max":"1", "chance":"3484"}, {"id":"5220", "min":"1", "max":"1", "chance":"2174"}, {"id":"57", "min":"186", "max":"372", "chance":"700000"}, {"id":"1825", "min":"1", "max":"1", "chance":"31452"}, {"id":"2032", "min":"1", "max":"1", "chance":"4069"}, {"id":"5220", "min":"1", "max":"1", "chance":"17613"}],

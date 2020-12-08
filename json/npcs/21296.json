@@ -2,6 +2,7 @@
 	"id": "21296", 
 	"name": "Canyon Bandersnatch", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"288", "min":"1", "max":"1", "chance":"12"}, {"id":"1867", "min":"1", "max":"3", "chance":"166667"}, {"id":"1872", "min":"4", "max":"12", "chance":"71429"}, {"id":"1875", "min":"1", "max":"1", "chance":"24390"}, {"id":"1881", "min":"1", "max":"1", "chance":"55556"}, {"id":"4041", "min":"1", "max":"1", "chance":"3257"}, {"id":"5456", "min":"1", "max":"1", "chance":"136"}, {"id":"5535", "min":"1", "max":"1", "chance":"3746"}, {"id":"57", "min":"2998", "max":"6099", "chance":"700000"}, {"id":"5440", "min":"1", "max":"1", "chance":"2753"}, {"id":"5482", "min":"1", "max":"1", "chance":"98095"}, {"id":"5485", "min":"1", "max":"1", "chance":"62497"}],

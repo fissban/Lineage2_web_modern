@@ -2,6 +2,7 @@
 	"id": "27322", 
 	"name": "Picot Araneid", 
 	"title": "Quest Monster", 
+	"level": "27", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

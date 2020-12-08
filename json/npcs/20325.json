@@ -2,6 +2,7 @@
 	"id": "20325", 
 	"name": "Goblin Raider", 
 	"title": "", 
+	"level": "5", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"112", "min":"1", "max":"1", "chance":"79637"}, {"id":"116", "min":"1", "max":"1", "chance":"118249"}, {"id":"118", "min":"1", "max":"1", "chance":"59125"}, {"id":"1060", "min":"1", "max":"1", "chance":"26015"}, {"id":"1788", "min":"1", "max":"1", "chance":"9366"}, {"id":"1865", "min":"1", "max":"1", "chance":"11707"}, {"id":"1870", "min":"1", "max":"1", "chance":"11707"}, {"id":"6037", "min":"1", "max":"1", "chance":"23414"}, {"id":"57", "min":"30", "max":"42", "chance":"700000"}, {"id":"118", "min":"1", "max":"1", "chance":"171565"}, {"id":"1786", "min":"1", "max":"1", "chance":"45293"}, {"id":"1787", "min":"1", "max":"1", "chance":"45293"}],

@@ -2,6 +2,7 @@
 	"id": "30200", 
 	"name": "Stan", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

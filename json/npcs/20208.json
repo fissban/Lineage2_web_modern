@@ -2,6 +2,7 @@
 	"id": "20208", 
 	"name": "Ol Mahum Raider", 
 	"title": "", 
+	"level": "27", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"45", "min":"1", "max":"1", "chance":"856"}, {"id":"626", "min":"1", "max":"1", "chance":"1223"}, {"id":"1866", "min":"1", "max":"1", "chance":"43478"}, {"id":"1871", "min":"1", "max":"1", "chance":"66667"}, {"id":"1885", "min":"1", "max":"1", "chance":"6135"}, {"id":"1932", "min":"1", "max":"1", "chance":"21245"}, {"id":"2180", "min":"1", "max":"1", "chance":"4785"}, {"id":"5220", "min":"1", "max":"1", "chance":"2469"}, {"id":"6666", "min":"1", "max":"1", "chance":"66667"}, {"id":"57", "min":"309", "max":"595", "chance":"700000"}, {"id":"1869", "min":"1", "max":"2", "chance":"715437"}, {"id":"1872", "min":"1", "max":"3", "chance":"476958"}, {"id":"1931", "min":"1", "max":"1", "chance":"93521"}],

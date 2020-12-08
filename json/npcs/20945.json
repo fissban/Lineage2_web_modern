@@ -2,6 +2,7 @@
 	"id": "20945", 
 	"name": "Cadeine", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"64", "min":"1", "max":"1", "chance":"62"}, {"id":"608", "min":"1", "max":"1", "chance":"62"}, {"id":"1868", "min":"1", "max":"1", "chance":"71429"}, {"id":"1873", "min":"1", "max":"1", "chance":"12048"}, {"id":"1876", "min":"1", "max":"1", "chance":"7092"}, {"id":"1895", "min":"1", "max":"1", "chance":"10101"}, {"id":"1981", "min":"1", "max":"1", "chance":"4460"}, {"id":"2170", "min":"1", "max":"1", "chance":"917"}, {"id":"2956", "min":"1", "max":"1", "chance":"4460"}, {"id":"2970", "min":"1", "max":"1", "chance":"1376"}, {"id":"4042", "min":"1", "max":"1", "chance":"1032"}, {"id":"8725", "min":"1", "max":"1", "chance":"1147"}, {"id":"8735", "min":"1", "max":"1", "chance":"344"}, {"id":"8745", "min":"1", "max":"1", "chance":"72"}, {"id":"57", "min":"296", "max":"601", "chance":"700000"}, {"id":"1868", "min":"1", "max":"3", "chance":"733375"}, {"id":"1876", "min":"1", "max":"1", "chance":"146675"}, {"id":"4601", "min":"1", "max":"1", "chance":"1630"}],

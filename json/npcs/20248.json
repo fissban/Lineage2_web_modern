@@ -2,6 +2,7 @@
 	"id": "20248", 
 	"name": "Turak Bugbear", 
 	"title": "", 
+	"level": "31", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"86", "min":"1", "max":"1", "chance":"8"}, {"id":"179", "min":"1", "max":"1", "chance":"8"}, {"id":"180", "min":"1", "max":"1", "chance":"8"}, {"id":"181", "min":"1", "max":"1", "chance":"8"}, {"id":"182", "min":"1", "max":"1", "chance":"8"}, {"id":"183", "min":"1", "max":"1", "chance":"8"}, {"id":"184", "min":"1", "max":"1", "chance":"8"}, {"id":"185", "min":"1", "max":"1", "chance":"8"}, {"id":"1829", "min":"1", "max":"1", "chance":"18182"}, {"id":"1865", "min":"1", "max":"1", "chance":"47619"}, {"id":"1870", "min":"1", "max":"1", "chance":"45455"}, {"id":"1874", "min":"1", "max":"1", "chance":"1464"}, {"id":"2022", "min":"1", "max":"1", "chance":"400"}, {"id":"2023", "min":"1", "max":"1", "chance":"319"}, {"id":"2192", "min":"1", "max":"1", "chance":"6211"}, {"id":"2274", "min":"1", "max":"1", "chance":"306"}, {"id":"57", "min":"199", "max":"396", "chance":"700000"}, {"id":"955", "min":"1", "max":"1", "chance":"1880"}, {"id":"1865", "min":"1", "max":"2", "chance":"470054"}, {"id":"2250", "min":"1", "max":"2", "chance":"117514"}],

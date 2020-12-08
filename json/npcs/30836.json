@@ -2,6 +2,7 @@
 	"id": "30836", 
 	"name": "Minerva", 
 	"title": "Gatekeeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "18047", 
 	"name": "Dark Omen Offering Disciple", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"770", "max":"1541", "chance":"700000"}],

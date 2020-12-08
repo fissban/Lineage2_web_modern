@@ -2,6 +2,7 @@
 	"id": "30230", 
 	"name": "Edroc", 
 	"title": "Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

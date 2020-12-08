@@ -2,6 +2,7 @@
 	"id": "25261", 
 	"name": "Totem Guard Archer", 
 	"title": "Raid Fighter", 
+	"level": "44", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"559200"}],

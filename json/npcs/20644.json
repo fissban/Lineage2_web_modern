@@ -2,6 +2,7 @@
 	"id": "20644", 
 	"name": "Harit Lizardman Shaman", 
 	"title": "", 
+	"level": "54", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"442", "min":"1", "max":"1", "chance":"25"}, {"id":"473", "min":"1", "max":"1", "chance":"39"}, {"id":"1864", "min":"1", "max":"1", "chance":"100000"}, {"id":"1869", "min":"1", "max":"1", "chance":"50000"}, {"id":"1878", "min":"1", "max":"1", "chance":"16129"}, {"id":"1884", "min":"1", "max":"1", "chance":"26316"}, {"id":"1988", "min":"1", "max":"1", "chance":"2476"}, {"id":"1989", "min":"1", "max":"1", "chance":"3884"}, {"id":"4039", "min":"1", "max":"1", "chance":"2392"}, {"id":"4142", "min":"1", "max":"1", "chance":"478"}, {"id":"4147", "min":"1", "max":"1", "chance":"239"}, {"id":"4184", "min":"1", "max":"1", "chance":"66"}, {"id":"5160", "min":"1", "max":"1", "chance":"115"}, {"id":"8726", "min":"1", "max":"1", "chance":"1675"}, {"id":"8736", "min":"1", "max":"1", "chance":"239"}, {"id":"8746", "min":"1", "max":"1", "chance":"52"}, {"id":"57", "min":"562", "max":"1145", "chance":"700000"}, {"id":"1806", "min":"1", "max":"1", "chance":"2791"}, {"id":"1865", "min":"1", "max":"3", "chance":"697860"}, {"id":"1987", "min":"1", "max":"1", "chance":"21294"}],

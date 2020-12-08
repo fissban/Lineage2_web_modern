@@ -2,6 +2,7 @@
 	"id": "22094", 
 	"name": "Frost Buffalo", 
 	"title": "", 
+	"level": "61", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1868", "min":"1", "max":"1", "chance":"100000"}, {"id":"1873", "min":"1", "max":"1", "chance":"16129"}, {"id":"1876", "min":"1", "max":"1", "chance":"12195"}, {"id":"1895", "min":"1", "max":"1", "chance":"15152"}, {"id":"4042", "min":"1", "max":"1", "chance":"315"}, {"id":"4105", "min":"1", "max":"1", "chance":"465"}, {"id":"4106", "min":"1", "max":"1", "chance":"260"}, {"id":"4157", "min":"1", "max":"1", "chance":"315"}, {"id":"8339", "min":"1", "max":"1", "chance":"410"}, {"id":"8347", "min":"1", "max":"1", "chance":"223"}, {"id":"8728", "min":"1", "max":"1", "chance":"629"}, {"id":"8738", "min":"1", "max":"1", "chance":"629"}, {"id":"8391", "min":"1", "max":"1", "chance":"13332"}, {"id":"8389", "min":"1", "max":"1", "chance":"12930"}, {"id":"8390", "min":"1", "max":"1", "chance":"12396"}, {"id":"57", "min":"726", "max":"1472", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "13016", 
 	"name": "King Squash", 
 	"title": "", 
+	"level": "1", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

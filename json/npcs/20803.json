@@ -2,6 +2,7 @@
 	"id": "20803", 
 	"name": "Doll Master", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"231", "min":"1", "max":"1", "chance":"17"}, {"id":"233", "min":"1", "max":"1", "chance":"17"}, {"id":"1895", "min":"1", "max":"1", "chance":"47619"}, {"id":"2106", "min":"1", "max":"1", "chance":"1938"}, {"id":"2107", "min":"1", "max":"1", "chance":"1938"}, {"id":"2356", "min":"1", "max":"1", "chance":"332"}, {"id":"2360", "min":"1", "max":"1", "chance":"577"}, {"id":"3014", "min":"1", "max":"1", "chance":"1730"}, {"id":"4040", "min":"1", "max":"1", "chance":"2309"}, {"id":"4042", "min":"1", "max":"1", "chance":"2309"}, {"id":"4043", "min":"1", "max":"1", "chance":"4032"}, {"id":"8725", "min":"1", "max":"1", "chance":"5780"}, {"id":"8735", "min":"1", "max":"1", "chance":"1730"}, {"id":"57", "min":"1387", "max":"2820", "chance":"700000"}, {"id":"4042", "min":"1", "max":"1", "chance":"57307"}, {"id":"4043", "min":"1", "max":"1", "chance":"114615"}, {"id":"4044", "min":"1", "max":"3", "chance":"114615"}],

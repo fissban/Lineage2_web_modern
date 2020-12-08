@@ -2,6 +2,7 @@
 	"id": "20223", 
 	"name": "Mandragora Sprout", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"845", "min":"1", "max":"1", "chance":"988"}, {"id":"877", "min":"1", "max":"1", "chance":"1484"}, {"id":"908", "min":"1", "max":"1", "chance":"738"}, {"id":"1864", "min":"1", "max":"1", "chance":"87799"}, {"id":"1869", "min":"1", "max":"1", "chance":"43900"}, {"id":"1878", "min":"1", "max":"1", "chance":"17560"}, {"id":"1897", "min":"1", "max":"1", "chance":"10453"}, {"id":"2175", "min":"1", "max":"1", "chance":"35691"}, {"id":"57", "min":"137", "max":"239", "chance":"700000"}, {"id":"734", "min":"1", "max":"1", "chance":"49539"}, {"id":"1864", "min":"1", "max":"1", "chance":"594474"}, {"id":"2011", "min":"1", "max":"1", "chance":"6781"}],

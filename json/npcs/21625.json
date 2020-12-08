@@ -2,6 +2,7 @@
 	"id": "21625", 
 	"name": "Zaken's Elite Guard", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1867", "min":"4", "max":"12", "chance":"165765"}, {"id":"1872", "min":"7", "max":"21", "chance":"88408"}, {"id":"1882", "min":"3", "max":"9", "chance":"36837"}, {"id":"1894", "min":"1", "max":"1", "chance":"34898"}, {"id":"2169", "min":"1", "max":"1", "chance":"17604"}, {"id":"4042", "min":"1", "max":"1", "chance":"16577"}, {"id":"8725", "min":"1", "max":"1", "chance":"2950"}, {"id":"8735", "min":"1", "max":"1", "chance":"1477"}, {"id":"57", "min":"1896", "max":"3653", "chance":"700000"}, {"id":"1539", "min":"1", "max":"1", "chance":"831383"}, {"id":"1882", "min":"1", "max":"2", "chance":"831383"}, {"id":"4601", "min":"1", "max":"1", "chance":"8314"}],

@@ -2,6 +2,7 @@
 	"id": "18070", 
 	"name": "Apostate's Offering", 
 	"title": "", 
+	"level": "43", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"305", "max":"611", "chance":"700000"}],

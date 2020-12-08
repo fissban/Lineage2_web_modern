@@ -2,6 +2,7 @@
 	"id": "27133", 
 	"name": "Evil Eye Lord", 
 	"title": "Quest Monster", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

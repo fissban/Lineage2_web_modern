@@ -2,6 +2,7 @@
 	"id": "20341", 
 	"name": "Undead Slave", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"44", "min":"1", "max":"1", "chance":"709"}, {"id":"102", "min":"1", "max":"1", "chance":"1017"}, {"id":"945", "min":"1", "max":"1", "chance":"2101"}, {"id":"1866", "min":"1", "max":"1", "chance":"32123"}, {"id":"1871", "min":"1", "max":"1", "chance":"48184"}, {"id":"1924", "min":"1", "max":"1", "chance":"11657"}, {"id":"2175", "min":"1", "max":"1", "chance":"39174"}, {"id":"57", "min":"115", "max":"195", "chance":"700000"}, {"id":"1897", "min":"1", "max":"1", "chance":"58257"}, {"id":"2141", "min":"1", "max":"1", "chance":"48936"}, {"id":"2143", "min":"1", "max":"1", "chance":"48936"}],

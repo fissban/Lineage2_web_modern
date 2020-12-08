@@ -2,6 +2,7 @@
 	"id": "30031", 
 	"name": "Biotin", 
 	"title": "High Priest", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "30917", 
 	"name": "Dupuis", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

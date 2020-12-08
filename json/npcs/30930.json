@@ -2,6 +2,7 @@
 	"id": "30930", 
 	"name": "Rogent", 
 	"title": "Antique Appraiser", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

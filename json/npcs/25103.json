@@ -2,6 +2,7 @@
 	"id": "25103", 
 	"name": "Sorcerer Isirr", 
 	"title": "Raid Boss", 
+	"level": "55", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"91", "min":"1", "max":"1", "chance":"8913"}, {"id":"92", "min":"1", "max":"1", "chance":"8913"}, {"id":"554", "min":"1", "max":"1", "chance":"49685"}, {"id":"600", "min":"1", "max":"1", "chance":"49685"}, {"id":"612", "min":"1", "max":"1", "chance":"49685"}, {"id":"2464", "min":"1", "max":"1", "chance":"49685"}, {"id":"4073", "min":"23", "max":"67", "chance":"149112"}, {"id":"4097", "min":"60", "max":"180", "chance":"55917"}, {"id":"4098", "min":"116", "max":"346", "chance":"29048"}, {"id":"4100", "min":"16", "max":"48", "chance":"209686"}, {"id":"4105", "min":"4", "max":"12", "chance":"276673"}, {"id":"4106", "min":"8", "max":"22", "chance":"145138"}, {"id":"948", "min":"1", "max":"3", "chance":"626750"}, {"id":"6572", "min":"1", "max":"1", "chance":"133707"}, {"id":"8165", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"1", "max":"3", "chance":"250000"}],

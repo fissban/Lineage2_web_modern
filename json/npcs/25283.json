@@ -2,6 +2,7 @@
 	"id": "25283", 
 	"name": "Lilith", 
 	"title": "Raid Boss", 
+	"level": "80", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6364", "min":"1", "max":"1", "chance":"4072"}, {"id":"6372", "min":"1", "max":"1", "chance":"4072"}, {"id":"7575", "min":"1", "max":"1", "chance":"12214"}, {"id":"6688", "min":"8", "max":"22", "chance":"143145"}, {"id":"6696", "min":"4", "max":"12", "chance":"272661"}, {"id":"7579", "min":"12", "max":"36", "chance":"271498"}, {"id":"3936", "min":"1", "max":"3", "chance":"482887"}, {"id":"6578", "min":"1", "max":"1", "chance":"85847"}],

@@ -2,6 +2,7 @@
 	"id": "21263", 
 	"name": "Ol Mahum Transcender", 
 	"title": "", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"228", "min":"1", "max":"1", "chance":"24"}, {"id":"1539", "min":"1", "max":"1", "chance":"24390"}, {"id":"1864", "min":"1", "max":"1", "chance":"200000"}, {"id":"1869", "min":"1", "max":"1", "chance":"100000"}, {"id":"1880", "min":"1", "max":"1", "chance":"12987"}, {"id":"2119", "min":"1", "max":"1", "chance":"3269"}, {"id":"2231", "min":"1", "max":"1", "chance":"500"}, {"id":"4043", "min":"1", "max":"1", "chance":"1499"}, {"id":"5550", "min":"1", "max":"1", "chance":"1000"}, {"id":"8726", "min":"1", "max":"1", "chance":"2000"}, {"id":"8736", "min":"1", "max":"1", "chance":"1000"}, {"id":"57", "min":"1566", "max":"3190", "chance":"700000"}, {"id":"1914", "min":"1", "max":"1", "chance":"218248"}, {"id":"2169", "min":"1", "max":"1", "chance":"68758"}, {"id":"2170", "min":"1", "max":"1", "chance":"91623"}],

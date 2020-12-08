@@ -2,6 +2,7 @@
 	"id": "21127", 
 	"name": "Northern Goblin", 
 	"title": "", 
+	"level": "21", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"25", "min":"1", "max":"1", "chance":"177"}, {"id":"26", "min":"1", "max":"1", "chance":"114"}, {"id":"32", "min":"1", "max":"1", "chance":"282"}, {"id":"34", "min":"1", "max":"1", "chance":"183"}, {"id":"1868", "min":"1", "max":"1", "chance":"84116"}, {"id":"1873", "min":"1", "max":"1", "chance":"16824"}, {"id":"1926", "min":"1", "max":"1", "chance":"2833"}, {"id":"1928", "min":"1", "max":"1", "chance":"4085"}, {"id":"2151", "min":"1", "max":"1", "chance":"11716"}, {"id":"6035", "min":"1", "max":"1", "chance":"3505"}, {"id":"57", "min":"130", "max":"231", "chance":"700000"}, {"id":"1804", "min":"1", "max":"1", "chance":"11391"}, {"id":"1898", "min":"1", "max":"1", "chance":"29252"}, {"id":"1926", "min":"1", "max":"1", "chance":"28764"}],

@@ -2,6 +2,7 @@
 	"id": "30178", 
 	"name": "Zenkin", 
 	"title": "Armor Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

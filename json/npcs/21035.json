@@ -2,6 +2,7 @@
 	"id": "21035", 
 	"name": "Catherok", 
 	"title": "", 
+	"level": "42", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"396", "min":"1", "max":"1", "chance":"174"}, {"id":"1865", "min":"1", "max":"1", "chance":"100000"}, {"id":"1870", "min":"1", "max":"1", "chance":"111111"}, {"id":"1875", "min":"1", "max":"1", "chance":"6536"}, {"id":"1879", "min":"1", "max":"1", "chance":"15385"}, {"id":"1952", "min":"1", "max":"1", "chance":"11934"}, {"id":"2205", "min":"1", "max":"1", "chance":"3571"}, {"id":"2308", "min":"1", "max":"1", "chance":"132"}, {"id":"2989", "min":"1", "max":"1", "chance":"7143"}, {"id":"2997", "min":"1", "max":"1", "chance":"9174"}, {"id":"6668", "min":"1", "max":"1", "chance":"37037"}, {"id":"57", "min":"606", "max":"1226", "chance":"700000"}, {"id":"1873", "min":"1", "max":"3", "chance":"593536"}, {"id":"1905", "min":"1", "max":"1", "chance":"144342"}, {"id":"1952", "min":"1", "max":"1", "chance":"47529"}],

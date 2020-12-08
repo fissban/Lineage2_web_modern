@@ -2,6 +2,7 @@
 	"id": "20099", 
 	"name": "Skeleton", 
 	"title": "", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"66", "min":"1", "max":"1", "chance":"130"}, {"id":"1333", "min":"1", "max":"1", "chance":"130"}, {"id":"1794", "min":"1", "max":"1", "chance":"1287"}, {"id":"1864", "min":"1", "max":"1", "chance":"35000"}, {"id":"1865", "min":"1", "max":"1", "chance":"17500"}, {"id":"1866", "min":"1", "max":"1", "chance":"11667"}, {"id":"1868", "min":"1", "max":"1", "chance":"35000"}, {"id":"1873", "min":"1", "max":"1", "chance":"7000"}, {"id":"2010", "min":"1", "max":"1", "chance":"1363"}, {"id":"57", "min":"95", "max":"131", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"473949"}, {"id":"1896", "min":"1", "max":"1", "chance":"75310"}, {"id":"2009", "min":"1", "max":"1", "chance":"6303"}],

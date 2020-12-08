@@ -2,6 +2,7 @@
 	"id": "14848", 
 	"name": "Swoop Cannon", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

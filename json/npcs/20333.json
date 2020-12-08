@@ -2,6 +2,7 @@
 	"id": "20333", 
 	"name": "Greystone Golem", 
 	"title": "", 
+	"level": "13", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"255", "min":"1", "max":"1", "chance":"264"}, {"id":"2371", "min":"1", "max":"1", "chance":"561"}, {"id":"734", "min":"1", "max":"1", "chance":"5954"}, {"id":"1803", "min":"1", "max":"1", "chance":"30018"}, {"id":"1868", "min":"1", "max":"1", "chance":"71441"}, {"id":"1873", "min":"1", "max":"1", "chance":"14289"}, {"id":"57", "min":"127", "max":"180", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"17783"}, {"id":"1798", "min":"1", "max":"1", "chance":"237113"}, {"id":"2008", "min":"1", "max":"1", "chance":"9411"}],

@@ -2,6 +2,7 @@
 	"id": "20752", 
 	"name": "Snipe Cohort", 
 	"title": "", 
+	"level": "42", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"353", "min":"1", "max":"1", "chance":"129"}, {"id":"380", "min":"1", "max":"1", "chance":"206"}, {"id":"1868", "min":"1", "max":"1", "chance":"333333"}, {"id":"1873", "min":"1", "max":"1", "chance":"71429"}, {"id":"1889", "min":"1", "max":"1", "chance":"3300"}, {"id":"1950", "min":"1", "max":"1", "chance":"8151"}, {"id":"1951", "min":"1", "max":"1", "chance":"12677"}, {"id":"2160", "min":"1", "max":"1", "chance":"6623"}, {"id":"2312", "min":"1", "max":"1", "chance":"628"}, {"id":"5159", "min":"1", "max":"1", "chance":"3300"}, {"id":"5549", "min":"1", "max":"1", "chance":"20000"}, {"id":"57", "min":"817", "max":"1652", "chance":"700000"}, {"id":"1805", "min":"1", "max":"1", "chance":"6668"}, {"id":"1905", "min":"1", "max":"1", "chance":"194586"}, {"id":"5549", "min":"1", "max":"1", "chance":"200035"}],

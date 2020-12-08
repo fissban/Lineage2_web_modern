@@ -2,6 +2,7 @@
 	"id": "18114", 
 	"name": "Treasures of the Festival", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"955", "min":"1", "max":"1", "chance":"2000"}, {"id":"956", "min":"1", "max":"1", "chance":"15000"}, {"id":"1060", "min":"1", "max":"1", "chance":"50000"}, {"id":"1061", "min":"1", "max":"1", "chance":"50000"}],

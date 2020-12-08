@@ -2,6 +2,7 @@
 	"id": "30336", 
 	"name": "Curtis", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

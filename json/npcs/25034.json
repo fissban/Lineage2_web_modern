@@ -2,6 +2,7 @@
 	"id": "25034", 
 	"name": "Mellenu Guard Warrior", 
 	"title": "Raid Fighter", 
+	"level": "57", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"871429"}],

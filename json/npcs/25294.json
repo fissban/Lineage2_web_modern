@@ -2,6 +2,7 @@
 	"id": "25294", 
 	"name": "Fighter of Hestia", 
 	"title": "Raid Fighter", 
+	"level": "77", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"381000"}],

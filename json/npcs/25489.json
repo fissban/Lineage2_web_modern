@@ -2,6 +2,7 @@
 	"id": "25489", 
 	"name": "Guardian of Gildor", 
 	"title": "Raid Fighter", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"736000"}],

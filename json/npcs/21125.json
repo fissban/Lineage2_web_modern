@@ -2,6 +2,7 @@
 	"id": "21125", 
 	"name": "Northern Trimden", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"15", "min":"1", "max":"1", "chance":"115"}, {"id":"734", "min":"1", "max":"1", "chance":"6493"}, {"id":"1866", "min":"1", "max":"1", "chance":"25971"}, {"id":"1871", "min":"1", "max":"1", "chance":"38956"}, {"id":"2011", "min":"1", "max":"1", "chance":"1778"}, {"id":"2140", "min":"1", "max":"1", "chance":"7792"}, {"id":"57", "min":"124", "max":"211", "chance":"700000"}, {"id":"1800", "min":"1", "max":"1", "chance":"82944"}, {"id":"1801", "min":"1", "max":"1", "chance":"132878"}, {"id":"1924", "min":"1", "max":"1", "chance":"85085"}],

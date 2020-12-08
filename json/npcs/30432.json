@@ -2,6 +2,7 @@
 	"id": "30432", 
 	"name": "Irene", 
 	"title": "Sentry", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

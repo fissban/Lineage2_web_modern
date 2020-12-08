@@ -2,6 +2,7 @@
 	"id": "25309", 
 	"name": "Varka's Hero Shadith", 
 	"title": "Raid Boss", 
+	"level": "80", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6674", "min":"1", "max":"1", "chance":"19415"}, {"id":"6675", "min":"1", "max":"1", "chance":"30986"}, {"id":"959", "min":"1", "max":"1", "chance":"28792"}, {"id":"6701", "min":"8", "max":"22", "chance":"492709"}, {"id":"6702", "min":"24", "max":"72", "chance":"198203"}, {"id":"960", "min":"1", "max":"1", "chance":"287918"}, {"id":"6577", "min":"1", "max":"1", "chance":"4799"}],

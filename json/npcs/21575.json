@@ -2,6 +2,7 @@
 	"id": "21575", 
 	"name": "Bone Grinder", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"98", "min":"1", "max":"1", "chance":"5"}, {"id":"1343", "min":"10", "max":"30", "chance":"166667"}, {"id":"1868", "min":"1", "max":"1", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"45455"}, {"id":"1889", "min":"1", "max":"1", "chance":"6803"}, {"id":"4044", "min":"1", "max":"1", "chance":"3413"}, {"id":"5466", "min":"1", "max":"1", "chance":"39"}, {"id":"5542", "min":"1", "max":"1", "chance":"1238"}, {"id":"5549", "min":"1", "max":"1", "chance":"8850"}, {"id":"57", "min":"1003", "max":"2040", "chance":"700000"}, {"id":"729", "min":"1", "max":"1", "chance":"276"}, {"id":"5448", "min":"1", "max":"1", "chance":"921"}, {"id":"5494", "min":"1", "max":"1", "chance":"52203"}],

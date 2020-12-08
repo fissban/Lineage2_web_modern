@@ -2,6 +2,7 @@
 	"id": "20974", 
 	"name": "Spiteful Soul Leader", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1866", "min":"1", "max":"1", "chance":"83333"}, {"id":"1871", "min":"1", "max":"1", "chance":"142857"}, {"id":"1877", "min":"1", "max":"1", "chance":"4854"}, {"id":"4040", "min":"1", "max":"1", "chance":"1081"}, {"id":"4041", "min":"1", "max":"1", "chance":"3247"}, {"id":"4120", "min":"1", "max":"1", "chance":"2386"}, {"id":"4164", "min":"1", "max":"1", "chance":"2703"}, {"id":"5276", "min":"1", "max":"1", "chance":"224"}, {"id":"8729", "min":"1", "max":"1", "chance":"4329"}, {"id":"8739", "min":"1", "max":"1", "chance":"541"}, {"id":"4912", "min":"1", "max":"1", "chance":"7713"}, {"id":"8909", "min":"1", "max":"1", "chance":"7158"}, {"id":"57", "min":"1926", "max":"3902", "chance":"700000"}, {"id":"4052", "min":"1", "max":"1", "chance":"142857"}, {"id":"5230", "min":"1", "max":"1", "chance":"5291"}],

@@ -2,6 +2,7 @@
 	"id": "30707", 
 	"name": "Raigen", 
 	"title": "Captain", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

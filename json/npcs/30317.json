@@ -2,6 +2,7 @@
 	"id": "30317", 
 	"name": "Kluto", 
 	"title": "Blacksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

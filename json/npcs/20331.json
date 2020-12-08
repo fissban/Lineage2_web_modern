@@ -2,6 +2,7 @@
 	"id": "20331", 
 	"name": "Monster Eye Tracker", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"113", "min":"1", "max":"1", "chance":"7220"}, {"id":"875", "min":"1", "max":"1", "chance":"10843"}, {"id":"906", "min":"1", "max":"1", "chance":"5422"}, {"id":"734", "min":"1", "max":"1", "chance":"3660"}, {"id":"1796", "min":"1", "max":"1", "chance":"27617"}, {"id":"1865", "min":"1", "max":"1", "chance":"21956"}, {"id":"1870", "min":"1", "max":"1", "chance":"21956"}, {"id":"57", "min":"80", "max":"108", "chance":"700000"}, {"id":"1871", "min":"1", "max":"1", "chance":"148657"}, {"id":"2005", "min":"1", "max":"1", "chance":"10618"}, {"id":"2007", "min":"1", "max":"1", "chance":"10618"}],

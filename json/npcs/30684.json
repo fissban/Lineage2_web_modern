@@ -2,6 +2,7 @@
 	"id": "30684", 
 	"name": "Viktor", 
 	"title": "Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

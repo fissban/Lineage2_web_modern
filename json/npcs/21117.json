@@ -2,6 +2,7 @@
 	"id": "21117", 
 	"name": "Kasha Imp", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"38", "min":"1", "max":"1", "chance":"1520"}, {"id":"50", "min":"1", "max":"1", "chance":"1520"}, {"id":"1868", "min":"1", "max":"3", "chance":"102864"}, {"id":"1873", "min":"1", "max":"1", "chance":"20573"}, {"id":"1925", "min":"1", "max":"1", "chance":"33727"}, {"id":"2139", "min":"1", "max":"1", "chance":"10287"}, {"id":"57", "min":"122", "max":"208", "chance":"700000"}, {"id":"734", "min":"1", "max":"1", "chance":"43530"}, {"id":"1800", "min":"1", "max":"1", "chance":"82131"}, {"id":"1897", "min":"1", "max":"1", "chance":"62185"}],

@@ -2,6 +2,7 @@
 	"id": "27041", 
 	"name": "Baranka's Messenger", 
 	"title": "Quest Monster", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

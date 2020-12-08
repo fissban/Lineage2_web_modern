@@ -2,6 +2,7 @@
 	"id": "18276", 
 	"name": "Treasure Chest", 
 	"title": "", 
+	"level": "54", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"947", "min":"1", "max":"1", "chance":"1468"}, {"id":"948", "min":"1", "max":"1", "chance":"9176"}, {"id":"57", "min":"1997", "max":"3995", "chance":"700000"}, {"id":"1984", "min":"1", "max":"1", "chance":"98744"}, {"id":"4126", "min":"1", "max":"1", "chance":"76012"}, {"id":"1985", "min":"1", "max":"1", "chance":"158840"}],

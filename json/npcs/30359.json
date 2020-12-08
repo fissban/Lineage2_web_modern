@@ -2,6 +2,7 @@
 	"id": "30359", 
 	"name": "Kaitar", 
 	"title": "Tetrarch", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

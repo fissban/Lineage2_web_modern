@@ -2,6 +2,7 @@
 	"id": "25040", 
 	"name": "Tirak's Knight", 
 	"title": "Raid Fighter", 
+	"level": "27", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"781200"}],

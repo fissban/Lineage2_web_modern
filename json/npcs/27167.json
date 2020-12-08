@@ -2,6 +2,7 @@
 	"id": "27167", 
 	"name": "Abyssal Jewel 3", 
 	"title": "Quest Monster", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

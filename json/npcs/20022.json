@@ -2,6 +2,7 @@
 	"id": "20022", 
 	"name": "Misery Skeleton", 
 	"title": "", 
+	"level": "14", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"20", "min":"1", "max":"1", "chance":"4026"}, {"id":"43", "min":"1", "max":"1", "chance":"2813"}, {"id":"1799", "min":"1", "max":"1", "chance":"55270"}, {"id":"1864", "min":"1", "max":"1", "chance":"74615"}, {"id":"1869", "min":"1", "max":"1", "chance":"37307"}, {"id":"57", "min":"97", "max":"143", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"505199"}, {"id":"1872", "min":"1", "max":"1", "chance":"252599"}, {"id":"1921", "min":"1", "max":"1", "chance":"122225"}],

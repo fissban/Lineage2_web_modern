@@ -2,6 +2,7 @@
 	"id": "30375", 
 	"name": "Adonius", 
 	"title": "Priest", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

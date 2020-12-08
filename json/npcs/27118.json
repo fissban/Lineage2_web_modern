@@ -2,6 +2,7 @@
 	"id": "27118", 
 	"name": "Black Willow", 
 	"title": "Quest Monster", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

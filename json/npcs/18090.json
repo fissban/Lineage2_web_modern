@@ -2,6 +2,7 @@
 	"id": "18090", 
 	"name": "Dark Omen Offering", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"721", "max":"1443", "chance":"700000"}],

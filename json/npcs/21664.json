@@ -2,6 +2,7 @@
 	"id": "21664", 
 	"name": "Otherworldly Invader Priest", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"848", "min":"1", "max":"1", "chance":"528"}, {"id":"879", "min":"1", "max":"1", "chance":"792"}, {"id":"911", "min":"1", "max":"1", "chance":"396"}, {"id":"955", "min":"1", "max":"1", "chance":"360"}, {"id":"1864", "min":"1", "max":"1", "chance":"179900"}, {"id":"1869", "min":"1", "max":"1", "chance":"89950"}, {"id":"1880", "min":"1", "max":"1", "chance":"8996"}, {"id":"1900", "min":"1", "max":"1", "chance":"12302"}, {"id":"5550", "min":"1", "max":"1", "chance":"1200"}, {"id":"57", "min":"347", "max":"694", "chance":"700000"}],

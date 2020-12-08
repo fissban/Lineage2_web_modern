@@ -2,6 +2,7 @@
 	"id": "30729", 
 	"name": "Borys", 
 	"title": "Drunkard", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "22031", 
 	"name": "Ragna Orc Archer", 
 	"title": "", 
+	"level": "43", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1868", "min":"1", "max":"1", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"34483"}, {"id":"1876", "min":"1", "max":"1", "chance":"163931"}, {"id":"1895", "min":"1", "max":"1", "chance":"29412"}, {"id":"2054", "min":"1", "max":"1", "chance":"2890"}, {"id":"57", "min":"462", "max":"934", "chance":"700000"}],

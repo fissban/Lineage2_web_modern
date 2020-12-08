@@ -2,6 +2,7 @@
 	"id": "18257", 
 	"name": "Treasure Chest", 
 	"title": "", 
+	"level": "52", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

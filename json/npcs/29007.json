@@ -2,6 +2,7 @@
 	"id": "29007", 
 	"name": "Death Knight", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

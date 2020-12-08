@@ -2,6 +2,7 @@
 	"id": "27018", 
 	"name": "Orc Warrior", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

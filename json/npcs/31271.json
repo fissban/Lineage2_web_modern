@@ -2,6 +2,7 @@
 	"id": "31271", 
 	"name": "Hilda", 
 	"title": "Blacksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

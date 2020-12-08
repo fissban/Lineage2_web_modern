@@ -2,6 +2,7 @@
 	"id": "25471", 
 	"name": "Utenus's Wizard", 
 	"title": "Raid Fighter", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"901714"}],

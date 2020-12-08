@@ -2,6 +2,7 @@
 	"id": "20802", 
 	"name": "Theeder Mage", 
 	"title": "", 
+	"level": "49", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"325", "min":"1", "max":"1", "chance":"29"}, {"id":"737", "min":"1", "max":"1", "chance":"11591"}, {"id":"1342", "min":"10", "max":"30", "chance":"200000"}, {"id":"1894", "min":"1", "max":"1", "chance":"4067"}, {"id":"2088", "min":"1", "max":"1", "chance":"2859"}, {"id":"2334", "min":"1", "max":"1", "chance":"270"}, {"id":"4039", "min":"1", "max":"1", "chance":"3864"}, {"id":"4041", "min":"1", "max":"1", "chance":"1008"}, {"id":"4044", "min":"1", "max":"1", "chance":"3864"}, {"id":"8724", "min":"1", "max":"1", "chance":"1718"}, {"id":"8734", "min":"1", "max":"1", "chance":"764"}, {"id":"57", "min":"737", "max":"1504", "chance":"700000"}, {"id":"1975", "min":"1", "max":"1", "chance":"60146"}, {"id":"2333", "min":"1", "max":"1", "chance":"4258"}, {"id":"4039", "min":"1", "max":"1", "chance":"61038"}],

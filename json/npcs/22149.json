@@ -2,6 +2,7 @@
 	"id": "22149", 
 	"name": "Ritual Offering", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"960", "min":"1", "max":"1", "chance":"280"}, {"id":"1344", "min":"150", "max":"450", "chance":"6494"}, {"id":"1868", "min":"4", "max":"12", "chance":"142587"}, {"id":"1873", "min":"1", "max":"1", "chance":"200000"}, {"id":"1876", "min":"1", "max":"1", "chance":"125000"}, {"id":"1895", "min":"1", "max":"1", "chance":"83333"}, {"id":"4042", "min":"1", "max":"1", "chance":"651"}, {"id":"5529", "min":"1", "max":"1", "chance":"2849"}, {"id":"5545", "min":"1", "max":"1", "chance":"2375"}, {"id":"5546", "min":"1", "max":"1", "chance":"2849"}, {"id":"8273", "min":"6", "max":"6", "chance":"1000000"}, {"id":"8742", "min":"1", "max":"1", "chance":"1300"}, {"id":"57", "min":"4691", "max":"9502", "chance":"700000"}, {"id":"1876", "min":"1", "max":"2", "chance":"350000"}, {"id":"4042", "min":"1", "max":"1", "chance":"222000"}, {"id":"5487", "min":"1", "max":"1", "chance":"125000"}],

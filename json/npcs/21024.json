@@ -2,6 +2,7 @@
 	"id": "21024", 
 	"name": "Babbling Wind", 
 	"title": "", 
+	"level": "27", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"220", "min":"1", "max":"1", "chance":"106"}, {"id":"1864", "min":"1", "max":"1", "chance":"86350"}, {"id":"1869", "min":"1", "max":"1", "chance":"43175"}, {"id":"1878", "min":"1", "max":"1", "chance":"17270"}, {"id":"1884", "min":"1", "max":"1", "chance":"26570"}, {"id":"2180", "min":"1", "max":"1", "chance":"3247"}, {"id":"57", "min":"166", "max":"320", "chance":"700000"}, {"id":"1899", "min":"1", "max":"1", "chance":"60101"}, {"id":"1934", "min":"1", "max":"1", "chance":"50280"}, {"id":"2178", "min":"1", "max":"1", "chance":"61543"}],

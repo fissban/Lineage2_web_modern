@@ -2,6 +2,7 @@
 	"id": "30594", 
 	"name": "Ranspo", 
 	"title": "Warehouse Chief", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

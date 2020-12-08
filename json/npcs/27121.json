@@ -2,6 +2,7 @@
 	"id": "27121", 
 	"name": "Actea Of Verdant Wilds", 
 	"title": "Quest Monster", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

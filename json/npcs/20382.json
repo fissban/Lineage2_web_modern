@@ -2,6 +2,7 @@
 	"id": "20382", 
 	"name": "Vaiss Orc Warrior Leader", 
 	"title": "", 
+	"level": "11", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"20", "min":"1", "max":"1", "chance":"3570"}, {"id":"43", "min":"1", "max":"1", "chance":"2494"}, {"id":"1803", "min":"1", "max":"1", "chance":"27798"}, {"id":"1866", "min":"1", "max":"1", "chance":"22053"}, {"id":"1871", "min":"1", "max":"1", "chance":"33080"}, {"id":"57", "min":"91", "max":"122", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"447952"}, {"id":"1870", "min":"1", "max":"1", "chance":"167982"}, {"id":"2008", "min":"1", "max":"1", "chance":"6536"}],

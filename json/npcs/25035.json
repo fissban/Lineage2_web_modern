@@ -2,6 +2,7 @@
 	"id": "25035", 
 	"name": "Shilen's Messenger Cabrio", 
 	"title": "Raid Boss", 
+	"level": "70", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5313", "min":"1", "max":"1", "chance":"119662"}, {"id":"5314", "min":"1", "max":"1", "chance":"119662"}, {"id":"5318", "min":"1", "max":"1", "chance":"119662"}, {"id":"5319", "min":"1", "max":"1", "chance":"119662"}, {"id":"959", "min":"1", "max":"1", "chance":"43681"}, {"id":"960", "min":"1", "max":"1", "chance":"436810"}, {"id":"5502", "min":"116", "max":"346", "chance":"76990"}, {"id":"5503", "min":"293", "max":"877", "chance":"30402"}, {"id":"5514", "min":"60", "max":"180", "chance":"148205"}, {"id":"5515", "min":"192", "max":"576", "chance":"46315"}, {"id":"6577", "min":"1", "max":"1", "chance":"7281"}, {"id":"8160", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"9", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"750000"}],

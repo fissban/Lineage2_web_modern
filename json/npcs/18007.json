@@ -2,6 +2,7 @@
 	"id": "18007", 
 	"name": "Limal Karinness", 
 	"title": "", 
+	"level": "69", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1895", "min":"1", "max":"1", "chance":"230769"}, {"id":"4988", "min":"1", "max":"1", "chance":"5349"}, {"id":"4043", "min":"1", "max":"1", "chance":"25209"}, {"id":"4042", "min":"1", "max":"1", "chance":"14778"}, {"id":"4040", "min":"1", "max":"1", "chance":"14151"}, {"id":"4401", "min":"1", "max":"1", "chance":"1617"}, {"id":"8740", "min":"1", "max":"1", "chance":"870"}, {"id":"8730", "min":"1", "max":"1", "chance":"621"}, {"id":"5489", "min":"1", "max":"1", "chance":"17442"}, {"id":"5485", "min":"1", "max":"1", "chance":"10950"}, {"id":"5486", "min":"1", "max":"1", "chance":"7713"}, {"id":"5305", "min":"1", "max":"1", "chance":"249"}, {"id":"57", "min":"14720", "max":"29888", "chance":"700000"}, {"id":"1895", "min":"3", "max":"15", "chance":"1000000"}, {"id":"1895", "min":"1", "max":"5", "chance":"480000"}, {"id":"5479", "min":"3", "max":"3", "chance":"421056"}, {"id":"1807", "min":"1", "max":"1", "chance":"341460"}],

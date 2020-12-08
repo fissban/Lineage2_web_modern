@@ -2,6 +2,7 @@
 	"id": "27052", 
 	"name": "Minsku", 
 	"title": "Orc Betrayer", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

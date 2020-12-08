@@ -2,6 +2,7 @@
 	"id": "20103", 
 	"name": "Giant Spider", 
 	"title": "", 
+	"level": "15", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"37", "min":"1", "max":"1", "chance":"3512"}, {"id":"49", "min":"1", "max":"1", "chance":"3512"}, {"id":"17", "min":"10", "max":"30", "chance":"174458"}, {"id":"1794", "min":"1", "max":"1", "chance":"2566"}, {"id":"1867", "min":"1", "max":"1", "chance":"46523"}, {"id":"1872", "min":"1", "max":"1", "chance":"46523"}, {"id":"1921", "min":"1", "max":"1", "chance":"30015"}, {"id":"57", "min":"119", "max":"180", "chance":"700000"}, {"id":"1803", "min":"1", "max":"1", "chance":"198526"}, {"id":"1871", "min":"1", "max":"2", "chance":"236245"}, {"id":"1921", "min":"1", "max":"1", "chance":"152416"}],

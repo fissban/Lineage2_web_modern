@@ -2,6 +2,7 @@
 	"id": "14691", 
 	"name": "Mechanic Golem", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "21372", 
 	"name": "Varka's Head Guard", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5326", "min":"1", "max":"1", "chance":"17"}, {"id":"5329", "min":"1", "max":"1", "chance":"17"}, {"id":"959", "min":"1", "max":"1", "chance":"18"}, {"id":"1868", "min":"1", "max":"3", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"90909"}, {"id":"1876", "min":"1", "max":"1", "chance":"45455"}, {"id":"1895", "min":"1", "max":"1", "chance":"66667"}, {"id":"4042", "min":"1", "max":"1", "chance":"3610"}, {"id":"5487", "min":"1", "max":"1", "chance":"2877"}, {"id":"5488", "min":"1", "max":"1", "chance":"2877"}, {"id":"8732", "min":"1", "max":"1", "chance":"1706"}, {"id":"8742", "min":"1", "max":"1", "chance":"341"}, {"id":"8752", "min":"1", "max":"1", "chance":"102"}, {"id":"57", "min":"3481", "max":"7103", "chance":"700000"}, {"id":"960", "min":"1", "max":"1", "chance":"3460"}, {"id":"1876", "min":"1", "max":"3", "chance":"865067"}, {"id":"1895", "min":"1", "max":"3", "chance":"823874"}],

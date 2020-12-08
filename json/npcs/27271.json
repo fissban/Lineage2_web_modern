@@ -2,6 +2,7 @@
 	"id": "27271", 
 	"name": "Chimera Golem", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

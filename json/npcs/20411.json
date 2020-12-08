@@ -2,6 +2,7 @@
 	"id": "20411", 
 	"name": "Scavenger Bat", 
 	"title": "", 
+	"level": "18", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"217", "min":"1", "max":"1", "chance":"110"}, {"id":"218", "min":"1", "max":"1", "chance":"110"}, {"id":"1817", "min":"1", "max":"1", "chance":"5985"}, {"id":"1864", "min":"1", "max":"1", "chance":"59847"}, {"id":"1869", "min":"1", "max":"1", "chance":"29924"}, {"id":"1878", "min":"1", "max":"1", "chance":"11970"}, {"id":"6037", "min":"1", "max":"1", "chance":"59847"}, {"id":"57", "min":"121", "max":"200", "chance":"700000"}, {"id":"735", "min":"1", "max":"1", "chance":"21105"}, {"id":"1897", "min":"1", "max":"1", "chance":"60299"}, {"id":"2141", "min":"1", "max":"1", "chance":"50651"}],

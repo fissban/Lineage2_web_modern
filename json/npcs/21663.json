@@ -2,6 +2,7 @@
 	"id": "21663", 
 	"name": "Otherworldly Invader Shaman", 
 	"title": "", 
+	"level": "33", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"849", "min":"1", "max":"1", "chance":"620"}, {"id":"880", "min":"1", "max":"1", "chance":"931"}, {"id":"912", "min":"1", "max":"1", "chance":"465"}, {"id":"1874", "min":"1", "max":"1", "chance":"8850"}, {"id":"1878", "min":"1", "max":"1", "chance":"53098"}, {"id":"1884", "min":"1", "max":"1", "chance":"81689"}, {"id":"1889", "min":"1", "max":"1", "chance":"8850"}, {"id":"1901", "min":"1", "max":"1", "chance":"27502"}, {"id":"2155", "min":"1", "max":"1", "chance":"21308"}, {"id":"5220", "min":"1", "max":"1", "chance":"5310"}, {"id":"57", "min":"633", "max":"1266", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "20820", 
 	"name": "Hallate's Knight", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"864", "min":"1", "max":"1", "chance":"91"}, {"id":"895", "min":"1", "max":"1", "chance":"137"}, {"id":"926", "min":"1", "max":"1", "chance":"69"}, {"id":"1867", "min":"1", "max":"3", "chance":"166667"}, {"id":"1872", "min":"1", "max":"3", "chance":"111111"}, {"id":"1882", "min":"1", "max":"1", "chance":"55556"}, {"id":"1894", "min":"1", "max":"1", "chance":"10309"}, {"id":"4042", "min":"1", "max":"1", "chance":"5263"}, {"id":"4052", "min":"1", "max":"1", "chance":"14841"}, {"id":"4053", "min":"1", "max":"1", "chance":"17967"}, {"id":"4054", "min":"1", "max":"1", "chance":"8257"}, {"id":"4160", "min":"1", "max":"1", "chance":"1605"}, {"id":"5276", "min":"1", "max":"1", "chance":"479"}, {"id":"5424", "min":"1", "max":"1", "chance":"688"}, {"id":"8729", "min":"1", "max":"1", "chance":"2525"}, {"id":"8739", "min":"1", "max":"1", "chance":"1147"}, {"id":"57", "min":"3442", "max":"6979", "chance":"700000"}, {"id":"4054", "min":"1", "max":"1", "chance":"167723"}, {"id":"4080", "min":"1", "max":"1", "chance":"175157"}, {"id":"5230", "min":"1", "max":"1", "chance":"11354"}],

@@ -2,6 +2,7 @@
 	"id": "20017", 
 	"name": "Vuku Orc Fighter", 
 	"title": "", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2", "min":"1", "max":"1", "chance":"55"}, {"id":"120", "min":"1", "max":"1", "chance":"55"}, {"id":"121", "min":"1", "max":"1", "chance":"55"}, {"id":"1817", "min":"1", "max":"1", "chance":"7415"}, {"id":"1865", "min":"1", "max":"1", "chance":"37071"}, {"id":"1870", "min":"1", "max":"1", "chance":"37071"}, {"id":"2012", "min":"1", "max":"1", "chance":"773"}, {"id":"5268", "min":"1", "max":"1", "chance":"1483"}, {"id":"57", "min":"122", "max":"197", "chance":"700000"}, {"id":"1870", "min":"1", "max":"2", "chance":"251000"}, {"id":"1897", "min":"1", "max":"1", "chance":"59762"}],

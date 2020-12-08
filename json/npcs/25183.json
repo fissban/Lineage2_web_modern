@@ -2,6 +2,7 @@
 	"id": "25183", 
 	"name": "Kurikups' Wife", 
 	"title": "Raid Fighter", 
+	"level": "58", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"871429"}],

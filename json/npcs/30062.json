@@ -2,6 +2,7 @@
 	"id": "30062", 
 	"name": "Sonia", 
 	"title": "Accessory Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

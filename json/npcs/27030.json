@@ -2,6 +2,7 @@
 	"id": "27030", 
 	"name": "Water Seer", 
 	"title": "Quest Monster", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

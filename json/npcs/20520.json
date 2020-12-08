@@ -2,6 +2,7 @@
 	"id": "20520", 
 	"name": "Pirate Captain Uthanka", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

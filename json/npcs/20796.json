@@ -2,6 +2,7 @@
 	"id": "20796", 
 	"name": "Blade Stakato Warrior", 
 	"title": "", 
+	"level": "43", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"396", "min":"1", "max":"1", "chance":"163"}, {"id":"737", "min":"1", "max":"1", "chance":"8621"}, {"id":"1868", "min":"1", "max":"1", "chance":"166667"}, {"id":"1873", "min":"1", "max":"1", "chance":"37037"}, {"id":"1889", "min":"1", "max":"1", "chance":"4926"}, {"id":"1952", "min":"1", "max":"1", "chance":"11152"}, {"id":"2998", "min":"1", "max":"1", "chance":"1235"}, {"id":"3033", "min":"1", "max":"1", "chance":"233"}, {"id":"3954", "min":"1", "max":"1", "chance":"233"}, {"id":"4557", "min":"1", "max":"1", "chance":"279"}, {"id":"5549", "min":"1", "max":"1", "chance":"4926"}, {"id":"6668", "min":"1", "max":"1", "chance":"27027"}, {"id":"57", "min":"560", "max":"1136", "chance":"700000"}, {"id":"1905", "min":"1", "max":"1", "chance":"134890"}, {"id":"2199", "min":"1", "max":"1", "chance":"58509"}, {"id":"2930", "min":"1", "max":"1", "chance":"111783"}],

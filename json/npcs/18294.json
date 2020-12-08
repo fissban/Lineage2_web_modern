@@ -2,6 +2,7 @@
 	"id": "18294", 
 	"name": "Forbidden Path Invader Food", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"729", "min":"1", "max":"1", "chance":"142"}, {"id":"730", "min":"1", "max":"1", "chance":"1063"}, {"id":"57", "min":"728", "max":"1457", "chance":"700000"}],

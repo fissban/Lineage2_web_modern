@@ -2,6 +2,7 @@
 	"id": "25506", 
 	"name": "Rayito the Looter", 
 	"title": "Raid Boss", 
+	"level": "37", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"397", "min":"1", "max":"1", "chance":"142372"}, {"id":"1961", "min":"53", "max":"157", "chance":"63132"}, {"id":"2387", "min":"1", "max":"1", "chance":"227514"}, {"id":"2935", "min":"24", "max":"72", "chance":"229435"}, {"id":"281", "min":"1", "max":"1", "chance":"70504"}, {"id":"2074", "min":"12", "max":"36", "chance":"183398"}, {"id":"6574", "min":"1", "max":"1", "chance":"460338"}],

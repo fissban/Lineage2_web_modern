@@ -2,6 +2,7 @@
 	"id": "20473", 
 	"name": "Kaboo Orc Fighter Lieutenant", 
 	"title": "", 
+	"level": "11", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"9", "min":"1", "max":"1", "chance":"147"}, {"id":"154", "min":"1", "max":"1", "chance":"147"}, {"id":"1792", "min":"1", "max":"1", "chance":"2919"}, {"id":"1864", "min":"1", "max":"1", "chance":"79391"}, {"id":"1869", "min":"1", "max":"1", "chance":"39696"}, {"id":"2008", "min":"1", "max":"1", "chance":"1545"}, {"id":"57", "min":"109", "max":"147", "chance":"700000"}, {"id":"23", "min":"1", "max":"1", "chance":"5065"}, {"id":"1831", "min":"1", "max":"1", "chance":"537542"}, {"id":"1896", "min":"1", "max":"1", "chance":"85415"}],

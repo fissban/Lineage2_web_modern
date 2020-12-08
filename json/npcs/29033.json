@@ -2,6 +2,7 @@
 	"id": "29033", 
 	"name": "Fenril Hound Freki", 
 	"title": "Family of Valakas", 
+	"level": "82", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6652", "min":"2", "max":"6", "chance":"189407"}, {"id":"6654", "min":"18", "max":"54", "chance":"65766"}, {"id":"6655", "min":"14", "max":"42", "chance":"42279"}],

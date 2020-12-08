@@ -2,6 +2,7 @@
 	"id": "30147", 
 	"name": "Unoren", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

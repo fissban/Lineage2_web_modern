@@ -2,6 +2,7 @@
 	"id": "21707", 
 	"name": "Purgatory Invader Archer", 
 	"title": "", 
+	"level": "53", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"286", "min":"1", "max":"1", "chance":"21"}, {"id":"1875", "min":"1", "max":"1", "chance":"14289"}, {"id":"1879", "min":"1", "max":"1", "chance":"35722"}, {"id":"1885", "min":"1", "max":"1", "chance":"17861"}, {"id":"2121", "min":"1", "max":"1", "chance":"2958"}, {"id":"4134", "min":"1", "max":"1", "chance":"1649"}, {"id":"5549", "min":"1", "max":"1", "chance":"21434"}, {"id":"5550", "min":"1", "max":"1", "chance":"2858"}, {"id":"8726", "min":"1", "max":"1", "chance":"1976"}, {"id":"8736", "min":"1", "max":"1", "chance":"1976"}, {"id":"57", "min":"1406", "max":"2856", "chance":"700000"}, {"id":"1885", "min":"1", "max":"1", "chance":"290240"}, {"id":"1920", "min":"1", "max":"1", "chance":"119175"}, {"id":"3034", "min":"1", "max":"1", "chance":"6966"}],

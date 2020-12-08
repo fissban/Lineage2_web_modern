@@ -2,6 +2,7 @@
 	"id": "30924", 
 	"name": "Nedy", 
 	"title": "Wharf Manager", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

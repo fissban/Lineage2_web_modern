@@ -2,6 +2,7 @@
 	"id": "25328", 
 	"name": "Eilhalder von Hellmann", 
 	"title": "Raid Boss", 
+	"level": "71", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"81", "min":"1", "max":"1", "chance":"6411"}, {"id":"151", "min":"1", "max":"1", "chance":"6411"}, {"id":"2500", "min":"1", "max":"1", "chance":"6411"}, {"id":"5311", "min":"1", "max":"1", "chance":"16805"}, {"id":"5316", "min":"1", "max":"1", "chance":"16805"}, {"id":"5522", "min":"4", "max":"12", "chance":"368405"}, {"id":"5523", "min":"8", "max":"22", "chance":"196482"}, {"id":"5545", "min":"14", "max":"42", "chance":"84795"}, {"id":"5546", "min":"5", "max":"15", "chance":"260789"}, {"id":"730", "min":"1", "max":"3", "chance":"701159"}, {"id":"5529", "min":"9", "max":"27", "chance":"131903"}, {"id":"6578", "min":"1", "max":"1", "chance":"74791"}, {"id":"8160", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"9", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"750000"}],

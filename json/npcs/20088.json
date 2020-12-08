@@ -2,6 +2,7 @@
 	"id": "20088", 
 	"name": "Ant Warrior Captain", 
 	"title": "", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"293", "min":"1", "max":"1", "chance":"72"}, {"id":"296", "min":"1", "max":"1", "chance":"72"}, {"id":"1867", "min":"1", "max":"1", "chance":"154529"}, {"id":"1872", "min":"1", "max":"1", "chance":"154529"}, {"id":"1875", "min":"1", "max":"1", "chance":"7727"}, {"id":"1881", "min":"1", "max":"1", "chance":"15454"}, {"id":"2270", "min":"1", "max":"1", "chance":"828"}, {"id":"2288", "min":"1", "max":"1", "chance":"644"}, {"id":"57", "min":"551", "max":"1105", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"87191"}, {"id":"1895", "min":"1", "max":"2", "chance":"373675"}, {"id":"2149", "min":"1", "max":"1", "chance":"93419"}],

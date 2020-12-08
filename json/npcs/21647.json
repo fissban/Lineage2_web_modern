@@ -2,6 +2,7 @@
 	"id": "21647", 
 	"name": "Scavenger Scarab", 
 	"title": "", 
+	"level": "73", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5287", "min":"1", "max":"1", "chance":"7"}, {"id":"5288", "min":"1", "max":"1", "chance":"11"}, {"id":"5293", "min":"1", "max":"1", "chance":"5"}, {"id":"1868", "min":"1", "max":"1", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"43478"}, {"id":"1889", "min":"1", "max":"1", "chance":"7752"}, {"id":"4044", "min":"1", "max":"1", "chance":"3534"}, {"id":"5282", "min":"1", "max":"1", "chance":"16"}, {"id":"5520", "min":"1", "max":"1", "chance":"942"}, {"id":"5521", "min":"1", "max":"1", "chance":"665"}, {"id":"5524", "min":"1", "max":"1", "chance":"1440"}, {"id":"5549", "min":"1", "max":"1", "chance":"10101"}, {"id":"8731", "min":"1", "max":"1", "chance":"1114"}, {"id":"8741", "min":"1", "max":"1", "chance":"238"}, {"id":"57", "min":"1196", "max":"2434", "chance":"700000"}, {"id":"4044", "min":"1", "max":"1", "chance":"98893"}, {"id":"5462", "min":"1", "max":"1", "chance":"1099"}, {"id":"5509", "min":"1", "max":"1", "chance":"69561"}],

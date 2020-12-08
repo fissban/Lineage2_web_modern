@@ -2,6 +2,7 @@
 	"id": "31263", 
 	"name": "Liesel", 
 	"title": "Grocer", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

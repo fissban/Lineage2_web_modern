@@ -2,6 +2,7 @@
 	"id": "25362", 
 	"name": "Tracker Leader Sharuk", 
 	"title": "Raid Boss", 
+	"level": "23", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"86", "min":"1", "max":"1", "chance":"16275"}, {"id":"179", "min":"1", "max":"1", "chance":"16275"}, {"id":"180", "min":"1", "max":"1", "chance":"16275"}, {"id":"181", "min":"1", "max":"1", "chance":"16275"}, {"id":"182", "min":"1", "max":"1", "chance":"16275"}, {"id":"183", "min":"1", "max":"1", "chance":"16275"}, {"id":"184", "min":"1", "max":"1", "chance":"16275"}, {"id":"185", "min":"1", "max":"1", "chance":"16275"}, {"id":"433", "min":"1", "max":"1", "chance":"87429"}, {"id":"434", "min":"1", "max":"1", "chance":"87429"}, {"id":"435", "min":"1", "max":"1", "chance":"87429"}, {"id":"466", "min":"4", "max":"12", "chance":"17468"}, {"id":"467", "min":"1", "max":"1", "chance":"139745"}, {"id":"468", "min":"1", "max":"1", "chance":"139745"}, {"id":"1933", "min":"24", "max":"72", "chance":"107034"}, {"id":"1936", "min":"53", "max":"157", "chance":"34036"}, {"id":"2022", "min":"1", "max":"3", "chance":"408132"}, {"id":"2023", "min":"2", "max":"4", "chance":"216456"}, {"id":"955", "min":"1", "max":"1", "chance":"452879"}, {"id":"956", "min":"8", "max":"22", "chance":"251600"}, {"id":"6387", "min":"24", "max":"72", "chance":"94350"}],

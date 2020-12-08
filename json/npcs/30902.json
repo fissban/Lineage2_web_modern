@@ -2,6 +2,7 @@
 	"id": "30902", 
 	"name": "Karuna", 
 	"title": "Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

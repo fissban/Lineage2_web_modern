@@ -2,6 +2,7 @@
 	"id": "27100", 
 	"name": "Skeletal Mercenary", 
 	"title": "Quest Monster", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "25299", 
 	"name": "Ketra's Hero Hekaton", 
 	"title": "Raid Boss", 
+	"level": "80", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6367", "min":"1", "max":"1", "chance":"6828"}, {"id":"6680", "min":"1", "max":"1", "chance":"12765"}, {"id":"6691", "min":"3", "max":"9", "chance":"600077"}, {"id":"6707", "min":"12", "max":"36", "chance":"229268"}, {"id":"3936", "min":"1", "max":"1", "chance":"539841"}, {"id":"6578", "min":"1", "max":"1", "chance":"47987"}],

@@ -2,6 +2,7 @@
 	"id": "30725", 
 	"name": "Yening", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

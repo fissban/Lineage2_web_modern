@@ -2,6 +2,7 @@
 	"id": "20059", 
 	"name": "Hungry Eye", 
 	"title": "", 
+	"level": "22", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"625", "min":"1", "max":"1", "chance":"1383"}, {"id":"1148", "min":"1", "max":"1", "chance":"969"}, {"id":"1865", "min":"1", "max":"1", "chance":"44570"}, {"id":"1870", "min":"1", "max":"1", "chance":"44570"}, {"id":"3032", "min":"1", "max":"1", "chance":"1783"}, {"id":"5158", "min":"1", "max":"1", "chance":"1783"}, {"id":"57", "min":"137", "max":"246", "chance":"700000"}, {"id":"32", "min":"1", "max":"1", "chance":"3033"}, {"id":"1879", "min":"1", "max":"1", "chance":"50295"}, {"id":"2177", "min":"1", "max":"1", "chance":"96413"}],

@@ -2,6 +2,7 @@
 	"id": "27194", 
 	"name": "Julie the Ripper", 
 	"title": "Quest Monster", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

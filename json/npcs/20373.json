@@ -2,6 +2,7 @@
 	"id": "20373", 
 	"name": "Baraq Orc Warrior Leader", 
 	"title": "", 
+	"level": "11", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"255", "min":"1", "max":"1", "chance":"184"}, {"id":"2371", "min":"1", "max":"1", "chance":"390"}, {"id":"1799", "min":"1", "max":"1", "chance":"49008"}, {"id":"1864", "min":"1", "max":"1", "chance":"66160"}, {"id":"1869", "min":"1", "max":"1", "chance":"33080"}, {"id":"57", "min":"91", "max":"122", "chance":"700000"}, {"id":"1793", "min":"1", "max":"1", "chance":"12352"}, {"id":"1869", "min":"1", "max":"1", "chance":"167982"}, {"id":"1871", "min":"1", "max":"1", "chance":"167982"}],

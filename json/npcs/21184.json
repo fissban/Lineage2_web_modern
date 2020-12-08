@@ -2,6 +2,7 @@
 	"id": "21184", 
 	"name": "Lilim Slayer", 
 	"title": "", 
+	"level": "75", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"700", "max":"1400", "chance":"700000"}, {"id":"6362", "min":"14", "max":"27", "chance":"700000"}, {"id":"5304", "min":"1", "max":"1", "chance":"30"}, {"id":"5305", "min":"1", "max":"1", "chance":"48"}, {"id":"5308", "min":"1", "max":"1", "chance":"21"}, {"id":"5485", "min":"1", "max":"1", "chance":"4370"}, {"id":"5486", "min":"1", "max":"1", "chance":"3075"}, {"id":"5489", "min":"1", "max":"1", "chance":"6858"}, {"id":"7645", "min":"1", "max":"1", "chance":"17241"}, {"id":"7672", "min":"1", "max":"1", "chance":"19608"}, {"id":"7673", "min":"1", "max":"1", "chance":"18519"}, {"id":"7645", "min":"1", "max":"1", "chance":"53760"}, {"id":"7672", "min":"1", "max":"1", "chance":"53760"}, {"id":"7673", "min":"1", "max":"1", "chance":"53760"}, {"id":"729", "min":"1", "max":"1", "chance":"1173"}, {"id":"1895", "min":"1", "max":"5", "chance":"753968"}, {"id":"5480", "min":"1", "max":"1", "chance":"47365"}],

@@ -2,6 +2,7 @@
 	"id": "20204", 
 	"name": "Bloody Bee", 
 	"title": "", 
+	"level": "23", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"846", "min":"1", "max":"1", "chance":"634"}, {"id":"878", "min":"1", "max":"1", "chance":"948"}, {"id":"909", "min":"1", "max":"1", "chance":"476"}, {"id":"1831", "min":"1", "max":"1", "chance":"108135"}, {"id":"1867", "min":"1", "max":"1", "chance":"54068"}, {"id":"1872", "min":"1", "max":"1", "chance":"54068"}, {"id":"1882", "min":"1", "max":"1", "chance":"9012"}, {"id":"1898", "min":"1", "max":"1", "chance":"5207"}, {"id":"3953", "min":"1", "max":"1", "chance":"1623"}, {"id":"57", "min":"157", "max":"277", "chance":"700000"}, {"id":"1867", "min":"1", "max":"2", "chance":"457600"}, {"id":"1868", "min":"1", "max":"3", "chance":"686400"}, {"id":"2014", "min":"1", "max":"1", "chance":"3945"}],

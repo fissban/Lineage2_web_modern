@@ -2,6 +2,7 @@
 	"id": "25469", 
 	"name": "Cursed Soul", 
 	"title": "Raid Fighter", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"842286"}],

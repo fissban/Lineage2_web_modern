@@ -2,6 +2,7 @@
 	"id": "21196", 
 	"name": "Nephilim Sentinel", 
 	"title": "", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"268", "max":"532", "chance":"700000"}, {"id":"6362", "min":"25", "max":"45", "chance":"700000"}, {"id":"227", "min":"1", "max":"1", "chance":"29"}, {"id":"242", "min":"1", "max":"1", "chance":"29"}, {"id":"951", "min":"1", "max":"1", "chance":"500"}, {"id":"1866", "min":"1", "max":"1", "chance":"166667"}, {"id":"1871", "min":"1", "max":"1", "chance":"250000"}, {"id":"1877", "min":"1", "max":"1", "chance":"13889"}, {"id":"2083", "min":"1", "max":"1", "chance":"2740"}, {"id":"2084", "min":"1", "max":"1", "chance":"2740"}, {"id":"4040", "min":"1", "max":"1", "chance":"4444"}, {"id":"4041", "min":"1", "max":"1", "chance":"2967"}, {"id":"1911", "min":"1", "max":"1", "chance":"276857"}, {"id":"2166", "min":"1", "max":"1", "chance":"126181"}, {"id":"2167", "min":"1", "max":"1", "chance":"189915"}],

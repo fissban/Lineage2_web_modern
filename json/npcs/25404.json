@@ -2,6 +2,7 @@
 	"id": "25404", 
 	"name": "Corsair Captain Kylon", 
 	"title": "Raid Boss", 
+	"level": "33", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"70", "min":"1", "max":"1", "chance":"16555"}, {"id":"2499", "min":"1", "max":"1", "chance":"16555"}, {"id":"630", "min":"1", "max":"1", "chance":"128575"}, {"id":"2412", "min":"1", "max":"1", "chance":"90090"}, {"id":"2494", "min":"1", "max":"1", "chance":"128575"}, {"id":"1956", "min":"40", "max":"120", "chance":"93951"}, {"id":"2047", "min":"4", "max":"12", "chance":"163724"}, {"id":"2930", "min":"14", "max":"42", "chance":"190638"}, {"id":"2934", "min":"81", "max":"243", "chance":"46396"}, {"id":"2967", "min":"2", "max":"4", "chance":"430691"}, {"id":"6573", "min":"1", "max":"1", "chance":"25751"}],

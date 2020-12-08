@@ -2,6 +2,7 @@
 	"id": "29096", 
 	"name": "Anais", 
 	"title": "Lord of Splendor", 
+	"level": "87", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6674", "min":"1", "max":"1", "chance":"8022"}, {"id":"6675", "min":"1", "max":"1", "chance":"12803"}, {"id":"6701", "min":"8", "max":"22", "chance":"203579"}, {"id":"6702", "min":"4", "max":"12", "chance":"491363"}, {"id":"6370", "min":"1", "max":"1", "chance":"8120"}, {"id":"6694", "min":"3", "max":"9", "chance":"726675"}, {"id":"959", "min":"1", "max":"1", "chance":"24745"}, {"id":"960", "min":"1", "max":"1", "chance":"247447"}, {"id":"6577", "min":"1", "max":"1", "chance":"4124"}, {"id":"8920", "min":"1", "max":"1", "chance":"247447"}],

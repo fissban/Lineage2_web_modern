@@ -2,6 +2,7 @@
 	"id": "18044", 
 	"name": "Dark Omen Offering Berserker", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"848", "max":"1697", "chance":"700000"}],

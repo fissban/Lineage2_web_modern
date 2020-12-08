@@ -2,6 +2,7 @@
 	"id": "30921", 
 	"name": "Timos", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

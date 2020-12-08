@@ -2,6 +2,7 @@
 	"id": "21699", 
 	"name": "Dimension Invader Warrior", 
 	"title": "", 
+	"level": "43", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"70", "min":"1", "max":"1", "chance":"68"}, {"id":"2499", "min":"1", "max":"1", "chance":"68"}, {"id":"1864", "min":"4", "max":"12", "chance":"121183"}, {"id":"1869", "min":"1", "max":"3", "chance":"161577"}, {"id":"1880", "min":"1", "max":"1", "chance":"48473"}, {"id":"2047", "min":"1", "max":"1", "chance":"5327"}, {"id":"2204", "min":"1", "max":"1", "chance":"9599"}, {"id":"2967", "min":"1", "max":"1", "chance":"5255"}, {"id":"5550", "min":"1", "max":"1", "chance":"6464"}, {"id":"57", "min":"1947", "max":"3955", "chance":"700000"}, {"id":"1953", "min":"1", "max":"1", "chance":"154597"}, {"id":"2199", "min":"1", "max":"1", "chance":"203650"}, {"id":"2203", "min":"1", "max":"3", "chance":"525763"}],

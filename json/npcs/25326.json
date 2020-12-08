@@ -2,6 +2,7 @@
 	"id": "25326", 
 	"name": "Barakiel's Disciple", 
 	"title": "Raid Fighter", 
+	"level": "69", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"898500"}],

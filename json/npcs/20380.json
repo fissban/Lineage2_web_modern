@@ -2,6 +2,7 @@
 	"id": "20380", 
 	"name": "Stone Guardian", 
 	"title": "", 
+	"level": "16", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"176", "min":"1", "max":"1", "chance":"116"}, {"id":"2501", "min":"1", "max":"1", "chance":"116"}, {"id":"1866", "min":"1", "max":"1", "chance":"35062"}, {"id":"1871", "min":"1", "max":"1", "chance":"52593"}, {"id":"2174", "min":"1", "max":"1", "chance":"22867"}, {"id":"57", "min":"132", "max":"206", "chance":"700000"}, {"id":"1866", "min":"1", "max":"1", "chance":"178047"}, {"id":"1869", "min":"1", "max":"1", "chance":"267071"}, {"id":"1873", "min":"1", "max":"1", "chance":"106828"}],

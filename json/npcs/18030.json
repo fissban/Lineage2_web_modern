@@ -2,6 +2,7 @@
 	"id": "18030", 
 	"name": "Witch's Offering", 
 	"title": "", 
+	"level": "54", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"486", "max":"972", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "20095", 
 	"name": "Vampire Bat", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"428", "min":"1", "max":"1", "chance":"1808"}, {"id":"463", "min":"1", "max":"1", "chance":"2889"}, {"id":"1100", "min":"1", "max":"1", "chance":"1808"}, {"id":"1103", "min":"1", "max":"1", "chance":"2889"}, {"id":"1789", "min":"1", "max":"1", "chance":"5412"}, {"id":"1864", "min":"1", "max":"1", "chance":"58548"}, {"id":"1869", "min":"1", "max":"1", "chance":"29274"}, {"id":"57", "min":"80", "max":"108", "chance":"700000"}, {"id":"1864", "min":"1", "max":"1", "chance":"297315"}, {"id":"2006", "min":"1", "max":"1", "chance":"10618"}],

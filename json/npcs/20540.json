@@ -2,6 +2,7 @@
 	"id": "20540", 
 	"name": "Gemstone Beast", 
 	"title": "", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"23", "min":"1", "max":"1", "chance":"854"}, {"id":"30", "min":"1", "max":"1", "chance":"1368"}, {"id":"2386", "min":"1", "max":"1", "chance":"1368"}, {"id":"736", "min":"1", "max":"1", "chance":"16987"}, {"id":"1868", "min":"1", "max":"1", "chance":"67947"}, {"id":"1873", "min":"1", "max":"1", "chance":"13590"}, {"id":"57", "min":"92", "max":"127", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"460056"}, {"id":"1873", "min":"1", "max":"1", "chance":"69008"}, {"id":"1896", "min":"1", "max":"1", "chance":"73102"}],

@@ -2,6 +2,7 @@
 	"id": "25483", 
 	"name": "Phantom of Kenishee", 
 	"title": "Raid Fighter", 
+	"level": "52", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"785600"}],

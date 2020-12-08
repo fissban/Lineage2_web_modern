@@ -2,6 +2,7 @@
 	"id": "21341", 
 	"name": "Grazing Elder Kookaburra", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"81", "min":"1", "max":"1", "chance":"3"}, {"id":"151", "min":"1", "max":"1", "chance":"3"}, {"id":"2500", "min":"1", "max":"1", "chance":"3"}, {"id":"959", "min":"1", "max":"1", "chance":"16"}, {"id":"1868", "min":"1", "max":"3", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"111111"}, {"id":"1876", "min":"1", "max":"1", "chance":"52632"}, {"id":"1895", "min":"1", "max":"1", "chance":"76923"}, {"id":"4042", "min":"1", "max":"1", "chance":"5495"}, {"id":"5529", "min":"1", "max":"1", "chance":"1046"}, {"id":"5545", "min":"1", "max":"1", "chance":"1046"}, {"id":"5546", "min":"1", "max":"1", "chance":"1149"}, {"id":"8732", "min":"1", "max":"1", "chance":"3367"}, {"id":"8742", "min":"1", "max":"1", "chance":"406"}, {"id":"57", "min":"3115", "max":"6359", "chance":"700000"}, {"id":"960", "min":"1", "max":"1", "chance":"3097"}, {"id":"1876", "min":"1", "max":"3", "chance":"774226"}, {"id":"4042", "min":"1", "max":"1", "chance":"129038"}],

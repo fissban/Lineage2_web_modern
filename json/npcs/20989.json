@@ -2,6 +2,7 @@
 	"id": "20989", 
 	"name": "Lageos", 
 	"title": "", 
+	"level": "38", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"352", "min":"1", "max":"1", "chance":"52"}, {"id":"2377", "min":"1", "max":"1", "chance":"83"}, {"id":"2378", "min":"1", "max":"1", "chance":"83"}, {"id":"1866", "min":"1", "max":"1", "chance":"62500"}, {"id":"1871", "min":"1", "max":"1", "chance":"83333"}, {"id":"1885", "min":"1", "max":"1", "chance":"6993"}, {"id":"1941", "min":"1", "max":"1", "chance":"3086"}, {"id":"2146", "min":"1", "max":"1", "chance":"4975"}, {"id":"2918", "min":"1", "max":"1", "chance":"4603"}, {"id":"2919", "min":"1", "max":"1", "chance":"4603"}, {"id":"5220", "min":"1", "max":"1", "chance":"3104"}, {"id":"5473", "min":"1", "max":"1", "chance":"10000"}, {"id":"57", "min":"381", "max":"760", "chance":"700000"}, {"id":"1825", "min":"1", "max":"1", "chance":"64329"}, {"id":"1871", "min":"1", "max":"3", "chance":"900608"}, {"id":"1902", "min":"1", "max":"1", "chance":"91247"}],

@@ -2,6 +2,7 @@
 	"id": "20114", 
 	"name": "Salamander Noble", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"845", "min":"1", "max":"1", "chance":"1346"}, {"id":"877", "min":"1", "max":"1", "chance":"2020"}, {"id":"908", "min":"1", "max":"1", "chance":"1005"}, {"id":"1817", "min":"1", "max":"1", "chance":"11958"}, {"id":"1866", "min":"1", "max":"1", "chance":"39860"}, {"id":"1871", "min":"1", "max":"1", "chance":"59790"}, {"id":"1897", "min":"1", "max":"1", "chance":"14236"}, {"id":"6035", "min":"1", "max":"1", "chance":"4983"}, {"id":"57", "min":"190", "max":"323", "chance":"700000"}, {"id":"735", "min":"1", "max":"1", "chance":"33735"}, {"id":"1817", "min":"1", "max":"1", "chance":"80965"}, {"id":"2011", "min":"1", "max":"1", "chance":"9235"}],

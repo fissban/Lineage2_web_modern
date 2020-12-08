@@ -2,6 +2,7 @@
 	"id": "20150", 
 	"name": "King Bugbear", 
 	"title": "", 
+	"level": "32", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

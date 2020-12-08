@@ -2,6 +2,7 @@
 	"id": "21527", 
 	"name": "Anger of Splendor", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"110", "min":"1", "max":"1", "chance":"31"}, {"id":"2416", "min":"1", "max":"1", "chance":"22"}, {"id":"2417", "min":"1", "max":"1", "chance":"22"}, {"id":"1343", "min":"10", "max":"30", "chance":"125000"}, {"id":"1866", "min":"1", "max":"1", "chance":"62500"}, {"id":"1871", "min":"1", "max":"1", "chance":"83333"}, {"id":"1877", "min":"1", "max":"1", "chance":"6579"}, {"id":"4040", "min":"1", "max":"1", "chance":"2387"}, {"id":"4041", "min":"1", "max":"1", "chance":"1789"}, {"id":"4077", "min":"1", "max":"1", "chance":"5810"}, {"id":"4088", "min":"1", "max":"1", "chance":"4881"}, {"id":"4089", "min":"1", "max":"1", "chance":"4881"}, {"id":"5166", "min":"1", "max":"1", "chance":"148"}, {"id":"8729", "min":"1", "max":"1", "chance":"596"}, {"id":"57", "min":"1061", "max":"2149", "chance":"700000"}, {"id":"4040", "min":"1", "max":"1", "chance":"52463"}, {"id":"4081", "min":"1", "max":"1", "chance":"25854"}, {"id":"5161", "min":"1", "max":"1", "chance":"3498"}],

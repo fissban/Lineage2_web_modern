@@ -2,6 +2,7 @@
 	"id": "21756", 
 	"name": "Dark Omen Invader Priest", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"288", "min":"1", "max":"1", "chance":"8"}, {"id":"1868", "min":"1", "max":"1", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"58824"}, {"id":"1876", "min":"1", "max":"1", "chance":"26316"}, {"id":"1895", "min":"1", "max":"1", "chance":"47619"}, {"id":"4042", "min":"1", "max":"1", "chance":"3311"}, {"id":"5440", "min":"1", "max":"1", "chance":"83"}, {"id":"5535", "min":"1", "max":"1", "chance":"2284"}, {"id":"8730", "min":"1", "max":"1", "chance":"2577"}, {"id":"8740", "min":"1", "max":"1", "chance":"736"}, {"id":"57", "min":"1828", "max":"3720", "chance":"700000"}, {"id":"5466", "min":"1", "max":"1", "chance":"1679"}, {"id":"5524", "min":"1", "max":"1", "chance":"44675"}, {"id":"5525", "min":"1", "max":"1", "chance":"70068"}],

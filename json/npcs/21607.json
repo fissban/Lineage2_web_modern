@@ -2,6 +2,7 @@
 	"id": "21607", 
 	"name": "Zaken's Elite Archer", 
 	"title": "", 
+	"level": "44", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"354", "min":"1", "max":"1", "chance":"139"}, {"id":"381", "min":"1", "max":"1", "chance":"222"}, {"id":"1875", "min":"1", "max":"1", "chance":"15563"}, {"id":"1879", "min":"1", "max":"1", "chance":"38907"}, {"id":"1885", "min":"1", "max":"1", "chance":"19454"}, {"id":"1959", "min":"1", "max":"1", "chance":"9433"}, {"id":"1960", "min":"1", "max":"1", "chance":"19189"}, {"id":"2163", "min":"1", "max":"1", "chance":"11911"}, {"id":"5549", "min":"1", "max":"1", "chance":"23344"}, {"id":"5550", "min":"1", "max":"1", "chance":"3113"}, {"id":"8723", "min":"1", "max":"1", "chance":"2703"}, {"id":"57", "min":"1190", "max":"2438", "chance":"700000"}, {"id":"1908", "min":"1", "max":"1", "chance":"280642"}, {"id":"1909", "min":"1", "max":"1", "chance":"400213"}, {"id":"2163", "min":"1", "max":"1", "chance":"151203"}],

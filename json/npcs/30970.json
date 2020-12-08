@@ -2,6 +2,7 @@
 	"id": "30970", 
 	"name": "Dorothy", 
 	"title": "Locksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "20927", 
 	"name": "King of the Araneid", 
 	"title": "", 
+	"level": "27", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"220", "min":"1", "max":"1", "chance":"69"}, {"id":"1876", "min":"1", "max":"1", "chance":"4698"}, {"id":"1877", "min":"1", "max":"1", "chance":"940"}, {"id":"1880", "min":"1", "max":"1", "chance":"2349"}, {"id":"1881", "min":"1", "max":"1", "chance":"3132"}, {"id":"1882", "min":"1", "max":"1", "chance":"5220"}, {"id":"2178", "min":"1", "max":"1", "chance":"3759"}, {"id":"57", "min":"108", "max":"209", "chance":"700000"}, {"id":"1866", "min":"1", "max":"1", "chance":"167397"}, {"id":"1899", "min":"1", "max":"1", "chance":"39234"}, {"id":"1932", "min":"1", "max":"1", "chance":"39856"}],

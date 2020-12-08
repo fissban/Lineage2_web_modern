@@ -2,6 +2,7 @@
 	"id": "29024", 
 	"name": "Vale master", 
 	"title": "", 
+	"level": "59", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1061", "min":"4", "max":"8", "chance":"200000"}],

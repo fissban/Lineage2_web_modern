@@ -2,6 +2,7 @@
 	"id": "27031", 
 	"name": "Ol Mahum Sentry", 
 	"title": "Quest Monster", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

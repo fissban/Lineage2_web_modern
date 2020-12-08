@@ -2,6 +2,7 @@
 	"id": "20404", 
 	"name": "Silent Horror", 
 	"title": "", 
+	"level": "16", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1101", "min":"1", "max":"1", "chance":"588"}, {"id":"1104", "min":"1", "max":"1", "chance":"940"}, {"id":"1866", "min":"1", "max":"1", "chance":"19883"}, {"id":"1871", "min":"1", "max":"1", "chance":"29824"}, {"id":"2254", "min":"1", "max":"1", "chance":"1223"}, {"id":"6035", "min":"1", "max":"1", "chance":"2486"}, {"id":"57", "min":"100", "max":"156", "chance":"700000"}, {"id":"735", "min":"1", "max":"1", "chance":"16828"}, {"id":"1897", "min":"1", "max":"1", "chance":"48079"}, {"id":"2253", "min":"1", "max":"1", "chance":"8276"}],

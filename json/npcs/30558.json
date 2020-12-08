@@ -2,6 +2,7 @@
 	"id": "30558", 
 	"name": "Jakal", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

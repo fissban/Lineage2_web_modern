@@ -2,6 +2,7 @@
 	"id": "30154", 
 	"name": "Asterios", 
 	"title": "Hierarch", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

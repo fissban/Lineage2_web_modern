@@ -2,6 +2,7 @@
 	"id": "21077", 
 	"name": "Bathin's Wizard", 
 	"title": "", 
+	"level": "62", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"864", "min":"1", "max":"1", "chance":"45"}, {"id":"895", "min":"1", "max":"1", "chance":"67"}, {"id":"926", "min":"1", "max":"1", "chance":"34"}, {"id":"1343", "min":"20", "max":"60", "chance":"83333"}, {"id":"1867", "min":"1", "max":"1", "chance":"166667"}, {"id":"1872", "min":"1", "max":"1", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"12821"}, {"id":"1881", "min":"1", "max":"1", "chance":"20833"}, {"id":"4041", "min":"1", "max":"1", "chance":"3205"}, {"id":"4052", "min":"1", "max":"1", "chance":"7260"}, {"id":"4053", "min":"1", "max":"1", "chance":"8790"}, {"id":"4054", "min":"1", "max":"1", "chance":"4039"}, {"id":"5230", "min":"1", "max":"1", "chance":"1603"}, {"id":"5276", "min":"1", "max":"1", "chance":"1603"}, {"id":"8739", "min":"1", "max":"1", "chance":"1603"}, {"id":"57", "min":"1685", "max":"3413", "chance":"700000"}, {"id":"4041", "min":"1", "max":"1", "chance":"36223"}, {"id":"4054", "min":"1", "max":"1", "chance":"82050"}, {"id":"5230", "min":"1", "max":"1", "chance":"5554"}],

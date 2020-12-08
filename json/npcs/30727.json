@@ -2,6 +2,7 @@
 	"id": "30727", 
 	"name": "Verona", 
 	"title": "Gatekeeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

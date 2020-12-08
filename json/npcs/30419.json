@@ -2,6 +2,7 @@
 	"id": "30419", 
 	"name": "Arkenia", 
 	"title": "Witch", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

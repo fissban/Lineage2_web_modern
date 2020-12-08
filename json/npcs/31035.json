@@ -2,6 +2,7 @@
 	"id": "31035", 
 	"name": "Defender", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

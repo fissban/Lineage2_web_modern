@@ -2,6 +2,7 @@
 	"id": "30703", 
 	"name": "Colin", 
 	"title": "Guild President", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

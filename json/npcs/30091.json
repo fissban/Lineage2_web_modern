@@ -2,6 +2,7 @@
 	"id": "30091", 
 	"name": "Ellie", 
 	"title": "Accessory Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

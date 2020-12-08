@@ -2,6 +2,7 @@
 	"id": "30928", 
 	"name": "Fenster", 
 	"title": "Mercenary", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

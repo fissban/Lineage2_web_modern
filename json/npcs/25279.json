@@ -2,6 +2,7 @@
 	"id": "25279", 
 	"name": "Evil Spirit of Stigma", 
 	"title": "Raid Fighter", 
+	"level": "49", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"695200"}],

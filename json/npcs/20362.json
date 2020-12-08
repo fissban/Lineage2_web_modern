@@ -2,6 +2,7 @@
 	"id": "20362", 
 	"name": "Tunath Orc Warrior", 
 	"title": "", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"37", "min":"1", "max":"1", "chance":"2642"}, {"id":"49", "min":"1", "max":"1", "chance":"2642"}, {"id":"1060", "min":"1", "max":"1", "chance":"58333"}, {"id":"1792", "min":"1", "max":"1", "chance":"1931"}, {"id":"1864", "min":"1", "max":"1", "chance":"52500"}, {"id":"1869", "min":"1", "max":"1", "chance":"26250"}, {"id":"1921", "min":"1", "max":"1", "chance":"22581"}, {"id":"57", "min":"95", "max":"131", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"13068"}, {"id":"1799", "min":"1", "max":"1", "chance":"263305"}, {"id":"1867", "min":"1", "max":"1", "chance":"236975"}],

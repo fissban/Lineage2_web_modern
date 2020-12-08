@@ -2,6 +2,7 @@
 	"id": "20994", 
 	"name": "Garden Guard Leader", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"265", "min":"1", "max":"1", "chance":"35"}, {"id":"1894", "min":"1", "max":"1", "chance":"6536"}, {"id":"2108", "min":"1", "max":"1", "chance":"4018"}, {"id":"3015", "min":"1", "max":"1", "chance":"1629"}, {"id":"3016", "min":"1", "max":"1", "chance":"4878"}, {"id":"4039", "min":"1", "max":"1", "chance":"7353"}, {"id":"4041", "min":"1", "max":"1", "chance":"1864"}, {"id":"4044", "min":"1", "max":"1", "chance":"5714"}, {"id":"4186", "min":"1", "max":"1", "chance":"247"}, {"id":"8725", "min":"1", "max":"1", "chance":"5714"}, {"id":"8735", "min":"1", "max":"1", "chance":"815"}, {"id":"57", "min":"1464", "max":"2975", "chance":"700000"}, {"id":"2169", "min":"1", "max":"1", "chance":"64202"}, {"id":"4043", "min":"1", "max":"1", "chance":"120913"}, {"id":"4044", "min":"1", "max":"1", "chance":"120913"}],

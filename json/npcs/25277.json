@@ -2,6 +2,7 @@
 	"id": "25277", 
 	"name": "Lilith's Witch Marilion", 
 	"title": "Raid Boss", 
+	"level": "50", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"284", "min":"1", "max":"1", "chance":"29177"}, {"id":"554", "min":"1", "max":"1", "chance":"81329"}, {"id":"600", "min":"1", "max":"1", "chance":"81329"}, {"id":"612", "min":"1", "max":"1", "chance":"81329"}, {"id":"2464", "min":"1", "max":"1", "chance":"81329"}, {"id":"952", "min":"21", "max":"63", "chance":"130275"}, {"id":"4073", "min":"23", "max":"67", "chance":"244078"}, {"id":"4097", "min":"60", "max":"180", "chance":"91529"}, {"id":"4098", "min":"116", "max":"346", "chance":"47548"}, {"id":"4100", "min":"192", "max":"576", "chance":"28603"}, {"id":"4112", "min":"12", "max":"36", "chance":"298721"}, {"id":"4604", "min":"2", "max":"6", "chance":"227983"}, {"id":"4605", "min":"3", "max":"7", "chance":"182386"}, {"id":"4606", "min":"3", "max":"9", "chance":"151989"}],

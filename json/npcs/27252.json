@@ -2,6 +2,7 @@
 	"id": "27252", 
 	"name": "Fallen Angel Allector", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

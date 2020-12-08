@@ -2,6 +2,7 @@
 	"id": "22106", 
 	"name": "Spiked Stakato Worker", 
 	"title": "", 
+	"level": "73", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"40", "max":"120", "chance":"76923"}, {"id":"1867", "min":"1", "max":"3", "chance":"111111"}, {"id":"1872", "min":"1", "max":"3", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"15152"}, {"id":"1881", "min":"1", "max":"1", "chance":"32258"}, {"id":"3957", "min":"1", "max":"1", "chance":"145"}, {"id":"4041", "min":"1", "max":"1", "chance":"2899"}, {"id":"5532", "min":"1", "max":"1", "chance":"262"}, {"id":"5543", "min":"1", "max":"1", "chance":"1312"}, {"id":"8341", "min":"1", "max":"1", "chance":"1173"}, {"id":"8346", "min":"1", "max":"1", "chance":"1173"}, {"id":"8487", "min":"1", "max":"1", "chance":"500"}, {"id":"8731", "min":"1", "max":"1", "chance":"2688"}, {"id":"8741", "min":"1", "max":"1", "chance":"435"}, {"id":"8751", "min":"1", "max":"1", "chance":"73"}, {"id":"8761", "min":"1", "max":"1", "chance":"35"}, {"id":"57", "min":"4277", "max":"8707", "chance":"700000"}, {"id":"5440", "min":"1", "max":"1", "chance":"5000"}, {"id":"5479", "min":"1", "max":"2", "chance":"25000"}, {"id":"5482", "min":"1", "max":"2", "chance":"25000"}],

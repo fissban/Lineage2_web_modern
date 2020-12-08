@@ -2,6 +2,7 @@
 	"id": "21309", 
 	"name": "Disciples of Punishment", 
 	"title": "", 
+	"level": "75", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"212", "min":"1", "max":"1", "chance":"12"}, {"id":"2504", "min":"1", "max":"1", "chance":"12"}, {"id":"1867", "min":"9", "max":"27", "chance":"38462"}, {"id":"1872", "min":"5", "max":"15", "chance":"58824"}, {"id":"1875", "min":"1", "max":"1", "chance":"33333"}, {"id":"1881", "min":"1", "max":"1", "chance":"62500"}, {"id":"4041", "min":"1", "max":"1", "chance":"3745"}, {"id":"5282", "min":"1", "max":"1", "chance":"163"}, {"id":"5532", "min":"1", "max":"1", "chance":"3533"}, {"id":"5543", "min":"1", "max":"1", "chance":"3566"}, {"id":"8341", "min":"1", "max":"1", "chance":"1757"}, {"id":"8346", "min":"1", "max":"1", "chance":"2197"}, {"id":"1344", "min":"40", "max":"120", "chance":"1000000"}, {"id":"8731", "min":"1", "max":"1", "chance":"3906"}, {"id":"8741", "min":"1", "max":"1", "chance":"976"}, {"id":"8751", "min":"1", "max":"1", "chance":"488"}, {"id":"57", "min":"5710", "max":"11652", "chance":"700000"}, {"id":"1875", "min":"1", "max":"2", "chance":"945811"}, {"id":"3036", "min":"1", "max":"1", "chance":"6305"}, {"id":"5487", "min":"1", "max":"1", "chance":"63886"}],

@@ -2,6 +2,7 @@
 	"id": "27136", 
 	"name": "Succubus Of Seduction", 
 	"title": "Quest Monster", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

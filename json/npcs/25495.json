@@ -2,6 +2,7 @@
 	"id": "25495", 
 	"name": "Spirit of Niniel", 
 	"title": "Raid Fighter", 
+	"level": "54", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"850400"}],

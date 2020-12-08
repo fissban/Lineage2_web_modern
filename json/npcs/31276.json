@@ -2,6 +2,7 @@
 	"id": "31276", 
 	"name": "Bernhard", 
 	"title": "Grand Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

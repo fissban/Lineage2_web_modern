@@ -2,6 +2,7 @@
 	"id": "30224", 
 	"name": "Rayla", 
 	"title": "Sentry Knight", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

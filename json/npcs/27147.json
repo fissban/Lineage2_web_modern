@@ -2,6 +2,7 @@
 	"id": "27147", 
 	"name": "Tarlk Raider Motura", 
 	"title": "Quest Monster", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

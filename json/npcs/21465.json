@@ -2,6 +2,7 @@
 	"id": "21465", 
 	"name": "Alpine Kookaburra", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"864", "min":"1", "max":"1", "chance":"58"}, {"id":"895", "min":"1", "max":"1", "chance":"86"}, {"id":"926", "min":"1", "max":"1", "chance":"43"}, {"id":"730", "min":"1", "max":"1", "chance":"189"}, {"id":"1343", "min":"20", "max":"60", "chance":"161863"}, {"id":"1874", "min":"1", "max":"1", "chance":"15108"}, {"id":"1878", "min":"1", "max":"1", "chance":"90643"}, {"id":"1884", "min":"1", "max":"1", "chance":"139451"}, {"id":"1889", "min":"1", "max":"1", "chance":"15108"}, {"id":"4052", "min":"1", "max":"1", "chance":"9359"}, {"id":"4053", "min":"1", "max":"1", "chance":"11331"}, {"id":"4054", "min":"1", "max":"1", "chance":"5207"}, {"id":"5220", "min":"1", "max":"1", "chance":"9065"}, {"id":"5370", "min":"1", "max":"1", "chance":"3534"}, {"id":"4118", "min":"1", "max":"1", "chance":"22233"}, {"id":"5220", "min":"1", "max":"4", "chance":"214805"}, {"id":"5446", "min":"1", "max":"1", "chance":"2934"}],

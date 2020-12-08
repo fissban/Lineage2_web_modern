@@ -2,6 +2,7 @@
 	"id": "21793", 
 	"name": "Messenger Invader Elite Soldier", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6672", "min":"1", "max":"3", "chance":"333333"}, {"id":"8732", "min":"1", "max":"1", "chance":"55556"}, {"id":"8742", "min":"1", "max":"1", "chance":"16949"}, {"id":"8752", "min":"1", "max":"1", "chance":"1206"}, {"id":"57", "min":"7577", "max":"15464", "chance":"700000"}, {"id":"6672", "min":"1", "max":"3", "chance":"784501"}, {"id":"6689", "min":"1", "max":"1", "chance":"39930"}, {"id":"6690", "min":"1", "max":"1", "chance":"40774"}],

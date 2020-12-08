@@ -2,6 +2,7 @@
 	"id": "25354", 
 	"name": "Gargoyle Lord Sirocco", 
 	"title": "Raid Boss", 
+	"level": "35", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"630", "min":"6", "max":"16", "chance":"48316"}, {"id":"2412", "min":"1", "max":"1", "chance":"372390"}, {"id":"2494", "min":"6", "max":"18", "chance":"44290"}, {"id":"951", "min":"1", "max":"1", "chance":"387061"}, {"id":"1956", "min":"520", "max":"1560", "chance":"29873"}, {"id":"2930", "min":"140", "max":"420", "chance":"78801"}, {"id":"2934", "min":"81", "max":"243", "chance":"191775"}, {"id":"952", "min":"3", "max":"9", "chance":"473074"}, {"id":"6573", "min":"1", "max":"1", "chance":"14193"}],

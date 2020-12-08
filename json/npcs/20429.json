@@ -2,6 +2,7 @@
 	"id": "20429", 
 	"name": "Evil Eye Lookout", 
 	"title": "", 
+	"level": "14", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"429", "min":"1", "max":"1", "chance":"690"}, {"id":"464", "min":"1", "max":"1", "chance":"1104"}, {"id":"1803", "min":"1", "max":"1", "chance":"30736"}, {"id":"1868", "min":"1", "max":"1", "chance":"73152"}, {"id":"1873", "min":"1", "max":"1", "chance":"14631"}, {"id":"1922", "min":"1", "max":"1", "chance":"6999"}, {"id":"1923", "min":"1", "max":"1", "chance":"11243"}, {"id":"57", "min":"95", "max":"140", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"13657"}, {"id":"1921", "min":"1", "max":"1", "chance":"119829"}, {"id":"2009", "min":"1", "max":"1", "chance":"6586"}],

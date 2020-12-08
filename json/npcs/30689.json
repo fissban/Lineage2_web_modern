@@ -2,6 +2,7 @@
 	"id": "30689", 
 	"name": "Siria", 
 	"title": "Grand Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

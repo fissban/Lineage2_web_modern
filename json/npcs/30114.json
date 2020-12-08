@@ -2,6 +2,7 @@
 	"id": "30114", 
 	"name": "Roa", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

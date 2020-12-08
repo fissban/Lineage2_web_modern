@@ -2,6 +2,7 @@
 	"id": "20616", 
 	"name": "Rakin Undine", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"433", "min":"1", "max":"1", "chance":"106"}, {"id":"434", "min":"1", "max":"1", "chance":"106"}, {"id":"435", "min":"1", "max":"1", "chance":"106"}, {"id":"466", "min":"1", "max":"1", "chance":"169"}, {"id":"467", "min":"1", "max":"1", "chance":"169"}, {"id":"468", "min":"1", "max":"1", "chance":"169"}, {"id":"737", "min":"1", "max":"1", "chance":"1590"}, {"id":"1867", "min":"1", "max":"1", "chance":"83333"}, {"id":"1872", "min":"1", "max":"1", "chance":"100000"}, {"id":"1875", "min":"1", "max":"1", "chance":"1193"}, {"id":"1881", "min":"1", "max":"1", "chance":"21277"}, {"id":"1933", "min":"1", "max":"1", "chance":"6197"}, {"id":"1936", "min":"1", "max":"1", "chance":"4310"}, {"id":"2274", "min":"1", "max":"1", "chance":"398"}, {"id":"2976", "min":"1", "max":"1", "chance":"6757"}, {"id":"6667", "min":"1", "max":"1", "chance":"52632"}, {"id":"57", "min":"325", "max":"650", "chance":"700000"}, {"id":"1874", "min":"1", "max":"1", "chance":"51402"}, {"id":"1937", "min":"1", "max":"1", "chance":"66239"}, {"id":"2153", "min":"1", "max":"1", "chance":"119911"}],

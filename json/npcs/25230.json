@@ -2,6 +2,7 @@
 	"id": "25230", 
 	"name": "Timak Seer Ragoth", 
 	"title": "Raid Boss", 
+	"level": "57", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"97", "min":"1", "max":"1", "chance":"15580"}, {"id":"358", "min":"1", "max":"1", "chance":"14086"}, {"id":"2380", "min":"1", "max":"1", "chance":"22565"}, {"id":"2381", "min":"1", "max":"1", "chance":"9630"}, {"id":"4078", "min":"9", "max":"27", "chance":"184030"}, {"id":"4080", "min":"28", "max":"84", "chance":"83299"}, {"id":"4081", "min":"3", "max":"7", "chance":"447024"}, {"id":"4115", "min":"3", "max":"9", "chance":"741977"}, {"id":"948", "min":"3", "max":"9", "chance":"275594"}, {"id":"6572", "min":"1", "max":"1", "chance":"176380"}, {"id":"8165", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"1", "max":"1", "chance":"250000"}],

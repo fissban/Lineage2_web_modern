@@ -2,6 +2,7 @@
 	"id": "27292", 
 	"name": "Fallen Noble Orc Muhark", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

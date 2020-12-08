@@ -2,6 +2,7 @@
 	"id": "20237", 
 	"name": "Cave Servant Archer", 
 	"title": "", 
+	"level": "47", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"282", "min":"1", "max":"1", "chance":"11"}, {"id":"285", "min":"1", "max":"1", "chance":"11"}, {"id":"952", "min":"1", "max":"1", "chance":"998"}, {"id":"1342", "min":"10", "max":"30", "chance":"111111"}, {"id":"1864", "min":"1", "max":"1", "chance":"125000"}, {"id":"1869", "min":"1", "max":"1", "chance":"58824"}, {"id":"1880", "min":"1", "max":"1", "chance":"5952"}, {"id":"2085", "min":"1", "max":"1", "chance":"1036"}, {"id":"2086", "min":"1", "max":"1", "chance":"1036"}, {"id":"2230", "min":"1", "max":"1", "chance":"1451"}, {"id":"4043", "min":"1", "max":"1", "chance":"1490"}, {"id":"5550", "min":"1", "max":"1", "chance":"2976"}, {"id":"8724", "min":"1", "max":"1", "chance":"5952"}, {"id":"8734", "min":"1", "max":"1", "chance":"271"}, {"id":"57", "min":"544", "max":"1110", "chance":"700000"}, {"id":"951", "min":"1", "max":"1", "chance":"2457"}, {"id":"2329", "min":"1", "max":"1", "chance":"3142"}, {"id":"3010", "min":"1", "max":"1", "chance":"36717"}],

@@ -2,6 +2,7 @@
 	"id": "20476", 
 	"name": "Kasha Fang Spider", 
 	"title": "", 
+	"level": "16", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2", "min":"1", "max":"1", "chance":"52"}, {"id":"120", "min":"1", "max":"1", "chance":"52"}, {"id":"121", "min":"1", "max":"1", "chance":"52"}, {"id":"1800", "min":"1", "max":"1", "chance":"11034"}, {"id":"1868", "min":"1", "max":"1", "chance":"70174"}, {"id":"1873", "min":"1", "max":"1", "chance":"14035"}, {"id":"2012", "min":"1", "max":"1", "chance":"732"}, {"id":"5273", "min":"1", "max":"1", "chance":"1404"}, {"id":"57", "min":"118", "max":"183", "chance":"700000"}, {"id":"945", "min":"1", "max":"1", "chance":"13812"}, {"id":"1866", "min":"1", "max":"1", "chance":"158377"}, {"id":"5549", "min":"1", "max":"1", "chance":"23757"}],

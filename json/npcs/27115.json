@@ -2,6 +2,7 @@
 	"id": "27115", 
 	"name": "Claw Of Succubus", 
 	"title": "Quest Monster", 
+	"level": "28", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

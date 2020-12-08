@@ -2,6 +2,7 @@
 	"id": "20389", 
 	"name": "Boogle Ratman", 
 	"title": "", 
+	"level": "16", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"44", "min":"1", "max":"1", "chance":"574"}, {"id":"102", "min":"1", "max":"1", "chance":"823"}, {"id":"945", "min":"1", "max":"1", "chance":"1700"}, {"id":"1867", "min":"1", "max":"1", "chance":"38986"}, {"id":"1872", "min":"1", "max":"1", "chance":"38986"}, {"id":"1924", "min":"1", "max":"1", "chance":"9433"}, {"id":"2175", "min":"1", "max":"1", "chance":"23772"}, {"id":"5158", "min":"1", "max":"1", "chance":"1170"}, {"id":"57", "min":"98", "max":"153", "chance":"700000"}, {"id":"734", "min":"1", "max":"1", "chance":"32995"}, {"id":"1872", "min":"1", "max":"2", "chance":"263962"}, {"id":"2011", "min":"1", "max":"1", "chance":"4516"}],

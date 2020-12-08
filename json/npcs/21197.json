@@ -2,6 +2,7 @@
 	"id": "21197", 
 	"name": "Nephilim Priest", 
 	"title": "", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6360", "min":"145", "max":"291", "chance":"700000"}, {"id":"6361", "min":"238", "max":"476", "chance":"700000"}, {"id":"6362", "min":"12", "max":"24", "chance":"700000"}, {"id":"326", "min":"1", "max":"1", "chance":"40"}, {"id":"1867", "min":"1", "max":"3", "chance":"111111"}, {"id":"1869", "min":"2", "max":"6", "chance":"62500"}, {"id":"1870", "min":"2", "max":"6", "chance":"50000"}, {"id":"1871", "min":"3", "max":"9", "chance":"43478"}, {"id":"1872", "min":"7", "max":"21", "chance":"23810"}, {"id":"2110", "min":"1", "max":"1", "chance":"4811"}, {"id":"2232", "min":"1", "max":"1", "chance":"1235"}, {"id":"1872", "min":"1", "max":"11", "chance":"917243"}, {"id":"4041", "min":"1", "max":"1", "chance":"35892"}, {"id":"4603", "min":"1", "max":"1", "chance":"9172"}],

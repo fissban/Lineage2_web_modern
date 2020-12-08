@@ -2,6 +2,7 @@
 	"id": "21081", 
 	"name": "Power Angel Amon", 
 	"title": "", 
+	"level": "75", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5297", "min":"1", "max":"1", "chance":"18"}, {"id":"5298", "min":"1", "max":"1", "chance":"28"}, {"id":"5301", "min":"1", "max":"1", "chance":"12"}, {"id":"1867", "min":"1", "max":"1", "chance":"333333"}, {"id":"1872", "min":"1", "max":"3", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"25641"}, {"id":"1881", "min":"1", "max":"1", "chance":"47619"}, {"id":"4041", "min":"1", "max":"1", "chance":"2636"}, {"id":"4985", "min":"1", "max":"1", "chance":"859"}, {"id":"5478", "min":"1", "max":"1", "chance":"2549"}, {"id":"5479", "min":"1", "max":"1", "chance":"1794"}, {"id":"5482", "min":"1", "max":"1", "chance":"4000"}, {"id":"8731", "min":"1", "max":"1", "chance":"3663"}, {"id":"57", "min":"2478", "max":"5056", "chance":"700000"}, {"id":"4119", "min":"1", "max":"1", "chance":"26946"}, {"id":"5230", "min":"1", "max":"1", "chance":"8208"}, {"id":"5478", "min":"1", "max":"1", "chance":"51767"}],

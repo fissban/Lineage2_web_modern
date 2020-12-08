@@ -2,6 +2,7 @@
 	"id": "21333", 
 	"name": "Grazing Windsus", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"164", "min":"1", "max":"1", "chance":"4"}, {"id":"213", "min":"1", "max":"1", "chance":"4"}, {"id":"959", "min":"1", "max":"1", "chance":"15"}, {"id":"1864", "min":"4", "max":"12", "chance":"58824"}, {"id":"1865", "min":"2", "max":"6", "chance":"45455"}, {"id":"1866", "min":"3", "max":"9", "chance":"26316"}, {"id":"1868", "min":"1", "max":"3", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"90909"}, {"id":"5533", "min":"1", "max":"1", "chance":"1420"}, {"id":"5544", "min":"1", "max":"1", "chance":"1418"}, {"id":"8342", "min":"1", "max":"1", "chance":"466"}, {"id":"8349", "min":"1", "max":"1", "chance":"622"}, {"id":"8732", "min":"1", "max":"1", "chance":"1538"}, {"id":"8742", "min":"1", "max":"1", "chance":"684"}, {"id":"8752", "min":"1", "max":"1", "chance":"57"}, {"id":"57", "min":"2813", "max":"5760", "chance":"700000"}, {"id":"1808", "min":"1", "max":"1", "chance":"3114"}, {"id":"3036", "min":"1", "max":"1", "chance":"3114"}, {"id":"5503", "min":"1", "max":"1", "chance":"118333"}],

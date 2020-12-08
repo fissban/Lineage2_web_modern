@@ -2,6 +2,7 @@
 	"id": "25206", 
 	"name": "Ashakiel's Blade", 
 	"title": "Raid Fighter", 
+	"level": "75", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"359667"}],

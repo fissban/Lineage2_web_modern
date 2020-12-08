@@ -2,6 +2,7 @@
 	"id": "25403", 
 	"name": "Follower of Skyla", 
 	"title": "Raid Fighter", 
+	"level": "31", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"954667"}],

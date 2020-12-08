@@ -2,6 +2,7 @@
 	"id": "21064", 
 	"name": "Platinum Guardian Archer", 
 	"title": "", 
+	"level": "71", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5287", "min":"1", "max":"1", "chance":"20"}, {"id":"5288", "min":"1", "max":"1", "chance":"32"}, {"id":"5293", "min":"1", "max":"1", "chance":"14"}, {"id":"1344", "min":"40", "max":"120", "chance":"66667"}, {"id":"1867", "min":"1", "max":"3", "chance":"125000"}, {"id":"1872", "min":"1", "max":"3", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"16949"}, {"id":"1881", "min":"1", "max":"1", "chance":"35714"}, {"id":"4041", "min":"1", "max":"1", "chance":"1570"}, {"id":"4130", "min":"1", "max":"1", "chance":"5882"}, {"id":"4403", "min":"1", "max":"1", "chance":"392"}, {"id":"5520", "min":"1", "max":"1", "chance":"2923"}, {"id":"5521", "min":"1", "max":"1", "chance":"2063"}, {"id":"5524", "min":"1", "max":"1", "chance":"4467"}, {"id":"8730", "min":"1", "max":"1", "chance":"1961"}, {"id":"8740", "min":"1", "max":"1", "chance":"784"}, {"id":"8750", "min":"1", "max":"1", "chance":"392"}, {"id":"57", "min":"3706", "max":"7555", "chance":"700000"}, {"id":"4119", "min":"1", "max":"1", "chance":"40287"}, {"id":"5230", "min":"1", "max":"1", "chance":"12272"}, {"id":"5479", "min":"1", "max":"1", "chance":"54461"}],

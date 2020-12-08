@@ -2,6 +2,7 @@
 	"id": "25440", 
 	"name": "Kelbar's Wizard", 
 	"title": "Raid Fighter", 
+	"level": "43", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6036", "min":"1", "max":"1", "chance":"17813"}],

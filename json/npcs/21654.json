@@ -2,6 +2,7 @@
 	"id": "21654", 
 	"name": "Necromancer of Destruction", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"81", "min":"1", "max":"1", "chance":"5"}, {"id":"151", "min":"1", "max":"1", "chance":"5"}, {"id":"2500", "min":"1", "max":"1", "chance":"5"}, {"id":"960", "min":"1", "max":"1", "chance":"140"}, {"id":"1344", "min":"40", "max":"120", "chance":"125000"}, {"id":"1867", "min":"5", "max":"15", "chance":"52632"}, {"id":"1872", "min":"1", "max":"3", "chance":"166667"}, {"id":"1882", "min":"1", "max":"1", "chance":"90909"}, {"id":"1894", "min":"1", "max":"1", "chance":"14925"}, {"id":"4042", "min":"1", "max":"1", "chance":"72463"}, {"id":"5529", "min":"1", "max":"1", "chance":"1782"}, {"id":"5545", "min":"1", "max":"1", "chance":"1782"}, {"id":"5546", "min":"1", "max":"1", "chance":"1957"}, {"id":"8732", "min":"1", "max":"1", "chance":"3195"}, {"id":"8742", "min":"1", "max":"1", "chance":"982"}, {"id":"8752", "min":"1", "max":"1", "chance":"112"}, {"id":"57", "min":"5293", "max":"10839", "chance":"700000"}, {"id":"4042", "min":"1", "max":"1", "chance":"219733"}, {"id":"5167", "min":"1", "max":"1", "chance":"5860"}, {"id":"5488", "min":"1", "max":"1", "chance":"59369"}],

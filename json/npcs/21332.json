@@ -2,6 +2,7 @@
 	"id": "21332", 
 	"name": "Ketra Orc Lieutenant", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"164", "min":"1", "max":"1", "chance":"4"}, {"id":"213", "min":"1", "max":"1", "chance":"4"}, {"id":"959", "min":"1", "max":"1", "chance":"18"}, {"id":"1894", "min":"1", "max":"1", "chance":"8696"}, {"id":"4039", "min":"1", "max":"1", "chance":"7874"}, {"id":"4041", "min":"1", "max":"1", "chance":"2375"}, {"id":"4044", "min":"1", "max":"1", "chance":"9009"}, {"id":"5533", "min":"1", "max":"1", "chance":"1481"}, {"id":"5544", "min":"1", "max":"1", "chance":"1479"}, {"id":"8342", "min":"1", "max":"1", "chance":"594"}, {"id":"8349", "min":"1", "max":"1", "chance":"594"}, {"id":"8732", "min":"1", "max":"1", "chance":"1894"}, {"id":"8742", "min":"1", "max":"1", "chance":"1056"}, {"id":"8752", "min":"1", "max":"1", "chance":"44"}, {"id":"57", "min":"2939", "max":"6000", "chance":"700000"}, {"id":"5282", "min":"1", "max":"1", "chance":"3247"}, {"id":"6342", "min":"1", "max":"1", "chance":"165490"}, {"id":"6344", "min":"1", "max":"1", "chance":"107096"}],

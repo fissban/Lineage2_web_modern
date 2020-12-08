@@ -2,6 +2,7 @@
 	"id": "25352", 
 	"name": "Giant Wasteland Basilisk", 
 	"title": "Raid Boss", 
+	"level": "30", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"261", "min":"1", "max":"1", "chance":"36575"}, {"id":"395", "min":"1", "max":"1", "chance":"76198"}, {"id":"417", "min":"1", "max":"1", "chance":"121917"}, {"id":"1942", "min":"8", "max":"22", "chance":"290203"}, {"id":"1943", "min":"24", "max":"72", "chance":"141219"}, {"id":"2039", "min":"3", "max":"9", "chance":"431956"}, {"id":"4559", "min":"3", "max":"7", "chance":"66377"}, {"id":"4560", "min":"1", "max":"1", "chance":"331885"}, {"id":"4561", "min":"1", "max":"1", "chance":"331885"}, {"id":"6387", "min":"12", "max":"36", "chance":"138285"}],

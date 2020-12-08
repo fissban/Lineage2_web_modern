@@ -2,6 +2,7 @@
 	"id": "30833", 
 	"name": "Kaspar", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

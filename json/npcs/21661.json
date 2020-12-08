@@ -2,6 +2,7 @@
 	"id": "21661", 
 	"name": "Otherworldly Invader Archer", 
 	"title": "", 
+	"level": "33", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"278", "min":"1", "max":"1", "chance":"76"}, {"id":"1875", "min":"1", "max":"1", "chance":"8094"}, {"id":"1879", "min":"1", "max":"1", "chance":"20234"}, {"id":"1885", "min":"1", "max":"1", "chance":"10117"}, {"id":"2029", "min":"1", "max":"1", "chance":"4345"}, {"id":"2154", "min":"1", "max":"1", "chance":"12998"}, {"id":"5549", "min":"1", "max":"1", "chance":"12141"}, {"id":"5550", "min":"1", "max":"1", "chance":"1619"}, {"id":"57", "min":"579", "max":"1158", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"91332"}, {"id":"1879", "min":"1", "max":"1", "chance":"228329"}, {"id":"1901", "min":"1", "max":"1", "chance":"189223"}],

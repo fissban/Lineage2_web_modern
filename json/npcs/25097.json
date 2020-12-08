@@ -2,6 +2,7 @@
 	"id": "25097", 
 	"name": "Renoa's Hog", 
 	"title": "Raid Fighter", 
+	"level": "28", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"821156"}],

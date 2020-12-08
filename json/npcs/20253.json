@@ -2,6 +2,7 @@
 	"id": "20253", 
 	"name": "Delu Lizardman Warrior", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"348", "min":"1", "max":"1", "chance":"92"}, {"id":"377", "min":"1", "max":"1", "chance":"147"}, {"id":"1868", "min":"1", "max":"1", "chance":"125000"}, {"id":"1873", "min":"1", "max":"1", "chance":"25641"}, {"id":"1876", "min":"1", "max":"1", "chance":"18868"}, {"id":"1935", "min":"1", "max":"1", "chance":"3411"}, {"id":"1937", "min":"1", "max":"1", "chance":"5245"}, {"id":"2266", "min":"1", "max":"1", "chance":"506"}, {"id":"2971", "min":"1", "max":"1", "chance":"2612"}, {"id":"57", "min":"188", "max":"377", "chance":"700000"}, {"id":"1900", "min":"1", "max":"1", "chance":"48891"}, {"id":"2153", "min":"1", "max":"1", "chance":"69496"}, {"id":"2265", "min":"1", "max":"1", "chance":"4621"}],

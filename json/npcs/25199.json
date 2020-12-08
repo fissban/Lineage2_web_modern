@@ -2,6 +2,7 @@
 	"id": "25199", 
 	"name": "Water Dragon Seer Sheshark", 
 	"title": "Raid Boss", 
+	"level": "72", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"270", "min":"1", "max":"1", "chance":"5365"}, {"id":"6326", "min":"1", "max":"1", "chance":"55710"}, {"id":"6327", "min":"1", "max":"1", "chance":"74280"}, {"id":"6328", "min":"1", "max":"1", "chance":"111420"}, {"id":"5538", "min":"5", "max":"13", "chance":"331089"}, {"id":"6342", "min":"90", "max":"270", "chance":"136715"}, {"id":"6344", "min":"240", "max":"720", "chance":"33178"}, {"id":"6346", "min":"308", "max":"924", "chance":"57417"}, {"id":"6570", "min":"1", "max":"1", "chance":"156470"}, {"id":"6578", "min":"1", "max":"1", "chance":"62588"}, {"id":"8166", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"9", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"750000"}],

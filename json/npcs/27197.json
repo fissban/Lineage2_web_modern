@@ -2,6 +2,7 @@
 	"id": "27197", 
 	"name": "Bejewelled Alligator", 
 	"title": "Quest Monster", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

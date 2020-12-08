@@ -2,6 +2,7 @@
 	"id": "25135", 
 	"name": "Talkin's Seer", 
 	"title": "Raid Fighter", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"736000"}],

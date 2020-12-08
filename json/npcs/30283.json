@@ -2,6 +2,7 @@
 	"id": "30283", 
 	"name": "Altran", 
 	"title": "Blacksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "20351", 
 	"name": "Dre Vanul Tracker", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"272", "min":"1", "max":"1", "chance":"100"}, {"id":"1864", "min":"1", "max":"1", "chance":"67846"}, {"id":"1869", "min":"1", "max":"1", "chance":"33923"}, {"id":"1878", "min":"1", "max":"1", "chance":"13570"}, {"id":"2013", "min":"1", "max":"1", "chance":"1465"}, {"id":"2253", "min":"1", "max":"1", "chance":"1391"}, {"id":"57", "min":"106", "max":"184", "chance":"700000"}, {"id":"735", "min":"1", "max":"1", "chance":"19140"}, {"id":"1897", "min":"1", "max":"1", "chance":"54686"}, {"id":"2173", "min":"1", "max":"1", "chance":"62245"}],

@@ -2,6 +2,7 @@
 	"id": "21523", 
 	"name": "Flash of Splendor", 
 	"title": "", 
+	"level": "61", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"357", "min":"1", "max":"1", "chance":"9"}, {"id":"383", "min":"1", "max":"1", "chance":"15"}, {"id":"2376", "min":"1", "max":"1", "chance":"9"}, {"id":"2379", "min":"1", "max":"1", "chance":"15"}, {"id":"1832", "min":"1", "max":"1", "chance":"83333"}, {"id":"1864", "min":"1", "max":"3", "chance":"76923"}, {"id":"1865", "min":"1", "max":"1", "chance":"76923"}, {"id":"1866", "min":"1", "max":"1", "chance":"50000"}, {"id":"1868", "min":"1", "max":"1", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"30303"}, {"id":"4056", "min":"1", "max":"1", "chance":"1679"}, {"id":"4057", "min":"1", "max":"1", "chance":"2594"}, {"id":"4064", "min":"1", "max":"1", "chance":"1679"}, {"id":"4065", "min":"1", "max":"1", "chance":"2594"}, {"id":"4160", "min":"1", "max":"1", "chance":"203"}, {"id":"6670", "min":"1", "max":"1", "chance":"12987"}, {"id":"8728", "min":"1", "max":"1", "chance":"1406"}, {"id":"8738", "min":"1", "max":"1", "chance":"203"}, {"id":"8748", "min":"1", "max":"1", "chance":"47"}, {"id":"8758", "min":"1", "max":"1", "chance":"16"}, {"id":"57", "min":"1015", "max":"2059", "chance":"700000"}, {"id":"948", "min":"1", "max":"1", "chance":"6279"}, {"id":"4070", "min":"1", "max":"1", "chance":"89915"}, {"id":"4159", "min":"1", "max":"1", "chance":"7116"}],

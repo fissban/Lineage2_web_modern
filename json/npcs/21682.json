@@ -2,6 +2,7 @@
 	"id": "21682", 
 	"name": "Dimension Invader Soldier", 
 	"title": "", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"437", "min":"1", "max":"1", "chance":"253"}, {"id":"470", "min":"1", "max":"1", "chance":"404"}, {"id":"1867", "min":"1", "max":"3", "chance":"150594"}, {"id":"1872", "min":"1", "max":"3", "chance":"100396"}, {"id":"1882", "min":"1", "max":"1", "chance":"50198"}, {"id":"1894", "min":"1", "max":"1", "chance":"7927"}, {"id":"1944", "min":"1", "max":"1", "chance":"14402"}, {"id":"1945", "min":"1", "max":"1", "chance":"22426"}, {"id":"2157", "min":"1", "max":"1", "chance":"18669"}, {"id":"57", "min":"916", "max":"1829", "chance":"700000"}, {"id":"1944", "min":"1", "max":"1", "chance":"111449"}, {"id":"2148", "min":"1", "max":"1", "chance":"156068"}, {"id":"6036", "min":"1", "max":"1", "chance":"72832"}],

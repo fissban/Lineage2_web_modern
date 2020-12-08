@@ -2,6 +2,7 @@
 	"id": "21744", 
 	"name": "Forbidden Path Invader Elite Soldier", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2397", "min":"1", "max":"1", "chance":"7"}, {"id":"2402", "min":"1", "max":"1", "chance":"11"}, {"id":"2406", "min":"1", "max":"1", "chance":"5"}, {"id":"1343", "min":"10", "max":"30", "chance":"41667"}, {"id":"1868", "min":"1", "max":"1", "chance":"66667"}, {"id":"1873", "min":"1", "max":"1", "chance":"8929"}, {"id":"1889", "min":"1", "max":"1", "chance":"1590"}, {"id":"4044", "min":"1", "max":"1", "chance":"1135"}, {"id":"4069", "min":"1", "max":"1", "chance":"1202"}, {"id":"4070", "min":"1", "max":"1", "chance":"1824"}, {"id":"4071", "min":"1", "max":"1", "chance":"923"}, {"id":"4157", "min":"1", "max":"1", "chance":"218"}, {"id":"5549", "min":"1", "max":"1", "chance":"3067"}, {"id":"57", "min":"418", "max":"849", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"414"}, {"id":"4067", "min":"1", "max":"1", "chance":"37049"}, {"id":"4157", "min":"1", "max":"1", "chance":"5149"}],

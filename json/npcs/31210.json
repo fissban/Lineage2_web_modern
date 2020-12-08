@@ -2,6 +2,7 @@
 	"id": "31210", 
 	"name": "Race Track Gatekeeper", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

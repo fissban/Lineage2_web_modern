@@ -2,6 +2,7 @@
 	"id": "20137", 
 	"name": "Drake", 
 	"title": "", 
+	"level": "57", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"78", "min":"1", "max":"1", "chance":"2"}, {"id":"142", "min":"1", "max":"1", "chance":"2"}, {"id":"148", "min":"1", "max":"1", "chance":"2"}, {"id":"1864", "min":"1", "max":"1", "chance":"83333"}, {"id":"1869", "min":"1", "max":"1", "chance":"50000"}, {"id":"1880", "min":"1", "max":"1", "chance":"4630"}, {"id":"4043", "min":"1", "max":"1", "chance":"1350"}, {"id":"4104", "min":"1", "max":"1", "chance":"450"}, {"id":"4107", "min":"1", "max":"1", "chance":"443"}, {"id":"4108", "min":"1", "max":"1", "chance":"443"}, {"id":"4163", "min":"1", "max":"1", "chance":"193"}, {"id":"4952", "min":"1", "max":"1", "chance":"385"}, {"id":"4999", "min":"1", "max":"1", "chance":"1156"}, {"id":"5550", "min":"1", "max":"1", "chance":"1350"}, {"id":"6669", "min":"1", "max":"1", "chance":"10000"}, {"id":"8727", "min":"1", "max":"1", "chance":"963"}, {"id":"8737", "min":"1", "max":"1", "chance":"193"}, {"id":"57", "min":"642", "max":"1310", "chance":"700000"}, {"id":"1877", "min":"1", "max":"1", "chance":"63802"}, {"id":"2961", "min":"1", "max":"1", "chance":"86853"}, {"id":"4049", "min":"1", "max":"1", "chance":"83664"}],

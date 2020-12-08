@@ -2,6 +2,7 @@
 	"id": "20270", 
 	"name": "Breka Orc Overlord", 
 	"title": "", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"393", "min":"1", "max":"1", "chance":"92"}, {"id":"394", "min":"1", "max":"1", "chance":"92"}, {"id":"415", "min":"1", "max":"1", "chance":"147"}, {"id":"416", "min":"1", "max":"1", "chance":"147"}, {"id":"1341", "min":"20", "max":"60", "chance":"166667"}, {"id":"1865", "min":"1", "max":"1", "chance":"100000"}, {"id":"1870", "min":"1", "max":"1", "chance":"100000"}, {"id":"1874", "min":"1", "max":"1", "chance":"8197"}, {"id":"1938", "min":"1", "max":"1", "chance":"4683"}, {"id":"1939", "min":"1", "max":"1", "chance":"6119"}, {"id":"2980", "min":"1", "max":"1", "chance":"11905"}, {"id":"57", "min":"332", "max":"662", "chance":"700000"}, {"id":"1901", "min":"1", "max":"1", "chance":"108561"}, {"id":"2972", "min":"1", "max":"1", "chance":"42031"}, {"id":"2976", "min":"1", "max":"1", "chance":"105219"}],

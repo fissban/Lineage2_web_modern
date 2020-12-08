@@ -2,6 +2,7 @@
 	"id": "27199", 
 	"name": "Crimson Werewolf", 
 	"title": "Quest Monster", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

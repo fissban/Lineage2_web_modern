@@ -2,6 +2,7 @@
 	"id": "21643", 
 	"name": "Tasaba Lizardman Sniper", 
 	"title": "", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"279", "min":"1", "max":"1", "chance":"26"}, {"id":"1868", "min":"1", "max":"1", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"38462"}, {"id":"1876", "min":"1", "max":"1", "chance":"13158"}, {"id":"1895", "min":"1", "max":"1", "chance":"22727"}, {"id":"2040", "min":"1", "max":"1", "chance":"2031"}, {"id":"2146", "min":"1", "max":"1", "chance":"3759"}, {"id":"2285", "min":"1", "max":"1", "chance":"326"}, {"id":"57", "min":"287", "max":"572", "chance":"700000"}, {"id":"1868", "min":"1", "max":"3", "chance":"679213"}, {"id":"1904", "min":"1", "max":"1", "chance":"63389"}, {"id":"2145", "min":"1", "max":"1", "chance":"48515"}],

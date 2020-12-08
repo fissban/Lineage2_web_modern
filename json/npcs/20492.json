@@ -2,6 +2,7 @@
 	"id": "20492", 
 	"name": "Kirunak's Guards", 
 	"title": "", 
+	"level": "21", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"27", "min":"1", "max":"1", "chance":"190"}, {"id":"33", "min":"1", "max":"1", "chance":"305"}, {"id":"1865", "min":"1", "max":"1", "chance":"28039"}, {"id":"1870", "min":"1", "max":"1", "chance":"28039"}, {"id":"1879", "min":"1", "max":"1", "chance":"4674"}, {"id":"1927", "min":"1", "max":"1", "chance":"2796"}, {"id":"1929", "min":"1", "max":"1", "chance":"4523"}, {"id":"5278", "min":"1", "max":"1", "chance":"1122"}, {"id":"5437", "min":"1", "max":"1", "chance":"686"}, {"id":"57", "min":"108", "max":"193", "chance":"700000"}, {"id":"25", "min":"1", "max":"1", "chance":"1492"}, {"id":"1865", "min":"1", "max":"2", "chance":"237307"}, {"id":"1879", "min":"1", "max":"1", "chance":"39551"}],

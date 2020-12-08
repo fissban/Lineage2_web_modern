@@ -2,6 +2,7 @@
 	"id": "30517", 
 	"name": "Shari", 
 	"title": "Armor Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

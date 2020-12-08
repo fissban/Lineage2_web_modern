@@ -2,6 +2,7 @@
 	"id": "29030", 
 	"name": "Fenril Hound Kerinne", 
 	"title": "Family of Valakas", 
+	"level": "81", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6652", "min":"2", "max":"6", "chance":"186739"}, {"id":"6654", "min":"18", "max":"54", "chance":"64840"}, {"id":"6655", "min":"14", "max":"42", "chance":"41683"}],

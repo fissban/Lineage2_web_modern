@@ -2,6 +2,7 @@
 	"id": "25426", 
 	"name": "Betrayer of Urutu Freki", 
 	"title": "Raid Boss", 
+	"level": "25", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"278", "min":"1", "max":"1", "chance":"53201"}, {"id":"47", "min":"1", "max":"1", "chance":"450090"}, {"id":"628", "min":"1", "max":"3", "chance":"321734"}, {"id":"956", "min":"12", "max":"36", "chance":"463113"}, {"id":"2029", "min":"3", "max":"9", "chance":"511373"}],

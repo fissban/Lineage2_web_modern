@@ -2,6 +2,7 @@
 	"id": "21168", 
 	"name": "Lith Warrior", 
 	"title": "", 
+	"level": "27", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6360", "min":"97", "max":"190", "chance":"700000"}, {"id":"6362", "min":"22", "max":"41", "chance":"700000"}, {"id":"847", "min":"1", "max":"1", "chance":"1233"}, {"id":"890", "min":"1", "max":"1", "chance":"1843"}, {"id":"910", "min":"1", "max":"1", "chance":"924"}, {"id":"1868", "min":"1", "max":"3", "chance":"100000"}, {"id":"1873", "min":"1", "max":"1", "chance":"38462"}, {"id":"1889", "min":"1", "max":"1", "chance":"2519"}, {"id":"1899", "min":"1", "max":"1", "chance":"25907"}, {"id":"2262", "min":"1", "max":"1", "chance":"2519"}, {"id":"5549", "min":"1", "max":"1", "chance":"7576"}, {"id":"6037", "min":"1", "max":"1", "chance":"166667"}, {"id":"1889", "min":"1", "max":"1", "chance":"78778"}, {"id":"1899", "min":"1", "max":"1", "chance":"184636"}, {"id":"5549", "min":"1", "max":"1", "chance":"118167"}],

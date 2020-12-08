@@ -2,6 +2,7 @@
 	"id": "30092", 
 	"name": "Collob", 
 	"title": "Warehouse Keeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "20471", 
 	"name": "Kaboo Orc Fighter", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"3", "min":"1", "max":"1", "chance":"860"}, {"id":"1666", "min":"1", "max":"1", "chance":"11944"}, {"id":"1864", "min":"1", "max":"1", "chance":"71663"}, {"id":"1869", "min":"1", "max":"1", "chance":"35832"}, {"id":"2005", "min":"1", "max":"1", "chance":"3840"}, {"id":"57", "min":"98", "max":"132", "chance":"700000"}, {"id":"428", "min":"1", "max":"1", "chance":"14976"}, {"id":"1797", "min":"1", "max":"1", "chance":"367589"}, {"id":"1869", "min":"1", "max":"1", "chance":"181957"}],

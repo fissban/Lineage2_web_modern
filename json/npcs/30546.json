@@ -2,6 +2,7 @@
 	"id": "30546", 
 	"name": "Dinkey", 
 	"title": "Defender", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

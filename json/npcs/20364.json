@@ -2,6 +2,7 @@
 	"id": "20364", 
 	"name": "Maraku Werewolf Chieftain", 
 	"title": "", 
+	"level": "14", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"255", "min":"1", "max":"1", "chance":"249"}, {"id":"2371", "min":"1", "max":"1", "chance":"527"}, {"id":"1793", "min":"1", "max":"1", "chance":"3292"}, {"id":"1865", "min":"1", "max":"1", "chance":"44769"}, {"id":"1870", "min":"1", "max":"1", "chance":"44769"}, {"id":"57", "min":"116", "max":"172", "chance":"700000"}, {"id":"1867", "min":"1", "max":"1", "chance":"303119"}, {"id":"1896", "min":"1", "max":"1", "chance":"96330"}, {"id":"2008", "min":"1", "max":"1", "chance":"8846"}],

@@ -2,6 +2,7 @@
 	"id": "21123", 
 	"name": "Baar Dre Vanul Destroyer", 
 	"title": "", 
+	"level": "25", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"220", "min":"1", "max":"1", "chance":"123"}, {"id":"1874", "min":"1", "max":"1", "chance":"4178"}, {"id":"1878", "min":"1", "max":"1", "chance":"25067"}, {"id":"2178", "min":"1", "max":"1", "chance":"10027"}, {"id":"5220", "min":"1", "max":"1", "chance":"2507"}, {"id":"57", "min":"197", "max":"368", "chance":"700000"}, {"id":"1874", "min":"1", "max":"1", "chance":"29775"}, {"id":"1899", "min":"1", "max":"2", "chance":"69786"}, {"id":"2152", "min":"1", "max":"2", "chance":"78632"}],

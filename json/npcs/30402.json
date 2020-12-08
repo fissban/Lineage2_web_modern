@@ -2,6 +2,7 @@
 	"id": "30402", 
 	"name": "Newbie Helper", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

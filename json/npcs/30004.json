@@ -2,6 +2,7 @@
 	"id": "30004", 
 	"name": "Katerina", 
 	"title": "Grocer", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

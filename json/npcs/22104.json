@@ -2,6 +2,7 @@
 	"id": "22104", 
 	"name": "Freya's Dog", 
 	"title": "", 
+	"level": "58", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"554", "min":"1", "max":"1", "chance":"211"}, {"id":"600", "min":"1", "max":"1", "chance":"211"}, {"id":"612", "min":"1", "max":"1", "chance":"211"}, {"id":"2464", "min":"1", "max":"1", "chance":"211"}, {"id":"4073", "min":"1", "max":"1", "chance":"21886"}, {"id":"4097", "min":"1", "max":"1", "chance":"21886"}, {"id":"4098", "min":"1", "max":"1", "chance":"21886"}, {"id":"4100", "min":"1", "max":"1", "chance":"21886"}, {"id":"1865", "min":"1", "max":"3", "chance":"168190"}, {"id":"1870", "min":"1", "max":"3", "chance":"112127"}, {"id":"1875", "min":"1", "max":"1", "chance":"22426"}, {"id":"1879", "min":"1", "max":"1", "chance":"56064"}, {"id":"4040", "min":"1", "max":"1", "chance":"6728"}, {"id":"4154", "min":"1", "max":"1", "chance":"3981"}, {"id":"8727", "min":"1", "max":"1", "chance":"6728"}, {"id":"8737", "min":"1", "max":"1", "chance":"1682"}, {"id":"8747", "min":"1", "max":"1", "chance":"168"}, {"id":"8757", "min":"1", "max":"1", "chance":"33"}, {"id":"57", "min":"4497", "max":"9162", "chance":"700000"}],

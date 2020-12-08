@@ -2,6 +2,7 @@
 	"id": "27058", 
 	"name": "Honey Bear", 
 	"title": "Quest Monster", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

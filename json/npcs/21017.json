@@ -2,6 +2,7 @@
 	"id": "21017", 
 	"name": "Fallen Orc", 
 	"title": "", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"400", "min":"1", "max":"1", "chance":"22"}, {"id":"401", "min":"1", "max":"1", "chance":"12"}, {"id":"420", "min":"1", "max":"1", "chance":"35"}, {"id":"1866", "min":"1", "max":"1", "chance":"34483"}, {"id":"1871", "min":"1", "max":"1", "chance":"526323"}, {"id":"1885", "min":"1", "max":"1", "chance":"4566"}, {"id":"1984", "min":"1", "max":"1", "chance":"1913"}, {"id":"1985", "min":"1", "max":"1", "chance":"3077"}, {"id":"1987", "min":"1", "max":"1", "chance":"1362"}, {"id":"4041", "min":"1", "max":"1", "chance":"694"}, {"id":"4189", "min":"1", "max":"1", "chance":"78"}, {"id":"4940", "min":"1", "max":"1", "chance":"289"}, {"id":"5220", "min":"1", "max":"1", "chance":"2315"}, {"id":"5280", "min":"1", "max":"1", "chance":"231"}, {"id":"8726", "min":"1", "max":"1", "chance":"1157"}, {"id":"8736", "min":"1", "max":"1", "chance":"174"}, {"id":"57", "min":"584", "max":"1190", "chance":"700000"}, {"id":"1806", "min":"1", "max":"1", "chance":"2899"}, {"id":"1880", "min":"1", "max":"1", "chance":"144955"}, {"id":"1989", "min":"1", "max":"1", "chance":"43688"}],

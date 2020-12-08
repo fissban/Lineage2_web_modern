@@ -2,6 +2,7 @@
 	"id": "20780", 
 	"name": "Bloody Axe Elite", 
 	"title": "", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"157", "min":"1", "max":"1", "chance":"22"}, {"id":"186", "min":"1", "max":"1", "chance":"22"}, {"id":"1866", "min":"1", "max":"1", "chance":"62500"}, {"id":"1871", "min":"1", "max":"1", "chance":"100000"}, {"id":"1877", "min":"1", "max":"1", "chance":"2375"}, {"id":"2027", "min":"1", "max":"1", "chance":"1380"}, {"id":"2186", "min":"1", "max":"1", "chance":"2849"}, {"id":"57", "min":"251", "max":"501", "chance":"700000"}, {"id":"1877", "min":"1", "max":"1", "chance":"23762"}, {"id":"1901", "min":"1", "max":"1", "chance":"82051"}, {"id":"2980", "min":"1", "max":"1", "chance":"79524"}],

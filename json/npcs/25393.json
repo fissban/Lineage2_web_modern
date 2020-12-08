@@ -2,6 +2,7 @@
 	"id": "25393", 
 	"name": "Marsh Stakato Noble", 
 	"title": "Raid Fighter", 
+	"level": "31", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"954667"}],

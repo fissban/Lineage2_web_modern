@@ -2,6 +2,7 @@
 	"id": "20843", 
 	"name": "Zaken's Royal Guard", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"283", "min":"1", "max":"1", "chance":"12"}, {"id":"1866", "min":"1", "max":"1", "chance":"41467"}, {"id":"1871", "min":"1", "max":"1", "chance":"62200"}, {"id":"1877", "min":"1", "max":"1", "chance":"2488"}, {"id":"2109", "min":"1", "max":"1", "chance":"1396"}, {"id":"2357", "min":"1", "max":"1", "chance":"102"}, {"id":"3014", "min":"1", "max":"1", "chance":"1738"}, {"id":"4040", "min":"1", "max":"1", "chance":"1245"}, {"id":"4041", "min":"1", "max":"1", "chance":"541"}, {"id":"4188", "min":"1", "max":"1", "chance":"72"}, {"id":"57", "min":"485", "max":"987", "chance":"700000"}, {"id":"1539", "min":"1", "max":"1", "chance":"267391"}, {"id":"1914", "min":"1", "max":"1", "chance":"67599"}, {"id":"4601", "min":"1", "max":"1", "chance":"2674"}],

@@ -2,6 +2,7 @@
 	"id": "30745", 
 	"name": "Tor", 
 	"title": "Guild Member", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

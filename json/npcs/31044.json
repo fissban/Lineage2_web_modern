@@ -2,6 +2,7 @@
 	"id": "31044", 
 	"name": "Galman", 
 	"title": "Valley Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

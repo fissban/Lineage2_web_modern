@@ -2,6 +2,7 @@
 	"id": "30174", 
 	"name": "Arkenias", 
 	"title": "Grand Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

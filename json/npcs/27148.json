@@ -2,6 +2,7 @@
 	"id": "27148", 
 	"name": "Tarlk Raider Kalath", 
 	"title": "Quest Monster", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

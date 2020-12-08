@@ -2,6 +2,7 @@
 	"id": "27143", 
 	"name": "Windsus Aleph", 
 	"title": "Quest Monster", 
+	"level": "42", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

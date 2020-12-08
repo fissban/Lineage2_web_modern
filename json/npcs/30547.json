@@ -2,6 +2,7 @@
 	"id": "30547", 
 	"name": "Tardyon", 
 	"title": "Defender", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

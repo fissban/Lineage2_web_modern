@@ -2,6 +2,7 @@
 	"id": "25185", 
 	"name": "Tasaba Patriarch Hellena", 
 	"title": "Raid Boss", 
+	"level": "35", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"280", "min":"1", "max":"1", "chance":"54742"}, {"id":"851", "min":"1", "max":"1", "chance":"180964"}, {"id":"882", "min":"6", "max":"16", "chance":"24636"}, {"id":"914", "min":"1", "max":"1", "chance":"135164"}, {"id":"1905", "min":"81", "max":"243", "chance":"65742"}, {"id":"1906", "min":"40", "max":"120", "chance":"188116"}, {"id":"1907", "min":"140", "max":"420", "chance":"27201"}, {"id":"2054", "min":"3", "max":"9", "chance":"698827"}, {"id":"951", "min":"1", "max":"1", "chance":"290296"}, {"id":"4597", "min":"1", "max":"3", "chance":"266105"}, {"id":"4598", "min":"2", "max":"4", "chance":"177403"}, {"id":"4599", "min":"2", "max":"6", "chance":"133052"}],

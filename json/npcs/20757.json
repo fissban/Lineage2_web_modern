@@ -2,6 +2,7 @@
 	"id": "20757", 
 	"name": "Talakin Raider", 
 	"title": "", 
+	"level": "27", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"291", "min":"1", "max":"1", "chance":"66"}, {"id":"1875", "min":"1", "max":"1", "chance":"2506"}, {"id":"1879", "min":"1", "max":"1", "chance":"7519"}, {"id":"1885", "min":"1", "max":"1", "chance":"3759"}, {"id":"2019", "min":"1", "max":"1", "chance":"2879"}, {"id":"2152", "min":"1", "max":"1", "chance":"10000"}, {"id":"5549", "min":"1", "max":"1", "chance":"2506"}, {"id":"5550", "min":"1", "max":"1", "chance":"2506"}, {"id":"57", "min":"206", "max":"397", "chance":"700000"}, {"id":"847", "min":"1", "max":"1", "chance":"3546"}, {"id":"1868", "min":"1", "max":"3", "chance":"476958"}, {"id":"2180", "min":"1", "max":"1", "chance":"35861"}],

@@ -2,6 +2,7 @@
 	"id": "25057", 
 	"name": "Biconne of Blue Sky", 
 	"title": "Raid Boss", 
+	"level": "45", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"231", "min":"1", "max":"1", "chance":"12423"}, {"id":"233", "min":"1", "max":"1", "chance":"12423"}, {"id":"64", "min":"1", "max":"1", "chance":"145350"}, {"id":"608", "min":"1", "max":"1", "chance":"145350"}, {"id":"1981", "min":"53", "max":"157", "chance":"99750"}, {"id":"2106", "min":"4", "max":"12", "chance":"181934"}, {"id":"2107", "min":"2", "max":"4", "chance":"485157"}, {"id":"2956", "min":"24", "max":"72", "chance":"218203"}, {"id":"952", "min":"3", "max":"9", "chance":"384682"}, {"id":"4604", "min":"2", "max":"6", "chance":"96171"}, {"id":"4605", "min":"3", "max":"7", "chance":"76937"}, {"id":"4606", "min":"1", "max":"1", "chance":"384682"}, {"id":"8164", "min":"5", "max":"5", "chance":"250000"}, {"id":"8176", "min":"2", "max":"2", "chance":"250000"}],

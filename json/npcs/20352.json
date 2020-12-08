@@ -2,6 +2,7 @@
 	"id": "20352", 
 	"name": "Dre Vanul Slayer", 
 	"title": "", 
+	"level": "22", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"68", "min":"1", "max":"1", "chance":"69"}, {"id":"5284", "min":"1", "max":"1", "chance":"69"}, {"id":"1864", "min":"1", "max":"1", "chance":"66676"}, {"id":"1869", "min":"1", "max":"1", "chance":"33338"}, {"id":"1878", "min":"1", "max":"1", "chance":"13336"}, {"id":"5163", "min":"1", "max":"1", "chance":"1334"}, {"id":"5273", "min":"1", "max":"1", "chance":"1334"}, {"id":"57", "min":"128", "max":"230", "chance":"700000"}, {"id":"26", "min":"1", "max":"1", "chance":"1147"}, {"id":"1878", "min":"1", "max":"1", "chance":"112862"}],

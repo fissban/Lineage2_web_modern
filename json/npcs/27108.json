@@ -2,6 +2,7 @@
 	"id": "27108", 
 	"name": "Stenoa Gorgon Queen", 
 	"title": "Quest Monster", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

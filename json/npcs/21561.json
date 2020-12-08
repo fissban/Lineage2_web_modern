@@ -2,6 +2,7 @@
 	"id": "21561", 
 	"name": "Sacrificed Man", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"358", "min":"1", "max":"1", "chance":"9"}, {"id":"2380", "min":"1", "max":"1", "chance":"14"}, {"id":"2381", "min":"1", "max":"1", "chance":"6"}, {"id":"1343", "min":"10", "max":"30", "chance":"111111"}, {"id":"1865", "min":"1", "max":"1", "chance":"83333"}, {"id":"1870", "min":"1", "max":"1", "chance":"76923"}, {"id":"1875", "min":"1", "max":"1", "chance":"4292"}, {"id":"1879", "min":"1", "max":"1", "chance":"14925"}, {"id":"4040", "min":"1", "max":"1", "chance":"1279"}, {"id":"4078", "min":"1", "max":"1", "chance":"1964"}, {"id":"4080", "min":"1", "max":"1", "chance":"2766"}, {"id":"4081", "min":"1", "max":"1", "chance":"1325"}, {"id":"5456", "min":"1", "max":"1", "chance":"183"}, {"id":"6670", "min":"1", "max":"1", "chance":"10989"}, {"id":"8730", "min":"1", "max":"1", "chance":"1370"}, {"id":"8740", "min":"1", "max":"1", "chance":"35"}, {"id":"57", "min":"1098", "max":"2244", "chance":"700000"}, {"id":"3956", "min":"1", "max":"1", "chance":"3641"}, {"id":"4116", "min":"1", "max":"1", "chance":"11932"}, {"id":"4117", "min":"1", "max":"1", "chance":"11932"}],

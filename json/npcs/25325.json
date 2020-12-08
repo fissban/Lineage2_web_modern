@@ -2,6 +2,7 @@
 	"id": "25325", 
 	"name": "Flame of Splendor Barakiel", 
 	"title": "Raid Boss", 
+	"level": "70", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5312", "min":"1", "max":"1", "chance":"90065"}, {"id":"5315", "min":"1", "max":"1", "chance":"128525"}, {"id":"5317", "min":"1", "max":"1", "chance":"90065"}, {"id":"5495", "min":"40", "max":"120", "chance":"225659"}, {"id":"5527", "min":"81", "max":"243", "chance":"87741"}, {"id":"5528", "min":"140", "max":"420", "chance":"50765"}, {"id":"6570", "min":"1", "max":"1", "chance":"154111"}, {"id":"6578", "min":"1", "max":"1", "chance":"61645"}, {"id":"8172", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"9", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"750000"}],

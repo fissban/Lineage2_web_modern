@@ -2,6 +2,7 @@
 	"id": "30830", 
 	"name": "Joey", 
 	"title": "Pet Manager", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

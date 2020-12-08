@@ -2,6 +2,7 @@
 	"id": "14155", 
 	"name": "Kat the Cat", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

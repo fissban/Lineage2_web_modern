@@ -2,6 +2,7 @@
 	"id": "20211", 
 	"name": "Ol Mahum Captain", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"86", "min":"1", "max":"1", "chance":"15"}, {"id":"179", "min":"1", "max":"1", "chance":"15"}, {"id":"180", "min":"1", "max":"1", "chance":"15"}, {"id":"181", "min":"1", "max":"1", "chance":"15"}, {"id":"182", "min":"1", "max":"1", "chance":"15"}, {"id":"183", "min":"1", "max":"1", "chance":"15"}, {"id":"184", "min":"1", "max":"1", "chance":"15"}, {"id":"185", "min":"1", "max":"1", "chance":"15"}, {"id":"1864", "min":"1", "max":"1", "chance":"166667"}, {"id":"1869", "min":"1", "max":"1", "chance":"90909"}, {"id":"1880", "min":"1", "max":"1", "chance":"9259"}, {"id":"2022", "min":"1", "max":"1", "chance":"715"}, {"id":"2023", "min":"1", "max":"1", "chance":"569"}, {"id":"2264", "min":"1", "max":"1", "chance":"543"}, {"id":"2280", "min":"1", "max":"1", "chance":"271"}, {"id":"57", "min":"354", "max":"708", "chance":"700000"}, {"id":"1865", "min":"1", "max":"3", "chance":"839475"}, {"id":"1869", "min":"1", "max":"6", "chance":"839475"}],

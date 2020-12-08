@@ -2,6 +2,7 @@
 	"id": "30165", 
 	"name": "Ralford", 
 	"title": "Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

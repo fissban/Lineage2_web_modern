@@ -2,6 +2,7 @@
 	"id": "21521", 
 	"name": "Claws of Splendor", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"78", "min":"1", "max":"1", "chance":"3"}, {"id":"142", "min":"1", "max":"1", "chance":"3"}, {"id":"148", "min":"1", "max":"1", "chance":"3"}, {"id":"948", "min":"1", "max":"1", "chance":"258"}, {"id":"1832", "min":"1", "max":"1", "chance":"90909"}, {"id":"1868", "min":"1", "max":"1", "chance":"166667"}, {"id":"1873", "min":"1", "max":"1", "chance":"32258"}, {"id":"1889", "min":"1", "max":"1", "chance":"5525"}, {"id":"4044", "min":"1", "max":"1", "chance":"2959"}, {"id":"4104", "min":"1", "max":"1", "chance":"689"}, {"id":"4107", "min":"1", "max":"1", "chance":"678"}, {"id":"4108", "min":"1", "max":"1", "chance":"678"}, {"id":"5549", "min":"1", "max":"1", "chance":"7752"}, {"id":"8728", "min":"1", "max":"1", "chance":"1289"}, {"id":"8738", "min":"1", "max":"1", "chance":"758"}, {"id":"8748", "min":"1", "max":"1", "chance":"76"}, {"id":"57", "min":"986", "max":"2003", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"977"}, {"id":"4051", "min":"1", "max":"1", "chance":"94736"}, {"id":"4130", "min":"1", "max":"1", "chance":"39655"}],

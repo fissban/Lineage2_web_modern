@@ -2,6 +2,7 @@
 	"id": "27036", 
 	"name": "Calpico", 
 	"title": "Quest Monster", 
+	"level": "13", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

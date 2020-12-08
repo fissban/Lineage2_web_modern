@@ -2,6 +2,7 @@
 	"id": "21613", 
 	"name": "Unpleasant Shout", 
 	"title": "", 
+	"level": "46", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"226", "min":"1", "max":"1", "chance":"32"}, {"id":"232", "min":"1", "max":"1", "chance":"32"}, {"id":"1864", "min":"1", "max":"3", "chance":"242778"}, {"id":"1869", "min":"1", "max":"3", "chance":"80926"}, {"id":"1880", "min":"1", "max":"1", "chance":"24278"}, {"id":"2070", "min":"1", "max":"1", "chance":"2892"}, {"id":"2072", "min":"1", "max":"1", "chance":"2892"}, {"id":"2251", "min":"1", "max":"1", "chance":"40464"}, {"id":"4043", "min":"1", "max":"1", "chance":"8093"}, {"id":"5550", "min":"1", "max":"1", "chance":"3237"}, {"id":"8723", "min":"1", "max":"1", "chance":"4464"}, {"id":"8743", "min":"1", "max":"1", "chance":"8929"}, {"id":"57", "min":"1238", "max":"2533", "chance":"700000"}, {"id":"1864", "min":"1", "max":"14", "chance":"880611"}, {"id":"2062", "min":"1", "max":"1", "chance":"24174"}, {"id":"2219", "min":"1", "max":"1", "chance":"191437"}],

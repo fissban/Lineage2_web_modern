@@ -2,6 +2,7 @@
 	"id": "22061", 
 	"name": "Horrifying Cannon Golem III", 
 	"title": "", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"326", "min":"1", "max":"1", "chance":"39"}, {"id":"2110", "min":"1", "max":"1", "chance":"3663"}, {"id":"1539", "min":"1", "max":"1", "chance":"26252"}, {"id":"1866", "min":"1", "max":"1", "chance":"78755"}, {"id":"1871", "min":"1", "max":"1", "chance":"118132"}, {"id":"1877", "min":"1", "max":"1", "chance":"4725"}, {"id":"4040", "min":"1", "max":"1", "chance":"2363"}, {"id":"4041", "min":"1", "max":"1", "chance":"1027"}, {"id":"8308", "min":"1", "max":"1", "chance":"193"}, {"id":"8725", "min":"1", "max":"1", "chance":"3281"}, {"id":"8735", "min":"1", "max":"1", "chance":"820"}, {"id":"8745", "min":"1", "max":"1", "chance":"82"}, {"id":"8755", "min":"1", "max":"1", "chance":"16"}, {"id":"57", "min":"1244", "max":"2528", "chance":"700000"}],

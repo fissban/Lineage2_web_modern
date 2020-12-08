@@ -2,6 +2,7 @@
 	"id": "25371", 
 	"name": "Anima Scavenger", 
 	"title": "Raid Fighter", 
+	"level": "24", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6035", "min":"1", "max":"1", "chance":"16899"}],

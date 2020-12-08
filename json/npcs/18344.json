@@ -2,6 +2,7 @@
 	"id": "18344", 
 	"name": "Ancient Egg", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

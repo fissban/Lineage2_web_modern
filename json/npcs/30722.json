@@ -2,6 +2,7 @@
 	"id": "30722", 
 	"name": "Merian", 
 	"title": "Gatekeeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

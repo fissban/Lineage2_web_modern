@@ -2,6 +2,7 @@
 	"id": "21572", 
 	"name": "Bone Sweeper", 
 	"title": "", 
+	"level": "69", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"235", "min":"1", "max":"1", "chance":"6"}, {"id":"730", "min":"1", "max":"1", "chance":"227"}, {"id":"1868", "min":"1", "max":"1", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"43478"}, {"id":"1889", "min":"1", "max":"1", "chance":"9346"}, {"id":"4044", "min":"1", "max":"1", "chance":"4098"}, {"id":"5352", "min":"1", "max":"1", "chance":"223"}, {"id":"5536", "min":"1", "max":"1", "chance":"1761"}, {"id":"5549", "min":"1", "max":"1", "chance":"10000"}, {"id":"8730", "min":"1", "max":"1", "chance":"910"}, {"id":"8740", "min":"1", "max":"1", "chance":"1138"}, {"id":"57", "min":"1415", "max":"2873", "chance":"700000"}, {"id":"5466", "min":"1", "max":"1", "chance":"1298"}, {"id":"5547", "min":"1", "max":"1", "chance":"11921"}, {"id":"5548", "min":"1", "max":"1", "chance":"11921"}],

@@ -2,6 +2,7 @@
 	"id": "20779", 
 	"name": "Ragna Orc Seer", 
 	"title": "", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"318", "min":"1", "max":"1", "chance":"27"}, {"id":"1866", "min":"1", "max":"1", "chance":"49954"}, {"id":"1871", "min":"1", "max":"1", "chance":"74931"}, {"id":"1877", "min":"1", "max":"1", "chance":"2998"}, {"id":"2042", "min":"1", "max":"1", "chance":"1732"}, {"id":"2286", "min":"1", "max":"1", "chance":"417"}, {"id":"2290", "min":"1", "max":"1", "chance":"417"}, {"id":"8723", "min":"1", "max":"1", "chance":"875"}, {"id":"57", "min":"307", "max":"611", "chance":"700000"}, {"id":"1866", "min":"1", "max":"1", "chance":"483184"}, {"id":"1904", "min":"1", "max":"1", "chance":"67641"}, {"id":"2158", "min":"1", "max":"1", "chance":"89700"}],

@@ -2,6 +2,7 @@
 	"id": "30473", 
 	"name": "Bandellos", 
 	"title": "Priest", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

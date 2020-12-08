@@ -2,6 +2,7 @@
 	"id": "21036", 
 	"name": "Shindebarn", 
 	"title": "", 
+	"level": "44", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"354", "min":"1", "max":"1", "chance":"88"}, {"id":"381", "min":"1", "max":"1", "chance":"140"}, {"id":"1895", "min":"1", "max":"1", "chance":"50000"}, {"id":"1959", "min":"1", "max":"1", "chance":"5955"}, {"id":"1960", "min":"1", "max":"1", "chance":"12113"}, {"id":"2318", "min":"1", "max":"1", "chance":"1541"}, {"id":"8723", "min":"1", "max":"1", "chance":"10000"}, {"id":"8733", "min":"1", "max":"1", "chance":"1115"}, {"id":"8743", "min":"1", "max":"1", "chance":"1115"}, {"id":"57", "min":"751", "max":"1539", "chance":"700000"}, {"id":"1895", "min":"1", "max":"3", "chance":"534500"}, {"id":"2070", "min":"1", "max":"1", "chance":"14854"}, {"id":"2316", "min":"1", "max":"1", "chance":"6518"}],

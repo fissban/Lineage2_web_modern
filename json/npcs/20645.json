@@ -2,6 +2,7 @@
 	"id": "20645", 
 	"name": "Harit Lizardman Matriarch", 
 	"title": "", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"286", "min":"1", "max":"1", "chance":"19"}, {"id":"1865", "min":"1", "max":"1", "chance":"111111"}, {"id":"1870", "min":"1", "max":"1", "chance":"125000"}, {"id":"1874", "min":"1", "max":"1", "chance":"6135"}, {"id":"2121", "min":"1", "max":"1", "chance":"2668"}, {"id":"4039", "min":"1", "max":"1", "chance":"4425"}, {"id":"4043", "min":"1", "max":"1", "chance":"5405"}, {"id":"4179", "min":"1", "max":"1", "chance":"1473"}, {"id":"4189", "min":"1", "max":"1", "chance":"168"}, {"id":"5275", "min":"1", "max":"1", "chance":"291"}, {"id":"8726", "min":"1", "max":"1", "chance":"2457"}, {"id":"8746", "min":"1", "max":"1", "chance":"246"}, {"id":"57", "min":"1266", "max":"2580", "chance":"700000"}, {"id":"1885", "min":"1", "max":"1", "chance":"261843"}, {"id":"1920", "min":"1", "max":"1", "chance":"107515"}, {"id":"2121", "min":"1", "max":"1", "chance":"14450"}],

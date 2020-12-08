@@ -2,6 +2,7 @@
 	"id": "21547", 
 	"name": "Corrupted Knight", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"171", "min":"1", "max":"1", "chance":"2"}, {"id":"175", "min":"1", "max":"1", "chance":"2"}, {"id":"210", "min":"1", "max":"1", "chance":"2"}, {"id":"1895", "min":"1", "max":"1", "chance":"26316"}, {"id":"4040", "min":"1", "max":"1", "chance":"2137"}, {"id":"4042", "min":"1", "max":"1", "chance":"1524"}, {"id":"4043", "min":"1", "max":"1", "chance":"2865"}, {"id":"4116", "min":"1", "max":"1", "chance":"545"}, {"id":"4117", "min":"1", "max":"1", "chance":"545"}, {"id":"4118", "min":"1", "max":"1", "chance":"517"}, {"id":"5276", "min":"1", "max":"1", "chance":"61"}, {"id":"5346", "min":"1", "max":"1", "chance":"183"}, {"id":"8729", "min":"1", "max":"1", "chance":"1647"}, {"id":"8739", "min":"1", "max":"1", "chance":"244"}, {"id":"57", "min":"1024", "max":"2074", "chance":"700000"}, {"id":"4085", "min":"1", "max":"1", "chance":"43995"}, {"id":"5230", "min":"1", "max":"1", "chance":"3375"}, {"id":"5271", "min":"1", "max":"1", "chance":"3375"}],

@@ -2,6 +2,7 @@
 	"id": "27132", 
 	"name": "Krudel Lizardman", 
 	"title": "Quest Monster", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

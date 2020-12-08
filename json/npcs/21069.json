@@ -2,6 +2,7 @@
 	"id": "21069", 
 	"name": "Platinum Guardian Prefect", 
 	"title": "", 
+	"level": "74", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5290", "min":"1", "max":"1", "chance":"85"}, {"id":"5291", "min":"1", "max":"1", "chance":"85"}, {"id":"5295", "min":"1", "max":"1", "chance":"85"}, {"id":"5296", "min":"1", "max":"1", "chance":"85"}, {"id":"729", "min":"1", "max":"1", "chance":"103"}, {"id":"1866", "min":"1", "max":"1", "chance":"250000"}, {"id":"1871", "min":"1", "max":"3", "chance":"200000"}, {"id":"1877", "min":"1", "max":"1", "chance":"16949"}, {"id":"4040", "min":"1", "max":"1", "chance":"10417"}, {"id":"4041", "min":"1", "max":"1", "chance":"3279"}, {"id":"4619", "min":"1", "max":"1", "chance":"410"}, {"id":"5422", "min":"1", "max":"1", "chance":"308"}, {"id":"5496", "min":"1", "max":"1", "chance":"11427"}, {"id":"5497", "min":"1", "max":"1", "chance":"11427"}, {"id":"5508", "min":"1", "max":"1", "chance":"11427"}, {"id":"5509", "min":"1", "max":"1", "chance":"11427"}, {"id":"8731", "min":"1", "max":"1", "chance":"3484"}, {"id":"8741", "min":"1", "max":"1", "chance":"1026"}, {"id":"57", "min":"5315", "max":"10834", "chance":"700000"}, {"id":"3035", "min":"1", "max":"1", "chance":"17599"}, {"id":"4041", "min":"1", "max":"1", "chance":"114774"}, {"id":"4080", "min":"1", "max":"1", "chance":"271501"}],

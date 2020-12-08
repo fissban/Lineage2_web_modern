@@ -2,6 +2,7 @@
 	"id": "30555", 
 	"name": "Torocco", 
 	"title": "Carrier", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

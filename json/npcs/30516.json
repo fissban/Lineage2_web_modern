@@ -2,6 +2,7 @@
 	"id": "30516", 
 	"name": "Reep", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

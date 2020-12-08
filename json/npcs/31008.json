@@ -2,6 +2,7 @@
 	"id": "31008", 
 	"name": "Shooting Star", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "22065", 
 	"name": "Horrifying Ginzu Golem V", 
 	"title": "", 
+	"level": "53", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1806", "min":"1", "max":"1", "chance":"1331"}, {"id":"1873", "min":"1", "max":"1", "chance":"71428"}, {"id":"1876", "min":"1", "max":"1", "chance":"33333"}, {"id":"1895", "min":"1", "max":"1", "chance":"50000"}, {"id":"2120", "min":"1", "max":"1", "chance":"4201"}, {"id":"4042", "min":"1", "max":"1", "chance":"12658"}, {"id":"8726", "min":"1", "max":"1", "chance":"13158"}, {"id":"57", "min":"2497", "max":"4662", "chance":"700000"}, {"id":"1864", "min":"13", "max":"13", "chance":"189351"}, {"id":"1895", "min":"1", "max":"3", "chance":"127027"}, {"id":"1918", "min":"1", "max":"1", "chance":"87027"}],

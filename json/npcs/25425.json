@@ -2,6 +2,7 @@
 	"id": "25425", 
 	"name": "Timiniel's Royal Guard Captain", 
 	"title": "Raid Fighter", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"883200"}],

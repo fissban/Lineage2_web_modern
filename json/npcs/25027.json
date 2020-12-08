@@ -2,6 +2,7 @@
 	"id": "25027", 
 	"name": "Katu Van Marksman", 
 	"title": "Raid Fighter", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"666400"}],

@@ -2,6 +2,7 @@
 	"id": "27187", 
 	"name": "Fairy Tree of Twilight", 
 	"title": "Quest Monster", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

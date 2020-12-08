@@ -2,6 +2,7 @@
 	"id": "27092", 
 	"name": "Neer Bodyguard", 
 	"title": "Quest Monster", 
+	"level": "33", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

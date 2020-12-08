@@ -2,6 +2,7 @@
 	"id": "25429", 
 	"name": "Mammon Collector Talos", 
 	"title": "Raid Boss", 
+	"level": "25", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"223", "min":"1", "max":"1", "chance":"8867"}, {"id":"238", "min":"1", "max":"1", "chance":"8867"}, {"id":"239", "min":"1", "max":"1", "chance":"8867"}, {"id":"241", "min":"1", "max":"1", "chance":"8867"}, {"id":"393", "min":"1", "max":"1", "chance":"56410"}, {"id":"394", "min":"1", "max":"1", "chance":"56410"}, {"id":"415", "min":"1", "max":"1", "chance":"90065"}, {"id":"416", "min":"1", "max":"1", "chance":"90065"}, {"id":"1938", "min":"60", "max":"180", "chance":"96070"}, {"id":"1939", "min":"28", "max":"84", "chance":"268969"}, {"id":"2028", "min":"3", "max":"9", "chance":"339578"}, {"id":"6575", "min":"1", "max":"1", "chance":"74098"}],

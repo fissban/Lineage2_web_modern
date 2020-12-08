@@ -2,6 +2,7 @@
 	"id": "30561", 
 	"name": "Papuma", 
 	"title": "Grocer", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

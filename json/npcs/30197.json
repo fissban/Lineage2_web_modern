@@ -2,6 +2,7 @@
 	"id": "30197", 
 	"name": "Hector", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

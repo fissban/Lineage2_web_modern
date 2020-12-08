@@ -2,6 +2,7 @@
 	"id": "21382", 
 	"name": "Mercenary of Destruction", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5320", "min":"1", "max":"1", "chance":"29"}, {"id":"5323", "min":"1", "max":"1", "chance":"29"}, {"id":"959", "min":"1", "max":"1", "chance":"29"}, {"id":"1868", "min":"3", "max":"9", "chance":"166667"}, {"id":"1873", "min":"1", "max":"1", "chance":"200000"}, {"id":"1889", "min":"1", "max":"1", "chance":"32258"}, {"id":"4044", "min":"1", "max":"1", "chance":"16667"}, {"id":"5480", "min":"1", "max":"1", "chance":"4885"}, {"id":"5481", "min":"1", "max":"1", "chance":"4885"}, {"id":"5549", "min":"1", "max":"1", "chance":"50000"}, {"id":"8732", "min":"1", "max":"1", "chance":"4464"}, {"id":"8742", "min":"1", "max":"1", "chance":"835"}, {"id":"8752", "min":"1", "max":"1", "chance":"84"}, {"id":"57", "min":"5929", "max":"12104", "chance":"700000"}, {"id":"1889", "min":"1", "max":"1", "chance":"491264"}, {"id":"5502", "min":"1", "max":"1", "chance":"248909"}, {"id":"5549", "min":"1", "max":"3", "chance":"736897"}],

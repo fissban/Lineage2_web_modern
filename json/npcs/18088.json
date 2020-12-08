@@ -2,6 +2,7 @@
 	"id": "18088", 
 	"name": "Witch's Offering Saint", 
 	"title": "", 
+	"level": "61", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"629", "max":"1257", "chance":"700000"}],

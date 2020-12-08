@@ -2,6 +2,7 @@
 	"id": "25498", 
 	"name": "Fafurion's Henchman Istary", 
 	"title": "Raid Boss", 
+	"level": "45", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"231", "min":"1", "max":"1", "chance":"9834"}, {"id":"233", "min":"1", "max":"1", "chance":"9834"}, {"id":"854", "min":"1", "max":"1", "chance":"63706"}, {"id":"885", "min":"1", "max":"1", "chance":"95884"}, {"id":"917", "min":"1", "max":"1", "chance":"47821"}, {"id":"1914", "min":"9", "max":"27", "chance":"293277"}, {"id":"1915", "min":"28", "max":"84", "chance":"147839"}, {"id":"1916", "min":"20", "max":"60", "chance":"99963"}, {"id":"2107", "min":"2", "max":"4", "chance":"384058"}, {"id":"951", "min":"1", "max":"1", "chance":"249154"}, {"id":"2106", "min":"4", "max":"12", "chance":"144022"}, {"id":"4601", "min":"1", "max":"3", "chance":"152261"}, {"id":"4602", "min":"2", "max":"4", "chance":"101507"}, {"id":"4603", "min":"1", "max":"1", "chance":"304522"}, {"id":"8164", "min":"4", "max":"5", "chance":"250000"}, {"id":"8176", "min":"2", "max":"3", "chance":"250000"}],

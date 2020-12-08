@@ -2,6 +2,7 @@
 	"id": "27172", 
 	"name": "Harit Lizardman Zealot", 
 	"title": "Quest Monster", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

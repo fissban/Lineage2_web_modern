@@ -2,6 +2,7 @@
 	"id": "27171", 
 	"name": "Sacrifice Of The Sacrificed", 
 	"title": "Quest Monster", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

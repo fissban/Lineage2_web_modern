@@ -2,6 +2,7 @@
 	"id": "30115", 
 	"name": "Jurek", 
 	"title": "Grand Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

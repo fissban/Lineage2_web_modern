@@ -2,6 +2,7 @@
 	"id": "25333", 
 	"name": "Anakazel", 
 	"title": "Invaders' Leader", 
+	"level": "28", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"260", "min":"1", "max":"1", "chance":"106099"}, {"id":"47", "min":"1", "max":"1", "chance":"448811"}, {"id":"628", "min":"1", "max":"3", "chance":"320820"}, {"id":"6575", "min":"1", "max":"1", "chance":"73887"}],

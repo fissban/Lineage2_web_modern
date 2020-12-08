@@ -2,6 +2,7 @@
 	"id": "30087", 
 	"name": "Peta", 
 	"title": "Wizard-use Armor Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

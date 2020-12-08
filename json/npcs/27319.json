@@ -2,6 +2,7 @@
 	"id": "27319", 
 	"name": "Black Leopard", 
 	"title": "Quest Monster", 
+	"level": "18", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

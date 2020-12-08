@@ -2,6 +2,7 @@
 	"id": "21711", 
 	"name": "Purgatory Invader Magus", 
 	"title": "", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"203", "min":"1", "max":"1", "chance":"6"}, {"id":"204", "min":"1", "max":"1", "chance":"5"}, {"id":"205", "min":"1", "max":"1", "chance":"5"}, {"id":"206", "min":"1", "max":"1", "chance":"5"}, {"id":"2503", "min":"1", "max":"1", "chance":"5"}, {"id":"1866", "min":"1", "max":"1", "chance":"116984"}, {"id":"1871", "min":"1", "max":"1", "chance":"175476"}, {"id":"1877", "min":"1", "max":"1", "chance":"7020"}, {"id":"2112", "min":"1", "max":"1", "chance":"595"}, {"id":"2116", "min":"1", "max":"1", "chance":"578"}, {"id":"2117", "min":"1", "max":"1", "chance":"578"}, {"id":"2118", "min":"1", "max":"1", "chance":"578"}, {"id":"2969", "min":"1", "max":"1", "chance":"591"}, {"id":"4040", "min":"1", "max":"1", "chance":"3510"}, {"id":"4041", "min":"1", "max":"1", "chance":"1526"}, {"id":"4145", "min":"1", "max":"1", "chance":"770"}, {"id":"4972", "min":"1", "max":"1", "chance":"203"}, {"id":"8726", "min":"1", "max":"1", "chance":"3650"}, {"id":"57", "min":"1341", "max":"2731", "chance":"700000"}, {"id":"2119", "min":"1", "max":"1", "chance":"15159"}, {"id":"4040", "min":"1", "max":"1", "chance":"66534"}, {"id":"4041", "min":"1", "max":"1", "chance":"28928"}],

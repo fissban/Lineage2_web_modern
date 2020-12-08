@@ -2,6 +2,7 @@
 	"id": "20422", 
 	"name": "Akaste Bone Warlord", 
 	"title": "", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"176", "min":"1", "max":"1", "chance":"108"}, {"id":"2501", "min":"1", "max":"1", "chance":"108"}, {"id":"1864", "min":"1", "max":"1", "chance":"73524"}, {"id":"1869", "min":"1", "max":"1", "chance":"36762"}, {"id":"2254", "min":"1", "max":"1", "chance":"1507"}, {"id":"5273", "min":"1", "max":"1", "chance":"1471"}, {"id":"57", "min":"121", "max":"195", "chance":"700000"}, {"id":"1864", "min":"1", "max":"2", "chance":"497816"}, {"id":"1869", "min":"1", "max":"1", "chance":"248908"}, {"id":"2013", "min":"1", "max":"1", "chance":"5372"}],

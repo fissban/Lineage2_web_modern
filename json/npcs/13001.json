@@ -2,6 +2,7 @@
 	"id": "13001", 
 	"name": "Heart of Warding", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

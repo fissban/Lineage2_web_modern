@@ -2,6 +2,7 @@
 	"id": "27066", 
 	"name": "Roko's Warhound", 
 	"title": "Quest Monster", 
+	"level": "4", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

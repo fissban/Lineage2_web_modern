@@ -2,6 +2,7 @@
 	"id": "21206", 
 	"name": "Nephilim Cardinal", 
 	"title": "", 
+	"level": "78", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"666", "max":"1336", "chance":"700000"}, {"id":"6362", "min":"12", "max":"24", "chance":"700000"}, {"id":"5287", "min":"1", "max":"1", "chance":"22"}, {"id":"5288", "min":"1", "max":"1", "chance":"36"}, {"id":"5293", "min":"1", "max":"1", "chance":"15"}, {"id":"5520", "min":"1", "max":"1", "chance":"3264"}, {"id":"5521", "min":"1", "max":"1", "chance":"2304"}, {"id":"5524", "min":"1", "max":"1", "chance":"4989"}, {"id":"7674", "min":"1", "max":"1", "chance":"13158"}, {"id":"7675", "min":"1", "max":"1", "chance":"13158"}, {"id":"7676", "min":"1", "max":"1", "chance":"13158"}, {"id":"7835", "min":"1", "max":"1", "chance":"12821"}, {"id":"7674", "min":"1", "max":"1", "chance":"39264"}, {"id":"7675", "min":"1", "max":"1", "chance":"39264"}, {"id":"7676", "min":"1", "max":"1", "chance":"39264"}, {"id":"7835", "min":"1", "max":"1", "chance":"39264"}, {"id":"1875", "min":"1", "max":"1", "chance":"685308"}, {"id":"5481", "min":"1", "max":"1", "chance":"46127"}, {"id":"5487", "min":"1", "max":"1", "chance":"46290"}],

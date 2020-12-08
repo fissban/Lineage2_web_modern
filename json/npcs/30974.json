@@ -2,6 +2,7 @@
 	"id": "30974", 
 	"name": "Oliver", 
 	"title": "Resurrected Adventurer", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

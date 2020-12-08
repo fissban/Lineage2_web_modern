@@ -2,6 +2,7 @@
 	"id": "21592", 
 	"name": "Vampire Magister", 
 	"title": "", 
+	"level": "73", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"269", "min":"1", "max":"1", "chance":"5"}, {"id":"1344", "min":"10", "max":"30", "chance":"100000"}, {"id":"1864", "min":"1", "max":"1", "chance":"166667"}, {"id":"1869", "min":"1", "max":"1", "chance":"90909"}, {"id":"1878", "min":"1", "max":"1", "chance":"38462"}, {"id":"1884", "min":"1", "max":"1", "chance":"55556"}, {"id":"3036", "min":"1", "max":"1", "chance":"50"}, {"id":"4039", "min":"1", "max":"1", "chance":"3546"}, {"id":"5539", "min":"1", "max":"1", "chance":"1331"}, {"id":"8731", "min":"1", "max":"1", "chance":"2358"}, {"id":"57", "min":"1076", "max":"2191", "chance":"700000"}],

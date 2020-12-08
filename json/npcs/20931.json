@@ -2,6 +2,7 @@
 	"id": "20931", 
 	"name": "Hatu Onyx Beast", 
 	"title": "", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"293", "min":"1", "max":"1", "chance":"22"}, {"id":"296", "min":"1", "max":"1", "chance":"22"}, {"id":"1865", "min":"1", "max":"1", "chance":"30663"}, {"id":"1870", "min":"1", "max":"1", "chance":"30663"}, {"id":"1875", "min":"1", "max":"1", "chance":"2045"}, {"id":"1879", "min":"1", "max":"1", "chance":"5111"}, {"id":"2197", "min":"1", "max":"1", "chance":"643"}, {"id":"2276", "min":"1", "max":"1", "chance":"220"}, {"id":"2286", "min":"1", "max":"1", "chance":"171"}, {"id":"57", "min":"170", "max":"341", "chance":"700000"}, {"id":"1901", "min":"1", "max":"1", "chance":"55757"}, {"id":"1940", "min":"1", "max":"1", "chance":"60251"}, {"id":"2271", "min":"1", "max":"1", "chance":"2883"}],

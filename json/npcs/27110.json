@@ -2,6 +2,7 @@
 	"id": "27110", 
 	"name": "Shyslassys", 
 	"title": "Quest Monster", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

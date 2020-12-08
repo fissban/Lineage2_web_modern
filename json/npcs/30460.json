@@ -2,6 +2,7 @@
 	"id": "30460", 
 	"name": "Cardien", 
 	"title": "Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

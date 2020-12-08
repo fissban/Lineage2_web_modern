@@ -2,6 +2,7 @@
 	"id": "22105", 
 	"name": "Spiked Stakato", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"212", "min":"1", "max":"1", "chance":"8"}, {"id":"2504", "min":"1", "max":"1", "chance":"8"}, {"id":"7894", "min":"1", "max":"1", "chance":"8"}, {"id":"7899", "min":"1", "max":"1", "chance":"8"}, {"id":"1867", "min":"1", "max":"3", "chance":"125000"}, {"id":"1872", "min":"1", "max":"3", "chance":"200000"}, {"id":"1875", "min":"1", "max":"1", "chance":"16949"}, {"id":"1881", "min":"1", "max":"1", "chance":"38462"}, {"id":"3957", "min":"1", "max":"1", "chance":"51"}, {"id":"4041", "min":"1", "max":"1", "chance":"2049"}, {"id":"5532", "min":"1", "max":"1", "chance":"900"}, {"id":"5543", "min":"1", "max":"1", "chance":"1200"}, {"id":"8341", "min":"1", "max":"1", "chance":"600"}, {"id":"8346", "min":"1", "max":"1", "chance":"1200"}, {"id":"8731", "min":"1", "max":"1", "chance":"2358"}, {"id":"8741", "min":"1", "max":"1", "chance":"512"}, {"id":"8761", "min":"1", "max":"1", "chance":"51"}, {"id":"57", "min":"4141", "max":"8456", "chance":"700000"}, {"id":"1875", "min":"1", "max":"2", "chance":"500000"}, {"id":"5434", "min":"1", "max":"1", "chance":"5000"}, {"id":"5478", "min":"1", "max":"2", "chance":"50000"}],

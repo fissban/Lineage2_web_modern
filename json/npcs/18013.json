@@ -2,6 +2,7 @@
 	"id": "18013", 
 	"name": "Offering of Branded Follower", 
 	"title": "", 
+	"level": "29", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"148", "max":"293", "chance":"700000"}],

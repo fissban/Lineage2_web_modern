@@ -2,6 +2,7 @@
 	"id": "31131", 
 	"name": "Festival Guide", 
 	"title": "No Level Limit", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

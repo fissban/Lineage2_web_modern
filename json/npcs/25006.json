@@ -2,6 +2,7 @@
 	"id": "25006", 
 	"name": "Turek Mercenary Warrior", 
 	"title": "Raid Fighter", 
+	"level": "29", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"859422"}],

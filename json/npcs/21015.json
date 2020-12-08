@@ -2,6 +2,7 @@
 	"id": "21015", 
 	"name": "Ol Mahum Van Leader", 
 	"title": "", 
+	"level": "34", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"83", "min":"1", "max":"1", "chance":"17"}, {"id":"124", "min":"1", "max":"1", "chance":"13"}, {"id":"127", "min":"1", "max":"1", "chance":"13"}, {"id":"130", "min":"1", "max":"1", "chance":"13"}, {"id":"144", "min":"1", "max":"1", "chance":"17"}, {"id":"1868", "min":"1", "max":"1", "chance":"166667"}, {"id":"1873", "min":"1", "max":"1", "chance":"28571"}, {"id":"1876", "min":"1", "max":"1", "chance":"12987"}, {"id":"2026", "min":"1", "max":"1", "chance":"721"}, {"id":"2280", "min":"1", "max":"1", "chance":"514"}, {"id":"2978", "min":"1", "max":"1", "chance":"9091"}, {"id":"57", "min":"285", "max":"569", "chance":"700000"}, {"id":"1869", "min":"1", "max":"2", "chance":"675737"}, {"id":"1873", "min":"1", "max":"1", "chance":"270295"}, {"id":"1940", "min":"1", "max":"1", "chance":"100856"}],

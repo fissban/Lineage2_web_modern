@@ -2,6 +2,7 @@
 	"id": "13004", 
 	"name": "Flame Control Tower", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

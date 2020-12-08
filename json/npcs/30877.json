@@ -2,6 +2,7 @@
 	"id": "30877", 
 	"name": "Grayson", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "30951", 
 	"name": "Pithgon", 
 	"title": "Researcher", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

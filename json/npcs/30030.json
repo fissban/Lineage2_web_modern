@@ -2,6 +2,7 @@
 	"id": "30030", 
 	"name": "Vivyan", 
 	"title": "Priestess", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

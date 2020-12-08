@@ -2,6 +2,7 @@
 	"id": "31258", 
 	"name": "Helmut", 
 	"title": "Armor Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "21395", 
 	"name": "Elder Lavasaurus", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"270", "min":"1", "max":"1", "chance":"21"}, {"id":"959", "min":"1", "max":"1", "chance":"44"}, {"id":"1894", "min":"1", "max":"1", "chance":"22222"}, {"id":"4039", "min":"1", "max":"1", "chance":"19608"}, {"id":"4041", "min":"1", "max":"1", "chance":"4167"}, {"id":"4044", "min":"1", "max":"1", "chance":"26316"}, {"id":"5538", "min":"1", "max":"1", "chance":"7422"}, {"id":"8732", "min":"1", "max":"1", "chance":"11111"}, {"id":"8742", "min":"1", "max":"1", "chance":"2786"}, {"id":"57", "min":"7372", "max":"15047", "chance":"700000"}, {"id":"960", "min":"1", "max":"1", "chance":"7328"}, {"id":"1894", "min":"1", "max":"1", "chance":"642786"}, {"id":"4039", "min":"1", "max":"1", "chance":"610647"}],

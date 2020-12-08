@@ -2,6 +2,7 @@
 	"id": "20442", 
 	"name": "Elder Wolf", 
 	"title": "", 
+	"level": "5", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"4", "min":"1", "max":"1", "chance":"7546"}, {"id":"7", "min":"1", "max":"1", "chance":"7546"}, {"id":"17", "min":"10", "max":"30", "chance":"72442"}, {"id":"1787", "min":"1", "max":"1", "chance":"11591"}, {"id":"1868", "min":"1", "max":"1", "chance":"28977"}, {"id":"1873", "min":"1", "max":"1", "chance":"5796"}, {"id":"57", "min":"30", "max":"42", "chance":"700000"}, {"id":"1786", "min":"1", "max":"1", "chance":"44845"}, {"id":"1864", "min":"1", "max":"1", "chance":"112112"}, {"id":"5549", "min":"1", "max":"1", "chance":"5606"}],

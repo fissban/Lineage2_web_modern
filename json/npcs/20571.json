@@ -2,6 +2,7 @@
 	"id": "20571", 
 	"name": "Tarlk Bugbear Warrior", 
 	"title": "", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"73", "min":"1", "max":"1", "chance":"5"}, {"id":"74", "min":"1", "max":"1", "chance":"5"}, {"id":"131", "min":"1", "max":"1", "chance":"5"}, {"id":"133", "min":"1", "max":"1", "chance":"5"}, {"id":"1866", "min":"1", "max":"1", "chance":"32258"}, {"id":"1871", "min":"1", "max":"1", "chance":"55556"}, {"id":"1885", "min":"1", "max":"1", "chance":"4202"}, {"id":"2077", "min":"1", "max":"1", "chance":"456"}, {"id":"2078", "min":"1", "max":"1", "chance":"456"}, {"id":"2080", "min":"1", "max":"1", "chance":"456"}, {"id":"2081", "min":"1", "max":"1", "chance":"456"}, {"id":"2336", "min":"1", "max":"1", "chance":"47"}, {"id":"2351", "min":"1", "max":"1", "chance":"94"}, {"id":"2508", "min":"1", "max":"1", "chance":"43478"}, {"id":"4041", "min":"1", "max":"1", "chance":"283"}, {"id":"5220", "min":"1", "max":"1", "chance":"2358"}, {"id":"6668", "min":"1", "max":"1", "chance":"20408"}, {"id":"8724", "min":"1", "max":"1", "chance":"2075"}, {"id":"8734", "min":"1", "max":"1", "chance":"519"}, {"id":"57", "min":"499", "max":"1015", "chance":"700000"}, {"id":"951", "min":"1", "max":"1", "chance":"2251"}, {"id":"2335", "min":"1", "max":"1", "chance":"2880"}, {"id":"2968", "min":"1", "max":"1", "chance":"8355"}],

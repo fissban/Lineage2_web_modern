@@ -2,6 +2,7 @@
 	"id": "21586", 
 	"name": "Vampire Adept", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"235", "min":"1", "max":"1", "chance":"6"}, {"id":"1868", "min":"1", "max":"1", "chance":"250000"}, {"id":"1873", "min":"1", "max":"1", "chance":"52632"}, {"id":"1876", "min":"1", "max":"1", "chance":"28571"}, {"id":"1895", "min":"1", "max":"1", "chance":"37037"}, {"id":"3957", "min":"1", "max":"1", "chance":"79"}, {"id":"4042", "min":"1", "max":"1", "chance":"1905"}, {"id":"5536", "min":"1", "max":"1", "chance":"1804"}, {"id":"8730", "min":"1", "max":"1", "chance":"1295"}, {"id":"8740", "min":"1", "max":"1", "chance":"152"}, {"id":"8750", "min":"1", "max":"1", "chance":"76"}, {"id":"57", "min":"1444", "max":"2948", "chance":"700000"}, {"id":"1895", "min":"1", "max":"3", "chance":"512618"}, {"id":"5462", "min":"1", "max":"1", "chance":"1329"}, {"id":"5539", "min":"1", "max":"1", "chance":"12101"}],

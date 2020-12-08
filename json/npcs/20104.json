@@ -2,6 +2,7 @@
 	"id": "20104", 
 	"name": "Skeleton Lord", 
 	"title": "", 
+	"level": "15", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"271", "min":"1", "max":"1", "chance":"422"}, {"id":"17", "min":"10", "max":"30", "chance":"142531"}, {"id":"736", "min":"1", "max":"1", "chance":"14254"}, {"id":"1868", "min":"1", "max":"1", "chance":"57013"}, {"id":"1873", "min":"1", "max":"1", "chance":"11403"}, {"id":"57", "min":"97", "max":"147", "chance":"700000"}, {"id":"1868", "min":"1", "max":"1", "chance":"386022"}, {"id":"1869", "min":"1", "max":"1", "chance":"193011"}],

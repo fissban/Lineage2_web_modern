@@ -2,6 +2,7 @@
 	"id": "20457", 
 	"name": "Zombie Soldier", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"15", "min":"1", "max":"1", "chance":"128"}, {"id":"1864", "min":"1", "max":"1", "chance":"69384"}, {"id":"1869", "min":"1", "max":"1", "chance":"34692"}, {"id":"1880", "min":"1", "max":"1", "chance":"3470"}, {"id":"2011", "min":"1", "max":"1", "chance":"1979"}, {"id":"2254", "min":"1", "max":"1", "chance":"1422"}, {"id":"5273", "min":"1", "max":"1", "chance":"1388"}, {"id":"57", "min":"138", "max":"234", "chance":"700000"}, {"id":"1864", "min":"1", "max":"3", "chance":"587232"}, {"id":"1866", "min":"1", "max":"2", "chance":"195744"}, {"id":"2013", "min":"1", "max":"1", "chance":"6337"}],

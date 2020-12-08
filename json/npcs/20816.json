@@ -2,6 +2,7 @@
 	"id": "20816", 
 	"name": "Hallate's Royal Guard", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2391", "min":"1", "max":"1", "chance":"22"}, {"id":"2392", "min":"1", "max":"1", "chance":"22"}, {"id":"1864", "min":"1", "max":"3", "chance":"142857"}, {"id":"1869", "min":"1", "max":"1", "chance":"142857"}, {"id":"1878", "min":"1", "max":"1", "chance":"55556"}, {"id":"1884", "min":"1", "max":"1", "chance":"100000"}, {"id":"4039", "min":"1", "max":"1", "chance":"4348"}, {"id":"4082", "min":"1", "max":"1", "chance":"4279"}, {"id":"4083", "min":"1", "max":"1", "chance":"4279"}, {"id":"4402", "min":"1", "max":"1", "chance":"379"}, {"id":"5001", "min":"1", "max":"1", "chance":"189"}, {"id":"5276", "min":"1", "max":"1", "chance":"189"}, {"id":"8729", "min":"1", "max":"1", "chance":"1321"}, {"id":"8739", "min":"1", "max":"1", "chance":"377"}, {"id":"57", "min":"2075", "max":"4201", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"2051"}, {"id":"4039", "min":"1", "max":"1", "chance":"170952"}, {"id":"5230", "min":"1", "max":"1", "chance":"6838"}],

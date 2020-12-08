@@ -2,6 +2,7 @@
 	"id": "27316", 
 	"name": "Fallen Chieftain Vegus", 
 	"title": "Quest Monster", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

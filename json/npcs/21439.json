@@ -2,6 +2,7 @@
 	"id": "21439", 
 	"name": "Heathen Executed", 
 	"title": "", 
+	"level": "66", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"97", "min":"1", "max":"1", "chance":"2"}, {"id":"1343", "min":"10", "max":"30", "chance":"31340"}, {"id":"1864", "min":"1", "max":"1", "chance":"43875"}, {"id":"1865", "min":"1", "max":"1", "chance":"21938"}, {"id":"1866", "min":"1", "max":"1", "chance":"14625"}, {"id":"1868", "min":"1", "max":"1", "chance":"43875"}, {"id":"1873", "min":"1", "max":"1", "chance":"8776"}, {"id":"4115", "min":"1", "max":"1", "chance":"335"}, {"id":"5456", "min":"1", "max":"1", "chance":"9"}, {"id":"57", "min":"210", "max":"426", "chance":"700000"}],

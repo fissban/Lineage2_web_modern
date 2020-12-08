@@ -2,6 +2,7 @@
 	"id": "20011", 
 	"name": "Vuku Orc Archer", 
 	"title": "", 
+	"level": "15", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"271", "min":"1", "max":"1", "chance":"521"}, {"id":"1799", "min":"1", "max":"1", "chance":"69598"}, {"id":"1867", "min":"1", "max":"1", "chance":"62638"}, {"id":"1872", "min":"1", "max":"1", "chance":"62638"}, {"id":"57", "min":"120", "max":"182", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"17541"}, {"id":"1867", "min":"1", "max":"1", "chance":"318082"}, {"id":"1921", "min":"1", "max":"1", "chance":"153911"}],

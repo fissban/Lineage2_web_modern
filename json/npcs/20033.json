@@ -2,6 +2,7 @@
 	"id": "20033", 
 	"name": "Shade Horror", 
 	"title": "", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"845", "min":"1", "max":"1", "chance":"682"}, {"id":"877", "min":"1", "max":"1", "chance":"1024"}, {"id":"908", "min":"1", "max":"1", "chance":"510"}, {"id":"1865", "min":"1", "max":"1", "chance":"30287"}, {"id":"1870", "min":"1", "max":"1", "chance":"30287"}, {"id":"1897", "min":"1", "max":"1", "chance":"7212"}, {"id":"2142", "min":"1", "max":"1", "chance":"6058"}, {"id":"5158", "min":"1", "max":"1", "chance":"1212"}, {"id":"57", "min":"100", "max":"161", "chance":"700000"}, {"id":"1924", "min":"1", "max":"1", "chance":"66150"}, {"id":"1925", "min":"1", "max":"1", "chance":"134469"}, {"id":"2139", "min":"1", "max":"1", "chance":"41013"}],

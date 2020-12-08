@@ -2,6 +2,7 @@
 	"id": "30874", 
 	"name": "Aldis", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

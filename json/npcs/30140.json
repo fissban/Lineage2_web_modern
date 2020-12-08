@@ -2,6 +2,7 @@
 	"id": "30140", 
 	"name": "Erviante", 
 	"title": "Warehouse Keeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

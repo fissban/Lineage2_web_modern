@@ -2,6 +2,7 @@
 	"id": "30545", 
 	"name": "Proton", 
 	"title": "Defender", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

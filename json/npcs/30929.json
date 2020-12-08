@@ -2,6 +2,7 @@
 	"id": "30929", 
 	"name": "Patrin", 
 	"title": "Antique Dealer", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

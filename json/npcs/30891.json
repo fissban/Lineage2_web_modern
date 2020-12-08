@@ -2,6 +2,7 @@
 	"id": "30891", 
 	"name": "Verona", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

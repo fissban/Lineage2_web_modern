@@ -2,6 +2,7 @@
 	"id": "21733", 
 	"name": "Forbidden Path Invader Priest", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"91", "min":"1", "max":"1", "chance":"6"}, {"id":"92", "min":"1", "max":"1", "chance":"6"}, {"id":"1343", "min":"20", "max":"60", "chance":"97682"}, {"id":"1867", "min":"1", "max":"1", "chance":"182340"}, {"id":"1872", "min":"1", "max":"1", "chance":"182340"}, {"id":"1875", "min":"1", "max":"1", "chance":"9117"}, {"id":"1881", "min":"1", "max":"1", "chance":"18235"}, {"id":"4041", "min":"1", "max":"1", "chance":"1190"}, {"id":"4105", "min":"1", "max":"1", "chance":"1370"}, {"id":"4106", "min":"1", "max":"1", "chance":"1347"}, {"id":"4130", "min":"1", "max":"1", "chance":"2221"}, {"id":"8738", "min":"1", "max":"1", "chance":"3125"}, {"id":"57", "min":"1308", "max":"2658", "chance":"700000"}, {"id":"4056", "min":"1", "max":"1", "chance":"58657"}, {"id":"4057", "min":"1", "max":"1", "chance":"90651"}, {"id":"4131", "min":"1", "max":"1", "chance":"26348"}],

@@ -2,6 +2,7 @@
 	"id": "27149", 
 	"name": "Gremlin Filcher", 
 	"title": "Quest Monster", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

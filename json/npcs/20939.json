@@ -2,6 +2,7 @@
 	"id": "20939", 
 	"name": "Tanor Silenos Warrior", 
 	"title": "", 
+	"level": "46", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"397", "min":"1", "max":"1", "chance":"57"}, {"id":"2387", "min":"1", "max":"1", "chance":"90"}, {"id":"1868", "min":"1", "max":"1", "chance":"90909"}, {"id":"1873", "min":"1", "max":"1", "chance":"17857"}, {"id":"1889", "min":"1", "max":"1", "chance":"3135"}, {"id":"1961", "min":"1", "max":"1", "chance":"3397"}, {"id":"2225", "min":"1", "max":"1", "chance":"2072"}, {"id":"2343", "min":"1", "max":"1", "chance":"142"}, {"id":"2935", "min":"1", "max":"1", "chance":"5643"}, {"id":"4044", "min":"1", "max":"1", "chance":"1046"}, {"id":"5549", "min":"1", "max":"1", "chance":"8403"}, {"id":"8723", "min":"1", "max":"1", "chance":"1046"}, {"id":"8733", "min":"1", "max":"1", "chance":"2072"}, {"id":"57", "min":"361", "max":"738", "chance":"700000"}, {"id":"1868", "min":"1", "max":"3", "chance":"898311"}, {"id":"1873", "min":"1", "max":"1", "chance":"359325"}, {"id":"2067", "min":"1", "max":"1", "chance":"6474"}],

@@ -2,6 +2,7 @@
 	"id": "20522", 
 	"name": "White Fang", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

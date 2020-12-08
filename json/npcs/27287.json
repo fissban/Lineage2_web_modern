@@ -2,6 +2,7 @@
 	"id": "27287", 
 	"name": "Bound Elf Panacea", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

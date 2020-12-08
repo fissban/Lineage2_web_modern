@@ -2,6 +2,7 @@
 	"id": "20764", 
 	"name": "Shaman of the Plains", 
 	"title": "", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"437", "min":"1", "max":"1", "chance":"131"}, {"id":"470", "min":"1", "max":"1", "chance":"210"}, {"id":"1867", "min":"1", "max":"1", "chance":"142857"}, {"id":"1872", "min":"1", "max":"1", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"6944"}, {"id":"1881", "min":"1", "max":"1", "chance":"14925"}, {"id":"1944", "min":"1", "max":"1", "chance":"7468"}, {"id":"1945", "min":"1", "max":"1", "chance":"11629"}, {"id":"2149", "min":"1", "max":"1", "chance":"6944"}, {"id":"5473", "min":"1", "max":"1", "chance":"4950"}, {"id":"57", "min":"479", "max":"955", "chance":"700000"}, {"id":"1825", "min":"1", "max":"1", "chance":"80925"}, {"id":"1902", "min":"1", "max":"1", "chance":"114787"}, {"id":"1903", "min":"1", "max":"1", "chance":"188982"}],

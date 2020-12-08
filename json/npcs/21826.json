@@ -2,6 +2,7 @@
 	"id": "21826", 
 	"name": "Alpine Buffalo", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"358", "min":"1", "max":"1", "chance":"45"}, {"id":"2380", "min":"1", "max":"1", "chance":"72"}, {"id":"2381", "min":"1", "max":"1", "chance":"28"}, {"id":"4078", "min":"1", "max":"1", "chance":"8186"}, {"id":"4080", "min":"1", "max":"1", "chance":"11528"}, {"id":"4081", "min":"1", "max":"1", "chance":"5524"}, {"id":"1865", "min":"1", "max":"3", "chance":"112078"}, {"id":"1870", "min":"1", "max":"3", "chance":"168116"}, {"id":"1874", "min":"1", "max":"1", "chance":"22416"}, {"id":"4039", "min":"1", "max":"1", "chance":"11208"}, {"id":"4043", "min":"1", "max":"1", "chance":"11208"}, {"id":"6339", "min":"1", "max":"1", "chance":"2586"}, {"id":"8730", "min":"1", "max":"1", "chance":"3736"}, {"id":"8740", "min":"1", "max":"1", "chance":"934"}, {"id":"8750", "min":"1", "max":"1", "chance":"93"}, {"id":"8760", "min":"1", "max":"1", "chance":"19"}],

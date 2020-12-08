@@ -2,6 +2,7 @@
 	"id": "27190", 
 	"name": "Ol Mahum Support Troop", 
 	"title": "Quest Monster", 
+	"level": "26", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

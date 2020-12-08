@@ -2,6 +2,7 @@
 	"id": "20423", 
 	"name": "Akaste Bone Archer", 
 	"title": "", 
+	"level": "14", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"271", "min":"1", "max":"1", "chance":"418"}, {"id":"1867", "min":"1", "max":"1", "chance":"75346"}, {"id":"1872", "min":"1", "max":"1", "chance":"75346"}, {"id":"57", "min":"98", "max":"145", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"14067"}, {"id":"1793", "min":"1", "max":"1", "chance":"14067"}, {"id":"1921", "min":"1", "max":"1", "chance":"123424"}],

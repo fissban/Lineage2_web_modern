@@ -2,6 +2,7 @@
 	"id": "20601", 
 	"name": "Tamlin Orc", 
 	"title": "", 
+	"level": "41", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"353", "min":"1", "max":"1", "chance":"52"}, {"id":"380", "min":"1", "max":"1", "chance":"83"}, {"id":"1864", "min":"1", "max":"1", "chance":"166667"}, {"id":"1869", "min":"1", "max":"1", "chance":"83333"}, {"id":"1880", "min":"1", "max":"1", "chance":"8696"}, {"id":"1950", "min":"1", "max":"1", "chance":"3253"}, {"id":"1951", "min":"1", "max":"1", "chance":"5059"}, {"id":"2199", "min":"1", "max":"1", "chance":"2404"}, {"id":"5269", "min":"1", "max":"1", "chance":"218"}, {"id":"5550", "min":"1", "max":"1", "chance":"327"}, {"id":"57", "min":"328", "max":"657", "chance":"700000"}, {"id":"1880", "min":"1", "max":"1", "chance":"79830"}, {"id":"1905", "min":"1", "max":"2", "chance":"77656"}, {"id":"2304", "min":"1", "max":"1", "chance":"3486"}],

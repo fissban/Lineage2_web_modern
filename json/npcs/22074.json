@@ -2,6 +2,7 @@
 	"id": "22074", 
 	"name": "Epic Cannon Golem", 
 	"title": "", 
+	"level": "53", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1868", "min":"1", "max":"3", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"50000"}, {"id":"1876", "min":"1", "max":"1", "chance":"40000"}, {"id":"1895", "min":"1", "max":"1", "chance":"50000"}, {"id":"2115", "min":"1", "max":"1", "chance":"2008"}, {"id":"4042", "min":"1", "max":"1", "chance":"2083"}, {"id":"4142", "min":"1", "max":"1", "chance":"2083"}, {"id":"5530", "min":"1", "max":"1", "chance":"1267"}, {"id":"8335", "min":"1", "max":"1", "chance":"1479"}, {"id":"8726", "min":"1", "max":"1", "chance":"2083"}, {"id":"8736", "min":"1", "max":"1", "chance":"1042"}, {"id":"57", "min":"2030", "max":"4199", "chance":"700000"}],

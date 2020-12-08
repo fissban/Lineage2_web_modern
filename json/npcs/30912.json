@@ -2,6 +2,7 @@
 	"id": "30912", 
 	"name": "Xenovia", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

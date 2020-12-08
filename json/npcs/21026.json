@@ -2,6 +2,7 @@
 	"id": "21026", 
 	"name": "Singing Wind", 
 	"title": "", 
+	"level": "29", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"275", "min":"1", "max":"1", "chance":"25"}, {"id":"276", "min":"1", "max":"1", "chance":"25"}, {"id":"737", "min":"1", "max":"1", "chance":"3236"}, {"id":"1867", "min":"1", "max":"1", "chance":"58824"}, {"id":"1872", "min":"1", "max":"1", "chance":"52632"}, {"id":"1875", "min":"1", "max":"1", "chance":"4630"}, {"id":"1881", "min":"1", "max":"1", "chance":"5102"}, {"id":"2024", "min":"1", "max":"1", "chance":"1121"}, {"id":"2191", "min":"1", "max":"1", "chance":"4630"}, {"id":"2274", "min":"1", "max":"1", "chance":"463"}, {"id":"57", "min":"183", "max":"362", "chance":"700000"}, {"id":"1834", "min":"1", "max":"2", "chance":"479579"}, {"id":"1900", "min":"1", "max":"1", "chance":"47223"}, {"id":"2025", "min":"1", "max":"1", "chance":"5978"}],

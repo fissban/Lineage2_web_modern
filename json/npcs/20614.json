@@ -2,6 +2,7 @@
 	"id": "20614", 
 	"name": "Lafi Lizardman Scout", 
 	"title": "", 
+	"level": "28", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"220", "min":"1", "max":"1", "chance":"177"}, {"id":"1834", "min":"1", "max":"1", "chance":"80505"}, {"id":"1865", "min":"1", "max":"1", "chance":"72455"}, {"id":"1870", "min":"1", "max":"1", "chance":"72455"}, {"id":"1874", "min":"1", "max":"1", "chance":"4831"}, {"id":"2263", "min":"1", "max":"1", "chance":"1126"}, {"id":"57", "min":"277", "max":"542", "chance":"700000"}, {"id":"1869", "min":"1", "max":"1", "chance":"645491"}, {"id":"1899", "min":"1", "max":"1", "chance":"100858"}, {"id":"2152", "min":"1", "max":"1", "chance":"113643"}],

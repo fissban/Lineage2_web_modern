@@ -2,6 +2,7 @@
 	"id": "21248", 
 	"name": "Crypt Guardian", 
 	"title": "", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"503", "min":"1", "max":"1", "chance":"49"}, {"id":"633", "min":"1", "max":"1", "chance":"70"}, {"id":"673", "min":"1", "max":"1", "chance":"70"}, {"id":"2415", "min":"1", "max":"1", "chance":"49"}, {"id":"1864", "min":"1", "max":"1", "chance":"250000"}, {"id":"1869", "min":"1", "max":"1", "chance":"125000"}, {"id":"1880", "min":"1", "max":"1", "chance":"12346"}, {"id":"4043", "min":"1", "max":"1", "chance":"4132"}, {"id":"4072", "min":"1", "max":"1", "chance":"8454"}, {"id":"4101", "min":"1", "max":"1", "chance":"10911"}, {"id":"4102", "min":"1", "max":"1", "chance":"8453"}, {"id":"4159", "min":"1", "max":"1", "chance":"852"}, {"id":"4439", "min":"1", "max":"1", "chance":"12980"}, {"id":"5550", "min":"1", "max":"1", "chance":"1048"}, {"id":"6036", "min":"1", "max":"1", "chance":"4525"}, {"id":"8728", "min":"1", "max":"1", "chance":"2096"}, {"id":"8738", "min":"1", "max":"1", "chance":"655"}, {"id":"8748", "min":"1", "max":"1", "chance":"131"}, {"id":"57", "min":"2056", "max":"4180", "chance":"700000"}, {"id":"4050", "min":"1", "max":"1", "chance":"315761"}, {"id":"4051", "min":"1", "max":"1", "chance":"197649"}, {"id":"4130", "min":"1", "max":"1", "chance":"82733"}],

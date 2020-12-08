@@ -2,6 +2,7 @@
 	"id": "25373", 
 	"name": "Malex Herald of Dagoniel", 
 	"title": "Raid Boss", 
+	"level": "21", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"315", "min":"1", "max":"1", "chance":"159449"}, {"id":"46", "min":"2", "max":"4", "chance":"228190"}, {"id":"627", "min":"1", "max":"3", "chance":"488977"}, {"id":"6387", "min":"3", "max":"9", "chance":"739503"}, {"id":"6575", "min":"1", "max":"1", "chance":"24651"}, {"id":"6576", "min":"1", "max":"1", "chance":"221851"}],

@@ -2,6 +2,7 @@
 	"id": "22090", 
 	"name": "Frost Tarantula", 
 	"title": "", 
+	"level": "58", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"91", "min":"1", "max":"1", "chance":"5"}, {"id":"92", "min":"1", "max":"1", "chance":"5"}, {"id":"7892", "min":"1", "max":"1", "chance":"5"}, {"id":"7900", "min":"1", "max":"1", "chance":"5"}, {"id":"1868", "min":"1", "max":"1", "chance":"111111"}, {"id":"1873", "min":"1", "max":"1", "chance":"21277"}, {"id":"1876", "min":"1", "max":"1", "chance":"10526"}, {"id":"1895", "min":"1", "max":"1", "chance":"16393"}, {"id":"4042", "min":"1", "max":"1", "chance":"952"}, {"id":"4105", "min":"1", "max":"1", "chance":"460"}, {"id":"4106", "min":"1", "max":"1", "chance":"424"}, {"id":"8312", "min":"1", "max":"1", "chance":"95"}, {"id":"8339", "min":"1", "max":"1", "chance":"300"}, {"id":"8347", "min":"1", "max":"1", "chance":"318"}, {"id":"8727", "min":"1", "max":"1", "chance":"667"}, {"id":"8737", "min":"1", "max":"1", "chance":"381"}, {"id":"8747", "min":"1", "max":"1", "chance":"32"}, {"id":"8384", "min":"1", "max":"1", "chance":"20547"}, {"id":"8383", "min":"1", "max":"1", "chance":"19230"}, {"id":"57", "min":"747", "max":"1521", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"593"}, {"id":"1866", "min":"1", "max":"3", "chance":"791445"}, {"id":"4057", "min":"1", "max":"1", "chance":"64320"}],

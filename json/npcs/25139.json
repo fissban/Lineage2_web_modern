@@ -2,6 +2,7 @@
 	"id": "25139", 
 	"name": "Sephia's Salve", 
 	"title": "Raid Fighter", 
+	"level": "54", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"850400"}],

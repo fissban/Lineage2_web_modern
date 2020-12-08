@@ -2,6 +2,7 @@
 	"id": "30543", 
 	"name": "Ethan", 
 	"title": "Defender", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

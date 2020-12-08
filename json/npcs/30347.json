@@ -2,6 +2,7 @@
 	"id": "30347", 
 	"name": "Marion", 
 	"title": "Sentry", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

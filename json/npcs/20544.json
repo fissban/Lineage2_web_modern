@@ -2,6 +2,7 @@
 	"id": "20544", 
 	"name": "Elder Keltir", 
 	"title": "", 
+	"level": "3", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"21", "min":"1", "max":"1", "chance":"19065"}, {"id":"28", "min":"1", "max":"1", "chance":"30461"}, {"id":"1788", "min":"1", "max":"1", "chance":"7474"}, {"id":"1864", "min":"1", "max":"1", "chance":"18683"}, {"id":"1869", "min":"1", "max":"1", "chance":"9342"}, {"id":"57", "min":"13", "max":"20", "chance":"700000"}, {"id":"1788", "min":"1", "max":"1", "chance":"21685"}, {"id":"1870", "min":"1", "max":"1", "chance":"27106"}, {"id":"1872", "min":"1", "max":"1", "chance":"36142"}],

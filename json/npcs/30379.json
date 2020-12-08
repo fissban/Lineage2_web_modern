@@ -2,6 +2,7 @@
 	"id": "30379", 
 	"name": "Bezique", 
 	"title": "Captain", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

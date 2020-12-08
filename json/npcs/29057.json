@@ -2,6 +2,7 @@
 	"id": "29057", 
 	"name": "Sirra's Page", 
 	"title": "Raid Fighter", 
+	"level": "59", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"928000"}],

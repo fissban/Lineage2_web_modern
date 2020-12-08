@@ -2,6 +2,7 @@
 	"id": "20808", 
 	"name": "Nos Lad", 
 	"title": "", 
+	"level": "45", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"439", "min":"1", "max":"1", "chance":"142"}, {"id":"471", "min":"1", "max":"1", "chance":"227"}, {"id":"1894", "min":"1", "max":"1", "chance":"5181"}, {"id":"1954", "min":"1", "max":"1", "chance":"14301"}, {"id":"1962", "min":"1", "max":"1", "chance":"8608"}, {"id":"2324", "min":"1", "max":"1", "chance":"625"}, {"id":"4039", "min":"1", "max":"1", "chance":"4032"}, {"id":"4041", "min":"1", "max":"1", "chance":"1152"}, {"id":"4044", "min":"1", "max":"1", "chance":"3460"}, {"id":"6668", "min":"1", "max":"1", "chance":"55556"}, {"id":"8723", "min":"1", "max":"1", "chance":"4608"}, {"id":"8733", "min":"1", "max":"1", "chance":"576"}, {"id":"57", "min":"919", "max":"1866", "chance":"700000"}, {"id":"1908", "min":"1", "max":"1", "chance":"215579"}, {"id":"1954", "min":"1", "max":"1", "chance":"121027"}, {"id":"2163", "min":"1", "max":"1", "chance":"116149"}],

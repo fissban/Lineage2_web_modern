@@ -2,6 +2,7 @@
 	"id": "22088", 
 	"name": "Pronghorn", 
 	"title": "", 
+	"level": "57", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"78", "min":"1", "max":"1", "chance":"6"}, {"id":"142", "min":"1", "max":"1", "chance":"6"}, {"id":"148", "min":"1", "max":"1", "chance":"6"}, {"id":"1864", "min":"1", "max":"1", "chance":"83333"}, {"id":"1865", "min":"1", "max":"1", "chance":"33333"}, {"id":"1866", "min":"1", "max":"1", "chance":"31250"}, {"id":"1868", "min":"1", "max":"1", "chance":"90909"}, {"id":"1873", "min":"1", "max":"1", "chance":"12500"}, {"id":"4104", "min":"1", "max":"1", "chance":"364"}, {"id":"4107", "min":"1", "max":"1", "chance":"364"}, {"id":"4108", "min":"1", "max":"1", "chance":"243"}, {"id":"8737", "min":"1", "max":"1", "chance":"343"}, {"id":"8382", "min":"1", "max":"1", "chance":"17142"}, {"id":"8381", "min":"1", "max":"1", "chance":"16947"}, {"id":"57", "min":"626", "max":"1278", "chance":"700000"}],

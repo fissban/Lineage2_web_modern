@@ -2,6 +2,7 @@
 	"id": "30313", 
 	"name": "Asha", 
 	"title": "Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

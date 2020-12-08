@@ -2,6 +2,7 @@
 	"id": "25508", 
 	"name": "Rayito's Henchman", 
 	"title": "Raid Fighter", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

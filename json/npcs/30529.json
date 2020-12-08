@@ -2,6 +2,7 @@
 	"id": "30529", 
 	"name": "Maron", 
 	"title": "Miner", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

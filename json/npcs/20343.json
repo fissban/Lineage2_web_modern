@@ -2,6 +2,7 @@
 	"id": "20343", 
 	"name": "Werewolf Hunter", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"113", "min":"1", "max":"1", "chance":"8837"}, {"id":"875", "min":"1", "max":"1", "chance":"13272"}, {"id":"906", "min":"1", "max":"1", "chance":"6636"}, {"id":"1797", "min":"1", "max":"1", "chance":"72387"}, {"id":"1864", "min":"1", "max":"1", "chance":"71663"}, {"id":"1869", "min":"1", "max":"1", "chance":"35832"}, {"id":"57", "min":"98", "max":"132", "chance":"700000"}, {"id":"1060", "min":"1", "max":"1", "chance":"404348"}, {"id":"1795", "min":"1", "max":"1", "chance":"686629"}, {"id":"2005", "min":"1", "max":"1", "chance":"12997"}],

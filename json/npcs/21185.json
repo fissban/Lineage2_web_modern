@@ -2,6 +2,7 @@
 	"id": "21185", 
 	"name": "Lilim Great Mystic", 
 	"title": "", 
+	"level": "78", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"612", "max":"1227", "chance":"700000"}, {"id":"6362", "min":"11", "max":"22", "chance":"700000"}, {"id":"5304", "min":"1", "max":"1", "chance":"27"}, {"id":"5305", "min":"1", "max":"1", "chance":"43"}, {"id":"5308", "min":"1", "max":"1", "chance":"19"}, {"id":"5485", "min":"1", "max":"1", "chance":"3909"}, {"id":"5486", "min":"1", "max":"1", "chance":"2750"}, {"id":"5489", "min":"1", "max":"1", "chance":"6135"}, {"id":"7665", "min":"1", "max":"1", "chance":"16393"}, {"id":"7666", "min":"1", "max":"1", "chance":"16129"}, {"id":"7667", "min":"1", "max":"1", "chance":"15385"}, {"id":"7665", "min":"1", "max":"1", "chance":"48084"}, {"id":"7666", "min":"1", "max":"1", "chance":"48084"}, {"id":"7667", "min":"1", "max":"1", "chance":"48084"}, {"id":"1875", "min":"1", "max":"2", "chance":"629418"}, {"id":"5481", "min":"1", "max":"1", "chance":"42365"}, {"id":"5487", "min":"1", "max":"1", "chance":"42515"}],

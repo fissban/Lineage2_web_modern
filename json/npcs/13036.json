@@ -2,6 +2,7 @@
 	"id": "13036", 
 	"name": "Alchemist's Chest", 
 	"title": "", 
+	"level": "21", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

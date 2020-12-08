@@ -2,6 +2,7 @@
 	"id": "21229", 
 	"name": "Sepulcher Preacher", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6323", "min":"1", "max":"1", "chance":"44"}, {"id":"6324", "min":"1", "max":"1", "chance":"59"}, {"id":"6325", "min":"1", "max":"1", "chance":"88"}, {"id":"730", "min":"1", "max":"1", "chance":"89"}, {"id":"1894", "min":"1", "max":"1", "chance":"7246"}, {"id":"4039", "min":"1", "max":"1", "chance":"7874"}, {"id":"4041", "min":"1", "max":"1", "chance":"1537"}, {"id":"4044", "min":"1", "max":"1", "chance":"10870"}, {"id":"6341", "min":"1", "max":"1", "chance":"10525"}, {"id":"6343", "min":"1", "max":"1", "chance":"8136"}, {"id":"6345", "min":"1", "max":"1", "chance":"14557"}, {"id":"8731", "min":"1", "max":"1", "chance":"3106"}, {"id":"8741", "min":"1", "max":"1", "chance":"461"}, {"id":"8751", "min":"1", "max":"1", "chance":"38"}, {"id":"8761", "min":"1", "max":"1", "chance":"22"}, {"id":"57", "min":"3110", "max":"6350", "chance":"700000"}, {"id":"4041", "min":"1", "max":"1", "chance":"67208"}, {"id":"4044", "min":"1", "max":"1", "chance":"257630"}, {"id":"5479", "min":"1", "max":"1", "chance":"45733"}],

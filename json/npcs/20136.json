@@ -2,6 +2,7 @@
 	"id": "20136", 
 	"name": "Death Knight", 
 	"title": "", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"75", "min":"1", "max":"1", "chance":"5"}, {"id":"76", "min":"1", "max":"1", "chance":"5"}, {"id":"77", "min":"1", "max":"1", "chance":"5"}, {"id":"84", "min":"1", "max":"1", "chance":"5"}, {"id":"134", "min":"1", "max":"1", "chance":"5"}, {"id":"145", "min":"1", "max":"1", "chance":"5"}, {"id":"1864", "min":"1", "max":"3", "chance":"142857"}, {"id":"1869", "min":"1", "max":"1", "chance":"200000"}, {"id":"1880", "min":"1", "max":"1", "chance":"15385"}, {"id":"2089", "min":"1", "max":"1", "chance":"499"}, {"id":"2090", "min":"1", "max":"1", "chance":"499"}, {"id":"2091", "min":"1", "max":"1", "chance":"499"}, {"id":"2092", "min":"1", "max":"1", "chance":"499"}, {"id":"2095", "min":"1", "max":"1", "chance":"499"}, {"id":"2096", "min":"1", "max":"1", "chance":"499"}, {"id":"2169", "min":"1", "max":"1", "chance":"2776"}, {"id":"2232", "min":"1", "max":"1", "chance":"902"}, {"id":"4043", "min":"1", "max":"1", "chance":"5227"}, {"id":"5550", "min":"1", "max":"1", "chance":"2091"}, {"id":"8725", "min":"1", "max":"1", "chance":"3058"}, {"id":"57", "min":"1071", "max":"2177", "chance":"700000"}, {"id":"1539", "min":"1", "max":"3", "chance":"589837"}, {"id":"1914", "min":"1", "max":"1", "chance":"149116"}, {"id":"4601", "min":"1", "max":"1", "chance":"5898"}],

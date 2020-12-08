@@ -2,6 +2,7 @@
 	"id": "27086", 
 	"name": "Revenant of Tantos Chief", 
 	"title": "Quest Monster", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

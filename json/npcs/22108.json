@@ -2,6 +2,7 @@
 	"id": "22108", 
 	"name": "Female Spiked Stakato", 
 	"title": "", 
+	"level": "74", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5297", "min":"1", "max":"1", "chance":"88"}, {"id":"5298", "min":"1", "max":"1", "chance":"88"}, {"id":"5301", "min":"1", "max":"1", "chance":"66"}, {"id":"1344", "min":"180", "max":"540", "chance":"41667"}, {"id":"1864", "min":"5", "max":"15", "chance":"125000"}, {"id":"1869", "min":"2", "max":"6", "chance":"142857"}, {"id":"1880", "min":"1", "max":"1", "chance":"55556"}, {"id":"4043", "min":"1", "max":"1", "chance":"20000"}, {"id":"5272", "min":"1", "max":"1", "chance":"563"}, {"id":"5478", "min":"1", "max":"1", "chance":"3356"}, {"id":"5479", "min":"1", "max":"1", "chance":"4695"}, {"id":"5482", "min":"1", "max":"1", "chance":"5376"}, {"id":"5550", "min":"1", "max":"1", "chance":"9009"}, {"id":"57", "min":"6140", "max":"12510", "chance":"700000"}, {"id":"5442", "min":"1", "max":"1", "chance":"5000"}, {"id":"5485", "min":"1", "max":"1", "chance":"25000"}, {"id":"5486", "min":"1", "max":"1", "chance":"25000"}],

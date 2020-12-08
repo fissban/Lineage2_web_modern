@@ -2,6 +2,7 @@
 	"id": "18082", 
 	"name": "Witch's Offering Warrior", 
 	"title": "", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"431", "max":"863", "chance":"700000"}],

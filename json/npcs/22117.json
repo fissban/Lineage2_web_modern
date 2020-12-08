@@ -2,6 +2,7 @@
 	"id": "22117", 
 	"name": "Spiked Stakato Captain", 
 	"title": "", 
+	"level": "78", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"98", "min":"1", "max":"1", "chance":"8"}, {"id":"1344", "min":"30", "max":"90", "chance":"142857"}, {"id":"1864", "min":"5", "max":"15", "chance":"40000"}, {"id":"1869", "min":"2", "max":"6", "chance":"76923"}, {"id":"1880", "min":"1", "max":"1", "chance":"52632"}, {"id":"4043", "min":"1", "max":"1", "chance":"4065"}, {"id":"5157", "min":"1", "max":"1", "chance":"500"}, {"id":"5542", "min":"1", "max":"1", "chance":"5618"}, {"id":"5550", "min":"1", "max":"1", "chance":"5208"}, {"id":"8732", "min":"1", "max":"1", "chance":"2899"}, {"id":"57", "min":"4115", "max":"8376", "chance":"700000"}, {"id":"4043", "min":"1", "max":"1", "chance":"50000"}, {"id":"5502", "min":"1", "max":"1", "chance":"25000"}, {"id":"5550", "min":"1", "max":"1", "chance":"50000"}],

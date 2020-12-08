@@ -2,6 +2,7 @@
 	"id": "20039", 
 	"name": "Scavenger Wererat", 
 	"title": "", 
+	"level": "18", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"44", "min":"1", "max":"1", "chance":"734"}, {"id":"102", "min":"1", "max":"1", "chance":"1053"}, {"id":"945", "min":"1", "max":"1", "chance":"2175"}, {"id":"735", "min":"1", "max":"1", "chance":"1782"}, {"id":"1864", "min":"1", "max":"1", "chance":"42748"}, {"id":"1865", "min":"1", "max":"1", "chance":"21374"}, {"id":"1866", "min":"1", "max":"1", "chance":"14250"}, {"id":"1868", "min":"1", "max":"1", "chance":"42748"}, {"id":"1873", "min":"1", "max":"1", "chance":"8550"}, {"id":"1924", "min":"1", "max":"1", "chance":"12066"}, {"id":"2175", "min":"1", "max":"1", "chance":"17377"}, {"id":"57", "min":"121", "max":"200", "chance":"700000"}, {"id":"1801", "min":"1", "max":"1", "chance":"127585"}, {"id":"1872", "min":"1", "max":"2", "chance":"337674"}, {"id":"2011", "min":"1", "max":"1", "chance":"5777"}],

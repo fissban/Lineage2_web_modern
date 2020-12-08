@@ -2,6 +2,7 @@
 	"id": "20978", 
 	"name": "Elmoradan's Archer Escort", 
 	"title": "", 
+	"level": "64", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"79", "min":"1", "max":"1", "chance":"12"}, {"id":"1830", "min":"1", "max":"1", "chance":"76923"}, {"id":"1868", "min":"1", "max":"1", "chance":"333333"}, {"id":"1873", "min":"1", "max":"1", "chance":"40000"}, {"id":"1889", "min":"1", "max":"1", "chance":"7042"}, {"id":"3956", "min":"1", "max":"1", "chance":"283"}, {"id":"4044", "min":"1", "max":"1", "chance":"11765"}, {"id":"4114", "min":"1", "max":"1", "chance":"3247"}, {"id":"5549", "min":"1", "max":"1", "chance":"27778"}, {"id":"8336", "min":"1", "max":"1", "chance":"1515"}, {"id":"8729", "min":"1", "max":"1", "chance":"4673"}, {"id":"8739", "min":"1", "max":"1", "chance":"2342"}, {"id":"57", "min":"2034", "max":"4113", "chance":"700000"}, {"id":"4081", "min":"1", "max":"1", "chance":"49498"}, {"id":"5230", "min":"1", "max":"1", "chance":"6696"}],

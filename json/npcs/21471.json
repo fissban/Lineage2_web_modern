@@ -2,6 +2,7 @@
 	"id": "21471", 
 	"name": "Alpine Buffalo", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"1052", "max":"2114", "chance":"700000"}, {"id":"1894", "min":"1", "max":"1", "chance":"92378"}, {"id":"4042", "min":"1", "max":"1", "chance":"43879"}, {"id":"4115", "min":"1", "max":"1", "chance":"11485"}],

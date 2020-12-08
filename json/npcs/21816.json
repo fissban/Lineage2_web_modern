@@ -2,6 +2,7 @@
 	"id": "21816", 
 	"name": "Treasure Chest", 
 	"title": "", 
+	"level": "66", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"110", "min":"1", "max":"1", "chance":"21"}, {"id":"2416", "min":"1", "max":"1", "chance":"15"}, {"id":"2417", "min":"1", "max":"1", "chance":"15"}, {"id":"1864", "min":"1", "max":"1", "chance":"100000"}, {"id":"1869", "min":"1", "max":"1", "chance":"50000"}, {"id":"1880", "min":"1", "max":"1", "chance":"28571"}, {"id":"4043", "min":"1", "max":"1", "chance":"787"}, {"id":"4077", "min":"1", "max":"1", "chance":"3913"}, {"id":"4088", "min":"1", "max":"1", "chance":"3288"}, {"id":"4089", "min":"1", "max":"1", "chance":"3288"}, {"id":"5434", "min":"1", "max":"1", "chance":"33"}, {"id":"5550", "min":"1", "max":"1", "chance":"1160"}, {"id":"8729", "min":"1", "max":"1", "chance":"787"}, {"id":"8739", "min":"1", "max":"1", "chance":"787"}, {"id":"57", "min":"714", "max":"1448", "chance":"700000"}],

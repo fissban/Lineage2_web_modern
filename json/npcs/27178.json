@@ -2,6 +2,7 @@
 	"id": "27178", 
 	"name": "Blitz Wyrm", 
 	"title": "Quest Monster", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

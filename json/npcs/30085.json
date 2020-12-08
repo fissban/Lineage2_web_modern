@@ -2,6 +2,7 @@
 	"id": "30085", 
 	"name": "Stanford", 
 	"title": "Wizard-use Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

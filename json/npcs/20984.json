@@ -2,6 +2,7 @@
 	"id": "20984", 
 	"name": "Bound Warrior", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5304", "min":"1", "max":"1", "chance":"18"}, {"id":"5305", "min":"1", "max":"1", "chance":"29"}, {"id":"5308", "min":"1", "max":"1", "chance":"13"}, {"id":"729", "min":"1", "max":"1", "chance":"30"}, {"id":"1865", "min":"1", "max":"1", "chance":"200000"}, {"id":"1870", "min":"1", "max":"1", "chance":"166667"}, {"id":"1874", "min":"1", "max":"1", "chance":"9709"}, {"id":"4039", "min":"1", "max":"1", "chance":"9709"}, {"id":"4043", "min":"1", "max":"1", "chance":"8929"}, {"id":"5156", "min":"1", "max":"1", "chance":"351"}, {"id":"5420", "min":"1", "max":"1", "chance":"808"}, {"id":"5485", "min":"1", "max":"1", "chance":"2578"}, {"id":"5486", "min":"1", "max":"1", "chance":"1814"}, {"id":"5489", "min":"1", "max":"1", "chance":"4046"}, {"id":"8730", "min":"1", "max":"1", "chance":"1616"}, {"id":"8740", "min":"1", "max":"1", "chance":"808"}, {"id":"57", "min":"2505", "max":"5116", "chance":"700000"}, {"id":"4041", "min":"1", "max":"1", "chance":"54145"}, {"id":"5478", "min":"1", "max":"1", "chance":"52361"}],

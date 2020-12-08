@@ -2,6 +2,7 @@
 	"id": "30522", 
 	"name": "Airy", 
 	"title": "Warehouse Keeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

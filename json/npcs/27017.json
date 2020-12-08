@@ -2,6 +2,7 @@
 	"id": "27017", 
 	"name": "Plague Zombie", 
 	"title": "Quest Monster", 
+	"level": "14", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

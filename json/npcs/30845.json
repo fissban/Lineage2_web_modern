@@ -2,6 +2,7 @@
 	"id": "30845", 
 	"name": "Klump", 
 	"title": "Warehouse Chief", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

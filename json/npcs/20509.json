@@ -2,6 +2,7 @@
 	"id": "20509", 
 	"name": "Spore Fungus", 
 	"title": "", 
+	"level": "9", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"428", "min":"1", "max":"1", "chance":"1810"}, {"id":"463", "min":"1", "max":"1", "chance":"2893"}, {"id":"1100", "min":"1", "max":"1", "chance":"1810"}, {"id":"1103", "min":"1", "max":"1", "chance":"2893"}, {"id":"17", "min":"10", "max":"30", "chance":"109915"}, {"id":"1864", "min":"1", "max":"1", "chance":"43966"}, {"id":"1869", "min":"1", "max":"1", "chance":"21983"}, {"id":"2136", "min":"1", "max":"1", "chance":"6466"}, {"id":"57", "min":"80", "max":"108", "chance":"700000"}, {"id":"1060", "min":"1", "max":"1", "chance":"330759"}, {"id":"1129", "min":"1", "max":"1", "chance":"49042"}, {"id":"2005", "min":"1", "max":"1", "chance":"10632"}],

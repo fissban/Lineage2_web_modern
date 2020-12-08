@@ -2,6 +2,7 @@
 	"id": "25502", 
 	"name": "Akata's Thug", 
 	"title": "Raid Fighter", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

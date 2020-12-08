@@ -2,6 +2,7 @@
 	"id": "30066", 
 	"name": "Pabris", 
 	"title": "Grand Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

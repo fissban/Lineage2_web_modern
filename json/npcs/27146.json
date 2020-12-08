@@ -2,6 +2,7 @@
 	"id": "27146", 
 	"name": "Tarlk Raider Triska", 
 	"title": "Quest Monster", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

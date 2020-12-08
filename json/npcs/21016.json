@@ -2,6 +2,7 @@
 	"id": "21016", 
 	"name": "Warlike Tyrant", 
 	"title": "", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"58", "min":"1", "max":"1", "chance":"61"}, {"id":"59", "min":"1", "max":"1", "chance":"87"}, {"id":"349", "min":"1", "max":"1", "chance":"61"}, {"id":"350", "min":"1", "max":"1", "chance":"61"}, {"id":"351", "min":"1", "max":"1", "chance":"55"}, {"id":"378", "min":"1", "max":"1", "chance":"87"}, {"id":"379", "min":"1", "max":"1", "chance":"87"}, {"id":"1864", "min":"1", "max":"1", "chance":"109947"}, {"id":"1869", "min":"1", "max":"1", "chance":"54974"}, {"id":"1880", "min":"1", "max":"1", "chance":"5498"}, {"id":"2191", "min":"1", "max":"1", "chance":"7360"}, {"id":"2276", "min":"1", "max":"1", "chance":"393"}, {"id":"2293", "min":"1", "max":"1", "chance":"306"}, {"id":"5550", "min":"1", "max":"1", "chance":"733"}, {"id":"57", "min":"306", "max":"610", "chance":"700000"}, {"id":"1870", "min":"1", "max":"2", "chance":"723751"}, {"id":"1882", "min":"1", "max":"1", "chance":"160833"}, {"id":"1901", "min":"1", "max":"1", "chance":"99966"}],

@@ -2,6 +2,7 @@
 	"id": "30035", 
 	"name": "Harrys", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

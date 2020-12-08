@@ -2,6 +2,7 @@
 	"id": "27102", 
 	"name": "Pako The Cat", 
 	"title": "Quest Monster", 
+	"level": "38", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "27020", 
 	"name": "Varool Foulclaw", 
 	"title": "Quest Monster", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

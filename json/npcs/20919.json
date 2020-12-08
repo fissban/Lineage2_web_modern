@@ -2,6 +2,7 @@
 	"id": "20919", 
 	"name": "Maille Lizardman", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"24", "min":"1", "max":"1", "chance":"178"}, {"id":"31", "min":"1", "max":"1", "chance":"283"}, {"id":"390", "min":"1", "max":"1", "chance":"178"}, {"id":"412", "min":"1", "max":"1", "chance":"283"}, {"id":"1867", "min":"1", "max":"1", "chance":"23946"}, {"id":"1872", "min":"1", "max":"1", "chance":"23946"}, {"id":"1881", "min":"1", "max":"1", "chance":"2395"}, {"id":"2141", "min":"1", "max":"1", "chance":"3592"}, {"id":"57", "min":"56", "max":"98", "chance":"700000"}, {"id":"734", "min":"1", "max":"1", "chance":"20266"}, {"id":"1865", "min":"1", "max":"1", "chance":"121597"}, {"id":"5220", "min":"1", "max":"1", "chance":"4864"}],

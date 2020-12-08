@@ -2,6 +2,7 @@
 	"id": "20747", 
 	"name": "Roxide", 
 	"title": "", 
+	"level": "32", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"46", "min":"1", "max":"1", "chance":"1067"}, {"id":"627", "min":"1", "max":"1", "chance":"1523"}, {"id":"1867", "min":"1", "max":"1", "chance":"101545"}, {"id":"1872", "min":"1", "max":"1", "chance":"101545"}, {"id":"1875", "min":"1", "max":"1", "chance":"5078"}, {"id":"1881", "min":"1", "max":"1", "chance":"10155"}, {"id":"2183", "min":"1", "max":"1", "chance":"5011"}, {"id":"2274", "min":"1", "max":"1", "chance":"544"}, {"id":"2282", "min":"1", "max":"1", "chance":"544"}, {"id":"57", "min":"411", "max":"824", "chance":"700000"}, {"id":"1900", "min":"1", "max":"1", "chance":"106736"}, {"id":"2024", "min":"1", "max":"1", "chance":"13897"}, {"id":"2203", "min":"1", "max":"1", "chance":"212542"}],

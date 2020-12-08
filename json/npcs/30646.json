@@ -2,6 +2,7 @@
 	"id": "30646", 
 	"name": "Raldo", 
 	"title": "Champion", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "18320", 
 	"name": "Caught Undine", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6530", "min":"1", "max":"1", "chance":"527"}, {"id":"6519", "min":"1", "max":"1", "chance":"131712"}, {"id":"6522", "min":"1", "max":"1", "chance":"87808"}, {"id":"6525", "min":"1", "max":"1", "chance":"109760"}, {"id":"6536", "min":"12", "max":"36", "chance":"109760"}],

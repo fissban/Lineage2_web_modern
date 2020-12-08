@@ -2,6 +2,7 @@
 	"id": "21060", 
 	"name": "Beast Seer", 
 	"title": "", 
+	"level": "59", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"229", "min":"1", "max":"1", "chance":"8"}, {"id":"243", "min":"1", "max":"1", "chance":"8"}, {"id":"1343", "min":"20", "max":"60", "chance":"100000"}, {"id":"1865", "min":"1", "max":"1", "chance":"125000"}, {"id":"1870", "min":"1", "max":"1", "chance":"125000"}, {"id":"1875", "min":"1", "max":"1", "chance":"7407"}, {"id":"1879", "min":"1", "max":"1", "chance":"23810"}, {"id":"4040", "min":"1", "max":"1", "chance":"2882"}, {"id":"4109", "min":"1", "max":"1", "chance":"1739"}, {"id":"4110", "min":"1", "max":"1", "chance":"1739"}, {"id":"4155", "min":"1", "max":"1", "chance":"822"}, {"id":"8728", "min":"1", "max":"1", "chance":"2058"}, {"id":"8738", "min":"1", "max":"1", "chance":"411"}, {"id":"8748", "min":"1", "max":"1", "chance":"411"}, {"id":"57", "min":"1683", "max":"3430", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"1672"}, {"id":"1865", "min":"1", "max":"11", "chance":"835788"}, {"id":"4050", "min":"1", "max":"1", "chance":"258918"}],

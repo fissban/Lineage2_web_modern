@@ -2,6 +2,7 @@
 	"id": "20155", 
 	"name": "Mandragora Sapling", 
 	"title": "", 
+	"level": "23", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"846", "min":"1", "max":"1", "chance":"594"}, {"id":"878", "min":"1", "max":"1", "chance":"888"}, {"id":"909", "min":"1", "max":"1", "chance":"446"}, {"id":"735", "min":"1", "max":"1", "chance":"2261"}, {"id":"1864", "min":"1", "max":"1", "chance":"54254"}, {"id":"1869", "min":"1", "max":"1", "chance":"27127"}, {"id":"1880", "min":"1", "max":"1", "chance":"2713"}, {"id":"1898", "min":"1", "max":"1", "chance":"4877"}, {"id":"3032", "min":"1", "max":"1", "chance":"1086"}, {"id":"5273", "min":"1", "max":"1", "chance":"1086"}, {"id":"6666", "min":"1", "max":"1", "chance":"27127"}, {"id":"57", "min":"147", "max":"260", "chance":"700000"}, {"id":"1804", "min":"1", "max":"1", "chance":"12857"}, {"id":"1865", "min":"1", "max":"1", "chance":"321422"}, {"id":"1898", "min":"1", "max":"1", "chance":"33017"}],

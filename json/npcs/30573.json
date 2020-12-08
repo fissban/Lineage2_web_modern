@@ -2,6 +2,7 @@
 	"id": "30573", 
 	"name": "Vulkus", 
 	"title": "Flame Guardian", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

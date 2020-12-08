@@ -2,6 +2,7 @@
 	"id": "25079", 
 	"name": "Cat's Eye Bandit", 
 	"title": "Raid Boss", 
+	"level": "30", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"318", "min":"1", "max":"1", "chance":"82146"}, {"id":"437", "min":"1", "max":"1", "chance":"171137"}, {"id":"470", "min":"1", "max":"1", "chance":"273819"}, {"id":"955", "min":"3", "max":"9", "chance":"496930"}, {"id":"1944", "min":"53", "max":"157", "chance":"93112"}, {"id":"1945", "min":"192", "max":"576", "chance":"39647"}, {"id":"2042", "min":"12", "max":"36", "chance":"221403"}],

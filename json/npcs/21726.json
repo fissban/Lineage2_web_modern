@@ -2,6 +2,7 @@
 	"id": "21726", 
 	"name": "Purgatory Invader Elite Soldier", 
 	"title": "", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"119", "min":"1", "max":"1", "chance":"167"}, {"id":"855", "min":"1", "max":"1", "chance":"222"}, {"id":"886", "min":"1", "max":"1", "chance":"333"}, {"id":"951", "min":"1", "max":"1", "chance":"2561"}, {"id":"952", "min":"1", "max":"1", "chance":"10101"}, {"id":"1918", "min":"1", "max":"1", "chance":"20332"}, {"id":"1920", "min":"1", "max":"1", "chance":"16064"}, {"id":"2917", "min":"1", "max":"1", "chance":"26965"}, {"id":"8726", "min":"1", "max":"1", "chance":"8130"}, {"id":"8736", "min":"1", "max":"1", "chance":"811"}, {"id":"8756", "min":"1", "max":"1", "chance":"406"}, {"id":"57", "min":"3075", "max":"6264", "chance":"700000"}, {"id":"951", "min":"1", "max":"1", "chance":"13871"}, {"id":"952", "min":"1", "max":"1", "chance":"101724"}, {"id":"4127", "min":"1", "max":"1", "chance":"188844"}],

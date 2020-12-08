@@ -2,6 +2,7 @@
 	"id": "21770", 
 	"name": "Dark Omen Invader Elite Soldier", 
 	"title": "", 
+	"level": "73", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6671", "min":"1", "max":"3", "chance":"250000"}, {"id":"8731", "min":"1", "max":"1", "chance":"41667"}, {"id":"8741", "min":"1", "max":"1", "chance":"10870"}, {"id":"8751", "min":"1", "max":"1", "chance":"2801"}, {"id":"57", "min":"5746", "max":"11699", "chance":"700000"}, {"id":"1894", "min":"1", "max":"2", "chance":"500270"}, {"id":"6671", "min":"1", "max":"3", "chance":"792095"}],

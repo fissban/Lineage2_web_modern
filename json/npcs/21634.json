@@ -2,6 +2,7 @@
 	"id": "21634", 
 	"name": "Crimson Doll Blader", 
 	"title": "", 
+	"level": "53", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"135", "min":"1", "max":"1", "chance":"14"}, {"id":"5286", "min":"1", "max":"1", "chance":"14"}, {"id":"1806", "min":"1", "max":"1", "chance":"558"}, {"id":"1894", "min":"1", "max":"1", "chance":"9788"}, {"id":"2115", "min":"1", "max":"1", "chance":"1918"}, {"id":"4039", "min":"1", "max":"1", "chance":"9299"}, {"id":"4041", "min":"1", "max":"1", "chance":"2426"}, {"id":"4044", "min":"1", "max":"1", "chance":"9299"}, {"id":"4134", "min":"1", "max":"1", "chance":"2146"}, {"id":"5530", "min":"1", "max":"1", "chance":"1920"}, {"id":"8726", "min":"1", "max":"1", "chance":"6667"}, {"id":"57", "min":"1830", "max":"3717", "chance":"700000"}, {"id":"1806", "min":"1", "max":"1", "chance":"9066"}, {"id":"1918", "min":"1", "max":"1", "chance":"196309"}, {"id":"4039", "min":"1", "max":"1", "chance":"151093"}],

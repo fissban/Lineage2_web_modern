@@ -2,6 +2,7 @@
 	"id": "21284", 
 	"name": "Bandersnatch", 
 	"title": "", 
+	"level": "69", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"80", "min":"1", "max":"1", "chance":"2"}, {"id":"150", "min":"1", "max":"1", "chance":"2"}, {"id":"730", "min":"1", "max":"1", "chance":"64"}, {"id":"1865", "min":"1", "max":"1", "chance":"100000"}, {"id":"1870", "min":"1", "max":"1", "chance":"100000"}, {"id":"1875", "min":"1", "max":"1", "chance":"5747"}, {"id":"1879", "min":"1", "max":"1", "chance":"15873"}, {"id":"4040", "min":"1", "max":"1", "chance":"1623"}, {"id":"5456", "min":"1", "max":"1", "chance":"55"}, {"id":"5547", "min":"1", "max":"1", "chance":"387"}, {"id":"5548", "min":"1", "max":"1", "chance":"387"}, {"id":"8730", "min":"1", "max":"1", "chance":"922"}, {"id":"8740", "min":"1", "max":"1", "chance":"289"}, {"id":"8750", "min":"1", "max":"1", "chance":"14"}, {"id":"57", "min":"622", "max":"1263", "chance":"700000"}, {"id":"729", "min":"1", "max":"1", "chance":"171"}, {"id":"4040", "min":"1", "max":"1", "chance":"30805"}, {"id":"5536", "min":"1", "max":"1", "chance":"5240"}],

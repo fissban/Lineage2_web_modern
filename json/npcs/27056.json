@@ -2,6 +2,7 @@
 	"id": "27056", 
 	"name": "Durka Spirit", 
 	"title": "Quest Monster", 
+	"level": "18", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

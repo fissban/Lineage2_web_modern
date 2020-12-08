@@ -2,6 +2,7 @@
 	"id": "21506", 
 	"name": "Alpine Cougar", 
 	"title": "", 
+	"level": "69", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"3990", "max":"7934", "chance":"700000"}, {"id":"5450", "min":"1", "max":"1", "chance":"3673"}, {"id":"5456", "min":"1", "max":"1", "chance":"3673"}, {"id":"5535", "min":"1", "max":"1", "chance":"33842"}],

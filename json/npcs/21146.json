@@ -2,6 +2,7 @@
 	"id": "21146", 
 	"name": "Grave Keeper Dark Horror", 
 	"title": "", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"88", "min":"1", "max":"1", "chance":"17"}, {"id":"90", "min":"1", "max":"1", "chance":"17"}, {"id":"158", "min":"1", "max":"1", "chance":"17"}, {"id":"169", "min":"1", "max":"1", "chance":"17"}, {"id":"172", "min":"1", "max":"1", "chance":"17"}, {"id":"1805", "min":"1", "max":"1", "chance":"489"}, {"id":"1867", "min":"1", "max":"1", "chance":"200000"}, {"id":"1872", "min":"1", "max":"1", "chance":"200000"}, {"id":"1875", "min":"1", "max":"1", "chance":"12048"}, {"id":"1881", "min":"1", "max":"1", "chance":"20000"}, {"id":"2031", "min":"1", "max":"1", "chance":"1187"}, {"id":"2032", "min":"1", "max":"1", "chance":"1084"}, {"id":"2035", "min":"1", "max":"1", "chance":"1187"}, {"id":"2036", "min":"1", "max":"1", "chance":"1187"}, {"id":"2037", "min":"1", "max":"1", "chance":"1187"}, {"id":"2990", "min":"1", "max":"1", "chance":"10753"}, {"id":"7643", "min":"1", "max":"1", "chance":"109917"}, {"id":"7644", "min":"1", "max":"1", "chance":"109917"}, {"id":"57", "min":"951", "max":"1898", "chance":"700000"}, {"id":"1894", "min":"1", "max":"1", "chance":"79584"}, {"id":"1903", "min":"1", "max":"1", "chance":"378338"}, {"id":"2145", "min":"1", "max":"1", "chance":"162010"}],

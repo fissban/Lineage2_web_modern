@@ -2,6 +2,7 @@
 	"id": "30709", 
 	"name": "Norton", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

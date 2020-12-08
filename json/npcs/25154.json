@@ -2,6 +2,7 @@
 	"id": "25154", 
 	"name": "Whip of Shadar", 
 	"title": "Raid Fighter", 
+	"level": "34", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6036", "min":"1", "max":"1", "chance":"11307"}],

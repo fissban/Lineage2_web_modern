@@ -2,6 +2,7 @@
 	"id": "27144", 
 	"name": "Tarlk Raider Athu", 
 	"title": "Quest Monster", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

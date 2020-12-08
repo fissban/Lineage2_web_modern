@@ -2,6 +2,7 @@
 	"id": "30217", 
 	"name": "Berros", 
 	"title": "Sentinel", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "21768", 
 	"name": "Dark Omen Invader Warrior", 
 	"title": "", 
+	"level": "73", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"235", "min":"1", "max":"1", "chance":"24"}, {"id":"1866", "min":"1", "max":"3", "chance":"90909"}, {"id":"1871", "min":"1", "max":"3", "chance":"200000"}, {"id":"1877", "min":"1", "max":"1", "chance":"18868"}, {"id":"4040", "min":"1", "max":"1", "chance":"8475"}, {"id":"4041", "min":"1", "max":"1", "chance":"3817"}, {"id":"5162", "min":"1", "max":"1", "chance":"356"}, {"id":"5536", "min":"1", "max":"1", "chance":"7385"}, {"id":"8731", "min":"1", "max":"1", "chance":"4878"}, {"id":"8741", "min":"1", "max":"1", "chance":"533"}, {"id":"8751", "min":"1", "max":"1", "chance":"356"}, {"id":"57", "min":"5923", "max":"12058", "chance":"700000"}, {"id":"5535", "min":"1", "max":"1", "chance":"50145"}, {"id":"6337", "min":"1", "max":"1", "chance":"75366"}, {"id":"6339", "min":"1", "max":"1", "chance":"113048"}],

@@ -2,6 +2,7 @@
 	"id": "27050", 
 	"name": "Picubo", 
 	"title": "Orc Betrayer", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "25464", 
 	"name": "Garangky Guard Captain", 
 	"title": "Raid Fighter", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1539", "min":"1", "max":"1", "chance":"196267"}],

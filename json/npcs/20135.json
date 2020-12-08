@@ -2,6 +2,7 @@
 	"id": "20135", 
 	"name": "Alligator", 
 	"title": "", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"261", "min":"1", "max":"1", "chance":"29"}, {"id":"1867", "min":"1", "max":"1", "chance":"83333"}, {"id":"1872", "min":"1", "max":"1", "chance":"83333"}, {"id":"1882", "min":"1", "max":"1", "chance":"15152"}, {"id":"1894", "min":"1", "max":"1", "chance":"1972"}, {"id":"2039", "min":"1", "max":"1", "chance":"2029"}, {"id":"2286", "min":"1", "max":"1", "chance":"272"}, {"id":"2296", "min":"1", "max":"1", "chance":"272"}, {"id":"2985", "min":"1", "max":"1", "chance":"6711"}, {"id":"57", "min":"325", "max":"649", "chance":"700000"}, {"id":"1882", "min":"1", "max":"1", "chance":"172318"}, {"id":"2038", "min":"1", "max":"1", "chance":"8193"}, {"id":"5231", "min":"1", "max":"1", "chance":"55388"}],

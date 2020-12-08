@@ -2,6 +2,7 @@
 	"id": "27114", 
 	"name": "Succubus Queen", 
 	"title": "Quest Monster", 
+	"level": "34", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

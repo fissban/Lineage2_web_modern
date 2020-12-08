@@ -2,6 +2,7 @@
 	"id": "27024", 
 	"name": "Undead Priest", 
 	"title": "Quest Monster", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

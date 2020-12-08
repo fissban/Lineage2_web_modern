@@ -2,6 +2,7 @@
 	"id": "20958", 
 	"name": "Death Agent", 
 	"title": "", 
+	"level": "68", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5289", "min":"1", "max":"1", "chance":"9"}, {"id":"5292", "min":"1", "max":"1", "chance":"13"}, {"id":"5294", "min":"1", "max":"1", "chance":"9"}, {"id":"1867", "min":"1", "max":"1", "chance":"76923"}, {"id":"1872", "min":"1", "max":"1", "chance":"76923"}, {"id":"1875", "min":"1", "max":"1", "chance":"3610"}, {"id":"1881", "min":"1", "max":"1", "chance":"9346"}, {"id":"4041", "min":"1", "max":"1", "chance":"317"}, {"id":"5156", "min":"1", "max":"1", "chance":"238"}, {"id":"5494", "min":"1", "max":"1", "chance":"1585"}, {"id":"5525", "min":"1", "max":"1", "chance":"1167"}, {"id":"5526", "min":"1", "max":"1", "chance":"1167"}, {"id":"8730", "min":"1", "max":"1", "chance":"832"}, {"id":"8740", "min":"1", "max":"1", "chance":"52"}, {"id":"57", "min":"618", "max":"1257", "chance":"700000"}, {"id":"1807", "min":"1", "max":"1", "chance":"2044"}, {"id":"5478", "min":"1", "max":"1", "chance":"12889"}],

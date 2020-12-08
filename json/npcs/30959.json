@@ -2,6 +2,7 @@
 	"id": "30959", 
 	"name": "Barbado", 
 	"title": "Musician", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

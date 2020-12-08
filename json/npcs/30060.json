@@ -2,6 +2,7 @@
 	"id": "30060", 
 	"name": "Sabrin", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

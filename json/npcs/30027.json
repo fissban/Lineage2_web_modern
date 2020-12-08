@@ -2,6 +2,7 @@
 	"id": "30027", 
 	"name": "Gwinter", 
 	"title": "Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

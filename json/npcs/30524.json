@@ -2,6 +2,7 @@
 	"id": "30524", 
 	"name": "Pippi", 
 	"title": "Collector", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "20649", 
 	"name": "Hamrut", 
 	"title": "", 
+	"level": "58", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"78", "min":"1", "max":"1", "chance":"4"}, {"id":"142", "min":"1", "max":"1", "chance":"4"}, {"id":"148", "min":"1", "max":"1", "chance":"4"}, {"id":"1832", "min":"1", "max":"1", "chance":"83333"}, {"id":"1868", "min":"1", "max":"1", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"28571"}, {"id":"1889", "min":"1", "max":"1", "chance":"6579"}, {"id":"4044", "min":"1", "max":"1", "chance":"2488"}, {"id":"4104", "min":"1", "max":"1", "chance":"761"}, {"id":"4107", "min":"1", "max":"1", "chance":"750"}, {"id":"4108", "min":"1", "max":"1", "chance":"750"}, {"id":"4194", "min":"1", "max":"1", "chance":"73"}, {"id":"4970", "min":"1", "max":"1", "chance":"73"}, {"id":"5549", "min":"1", "max":"1", "chance":"7194"}, {"id":"8311", "min":"1", "max":"1", "chance":"14"}, {"id":"8727", "min":"1", "max":"1", "chance":"1391"}, {"id":"8737", "min":"1", "max":"1", "chance":"585"}, {"id":"57", "min":"1088", "max":"2217", "chance":"700000"}, {"id":"2112", "min":"1", "max":"1", "chance":"13082"}, {"id":"4133", "min":"1", "max":"1", "chance":"12988"}, {"id":"5549", "min":"1", "max":"2", "chance":"270151"}],

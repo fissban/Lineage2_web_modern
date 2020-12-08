@@ -2,6 +2,7 @@
 	"id": "20838", 
 	"name": "Bloody Bat", 
 	"title": "", 
+	"level": "45", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"852", "min":"1", "max":"1", "chance":"160"}, {"id":"883", "min":"1", "max":"1", "chance":"241"}, {"id":"915", "min":"1", "max":"1", "chance":"120"}, {"id":"1866", "min":"1", "max":"1", "chance":"82436"}, {"id":"1871", "min":"1", "max":"1", "chance":"123654"}, {"id":"1885", "min":"1", "max":"1", "chance":"10305"}, {"id":"1908", "min":"1", "max":"1", "chance":"11709"}, {"id":"1909", "min":"1", "max":"1", "chance":"16698"}, {"id":"1910", "min":"1", "max":"1", "chance":"9311"}, {"id":"3004", "min":"1", "max":"1", "chance":"7681"}, {"id":"4041", "min":"1", "max":"1", "chance":"1076"}, {"id":"5220", "min":"1", "max":"1", "chance":"4947"}, {"id":"57", "min":"633", "max":"1287", "chance":"700000"}, {"id":"1866", "min":"1", "max":"3", "chance":"523274"}, {"id":"1964", "min":"1", "max":"1", "chance":"126854"}, {"id":"2216", "min":"1", "max":"1", "chance":"64869"}],

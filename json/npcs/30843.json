@@ -2,6 +2,7 @@
 	"id": "30843", 
 	"name": "Romp", 
 	"title": "Warehouse Keeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

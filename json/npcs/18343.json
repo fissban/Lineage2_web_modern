@@ -2,6 +2,7 @@
 	"id": "18343", 
 	"name": "Gatekeeper Zombie", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

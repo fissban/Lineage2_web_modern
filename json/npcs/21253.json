@@ -2,6 +2,7 @@
 	"id": "21253", 
 	"name": "Crypt Preacher", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5304", "min":"1", "max":"1", "chance":"22"}, {"id":"5305", "min":"1", "max":"1", "chance":"36"}, {"id":"5308", "min":"1", "max":"1", "chance":"15"}, {"id":"5485", "min":"1", "max":"1", "chance":"3200"}, {"id":"5486", "min":"1", "max":"1", "chance":"2252"}, {"id":"5489", "min":"1", "max":"1", "chance":"5022"}, {"id":"57", "min":"3110", "max":"6350", "chance":"700000"}, {"id":"1807", "min":"1", "max":"1", "chance":"10305"}, {"id":"3035", "min":"1", "max":"1", "chance":"10305"}, {"id":"5479", "min":"1", "max":"2", "chance":"45733"}],

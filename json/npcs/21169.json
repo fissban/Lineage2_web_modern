@@ -2,6 +2,7 @@
 	"id": "21169", 
 	"name": "Lith Guard", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6360", "min":"128", "max":"259", "chance":"700000"}, {"id":"6362", "min":"24", "max":"44", "chance":"700000"}, {"id":"605", "min":"1", "max":"1", "chance":"2388"}, {"id":"1123", "min":"1", "max":"1", "chance":"2388"}, {"id":"1864", "min":"1", "max":"3", "chance":"159015"}, {"id":"1869", "min":"1", "max":"1", "chance":"159015"}, {"id":"1880", "min":"1", "max":"1", "chance":"15902"}, {"id":"2153", "min":"1", "max":"1", "chance":"24731"}, {"id":"5550", "min":"1", "max":"1", "chance":"2121"}, {"id":"1061", "min":"1", "max":"4", "chance":"881783"}, {"id":"1900", "min":"1", "max":"1", "chance":"159184"}, {"id":"2153", "min":"1", "max":"1", "chance":"226274"}],

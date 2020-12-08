@@ -2,6 +2,7 @@
 	"id": "27279", 
 	"name": "Cursed Kesadein", 
 	"title": "Quest Monster", 
+	"level": "81", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

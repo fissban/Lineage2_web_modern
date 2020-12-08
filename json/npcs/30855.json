@@ -2,6 +2,7 @@
 	"id": "30855", 
 	"name": "Desmond", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

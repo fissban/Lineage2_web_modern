@@ -2,6 +2,7 @@
 	"id": "21618", 
 	"name": "Fiend Archer", 
 	"title": "", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"282", "min":"1", "max":"1", "chance":"15"}, {"id":"285", "min":"1", "max":"1", "chance":"15"}, {"id":"952", "min":"1", "max":"1", "chance":"1401"}, {"id":"1864", "min":"1", "max":"1", "chance":"210109"}, {"id":"1869", "min":"1", "max":"1", "chance":"105055"}, {"id":"1880", "min":"1", "max":"1", "chance":"10506"}, {"id":"2085", "min":"1", "max":"1", "chance":"1454"}, {"id":"2086", "min":"1", "max":"1", "chance":"1454"}, {"id":"2348", "min":"1", "max":"1", "chance":"245"}, {"id":"2351", "min":"1", "max":"1", "chance":"220"}, {"id":"4043", "min":"1", "max":"1", "chance":"3502"}, {"id":"5550", "min":"1", "max":"1", "chance":"1401"}, {"id":"57", "min":"765", "max":"1555", "chance":"700000"}, {"id":"951", "min":"1", "max":"1", "chance":"3449"}, {"id":"1911", "min":"1", "max":"1", "chance":"141079"}, {"id":"4438", "min":"1", "max":"1", "chance":"13527"}],

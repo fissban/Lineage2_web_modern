@@ -2,6 +2,7 @@
 	"id": "20505", 
 	"name": "Ruin Bat", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"217", "min":"1", "max":"1", "chance":"118"}, {"id":"218", "min":"1", "max":"1", "chance":"118"}, {"id":"1817", "min":"1", "max":"1", "chance":"6386"}, {"id":"1864", "min":"1", "max":"1", "chance":"63854"}, {"id":"1869", "min":"1", "max":"1", "chance":"31927"}, {"id":"1878", "min":"1", "max":"1", "chance":"12771"}, {"id":"5273", "min":"1", "max":"1", "chance":"1278"}, {"id":"57", "min":"125", "max":"217", "chance":"700000"}, {"id":"734", "min":"1", "max":"1", "chance":"45036"}, {"id":"1800", "min":"1", "max":"1", "chance":"84973"}, {"id":"1869", "min":"1", "max":"1", "chance":"270215"}],

@@ -2,6 +2,7 @@
 	"id": "30723", 
 	"name": "Roy", 
 	"title": "Captain", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

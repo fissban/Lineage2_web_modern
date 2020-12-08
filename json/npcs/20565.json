@@ -2,6 +2,7 @@
 	"id": "20565", 
 	"name": "Enchanted Stone Golem", 
 	"title": "", 
+	"level": "42", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"262", "min":"1", "max":"1", "chance":"27"}, {"id":"1875", "min":"1", "max":"1", "chance":"5025"}, {"id":"1879", "min":"1", "max":"1", "chance":"13158"}, {"id":"1885", "min":"1", "max":"1", "chance":"6944"}, {"id":"2053", "min":"1", "max":"1", "chance":"1952"}, {"id":"2303", "min":"1", "max":"1", "chance":"2096"}, {"id":"2988", "min":"1", "max":"1", "chance":"2994"}, {"id":"5549", "min":"1", "max":"1", "chance":"7752"}, {"id":"5550", "min":"1", "max":"1", "chance":"1247"}, {"id":"3053", "min":"1", "max":"1", "chance":"22134"}, {"id":"3056", "min":"1", "max":"1", "chance":"22134"}, {"id":"3058", "min":"1", "max":"1", "chance":"22134"}, {"id":"3431", "min":"1", "max":"1", "chance":"22134"}, {"id":"57", "min":"384", "max":"777", "chance":"700000"}, {"id":"1865", "min":"1", "max":"3", "chance":"940260"}, {"id":"3954", "min":"1", "max":"1", "chance":"3134"}, {"id":"4470", "min":"1", "max":"1", "chance":"5373"}],

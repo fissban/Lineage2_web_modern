@@ -2,6 +2,7 @@
 	"id": "21076", 
 	"name": "Bathin's Knight", 
 	"title": "", 
+	"level": "62", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2398", "min":"1", "max":"1", "chance":"14"}, {"id":"2399", "min":"1", "max":"1", "chance":"14"}, {"id":"2403", "min":"1", "max":"1", "chance":"22"}, {"id":"2404", "min":"1", "max":"1", "chance":"22"}, {"id":"1830", "min":"1", "max":"1", "chance":"52632"}, {"id":"1866", "min":"1", "max":"1", "chance":"125000"}, {"id":"1871", "min":"1", "max":"1", "chance":"142857"}, {"id":"1877", "min":"1", "max":"1", "chance":"9524"}, {"id":"4040", "min":"1", "max":"1", "chance":"3185"}, {"id":"4041", "min":"1", "max":"1", "chance":"1875"}, {"id":"4084", "min":"1", "max":"1", "chance":"2809"}, {"id":"4085", "min":"1", "max":"1", "chance":"2809"}, {"id":"4086", "min":"1", "max":"1", "chance":"3793"}, {"id":"4087", "min":"1", "max":"1", "chance":"3793"}, {"id":"8729", "min":"1", "max":"1", "chance":"1203"}, {"id":"8739", "min":"1", "max":"1", "chance":"1590"}, {"id":"57", "min":"1771", "max":"3588", "chance":"700000"}, {"id":"4052", "min":"1", "max":"1", "chance":"155045"}, {"id":"4053", "min":"1", "max":"1", "chance":"187709"}, {"id":"5230", "min":"1", "max":"1", "chance":"5839"}],

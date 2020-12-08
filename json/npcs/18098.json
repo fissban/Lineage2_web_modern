@@ -2,6 +2,7 @@
 	"id": "18098", 
 	"name": "Dark Omen Offering Saint", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"902", "max":"1804", "chance":"700000"}],

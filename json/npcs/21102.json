@@ -2,6 +2,7 @@
 	"id": "21102", 
 	"name": "Watchman of the Plains", 
 	"title": "", 
+	"level": "30", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"433", "min":"1", "max":"1", "chance":"62"}, {"id":"434", "min":"1", "max":"1", "chance":"62"}, {"id":"435", "min":"1", "max":"1", "chance":"62"}, {"id":"466", "min":"1", "max":"1", "chance":"99"}, {"id":"467", "min":"1", "max":"1", "chance":"99"}, {"id":"468", "min":"1", "max":"1", "chance":"99"}, {"id":"956", "min":"1", "max":"1", "chance":"414"}, {"id":"1874", "min":"1", "max":"1", "chance":"3268"}, {"id":"1878", "min":"1", "max":"1", "chance":"19231"}, {"id":"1884", "min":"1", "max":"1", "chance":"31250"}, {"id":"1889", "min":"1", "max":"1", "chance":"4098"}, {"id":"1933", "min":"1", "max":"1", "chance":"3628"}, {"id":"1936", "min":"1", "max":"1", "chance":"2523"}, {"id":"5220", "min":"1", "max":"1", "chance":"1637"}, {"id":"57", "min":"190", "max":"381", "chance":"700000"}, {"id":"1900", "min":"1", "max":"1", "chance":"49380"}, {"id":"2153", "min":"1", "max":"1", "chance":"70191"}, {"id":"2183", "min":"1", "max":"1", "chance":"29693"}],

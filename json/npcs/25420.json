@@ -2,6 +2,7 @@
 	"id": "25420", 
 	"name": "Orfen's Handmaiden", 
 	"title": "Raid Boss", 
+	"level": "48", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"266", "min":"1", "max":"1", "chance":"22715"}, {"id":"442", "min":"1", "max":"1", "chance":"43377"}, {"id":"473", "min":"1", "max":"1", "chance":"69170"}, {"id":"1988", "min":"8", "max":"22", "chance":"297261"}, {"id":"1989", "min":"24", "max":"72", "chance":"145711"}, {"id":"2120", "min":"3", "max":"9", "chance":"557368"}, {"id":"952", "min":"3", "max":"9", "chance":"501374"}, {"id":"4604", "min":"2", "max":"6", "chance":"125344"}, {"id":"4605", "min":"3", "max":"7", "chance":"100275"}, {"id":"4606", "min":"3", "max":"9", "chance":"83563"}, {"id":"8164", "min":"9", "max":"9", "chance":"250000"}, {"id":"8176", "min":"2", "max":"2", "chance":"250000"}],

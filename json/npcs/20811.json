@@ -2,6 +2,7 @@
 	"id": "20811", 
 	"name": "Ghastly Warrior", 
 	"title": "", 
+	"level": "61", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"78", "min":"1", "max":"1", "chance":"6"}, {"id":"142", "min":"1", "max":"1", "chance":"6"}, {"id":"148", "min":"1", "max":"1", "chance":"6"}, {"id":"1865", "min":"1", "max":"1", "chance":"125000"}, {"id":"1870", "min":"1", "max":"1", "chance":"125000"}, {"id":"1875", "min":"1", "max":"1", "chance":"10000"}, {"id":"1879", "min":"1", "max":"1", "chance":"23256"}, {"id":"4040", "min":"1", "max":"1", "chance":"2933"}, {"id":"4104", "min":"1", "max":"1", "chance":"1345"}, {"id":"4107", "min":"1", "max":"1", "chance":"1324"}, {"id":"4108", "min":"1", "max":"1", "chance":"1324"}, {"id":"4167", "min":"1", "max":"1", "chance":"1200"}, {"id":"4401", "min":"1", "max":"1", "chance":"133"}, {"id":"4619", "min":"1", "max":"1", "chance":"133"}, {"id":"6670", "min":"1", "max":"1", "chance":"23256"}, {"id":"8728", "min":"1", "max":"1", "chance":"1733"}, {"id":"8738", "min":"1", "max":"1", "chance":"933"}, {"id":"8748", "min":"1", "max":"1", "chance":"118"}, {"id":"57", "min":"1929", "max":"3913", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"1909"}, {"id":"1875", "min":"1", "max":"2", "chance":"318218"}, {"id":"4040", "min":"1", "max":"1", "chance":"95465"}],

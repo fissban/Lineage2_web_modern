@@ -2,6 +2,7 @@
 	"id": "20014", 
 	"name": "Felim Lizardman Warrior", 
 	"title": "", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2", "min":"1", "max":"1", "chance":"54"}, {"id":"120", "min":"1", "max":"1", "chance":"54"}, {"id":"121", "min":"1", "max":"1", "chance":"54"}, {"id":"1800", "min":"1", "max":"1", "chance":"15239"}, {"id":"1867", "min":"1", "max":"1", "chance":"64612"}, {"id":"1872", "min":"1", "max":"1", "chance":"64612"}, {"id":"2012", "min":"1", "max":"1", "chance":"758"}, {"id":"57", "min":"120", "max":"193", "chance":"700000"}, {"id":"1867", "min":"1", "max":"2", "chance":"328104"}, {"id":"2254", "min":"1", "max":"1", "chance":"10085"}],

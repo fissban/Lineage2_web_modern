@@ -2,6 +2,7 @@
 	"id": "30330", 
 	"name": "Sidra", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

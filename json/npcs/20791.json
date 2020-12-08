@@ -2,6 +2,7 @@
 	"id": "20791", 
 	"name": "Crokian Warrior", 
 	"title": "", 
+	"level": "38", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"352", "min":"1", "max":"1", "chance":"84"}, {"id":"2377", "min":"1", "max":"1", "chance":"134"}, {"id":"2378", "min":"1", "max":"1", "chance":"134"}, {"id":"1876", "min":"1", "max":"1", "chance":"29412"}, {"id":"1877", "min":"1", "max":"1", "chance":"4219"}, {"id":"1880", "min":"1", "max":"1", "chance":"9804"}, {"id":"1881", "min":"1", "max":"1", "chance":"16129"}, {"id":"1882", "min":"1", "max":"1", "chance":"30303"}, {"id":"1941", "min":"1", "max":"1", "chance":"4964"}, {"id":"2198", "min":"1", "max":"1", "chance":"4219"}, {"id":"2918", "min":"1", "max":"1", "chance":"7405"}, {"id":"2919", "min":"1", "max":"1", "chance":"7405"}, {"id":"3020", "min":"1", "max":"1", "chance":"595"}, {"id":"57", "min":"613", "max":"1223", "chance":"700000"}, {"id":"1825", "min":"1", "max":"1", "chance":"103491"}, {"id":"2041", "min":"1", "max":"1", "chance":"16162"}, {"id":"2196", "min":"1", "max":"1", "chance":"59380"}],

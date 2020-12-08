@@ -2,6 +2,7 @@
 	"id": "30907", 
 	"name": "Minevia", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

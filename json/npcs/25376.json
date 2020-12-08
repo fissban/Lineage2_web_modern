@@ -2,6 +2,7 @@
 	"id": "25376", 
 	"name": "Warrior Zombie of Farakelsus", 
 	"title": "Raid Fighter", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"17", "min":"10", "max":"30", "chance":"795667"}],

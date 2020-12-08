@@ -2,6 +2,7 @@
 	"id": "18102", 
 	"name": "Offering of Forbidden Path Warrior", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"57", "min":"902", "max":"1804", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "20375", 
 	"name": "Baranka's Escort", 
 	"title": "", 
+	"level": "21", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"16", "min":"1", "max":"1", "chance":"117"}, {"id":"1865", "min":"1", "max":"1", "chance":"28600"}, {"id":"1870", "min":"1", "max":"1", "chance":"28600"}, {"id":"1879", "min":"1", "max":"1", "chance":"4767"}, {"id":"5158", "min":"1", "max":"1", "chance":"1144"}, {"id":"57", "min":"110", "max":"197", "chance":"700000"}, {"id":"1804", "min":"1", "max":"1", "chance":"9682"}, {"id":"2014", "min":"1", "max":"1", "chance":"2782"}, {"id":"2257", "min":"1", "max":"1", "chance":"5918"}],

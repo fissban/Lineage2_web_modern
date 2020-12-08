@@ -2,6 +2,7 @@
 	"id": "30084", 
 	"name": "Graham", 
 	"title": "Warrior-use Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "25181", 
 	"name": "Karum's Warrior", 
 	"title": "Raid Fighter", 
+	"level": "59", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"60", "max":"180", "chance":"341600"}],

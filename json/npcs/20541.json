@@ -2,6 +2,7 @@
 	"id": "20541", 
 	"name": "Ore Bat", 
 	"title": "", 
+	"level": "17", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"272", "min":"1", "max":"1", "chance":"89"}, {"id":"734", "min":"1", "max":"1", "chance":"2499"}, {"id":"1864", "min":"1", "max":"1", "chance":"29987"}, {"id":"1865", "min":"1", "max":"1", "chance":"14994"}, {"id":"1866", "min":"1", "max":"1", "chance":"9996"}, {"id":"1868", "min":"1", "max":"1", "chance":"29987"}, {"id":"1873", "min":"1", "max":"1", "chance":"5998"}, {"id":"2013", "min":"1", "max":"1", "chance":"1295"}, {"id":"2143", "min":"1", "max":"1", "chance":"2999"}, {"id":"5158", "min":"1", "max":"1", "chance":"600"}, {"id":"57", "min":"99", "max":"159", "chance":"700000"}, {"id":"1897", "min":"1", "max":"1", "chance":"48342"}, {"id":"1925", "min":"1", "max":"1", "chance":"133138"}, {"id":"2173", "min":"1", "max":"1", "chance":"55023"}],

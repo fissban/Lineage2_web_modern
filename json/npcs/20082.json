@@ -2,6 +2,7 @@
 	"id": "20082", 
 	"name": "Ant Recruit", 
 	"title": "", 
+	"level": "33", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"63", "min":"1", "max":"1", "chance":"145"}, {"id":"553", "min":"1", "max":"1", "chance":"145"}, {"id":"2422", "min":"1", "max":"1", "chance":"145"}, {"id":"2423", "min":"1", "max":"1", "chance":"145"}, {"id":"2446", "min":"1", "max":"1", "chance":"145"}, {"id":"2447", "min":"1", "max":"1", "chance":"145"}, {"id":"1832", "min":"1", "max":"1", "chance":"35730"}, {"id":"1875", "min":"1", "max":"1", "chance":"2144"}, {"id":"1879", "min":"1", "max":"1", "chance":"5360"}, {"id":"1885", "min":"1", "max":"1", "chance":"2680"}, {"id":"1940", "min":"1", "max":"1", "chance":"5485"}, {"id":"2154", "min":"1", "max":"1", "chance":"3443"}, {"id":"2190", "min":"1", "max":"1", "chance":"2297"}, {"id":"5549", "min":"1", "max":"1", "chance":"3216"}, {"id":"5550", "min":"1", "max":"1", "chance":"429"}, {"id":"57", "min":"204", "max":"409", "chance":"700000"}, {"id":"1884", "min":"1", "max":"1", "chance":"297748"}, {"id":"1901", "min":"1", "max":"1", "chance":"66829"}, {"id":"2275", "min":"1", "max":"1", "chance":"3456"}],

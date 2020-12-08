@@ -2,6 +2,7 @@
 	"id": "27258", 
 	"name": "Archangel Iconoclasis", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

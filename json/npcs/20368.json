@@ -2,6 +2,7 @@
 	"id": "20368", 
 	"name": "Grave Keeper", 
 	"title": "", 
+	"level": "13", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"271", "min":"1", "max":"1", "chance":"440"}, {"id":"1793", "min":"1", "max":"1", "chance":"2919"}, {"id":"1866", "min":"1", "max":"1", "chance":"26460"}, {"id":"1871", "min":"1", "max":"1", "chance":"39690"}, {"id":"57", "min":"106", "max":"150", "chance":"700000"}, {"id":"1793", "min":"1", "max":"1", "chance":"14820"}, {"id":"1833", "min":"1", "max":"1", "chance":"537455"}, {"id":"1873", "min":"1", "max":"1", "chance":"80618"}],

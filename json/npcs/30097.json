@@ -2,6 +2,7 @@
 	"id": "30097", 
 	"name": "Galladucci", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

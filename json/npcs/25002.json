@@ -2,6 +2,7 @@
 	"id": "25002", 
 	"name": "Guard of Kutus", 
 	"title": "Raid Fighter", 
+	"level": "22", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"17", "min":"10", "max":"30", "chance":"919333"}],

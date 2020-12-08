@@ -2,6 +2,7 @@
 	"id": "30006", 
 	"name": "Roxxy", 
 	"title": "Gatekeeper", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

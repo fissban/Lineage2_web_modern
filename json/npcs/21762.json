@@ -2,6 +2,7 @@
 	"id": "21762", 
 	"name": "Dark Omen Invader Berserker", 
 	"title": "", 
+	"level": "75", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"269", "min":"1", "max":"1", "chance":"12"}, {"id":"1867", "min":"1", "max":"3", "chance":"166667"}, {"id":"1872", "min":"1", "max":"1", "chance":"333333"}, {"id":"1882", "min":"1", "max":"1", "chance":"58824"}, {"id":"1894", "min":"1", "max":"1", "chance":"10526"}, {"id":"4042", "min":"1", "max":"1", "chance":"3953"}, {"id":"5277", "min":"1", "max":"1", "chance":"159"}, {"id":"5539", "min":"1", "max":"1", "chance":"3612"}, {"id":"8731", "min":"1", "max":"1", "chance":"807"}, {"id":"57", "min":"2918", "max":"5954", "chance":"700000"}, {"id":"5529", "min":"1", "max":"1", "chance":"19889"}, {"id":"5533", "min":"1", "max":"1", "chance":"19885"}, {"id":"6901", "min":"1", "max":"1", "chance":"7249"}],

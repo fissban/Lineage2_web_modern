@@ -2,6 +2,7 @@
 	"id": "27145", 
 	"name": "Tarlk Raider Lanka", 
 	"title": "Quest Monster", 
+	"level": "48", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

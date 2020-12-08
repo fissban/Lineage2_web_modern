@@ -2,6 +2,7 @@
 	"id": "21529", 
 	"name": "Soul of Splendor", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2398", "min":"1", "max":"1", "chance":"8"}, {"id":"2399", "min":"1", "max":"1", "chance":"8"}, {"id":"2403", "min":"1", "max":"1", "chance":"13"}, {"id":"2404", "min":"1", "max":"1", "chance":"13"}, {"id":"1832", "min":"1", "max":"1", "chance":"83333"}, {"id":"1867", "min":"1", "max":"1", "chance":"111111"}, {"id":"1872", "min":"1", "max":"1", "chance":"100000"}, {"id":"1882", "min":"1", "max":"1", "chance":"17857"}, {"id":"1894", "min":"1", "max":"1", "chance":"2950"}, {"id":"4042", "min":"1", "max":"1", "chance":"492"}, {"id":"4084", "min":"1", "max":"1", "chance":"1587"}, {"id":"4085", "min":"1", "max":"1", "chance":"1587"}, {"id":"4086", "min":"1", "max":"1", "chance":"2143"}, {"id":"4087", "min":"1", "max":"1", "chance":"2143"}, {"id":"5230", "min":"1", "max":"1", "chance":"246"}, {"id":"8729", "min":"1", "max":"1", "chance":"1969"}, {"id":"8739", "min":"1", "max":"1", "chance":"246"}, {"id":"57", "min":"1001", "max":"2026", "chance":"700000"}, {"id":"4082", "min":"1", "max":"1", "chance":"27949"}, {"id":"4083", "min":"1", "max":"1", "chance":"27949"}, {"id":"5166", "min":"1", "max":"1", "chance":"3298"}],

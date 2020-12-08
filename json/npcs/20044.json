@@ -2,6 +2,7 @@
 	"id": "20044", 
 	"name": "Lirein Elder", 
 	"title": "", 
+	"level": "19", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"309", "min":"1", "max":"1", "chance":"116"}, {"id":"310", "min":"1", "max":"1", "chance":"116"}, {"id":"1867", "min":"1", "max":"1", "chance":"52461"}, {"id":"1872", "min":"1", "max":"1", "chance":"52461"}, {"id":"1881", "min":"1", "max":"1", "chance":"5246"}, {"id":"2144", "min":"1", "max":"1", "chance":"7870"}, {"id":"57", "min":"125", "max":"213", "chance":"700000"}, {"id":"1865", "min":"1", "max":"1", "chance":"266401"}, {"id":"1872", "min":"1", "max":"1", "chance":"355202"}, {"id":"2142", "min":"1", "max":"1", "chance":"53280"}],

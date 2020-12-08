@@ -2,6 +2,7 @@
 	"id": "21111", 
 	"name": "Lava Wyrm", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5297", "min":"1", "max":"1", "chance":"7"}, {"id":"5298", "min":"1", "max":"1", "chance":"12"}, {"id":"5301", "min":"1", "max":"1", "chance":"5"}, {"id":"1344", "min":"10", "max":"30", "chance":"100000"}, {"id":"1865", "min":"1", "max":"1", "chance":"71429"}, {"id":"1870", "min":"1", "max":"1", "chance":"76923"}, {"id":"1875", "min":"1", "max":"1", "chance":"3623"}, {"id":"1879", "min":"1", "max":"1", "chance":"11236"}, {"id":"4040", "min":"1", "max":"1", "chance":"1160"}, {"id":"5166", "min":"1", "max":"1", "chance":"113"}, {"id":"5478", "min":"1", "max":"1", "chance":"1019"}, {"id":"5479", "min":"1", "max":"1", "chance":"717"}, {"id":"5482", "min":"1", "max":"1", "chance":"1599"}, {"id":"8487", "min":"1", "max":"1", "chance":"14"}, {"id":"8730", "min":"1", "max":"1", "chance":"778"}, {"id":"8740", "min":"1", "max":"1", "chance":"85"}, {"id":"8750", "min":"1", "max":"1", "chance":"12"}, {"id":"57", "min":"993", "max":"2020", "chance":"700000"}, {"id":"4041", "min":"1", "max":"1", "chance":"21400"}, {"id":"5479", "min":"1", "max":"1", "chance":"14562"}, {"id":"5482", "min":"1", "max":"1", "chance":"32483"}],

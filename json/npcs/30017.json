@@ -2,6 +2,7 @@
 	"id": "30017", 
 	"name": "Gallint", 
 	"title": "Grand Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

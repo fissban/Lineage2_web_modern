@@ -2,6 +2,7 @@
 	"id": "30141", 
 	"name": "Talloth", 
 	"title": "Tetrarch", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

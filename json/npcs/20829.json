@@ -2,6 +2,7 @@
 	"id": "20829", 
 	"name": "Platinum Tribe Overlord", 
 	"title": "", 
+	"level": "71", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5287", "min":"1", "max":"1", "chance":"27"}, {"id":"5288", "min":"1", "max":"1", "chance":"43"}, {"id":"5293", "min":"1", "max":"1", "chance":"19"}, {"id":"1866", "min":"1", "max":"3", "chance":"83333"}, {"id":"1871", "min":"1", "max":"3", "chance":"200000"}, {"id":"1877", "min":"1", "max":"1", "chance":"18868"}, {"id":"4040", "min":"1", "max":"1", "chance":"9174"}, {"id":"4041", "min":"1", "max":"1", "chance":"4831"}, {"id":"4129", "min":"1", "max":"1", "chance":"3861"}, {"id":"5520", "min":"1", "max":"1", "chance":"3964"}, {"id":"5521", "min":"1", "max":"1", "chance":"2797"}, {"id":"5524", "min":"1", "max":"1", "chance":"6059"}, {"id":"6671", "min":"1", "max":"1", "chance":"38462"}, {"id":"8730", "min":"1", "max":"1", "chance":"3378"}, {"id":"8740", "min":"1", "max":"1", "chance":"966"}, {"id":"8750", "min":"1", "max":"1", "chance":"483"}, {"id":"57", "min":"5027", "max":"10247", "chance":"700000"}, {"id":"1894", "min":"1", "max":"1", "chance":"438023"}, {"id":"5479", "min":"1", "max":"1", "chance":"73868"}, {"id":"5550", "min":"1", "max":"1", "chance":"166449"}],

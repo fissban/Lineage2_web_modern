@@ -2,6 +2,7 @@
 	"id": "25257", 
 	"name": "Arak's Archer", 
 	"title": "Raid Fighter", 
+	"level": "59", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1539", "min":"1", "max":"1", "chance":"227733"}],

@@ -2,6 +2,7 @@
 	"id": "25026", 
 	"name": "Katu Van Leader Atui", 
 	"title": "Raid Boss", 
+	"level": "49", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"286", "min":"1", "max":"1", "chance":"22858"}, {"id":"119", "min":"1", "max":"1", "chance":"55110"}, {"id":"855", "min":"1", "max":"1", "chance":"73437"}, {"id":"886", "min":"1", "max":"1", "chance":"110415"}, {"id":"1918", "min":"81", "max":"243", "chance":"41621"}, {"id":"1920", "min":"14", "max":"42", "chance":"190255"}, {"id":"2121", "min":"3", "max":"9", "chance":"536948"}, {"id":"2917", "min":"40", "max":"120", "chance":"111779"}, {"id":"6573", "min":"1", "max":"1", "chance":"15136"}, {"id":"4607", "min":"1", "max":"3", "chance":"252267"}, {"id":"4608", "min":"2", "max":"4", "chance":"168178"}, {"id":"4609", "min":"1", "max":"1", "chance":"504534"}, {"id":"8158", "min":"4", "max":"6", "chance":"250000"}, {"id":"8176", "min":"2", "max":"3", "chance":"250000"}],

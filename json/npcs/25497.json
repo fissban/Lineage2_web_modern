@@ -2,6 +2,7 @@
 	"id": "25497", 
 	"name": "Fafurion's Envoy", 
 	"title": "Raid Fighter", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"755200"}],

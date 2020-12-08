@@ -2,6 +2,7 @@
 	"id": "30207", 
 	"name": "Arodin", 
 	"title": "Weapon Merchant", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "21183", 
 	"name": "Lilim Knight Commander", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"687", "max":"1380", "chance":"700000"}, {"id":"6362", "min":"14", "max":"28", "chance":"700000"}, {"id":"5289", "min":"1", "max":"1", "chance":"57"}, {"id":"5292", "min":"1", "max":"1", "chance":"82"}, {"id":"5294", "min":"1", "max":"1", "chance":"57"}, {"id":"1894", "min":"1", "max":"1", "chance":"17857"}, {"id":"3956", "min":"1", "max":"1", "chance":"481"}, {"id":"4039", "min":"1", "max":"1", "chance":"17857"}, {"id":"4041", "min":"1", "max":"1", "chance":"4149"}, {"id":"4044", "min":"1", "max":"1", "chance":"18868"}, {"id":"5494", "min":"1", "max":"1", "chance":"10406"}, {"id":"5525", "min":"1", "max":"1", "chance":"7660"}, {"id":"5526", "min":"1", "max":"1", "chance":"7660"}, {"id":"1807", "min":"1", "max":"1", "chance":"13420"}, {"id":"3035", "min":"1", "max":"1", "chance":"13420"}, {"id":"5479", "min":"1", "max":"1", "chance":"59556"}],

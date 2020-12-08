@@ -2,6 +2,7 @@
 	"id": "21020", 
 	"name": "Fallen Orc Shaman", 
 	"title": "", 
+	"level": "58", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"78", "min":"1", "max":"1", "chance":"3"}, {"id":"142", "min":"1", "max":"1", "chance":"3"}, {"id":"148", "min":"1", "max":"1", "chance":"3"}, {"id":"1832", "min":"1", "max":"1", "chance":"500000"}, {"id":"4104", "min":"1", "max":"1", "chance":"645"}, {"id":"4107", "min":"1", "max":"1", "chance":"635"}, {"id":"4108", "min":"1", "max":"1", "chance":"635"}, {"id":"4167", "min":"1", "max":"1", "chance":"5155"}, {"id":"4915", "min":"1", "max":"1", "chance":"15009"}, {"id":"4921", "min":"1", "max":"1", "chance":"15009"}, {"id":"57", "min":"921", "max":"1876", "chance":"700000"}, {"id":"1987", "min":"1", "max":"1", "chance":"34883"}, {"id":"4050", "min":"1", "max":"1", "chance":"141660"}, {"id":"4952", "min":"1", "max":"1", "chance":"29388"}],

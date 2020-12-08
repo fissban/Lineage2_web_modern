@@ -2,6 +2,7 @@
 	"id": "27182", 
 	"name": "Ark Guardian Elberoth", 
 	"title": "Quest Monster", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

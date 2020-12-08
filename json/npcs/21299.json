@@ -2,6 +2,7 @@
 	"id": "21299", 
 	"name": "Buffalo Slave", 
 	"title": "", 
+	"level": "72", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"80", "min":"1", "max":"1", "chance":"7"}, {"id":"150", "min":"1", "max":"1", "chance":"7"}, {"id":"1344", "min":"40", "max":"120", "chance":"71429"}, {"id":"1867", "min":"1", "max":"3", "chance":"100000"}, {"id":"1872", "min":"1", "max":"3", "chance":"142857"}, {"id":"1875", "min":"1", "max":"1", "chance":"16393"}, {"id":"1881", "min":"1", "max":"1", "chance":"30303"}, {"id":"4041", "min":"1", "max":"1", "chance":"1634"}, {"id":"5157", "min":"1", "max":"1", "chance":"145"}, {"id":"5382", "min":"1", "max":"1", "chance":"1326"}, {"id":"5547", "min":"1", "max":"1", "chance":"1938"}, {"id":"5548", "min":"1", "max":"1", "chance":"1938"}, {"id":"8331", "min":"1", "max":"1", "chance":"1114"}, {"id":"8730", "min":"1", "max":"1", "chance":"2551"}, {"id":"8740", "min":"1", "max":"1", "chance":"715"}, {"id":"57", "min":"3103", "max":"6336", "chance":"700000"}, {"id":"729", "min":"1", "max":"1", "chance":"857"}, {"id":"4041", "min":"1", "max":"1", "chance":"67061"}, {"id":"5508", "min":"1", "max":"1", "chance":"180821"}],

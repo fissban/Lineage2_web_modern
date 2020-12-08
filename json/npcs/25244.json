@@ -2,6 +2,7 @@
 	"id": "25244", 
 	"name": "Last Lesser Giant Olkuth", 
 	"title": "Raid Boss", 
+	"level": "75", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6367", "min":"1", "max":"1", "chance":"9101"}, {"id":"6680", "min":"1", "max":"1", "chance":"17016"}, {"id":"959", "min":"1", "max":"1", "chance":"38380"}, {"id":"960", "min":"1", "max":"1", "chance":"383795"}, {"id":"6577", "min":"1", "max":"1", "chance":"6397"}, {"id":"6691", "min":"12", "max":"36", "chance":"199987"}, {"id":"6707", "min":"12", "max":"36", "chance":"305615"}],

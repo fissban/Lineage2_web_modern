@@ -2,6 +2,7 @@
 	"id": "30462", 
 	"name": "Tronix", 
 	"title": "Grand Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

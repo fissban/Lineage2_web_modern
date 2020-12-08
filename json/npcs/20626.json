@@ -2,6 +2,7 @@
 	"id": "20626", 
 	"name": "Malruk Berserker", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"358", "min":"1", "max":"1", "chance":"26"}, {"id":"2380", "min":"1", "max":"1", "chance":"42"}, {"id":"2381", "min":"1", "max":"1", "chance":"18"}, {"id":"1867", "min":"1", "max":"3", "chance":"157667"}, {"id":"1872", "min":"1", "max":"3", "chance":"236499"}, {"id":"1875", "min":"1", "max":"1", "chance":"23650"}, {"id":"1881", "min":"1", "max":"1", "chance":"47300"}, {"id":"4041", "min":"1", "max":"1", "chance":"3085"}, {"id":"4078", "min":"1", "max":"1", "chance":"6046"}, {"id":"4080", "min":"1", "max":"1", "chance":"8514"}, {"id":"4081", "min":"1", "max":"1", "chance":"4080"}, {"id":"4402", "min":"1", "max":"1", "chance":"710"}, {"id":"4615", "min":"1", "max":"1", "chance":"490"}, {"id":"8730", "min":"1", "max":"1", "chance":"430"}, {"id":"8740", "min":"1", "max":"1", "chance":"258"}, {"id":"57", "min":"3380", "max":"6908", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"560452"}, {"id":"4053", "min":"1", "max":"1", "chance":"360342"}, {"id":"5230", "min":"1", "max":"1", "chance":"11209"}],

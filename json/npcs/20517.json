@@ -2,6 +2,7 @@
 	"id": "20517", 
 	"name": "Skeleton Hunter", 
 	"title": "", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"271", "min":"1", "max":"1", "chance":"388"}, {"id":"1793", "min":"1", "max":"1", "chance":"1931"}, {"id":"1833", "min":"1", "max":"1", "chance":"69999"}, {"id":"1864", "min":"1", "max":"1", "chance":"52499"}, {"id":"1869", "min":"1", "max":"1", "chance":"26250"}, {"id":"57", "min":"95", "max":"131", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"473949"}, {"id":"1869", "min":"1", "max":"1", "chance":"177731"}, {"id":"1921", "min":"1", "max":"1", "chance":"114665"}],

@@ -2,6 +2,7 @@
 	"id": "30047", 
 	"name": "Firon", 
 	"title": "Wharf Manager", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

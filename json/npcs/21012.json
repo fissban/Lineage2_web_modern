@@ -2,6 +2,7 @@
 	"id": "21012", 
 	"name": "Magical Eye", 
 	"title": "", 
+	"level": "31", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"275", "min":"1", "max":"1", "chance":"31"}, {"id":"276", "min":"1", "max":"1", "chance":"31"}, {"id":"1833", "min":"1", "max":"1", "chance":"113326"}, {"id":"1868", "min":"1", "max":"1", "chance":"84994"}, {"id":"1873", "min":"1", "max":"1", "chance":"16999"}, {"id":"1889", "min":"1", "max":"1", "chance":"2834"}, {"id":"2024", "min":"1", "max":"1", "chance":"1413"}, {"id":"2264", "min":"1", "max":"1", "chance":"440"}, {"id":"2273", "min":"1", "max":"1", "chance":"304"}, {"id":"5549", "min":"1", "max":"1", "chance":"4250"}, {"id":"57", "min":"230", "max":"459", "chance":"700000"}, {"id":"1936", "min":"1", "max":"1", "chance":"44548"}, {"id":"2153", "min":"1", "max":"1", "chance":"84661"}, {"id":"2185", "min":"1", "max":"1", "chance":"107160"}],

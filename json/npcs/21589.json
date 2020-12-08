@@ -2,6 +2,7 @@
 	"id": "21589", 
 	"name": "Vampire Wizard", 
 	"title": "", 
+	"level": "73", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"80", "min":"1", "max":"1", "chance":"3"}, {"id":"150", "min":"1", "max":"1", "chance":"3"}, {"id":"1344", "min":"10", "max":"30", "chance":"125000"}, {"id":"1868", "min":"1", "max":"1", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"41667"}, {"id":"1876", "min":"1", "max":"1", "chance":"20408"}, {"id":"1895", "min":"1", "max":"1", "chance":"34483"}, {"id":"4042", "min":"1", "max":"1", "chance":"1468"}, {"id":"5547", "min":"1", "max":"1", "chance":"799"}, {"id":"5548", "min":"1", "max":"1", "chance":"799"}, {"id":"6901", "min":"1", "max":"1", "chance":"183"}, {"id":"8331", "min":"1", "max":"1", "chance":"435"}, {"id":"8731", "min":"1", "max":"1", "chance":"550"}, {"id":"8741", "min":"1", "max":"1", "chance":"367"}, {"id":"57", "min":"1539", "max":"3132", "chance":"700000"}],

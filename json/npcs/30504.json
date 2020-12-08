@@ -2,6 +2,7 @@
 	"id": "30504", 
 	"name": "Mendio", 
 	"title": "Head Blacksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

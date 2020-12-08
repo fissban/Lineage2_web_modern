@@ -2,6 +2,7 @@
 	"id": "22028", 
 	"name": "Vagabond of the Ruins", 
 	"title": "", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1864", "min":"3", "max":"9", "chance":"47619"}, {"id":"1869", "min":"1", "max":"1", "chance":"142857"}, {"id":"1878", "min":"1", "max":"1", "chance":"76923"}, {"id":"1884", "min":"1", "max":"1", "chance":"90909"}, {"id":"2034", "min":"1", "max":"1", "chance":"2825"}, {"id":"2148", "min":"1", "max":"1", "chance":"9901"}, {"id":"8328", "min":"1", "max":"1", "chance":"2825"}, {"id":"8333", "min":"1", "max":"1", "chance":"2825"}, {"id":"57", "min":"834", "max":"1661", "chance":"700000"}],

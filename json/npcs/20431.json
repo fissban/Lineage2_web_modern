@@ -2,6 +2,7 @@
 	"id": "20431", 
 	"name": "Elf Ghost", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

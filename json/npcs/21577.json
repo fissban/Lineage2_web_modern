@@ -2,6 +2,7 @@
 	"id": "21577", 
 	"name": "Ghost of Guillotine", 
 	"title": "", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"235", "min":"1", "max":"1", "chance":"5"}, {"id":"1343", "min":"10", "max":"30", "chance":"125000"}, {"id":"1868", "min":"1", "max":"1", "chance":"142857"}, {"id":"1873", "min":"1", "max":"1", "chance":"38462"}, {"id":"1876", "min":"1", "max":"1", "chance":"18868"}, {"id":"1895", "min":"1", "max":"1", "chance":"26316"}, {"id":"4042", "min":"1", "max":"1", "chance":"2353"}, {"id":"5536", "min":"1", "max":"1", "chance":"1409"}, {"id":"6337", "min":"1", "max":"1", "chance":"607"}, {"id":"8730", "min":"1", "max":"1", "chance":"784"}, {"id":"57", "min":"1130", "max":"2300", "chance":"700000"}, {"id":"5450", "min":"1", "max":"1", "chance":"1038"}, {"id":"5456", "min":"1", "max":"1", "chance":"1038"}, {"id":"5497", "min":"1", "max":"1", "chance":"65708"}],

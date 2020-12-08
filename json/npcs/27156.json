@@ -2,6 +2,7 @@
 	"id": "27156", 
 	"name": "Leto Shaman Ketz", 
 	"title": "Quest Monster", 
+	"level": "40", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

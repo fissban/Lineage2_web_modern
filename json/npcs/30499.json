@@ -2,6 +2,7 @@
 	"id": "30499", 
 	"name": "Tapoy", 
 	"title": "Head Blacksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "29040", 
 	"name": "Wings of Flame Ixion", 
 	"title": "Gatekeeper of Valakas", 
+	"level": "85", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6652", "min":"2", "max":"6", "chance":"197626"}, {"id":"6654", "min":"18", "max":"54", "chance":"68620"}, {"id":"6655", "min":"14", "max":"42", "chance":"44113"}],

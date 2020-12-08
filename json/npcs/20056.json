@@ -2,6 +2,7 @@
 	"id": "20056", 
 	"name": "Dre Vanul Disposer", 
 	"title": "", 
+	"level": "22", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"27", "min":"1", "max":"1", "chance":"226"}, {"id":"33", "min":"1", "max":"1", "chance":"363"}, {"id":"734", "min":"1", "max":"1", "chance":"6946"}, {"id":"1868", "min":"1", "max":"1", "chance":"83345"}, {"id":"1873", "min":"1", "max":"1", "chance":"16669"}, {"id":"1927", "min":"1", "max":"1", "chance":"3325"}, {"id":"1929", "min":"1", "max":"1", "chance":"5378"}, {"id":"2256", "min":"1", "max":"1", "chance":"1019"}, {"id":"57", "min":"128", "max":"230", "chance":"700000"}, {"id":"1926", "min":"1", "max":"1", "chance":"28501"}, {"id":"2151", "min":"1", "max":"1", "chance":"78595"}, {"id":"5163", "min":"1", "max":"1", "chance":"11286"}],

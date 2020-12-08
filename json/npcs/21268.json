@@ -2,6 +2,7 @@
 	"id": "21268", 
 	"name": "Cave Ant Larva", 
 	"title": "", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"278", "min":"1", "max":"1", "chance":"54"}, {"id":"1341", "min":"20", "max":"60", "chance":"142857"}, {"id":"1867", "min":"1", "max":"1", "chance":"125000"}, {"id":"1872", "min":"1", "max":"1", "chance":"100000"}, {"id":"1882", "min":"1", "max":"1", "chance":"15385"}, {"id":"1894", "min":"1", "max":"1", "chance":"2564"}, {"id":"2029", "min":"1", "max":"1", "chance":"3083"}, {"id":"2186", "min":"1", "max":"1", "chance":"2564"}, {"id":"6037", "min":"1", "max":"3", "chance":"62500"}, {"id":"57", "min":"410", "max":"821", "chance":"700000"}, {"id":"1940", "min":"1", "max":"1", "chance":"145098"}, {"id":"2026", "min":"1", "max":"1", "chance":"11701"}, {"id":"2156", "min":"1", "max":"1", "chance":"77773"}],

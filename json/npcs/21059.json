@@ -2,6 +2,7 @@
 	"id": "21059", 
 	"name": "Beast Guardian", 
 	"title": "", 
+	"level": "59", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"284", "min":"1", "max":"1", "chance":"15"}, {"id":"1864", "min":"1", "max":"3", "chance":"125000"}, {"id":"1869", "min":"1", "max":"1", "chance":"125000"}, {"id":"1878", "min":"1", "max":"1", "chance":"47619"}, {"id":"1884", "min":"1", "max":"1", "chance":"83333"}, {"id":"4039", "min":"1", "max":"1", "chance":"7143"}, {"id":"4112", "min":"1", "max":"1", "chance":"3495"}, {"id":"4154", "min":"1", "max":"1", "chance":"843"}, {"id":"4194", "min":"1", "max":"1", "chance":"118"}, {"id":"4198", "min":"1", "max":"1", "chance":"118"}, {"id":"8728", "min":"1", "max":"1", "chance":"843"}, {"id":"8748", "min":"1", "max":"1", "chance":"66"}, {"id":"57", "min":"1683", "max":"3430", "chance":"700000"}, {"id":"4049", "min":"1", "max":"2", "chance":"219194"}, {"id":"4129", "min":"1", "max":"1", "chance":"45227"}, {"id":"4130", "min":"1", "max":"1", "chance":"67840"}],

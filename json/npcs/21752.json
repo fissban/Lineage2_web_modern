@@ -2,6 +2,7 @@
 	"id": "21752", 
 	"name": "Dark Omen Invader Soldier", 
 	"title": "", 
+	"level": "75", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"269", "min":"1", "max":"1", "chance":"14"}, {"id":"1344", "min":"40", "max":"120", "chance":"76923"}, {"id":"1867", "min":"1", "max":"3", "chance":"90909"}, {"id":"1872", "min":"1", "max":"3", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"12346"}, {"id":"1881", "min":"1", "max":"1", "chance":"25000"}, {"id":"4041", "min":"1", "max":"1", "chance":"3137"}, {"id":"5162", "min":"1", "max":"1", "chance":"161"}, {"id":"5539", "min":"1", "max":"1", "chance":"4258"}, {"id":"8731", "min":"1", "max":"1", "chance":"953"}, {"id":"57", "min":"3440", "max":"7020", "chance":"700000"}, {"id":"5272", "min":"1", "max":"1", "chance":"3799"}, {"id":"5522", "min":"1", "max":"1", "chance":"29108"}, {"id":"5523", "min":"1", "max":"1", "chance":"29108"}],

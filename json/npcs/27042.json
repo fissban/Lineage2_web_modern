@@ -2,6 +2,7 @@
 	"id": "27042", 
 	"name": "Orc Escort", 
 	"title": "Quest Monster", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

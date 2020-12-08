@@ -2,6 +2,7 @@
 	"id": "21234", 
 	"name": "Grave Guardian", 
 	"title": "", 
+	"level": "25", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

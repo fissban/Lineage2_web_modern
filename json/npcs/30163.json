@@ -2,6 +2,7 @@
 	"id": "30163", 
 	"name": "Rex", 
 	"title": "Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

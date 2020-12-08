@@ -2,6 +2,7 @@
 	"id": "20844", 
 	"name": "Kaim Vanul", 
 	"title": "", 
+	"level": "51", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"854", "min":"1", "max":"1", "chance":"51"}, {"id":"885", "min":"1", "max":"1", "chance":"76"}, {"id":"917", "min":"1", "max":"1", "chance":"38"}, {"id":"1867", "min":"1", "max":"1", "chance":"74067"}, {"id":"1872", "min":"1", "max":"1", "chance":"74067"}, {"id":"1875", "min":"1", "max":"1", "chance":"3704"}, {"id":"1881", "min":"1", "max":"1", "chance":"7407"}, {"id":"1914", "min":"1", "max":"1", "chance":"4162"}, {"id":"1915", "min":"1", "max":"1", "chance":"6527"}, {"id":"1916", "min":"1", "max":"1", "chance":"3152"}, {"id":"2355", "min":"1", "max":"1", "chance":"91"}, {"id":"4041", "min":"1", "max":"1", "chance":"484"}, {"id":"4601", "min":"1", "max":"1", "chance":"124"}, {"id":"4609", "min":"1", "max":"1", "chance":"124"}, {"id":"57", "min":"434", "max":"882", "chance":"700000"}, {"id":"1539", "min":"1", "max":"1", "chance":"238805"}, {"id":"4041", "min":"1", "max":"1", "chance":"9345"}, {"id":"4603", "min":"1", "max":"1", "chance":"2388"}],

@@ -2,6 +2,7 @@
 	"id": "22190", 
 	"name": "Ritual Sacrifice", 
 	"title": "", 
+	"level": "86", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1895", "min":"1", "max":"1", "chance":"350000"}, {"id":"57", "min":"7411", "max":"7610", "chance":"700000"}],

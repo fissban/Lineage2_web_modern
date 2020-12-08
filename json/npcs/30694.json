@@ -2,6 +2,7 @@
 	"id": "30694", 
 	"name": "Scraide", 
 	"title": "Grand Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

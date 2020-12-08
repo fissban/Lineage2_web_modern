@@ -2,6 +2,7 @@
 	"id": "20518", 
 	"name": "Skeleton Hunter Archer", 
 	"title": "", 
+	"level": "13", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"271", "min":"1", "max":"1", "chance":"403"}, {"id":"1799", "min":"1", "max":"1", "chance":"53872"}, {"id":"1865", "min":"1", "max":"1", "chance":"36364"}, {"id":"1870", "min":"1", "max":"1", "chance":"36364"}, {"id":"57", "min":"97", "max":"137", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"492420"}, {"id":"1864", "min":"1", "max":"1", "chance":"369315"}, {"id":"1866", "min":"1", "max":"1", "chance":"123105"}],

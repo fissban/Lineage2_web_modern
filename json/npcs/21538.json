@@ -2,6 +2,7 @@
 	"id": "21538", 
 	"name": "Fang of Splendor", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"287", "min":"1", "max":"1", "chance":"9"}, {"id":"1865", "min":"1", "max":"1", "chance":"142857"}, {"id":"1870", "min":"1", "max":"1", "chance":"125000"}, {"id":"1874", "min":"1", "max":"1", "chance":"6536"}, {"id":"4039", "min":"1", "max":"1", "chance":"2967"}, {"id":"4043", "min":"1", "max":"1", "chance":"1188"}, {"id":"4121", "min":"1", "max":"1", "chance":"2378"}, {"id":"5442", "min":"1", "max":"1", "chance":"68"}, {"id":"8730", "min":"1", "max":"1", "chance":"1783"}, {"id":"8740", "min":"1", "max":"1", "chance":"594"}, {"id":"57", "min":"1486", "max":"3038", "chance":"700000"}, {"id":"1874", "min":"1", "max":"1", "chance":"246445"}, {"id":"4043", "min":"1", "max":"1", "chance":"123222"}, {"id":"4099", "min":"1", "max":"1", "chance":"165956"}],

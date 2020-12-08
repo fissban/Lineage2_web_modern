@@ -2,6 +2,7 @@
 	"id": "30474", 
 	"name": "Angus", 
 	"title": "Grand Master", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "30437", 
 	"name": "Rolento", 
 	"title": "Trader", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

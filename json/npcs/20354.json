@@ -2,6 +2,7 @@
 	"id": "20354", 
 	"name": "Dwarf Ghost", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

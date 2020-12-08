@@ -2,6 +2,7 @@
 	"id": "21207", 
 	"name": "Nephilim Commander", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"805", "max":"1610", "chance":"700000"}, {"id":"6362", "min":"14", "max":"28", "chance":"700000"}, {"id":"5312", "min":"1", "max":"1", "chance":"48"}, {"id":"5315", "min":"1", "max":"1", "chance":"68"}, {"id":"5317", "min":"1", "max":"1", "chance":"48"}, {"id":"729", "min":"1", "max":"1", "chance":"973"}, {"id":"1866", "min":"1", "max":"3", "chance":"125000"}, {"id":"1871", "min":"4", "max":"12", "chance":"71429"}, {"id":"1877", "min":"1", "max":"1", "chance":"31250"}, {"id":"4040", "min":"1", "max":"1", "chance":"12658"}, {"id":"4041", "min":"1", "max":"1", "chance":"4065"}, {"id":"5495", "min":"1", "max":"1", "chance":"9477"}, {"id":"5527", "min":"1", "max":"1", "chance":"7462"}, {"id":"5528", "min":"1", "max":"1", "chance":"7462"}, {"id":"730", "min":"1", "max":"1", "chance":"10564"}, {"id":"5480", "min":"1", "max":"1", "chance":"56883"}, {"id":"5488", "min":"1", "max":"1", "chance":"57085"}],

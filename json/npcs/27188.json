@@ -2,6 +2,7 @@
 	"id": "27188", 
 	"name": "Fairy Tree of Abyss", 
 	"title": "Quest Monster", 
+	"level": "55", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

@@ -2,6 +2,7 @@
 	"id": "21438", 
 	"name": "Heathen Warrior", 
 	"title": "", 
+	"level": "65", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"79", "min":"1", "max":"1", "chance":"2"}, {"id":"729", "min":"1", "max":"1", "chance":"3"}, {"id":"1868", "min":"1", "max":"1", "chance":"49524"}, {"id":"1873", "min":"1", "max":"1", "chance":"9905"}, {"id":"1876", "min":"1", "max":"1", "chance":"4953"}, {"id":"1895", "min":"1", "max":"1", "chance":"7075"}, {"id":"4042", "min":"1", "max":"1", "chance":"413"}, {"id":"4114", "min":"1", "max":"1", "chance":"325"}, {"id":"57", "min":"203", "max":"412", "chance":"700000"}],

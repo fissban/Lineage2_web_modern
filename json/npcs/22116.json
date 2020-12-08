@@ -2,6 +2,7 @@
 	"id": "22116", 
 	"name": "Spiked Stakato Drone", 
 	"title": "", 
+	"level": "77", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"269", "min":"1", "max":"1", "chance":"8"}, {"id":"1866", "min":"1", "max":"1", "chance":"200000"}, {"id":"1871", "min":"1", "max":"3", "chance":"166667"}, {"id":"1885", "min":"1", "max":"1", "chance":"27027"}, {"id":"3957", "min":"1", "max":"1", "chance":"150"}, {"id":"4041", "min":"1", "max":"1", "chance":"2331"}, {"id":"5220", "min":"1", "max":"1", "chance":"11628"}, {"id":"5539", "min":"1", "max":"1", "chance":"9174"}, {"id":"8732", "min":"1", "max":"1", "chance":"3155"}, {"id":"8742", "min":"1", "max":"1", "chance":"226"}, {"id":"8752", "min":"1", "max":"1", "chance":"226"}, {"id":"57", "min":"3998", "max":"8166", "chance":"700000"}, {"id":"5145", "min":"1", "max":"1", "chance":"5000"}, {"id":"5151", "min":"1", "max":"1", "chance":"5000"}, {"id":"5167", "min":"1", "max":"1", "chance":"5000"}, {"id":"5277", "min":"1", "max":"1", "chance":"5000"}, {"id":"5495", "min":"1", "max":"2", "chance":"250000"}],

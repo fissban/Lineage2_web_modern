@@ -2,6 +2,7 @@
 	"id": "30720", 
 	"name": "Kaiena", 
 	"title": "Magister", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

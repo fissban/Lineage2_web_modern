@@ -2,6 +2,7 @@
 	"id": "25349", 
 	"name": "Shadow of Halisha", 
 	"title": "Ruler of Sepulcher", 
+	"level": "81", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6684", "min":"1", "max":"1", "chance":"18626"}, {"id":"3936", "min":"1", "max":"1", "chance":"315078"}, {"id":"6578", "min":"1", "max":"1", "chance":"28007"}, {"id":"6711", "min":"12", "max":"36", "chance":"334528"}],

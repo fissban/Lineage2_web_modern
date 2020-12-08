@@ -2,6 +2,7 @@
 	"id": "27155", 
 	"name": "Ramsebalius", 
 	"title": "Evil Overlord", 
+	"level": "3", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

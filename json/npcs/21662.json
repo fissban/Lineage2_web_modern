@@ -2,6 +2,7 @@
 	"id": "21662", 
 	"name": "Otherworldly Invader Elite Soldier", 
 	"title": "", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"849", "min":"1", "max":"1", "chance":"631"}, {"id":"880", "min":"1", "max":"1", "chance":"947"}, {"id":"912", "min":"1", "max":"1", "chance":"473"}, {"id":"1876", "min":"1", "max":"1", "chance":"27017"}, {"id":"1877", "min":"1", "max":"1", "chance":"5404"}, {"id":"1880", "min":"1", "max":"1", "chance":"13509"}, {"id":"1881", "min":"1", "max":"1", "chance":"18011"}, {"id":"1882", "min":"1", "max":"1", "chance":"30018"}, {"id":"1901", "min":"1", "max":"1", "chance":"27987"}, {"id":"2193", "min":"1", "max":"1", "chance":"18084"}, {"id":"57", "min":"644", "max":"1285", "chance":"700000"}],

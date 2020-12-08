@@ -2,6 +2,7 @@
 	"id": "27124", 
 	"name": "Leto Lizardman Assassin", 
 	"title": "Quest Monster", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

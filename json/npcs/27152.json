@@ -2,6 +2,7 @@
 	"id": "27152", 
 	"name": "Marsh Stakato Marquess", 
 	"title": "Quest Monster", 
+	"level": "35", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

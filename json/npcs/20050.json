@@ -2,6 +2,7 @@
 	"id": "20050", 
 	"name": "Arachnid Predator", 
 	"title": "", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"15", "min":"1", "max":"1", "chance":"132"}, {"id":"1831", "min":"1", "max":"1", "chance":"119407"}, {"id":"1866", "min":"1", "max":"1", "chance":"29852"}, {"id":"1871", "min":"1", "max":"1", "chance":"44778"}, {"id":"2011", "min":"1", "max":"1", "chance":"2044"}, {"id":"2144", "min":"1", "max":"1", "chance":"8956"}, {"id":"57", "min":"140", "max":"243", "chance":"700000"}, {"id":"735", "min":"1", "max":"1", "chance":"25265"}, {"id":"1866", "min":"1", "max":"1", "chance":"202121"}, {"id":"1925", "min":"1", "max":"1", "chance":"198808"}],

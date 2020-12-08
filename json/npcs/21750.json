@@ -2,6 +2,7 @@
 	"id": "21750", 
 	"name": "Forbidden Path Invader Magus", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"110", "min":"1", "max":"1", "chance":"115"}, {"id":"2416", "min":"1", "max":"1", "chance":"81"}, {"id":"2417", "min":"1", "max":"1", "chance":"81"}, {"id":"947", "min":"1", "max":"1", "chance":"115"}, {"id":"948", "min":"1", "max":"1", "chance":"1385"}, {"id":"4077", "min":"1", "max":"1", "chance":"21815"}, {"id":"4088", "min":"1", "max":"1", "chance":"18328"}, {"id":"4089", "min":"1", "max":"1", "chance":"18328"}, {"id":"8729", "min":"1", "max":"1", "chance":"6250"}, {"id":"8739", "min":"1", "max":"1", "chance":"1965"}, {"id":"8749", "min":"1", "max":"1", "chance":"577"}, {"id":"8759", "min":"1", "max":"1", "chance":"115"}, {"id":"57", "min":"3985", "max":"8069", "chance":"700000"}, {"id":"947", "min":"1", "max":"1", "chance":"3940"}, {"id":"948", "min":"1", "max":"1", "chance":"24627"}, {"id":"5230", "min":"1", "max":"1", "chance":"13135"}],

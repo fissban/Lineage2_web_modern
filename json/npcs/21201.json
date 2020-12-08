@@ -2,6 +2,7 @@
 	"id": "21201", 
 	"name": "Nephilim Centurion", 
 	"title": "", 
+	"level": "63", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"574", "max":"1144", "chance":"700000"}, {"id":"6362", "min":"14", "max":"28", "chance":"700000"}, {"id":"2398", "min":"1", "max":"1", "chance":"24"}, {"id":"2399", "min":"1", "max":"1", "chance":"24"}, {"id":"2403", "min":"1", "max":"1", "chance":"37"}, {"id":"2404", "min":"1", "max":"1", "chance":"37"}, {"id":"1830", "min":"1", "max":"1", "chance":"125000"}, {"id":"1866", "min":"1", "max":"3", "chance":"76923"}, {"id":"1871", "min":"1", "max":"3", "chance":"166667"}, {"id":"1877", "min":"1", "max":"1", "chance":"14286"}, {"id":"4040", "min":"1", "max":"1", "chance":"10000"}, {"id":"4041", "min":"1", "max":"1", "chance":"1348"}, {"id":"4084", "min":"1", "max":"1", "chance":"4824"}, {"id":"4085", "min":"1", "max":"1", "chance":"4824"}, {"id":"4086", "min":"1", "max":"1", "chance":"6513"}, {"id":"4087", "min":"1", "max":"1", "chance":"6513"}, {"id":"6036", "min":"1", "max":"1", "chance":"9174"}, {"id":"4052", "min":"1", "max":"1", "chance":"266218"}, {"id":"4053", "min":"1", "max":"1", "chance":"322303"}, {"id":"5230", "min":"1", "max":"1", "chance":"10026"}],

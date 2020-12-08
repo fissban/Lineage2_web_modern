@@ -2,6 +2,7 @@
 	"id": "20064", 
 	"name": "Tumran Bugbear Warrior", 
 	"title": "", 
+	"level": "24", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"27", "min":"1", "max":"1", "chance":"272"}, {"id":"33", "min":"1", "max":"1", "chance":"436"}, {"id":"734", "min":"1", "max":"1", "chance":"6686"}, {"id":"1866", "min":"1", "max":"1", "chance":"26741"}, {"id":"1871", "min":"1", "max":"1", "chance":"40111"}, {"id":"1927", "min":"1", "max":"1", "chance":"4000"}, {"id":"1929", "min":"1", "max":"1", "chance":"6470"}, {"id":"2179", "min":"1", "max":"1", "chance":"19192"}, {"id":"5273", "min":"1", "max":"1", "chance":"1605"}, {"id":"57", "min":"151", "max":"278", "chance":"700000"}, {"id":"1873", "min":"1", "max":"1", "chance":"135792"}, {"id":"1926", "min":"1", "max":"1", "chance":"34291"}, {"id":"1930", "min":"1", "max":"1", "chance":"87046"}],

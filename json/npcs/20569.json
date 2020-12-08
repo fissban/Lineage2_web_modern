@@ -2,6 +2,7 @@
 	"id": "20569", 
 	"name": "Formor Elder", 
 	"title": "", 
+	"level": "46", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"631", "min":"1", "max":"1", "chance":"124"}, {"id":"2413", "min":"1", "max":"1", "chance":"88"}, {"id":"2495", "min":"1", "max":"1", "chance":"124"}, {"id":"1865", "min":"1", "max":"1", "chance":"45455"}, {"id":"1870", "min":"1", "max":"1", "chance":"47619"}, {"id":"1875", "min":"1", "max":"1", "chance":"3106"}, {"id":"1879", "min":"1", "max":"1", "chance":"8065"}, {"id":"1964", "min":"1", "max":"1", "chance":"6650"}, {"id":"2220", "min":"1", "max":"1", "chance":"969"}, {"id":"2230", "min":"1", "max":"1", "chance":"1325"}, {"id":"2508", "min":"1", "max":"1", "chance":"40000"}, {"id":"2936", "min":"1", "max":"1", "chance":"6040"}, {"id":"2945", "min":"1", "max":"1", "chance":"6650"}, {"id":"4040", "min":"1", "max":"1", "chance":"743"}, {"id":"8723", "min":"1", "max":"1", "chance":"1938"}, {"id":"8733", "min":"1", "max":"1", "chance":"452"}, {"id":"8743", "min":"1", "max":"1", "chance":"32"}, {"id":"57", "min":"420", "max":"858", "chance":"700000"}, {"id":"1961", "min":"1", "max":"1", "chance":"33428"}, {"id":"2213", "min":"1", "max":"1", "chance":"16221"}, {"id":"3001", "min":"1", "max":"1", "chance":"64883"}],

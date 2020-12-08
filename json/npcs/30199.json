@@ -2,6 +2,7 @@
 	"id": "30199", 
 	"name": "Yates", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

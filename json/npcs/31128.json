@@ -2,6 +2,7 @@
 	"id": "31128", 
 	"name": "Festival Guide", 
 	"title": "Level 42 and Below", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

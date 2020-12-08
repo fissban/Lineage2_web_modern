@@ -2,6 +2,7 @@
 	"id": "27112", 
 	"name": "Gorr", 
 	"title": "Quest Monster", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

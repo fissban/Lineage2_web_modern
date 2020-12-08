@@ -2,6 +2,7 @@
 	"id": "30196", 
 	"name": "Mouen", 
 	"title": "Captain", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

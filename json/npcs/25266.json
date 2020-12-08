@@ -2,6 +2,7 @@
 	"id": "25266", 
 	"name": "Bloody Empress Decarbia", 
 	"title": "Raid Boss", 
+	"level": "75", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6370", "min":"1", "max":"1", "chance":"11317"}, {"id":"6684", "min":"1", "max":"1", "chance":"21160"}, {"id":"959", "min":"1", "max":"1", "chance":"47727"}, {"id":"6694", "min":"12", "max":"36", "chance":"253198"}, {"id":"6711", "min":"12", "max":"36", "chance":"380049"}, {"id":"960", "min":"1", "max":"1", "chance":"477271"}, {"id":"6577", "min":"1", "max":"1", "chance":"7955"}],

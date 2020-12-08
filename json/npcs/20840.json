@@ -2,6 +2,7 @@
 	"id": "20840", 
 	"name": "Death Flyer", 
 	"title": "", 
+	"level": "47", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"227", "min":"1", "max":"1", "chance":"8"}, {"id":"242", "min":"1", "max":"1", "chance":"8"}, {"id":"952", "min":"1", "max":"1", "chance":"818"}, {"id":"1868", "min":"1", "max":"1", "chance":"122694"}, {"id":"1873", "min":"1", "max":"1", "chance":"24539"}, {"id":"1889", "min":"1", "max":"1", "chance":"4090"}, {"id":"2083", "min":"1", "max":"1", "chance":"714"}, {"id":"2084", "min":"1", "max":"1", "chance":"714"}, {"id":"2229", "min":"1", "max":"1", "chance":"744"}, {"id":"4044", "min":"1", "max":"1", "chance":"2045"}, {"id":"5549", "min":"1", "max":"1", "chance":"6135"}, {"id":"57", "min":"390", "max":"796", "chance":"700000"}],

@@ -2,6 +2,7 @@
 	"id": "27181", 
 	"name": "Imperial Gravekeeper", 
 	"title": "Quest Monster", 
+	"level": "60", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

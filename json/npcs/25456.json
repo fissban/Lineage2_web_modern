@@ -2,6 +2,7 @@
 	"id": "25456", 
 	"name": "Mirror of Oblivion", 
 	"title": "Raid Boss", 
+	"level": "49", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2414", "min":"1", "max":"1", "chance":"133737"}, {"id":"2497", "min":"1", "max":"1", "chance":"191155"}, {"id":"951", "min":"1", "max":"1", "chance":"253426"}, {"id":"2959", "min":"53", "max":"157", "chance":"118073"}, {"id":"2966", "min":"192", "max":"576", "chance":"51074"}, {"id":"4601", "min":"1", "max":"3", "chance":"154871"}, {"id":"4602", "min":"2", "max":"4", "chance":"103248"}, {"id":"4603", "min":"1", "max":"1", "chance":"309742"}, {"id":"8176", "min":"1", "max":"1", "chance":"250000"}],

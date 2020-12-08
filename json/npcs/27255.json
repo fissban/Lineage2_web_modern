@@ -2,6 +2,7 @@
 	"id": "27255", 
 	"name": "Unknown Stopper", 
 	"title": "Quest Monster", 
+	"level": "81", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

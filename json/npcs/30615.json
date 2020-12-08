@@ -2,6 +2,7 @@
 	"id": "30615", 
 	"name": "Voltar", 
 	"title": "Breka Chief", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

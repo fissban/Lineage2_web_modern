@@ -2,6 +2,7 @@
 	"id": "27130", 
 	"name": "Ol Mahum Betrayer", 
 	"title": "Quest Monster", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

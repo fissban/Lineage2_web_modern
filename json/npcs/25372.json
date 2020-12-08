@@ -2,6 +2,7 @@
 	"id": "25372", 
 	"name": "Discarded Guardian", 
 	"title": "Raid Boss", 
+	"level": "20", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"123", "min":"1", "max":"1", "chance":"54185"}, {"id":"5285", "min":"1", "max":"1", "chance":"54185"}, {"id":"391", "min":"2", "max":"4", "chance":"157340"}, {"id":"413", "min":"1", "max":"3", "chance":"377858"}, {"id":"955", "min":"1", "max":"1", "chance":"383036"}, {"id":"956", "min":"8", "max":"22", "chance":"212799"}, {"id":"2017", "min":"8", "max":"22", "chance":"98169"}, {"id":"5531", "min":"4", "max":"12", "chance":"232552"}, {"id":"6387", "min":"24", "max":"72", "chance":"79800"}],

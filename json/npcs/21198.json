@@ -2,6 +2,7 @@
 	"id": "21198", 
 	"name": "Nephilim Swordsman", 
 	"title": "", 
+	"level": "54", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6360", "min":"148", "max":"301", "chance":"700000"}, {"id":"6361", "min":"314", "max":"633", "chance":"700000"}, {"id":"6362", "min":"13", "max":"27", "chance":"700000"}, {"id":"299", "min":"1", "max":"1", "chance":"11"}, {"id":"301", "min":"1", "max":"1", "chance":"14"}, {"id":"303", "min":"1", "max":"1", "chance":"14"}, {"id":"1868", "min":"1", "max":"3", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"90909"}, {"id":"1876", "min":"1", "max":"1", "chance":"41667"}, {"id":"1895", "min":"1", "max":"1", "chance":"83333"}, {"id":"2113", "min":"1", "max":"1", "chance":"1541"}, {"id":"2114", "min":"1", "max":"1", "chance":"1541"}, {"id":"2122", "min":"1", "max":"1", "chance":"1453"}, {"id":"3034", "min":"1", "max":"1", "chance":"478"}, {"id":"4042", "min":"1", "max":"1", "chance":"3610"}, {"id":"4944", "min":"1", "max":"1", "chance":"1148"}, {"id":"4968", "min":"1", "max":"1", "chance":"275"}, {"id":"1806", "min":"1", "max":"1", "chance":"10342"}, {"id":"1920", "min":"1", "max":"1", "chance":"176944"}, {"id":"4593", "min":"1", "max":"1", "chance":"17237"}],

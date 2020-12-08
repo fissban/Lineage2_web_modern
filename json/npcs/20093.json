@@ -2,6 +2,7 @@
 	"id": "20093", 
 	"name": "Orc Fighter", 
 	"title": "", 
+	"level": "10", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"3", "min":"1", "max":"1", "chance":"860"}, {"id":"1060", "min":"1", "max":"1", "chance":"59720"}, {"id":"1867", "min":"1", "max":"1", "chance":"35832"}, {"id":"1872", "min":"1", "max":"1", "chance":"35832"}, {"id":"2005", "min":"1", "max":"1", "chance":"3840"}, {"id":"2138", "min":"1", "max":"1", "chance":"7905"}, {"id":"57", "min":"98", "max":"132", "chance":"700000"}, {"id":"1666", "min":"1", "max":"1", "chance":"60652"}, {"id":"1867", "min":"1", "max":"1", "chance":"242609"}, {"id":"2007", "min":"1", "max":"1", "chance":"12997"}],

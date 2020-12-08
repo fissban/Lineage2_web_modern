@@ -2,6 +2,7 @@
 	"id": "25322", 
 	"name": "Demon's Agent Falston", 
 	"title": "Raid Boss", 
+	"level": "66", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6323", "min":"1", "max":"1", "chance":"151447"}, {"id":"6324", "min":"1", "max":"1", "chance":"201159"}, {"id":"6325", "min":"6", "max":"18", "chance":"25213"}, {"id":"729", "min":"1", "max":"1", "chance":"113866"}, {"id":"6341", "min":"81", "max":"243", "chance":"224956"}, {"id":"6343", "min":"140", "max":"420", "chance":"100614"}, {"id":"6345", "min":"440", "max":"1320", "chance":"57279"}, {"id":"6569", "min":"1", "max":"1", "chance":"13664"}, {"id":"730", "min":"1", "max":"1", "chance":"853994"}, {"id":"8160", "min":"1", "max":"2", "chance":"250000"}, {"id":"8176", "min":"4", "max":"7", "chance":"250000"}],

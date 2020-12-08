@@ -2,6 +2,7 @@
 	"id": "20265", 
 	"name": "Monster Eye Searcher", 
 	"title": "", 
+	"level": "22", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"219", "min":"1", "max":"1", "chance":"136"}, {"id":"1867", "min":"1", "max":"1", "chance":"110532"}, {"id":"1872", "min":"1", "max":"1", "chance":"110532"}, {"id":"1882", "min":"1", "max":"1", "chance":"18423"}, {"id":"2015", "min":"1", "max":"1", "chance":"2023"}, {"id":"5158", "min":"1", "max":"1", "chance":"3316"}, {"id":"57", "min":"255", "max":"458", "chance":"700000"}, {"id":"1866", "min":"1", "max":"3", "chance":"374196"}, {"id":"1872", "min":"1", "max":"5", "chance":"748392"}, {"id":"2015", "min":"1", "max":"1", "chance":"6845"}],

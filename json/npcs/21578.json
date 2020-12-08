@@ -2,6 +2,7 @@
 	"id": "21578", 
 	"name": "Behemoth Zombie", 
 	"title": "", 
+	"level": "71", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"269", "min":"1", "max":"1", "chance":"6"}, {"id":"1344", "min":"10", "max":"30", "chance":"125000"}, {"id":"1866", "min":"1", "max":"1", "chance":"71429"}, {"id":"1871", "min":"1", "max":"1", "chance":"111111"}, {"id":"1877", "min":"1", "max":"1", "chance":"4149"}, {"id":"4040", "min":"1", "max":"1", "chance":"2695"}, {"id":"4041", "min":"1", "max":"1", "chance":"830"}, {"id":"5277", "min":"1", "max":"1", "chance":"62"}, {"id":"5539", "min":"1", "max":"1", "chance":"1638"}, {"id":"8730", "min":"1", "max":"1", "chance":"1451"}, {"id":"8740", "min":"1", "max":"1", "chance":"207"}, {"id":"57", "min":"1324", "max":"2698", "chance":"700000"}, {"id":"5464", "min":"1", "max":"1", "chance":"1217"}, {"id":"5482", "min":"1", "max":"1", "chance":"43386"}, {"id":"5485", "min":"1", "max":"1", "chance":"27641"}],

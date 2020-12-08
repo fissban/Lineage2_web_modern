@@ -2,6 +2,7 @@
 	"id": "27253", 
 	"name": "Hell Fire", 
 	"title": "Quest Monster", 
+	"level": "76", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

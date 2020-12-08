@@ -2,6 +2,7 @@
 	"id": "21202", 
 	"name": "Nephilim Scout", 
 	"title": "", 
+	"level": "66", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"6361", "min":"578", "max":"1160", "chance":"700000"}, {"id":"6362", "min":"14", "max":"27", "chance":"700000"}, {"id":"864", "min":"1", "max":"1", "chance":"86"}, {"id":"895", "min":"1", "max":"1", "chance":"128"}, {"id":"926", "min":"1", "max":"1", "chance":"64"}, {"id":"1867", "min":"1", "max":"3", "chance":"166667"}, {"id":"1872", "min":"4", "max":"12", "chance":"66667"}, {"id":"1875", "min":"1", "max":"1", "chance":"25000"}, {"id":"1881", "min":"1", "max":"1", "chance":"52632"}, {"id":"4041", "min":"1", "max":"1", "chance":"2915"}, {"id":"4052", "min":"1", "max":"1", "chance":"13904"}, {"id":"4053", "min":"1", "max":"1", "chance":"16833"}, {"id":"4054", "min":"1", "max":"1", "chance":"7735"}, {"id":"5230", "min":"1", "max":"1", "chance":"525"}, {"id":"4041", "min":"1", "max":"1", "chance":"69372"}, {"id":"4054", "min":"1", "max":"1", "chance":"157136"}, {"id":"5230", "min":"1", "max":"1", "chance":"10637"}],

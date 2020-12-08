@@ -2,6 +2,7 @@
 	"id": "20268", 
 	"name": "Breka Orc Archer", 
 	"title": "", 
+	"level": "32", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"275", "min":"1", "max":"1", "chance":"37"}, {"id":"276", "min":"1", "max":"1", "chance":"37"}, {"id":"956", "min":"1", "max":"1", "chance":"4149"}, {"id":"1867", "min":"1", "max":"1", "chance":"111111"}, {"id":"1872", "min":"1", "max":"1", "chance":"111111"}, {"id":"1875", "min":"1", "max":"1", "chance":"3322"}, {"id":"1881", "min":"1", "max":"1", "chance":"13333"}, {"id":"2024", "min":"1", "max":"1", "chance":"1666"}, {"id":"57", "min":"270", "max":"542", "chance":"700000"}, {"id":"1878", "min":"1", "max":"2", "chance":"256688"}, {"id":"1900", "min":"1", "max":"1", "chance":"70210"}],

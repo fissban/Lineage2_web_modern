@@ -2,6 +2,7 @@
 	"id": "27140", 
 	"name": "Breka Overlord Haka", 
 	"title": "Quest Monster", 
+	"level": "36", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

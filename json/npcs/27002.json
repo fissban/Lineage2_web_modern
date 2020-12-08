@@ -2,6 +2,7 @@
 	"id": "27002", 
 	"name": "Orc Fighter", 
 	"title": "", 
+	"level": "12", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

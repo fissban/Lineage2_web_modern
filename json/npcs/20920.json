@@ -2,6 +2,7 @@
 	"id": "20920", 
 	"name": "Maille Lizardman Scout", 
 	"title": "", 
+	"level": "22", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"273", "min":"1", "max":"1", "chance":"53"}, {"id":"735", "min":"1", "max":"1", "chance":"1791"}, {"id":"1060", "min":"1", "max":"1", "chance":"47743"}, {"id":"1865", "min":"1", "max":"1", "chance":"21485"}, {"id":"1870", "min":"1", "max":"1", "chance":"21485"}, {"id":"1879", "min":"1", "max":"1", "chance":"3581"}, {"id":"2016", "min":"1", "max":"1", "chance":"756"}, {"id":"57", "min":"99", "max":"178", "chance":"700000"}, {"id":"1898", "min":"1", "max":"1", "chance":"22414"}, {"id":"2014", "min":"1", "max":"1", "chance":"2508"}, {"id":"5163", "min":"1", "max":"1", "chance":"8728"}],

@@ -2,6 +2,7 @@
 	"id": "25361", 
 	"name": "Yellow Hornet", 
 	"title": "Raid Fighter", 
+	"level": "25", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"710311"}],

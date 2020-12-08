@@ -2,6 +2,7 @@
 	"id": "30068", 
 	"name": "Shegfield", 
 	"title": "Priest", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

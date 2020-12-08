@@ -2,6 +2,7 @@
 	"id": "20581", 
 	"name": "Leto Lizardman Shaman", 
 	"title": "", 
+	"level": "39", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"279", "min":"1", "max":"1", "chance":"27"}, {"id":"1341", "min":"10", "max":"30", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"2890"}, {"id":"1879", "min":"1", "max":"1", "chance":"7092"}, {"id":"1885", "min":"1", "max":"1", "chance":"3534"}, {"id":"2040", "min":"1", "max":"1", "chance":"2168"}, {"id":"2198", "min":"1", "max":"1", "chance":"1608"}, {"id":"2287", "min":"1", "max":"1", "chance":"964"}, {"id":"2293", "min":"1", "max":"1", "chance":"232"}, {"id":"5549", "min":"1", "max":"1", "chance":"6098"}, {"id":"5550", "min":"1", "max":"1", "chance":"322"}, {"id":"57", "min":"307", "max":"611", "chance":"700000"}, {"id":"1902", "min":"1", "max":"1", "chance":"73432"}, {"id":"2036", "min":"1", "max":"1", "chance":"7337"}, {"id":"2202", "min":"1", "max":"1", "chance":"74108"}],

@@ -2,6 +2,7 @@
 	"id": "30382", 
 	"name": "Leikan", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

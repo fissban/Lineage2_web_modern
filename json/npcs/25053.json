@@ -2,6 +2,7 @@
 	"id": "25053", 
 	"name": "Fanatics of Rahha", 
 	"title": "Raid Fighter", 
+	"level": "64", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"871429"}],

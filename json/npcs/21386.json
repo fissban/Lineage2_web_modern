@@ -2,6 +2,7 @@
 	"id": "21386", 
 	"name": "Magma Golem", 
 	"title": "", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"5326", "min":"1", "max":"1", "chance":"28"}, {"id":"5329", "min":"1", "max":"1", "chance":"28"}, {"id":"959", "min":"1", "max":"1", "chance":"29"}, {"id":"1866", "min":"1", "max":"3", "chance":"100000"}, {"id":"1871", "min":"1", "max":"3", "chance":"250000"}, {"id":"1877", "min":"1", "max":"1", "chance":"27027"}, {"id":"4040", "min":"1", "max":"1", "chance":"5682"}, {"id":"4041", "min":"1", "max":"1", "chance":"2833"}, {"id":"5487", "min":"1", "max":"1", "chance":"4763"}, {"id":"5488", "min":"1", "max":"1", "chance":"4763"}, {"id":"8732", "min":"1", "max":"1", "chance":"5682"}, {"id":"8752", "min":"1", "max":"1", "chance":"1416"}, {"id":"57", "min":"5749", "max":"11773", "chance":"700000"}, {"id":"1877", "min":"1", "max":"1", "chance":"572799"}, {"id":"4041", "min":"1", "max":"1", "chance":"124522"}, {"id":"5537", "min":"1", "max":"1", "chance":"39287"}],

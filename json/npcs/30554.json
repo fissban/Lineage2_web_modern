@@ -2,6 +2,7 @@
 	"id": "30554", 
 	"name": "Bolter", 
 	"title": "Miner", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

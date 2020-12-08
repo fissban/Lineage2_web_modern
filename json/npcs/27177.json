@@ -2,6 +2,7 @@
 	"id": "27177", 
 	"name": "Box Of Athrea 5", 
 	"title": "Quest Monster", 
+	"level": "50", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

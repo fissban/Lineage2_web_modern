@@ -2,6 +2,7 @@
 	"id": "30385", 
 	"name": "Weisz", 
 	"title": "Guard", 
+	"level": "80", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

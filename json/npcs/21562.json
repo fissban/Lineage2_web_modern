@@ -2,6 +2,7 @@
 	"id": "21562", 
 	"name": "Guillotine's Ghost", 
 	"title": "", 
+	"level": "67", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"2398", "min":"1", "max":"1", "chance":"9"}, {"id":"2399", "min":"1", "max":"1", "chance":"9"}, {"id":"2403", "min":"1", "max":"1", "chance":"14"}, {"id":"2404", "min":"1", "max":"1", "chance":"14"}, {"id":"1866", "min":"1", "max":"1", "chance":"62500"}, {"id":"1871", "min":"1", "max":"1", "chance":"100000"}, {"id":"1885", "min":"1", "max":"1", "chance":"9615"}, {"id":"4041", "min":"1", "max":"1", "chance":"416"}, {"id":"4084", "min":"1", "max":"1", "chance":"1814"}, {"id":"4085", "min":"1", "max":"1", "chance":"1814"}, {"id":"4086", "min":"1", "max":"1", "chance":"2449"}, {"id":"4087", "min":"1", "max":"1", "chance":"2449"}, {"id":"5220", "min":"1", "max":"1", "chance":"3534"}, {"id":"5462", "min":"1", "max":"1", "chance":"52"}, {"id":"8730", "min":"1", "max":"1", "chance":"1458"}, {"id":"8740", "min":"1", "max":"1", "chance":"416"}, {"id":"57", "min":"1137", "max":"2324", "chance":"700000"}, {"id":"4118", "min":"1", "max":"1", "chance":"11706"}, {"id":"5156", "min":"1", "max":"1", "chance":"3770"}, {"id":"5220", "min":"1", "max":"1", "chance":"113103"}],

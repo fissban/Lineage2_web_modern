@@ -2,6 +2,7 @@
 	"id": "27046", 
 	"name": "Sumi", 
 	"title": "Orc Betrayer", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

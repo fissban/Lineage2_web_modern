@@ -2,6 +2,7 @@
 	"id": "21269", 
 	"name": "Cave Ant", 
 	"title": "", 
+	"level": "37", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"129", "min":"1", "max":"1", "chance":"41"}, {"id":"1825", "min":"1", "max":"1", "chance":"7407"}, {"id":"1867", "min":"1", "max":"1", "chance":"200000"}, {"id":"1872", "min":"1", "max":"1", "chance":"166667"}, {"id":"1875", "min":"1", "max":"1", "chance":"8696"}, {"id":"1881", "min":"1", "max":"1", "chance":"20000"}, {"id":"2034", "min":"1", "max":"1", "chance":"3021"}, {"id":"57", "min":"467", "max":"933", "chance":"700000"}, {"id":"1825", "min":"1", "max":"1", "chance":"79006"}, {"id":"1902", "min":"1", "max":"1", "chance":"112065"}, {"id":"2145", "min":"1", "max":"1", "chance":"79006"}],

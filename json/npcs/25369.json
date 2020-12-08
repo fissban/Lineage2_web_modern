@@ -2,6 +2,7 @@
 	"id": "25369", 
 	"name": "Soul Scavenger", 
 	"title": "Raid Boss", 
+	"level": "25", 
 	"isRaid": "true", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"260", "min":"1", "max":"1", "chance":"106402"}, {"id":"63", "min":"3", "max":"9", "chance":"32150"}, {"id":"553", "min":"4", "max":"10", "chance":"27557"}, {"id":"2422", "min":"4", "max":"12", "chance":"24112"}, {"id":"2423", "min":"1", "max":"1", "chance":"192897"}, {"id":"2446", "min":"1", "max":"1", "chance":"192897"}, {"id":"2447", "min":"1", "max":"1", "chance":"192897"}, {"id":"955", "min":"1", "max":"3", "chance":"666882"}, {"id":"1940", "min":"60", "max":"180", "chance":"60941"}],

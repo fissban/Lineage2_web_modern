@@ -2,6 +2,7 @@
 	"id": "21633", 
 	"name": "Doll Blader", 
 	"title": "", 
+	"level": "53", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[{"id":"400", "min":"1", "max":"1", "chance":"38"}, {"id":"401", "min":"1", "max":"1", "chance":"20"}, {"id":"420", "min":"1", "max":"1", "chance":"60"}, {"id":"1865", "min":"1", "max":"1", "chance":"114616"}, {"id":"1870", "min":"1", "max":"1", "chance":"114616"}, {"id":"1874", "min":"1", "max":"1", "chance":"7641"}, {"id":"1984", "min":"1", "max":"1", "chance":"3276"}, {"id":"1985", "min":"1", "max":"1", "chance":"5270"}, {"id":"1987", "min":"1", "max":"1", "chance":"2332"}, {"id":"4039", "min":"1", "max":"1", "chance":"3821"}, {"id":"4043", "min":"1", "max":"1", "chance":"3821"}, {"id":"4133", "min":"1", "max":"1", "chance":"552"}, {"id":"4941", "min":"1", "max":"1", "chance":"882"}, {"id":"4959", "min":"1", "max":"1", "chance":"2209"}, {"id":"57", "min":"1003", "max":"2037", "chance":"700000"}, {"id":"1918", "min":"1", "max":"1", "chance":"107551"}, {"id":"2955", "min":"1", "max":"1", "chance":"157174"}, {"id":"4042", "min":"1", "max":"1", "chance":"41389"}],

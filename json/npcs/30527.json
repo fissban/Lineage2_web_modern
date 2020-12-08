@@ -2,6 +2,7 @@
 	"id": "30527", 
 	"name": "Silvera", 
 	"title": "Blacksmith", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

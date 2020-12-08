@@ -2,6 +2,7 @@
 	"id": "27054", 
 	"name": "Umbar Orc", 
 	"title": "Quest Monster", 
+	"level": "20", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],

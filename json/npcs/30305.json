@@ -2,6 +2,7 @@
 	"id": "30305", 
 	"name": "Vellior", 
 	"title": "Tetrarch", 
+	"level": "70", 
 	"isRaid": "false", 
 	"isGrandBoss": "false", 
 	"drops":[],
