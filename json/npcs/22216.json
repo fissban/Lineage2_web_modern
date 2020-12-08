@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22216", 
+		"name":"Tyrannosaurus", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"5541", "min":"1", "max":"1", "chance":"58823"}, {"id":"8627", "min":"1", "max":"1", "chance":"350000"}, {"id":"8633", "min":"1", "max":"1", "chance":"58823"}, {"id":"8762", "min":"1", "max":"1", "chance":"58823"}, {"id":"8900", "min":"1", "max":"1", "chance":"140000"}, {"id":"8905", "min":"1", "max":"1", "chance":"140000"}, {"id":"8905", "min":"1", "max":"1", "chance":"73170"}, {"id":"8900", "min":"1", "max":"1", "chance":"72858"}, {"id":"57", "min":"54300", "max":"110530", "chance":"700000"}],
+		"skills":[]
+	}
+]

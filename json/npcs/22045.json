@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22045", 
+		"name":"Dark Corpse", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1865", "min":"1", "max":"1", "chance":"76923"}, {"id":"1870", "min":"1", "max":"1", "chance":"50000"}, {"id":"1875", "min":"1", "max":"1", "chance":"3257"}, {"id":"1879", "min":"1", "max":"1", "chance":"4902"}, {"id":"1948", "min":"1", "max":"1", "chance":"3257"}, {"id":"2923", "min":"1", "max":"1", "chance":"2169"}, {"id":"2924", "min":"1", "max":"1", "chance":"2169"}, {"id":"2925", "min":"1", "max":"1", "chance":"4348"}, {"id":"2926", "min":"1", "max":"1", "chance":"2169"}, {"id":"2927", "min":"1", "max":"1", "chance":"4348"}, {"id":"2928", "min":"1", "max":"1", "chance":"2169"}, {"id":"57", "min":"205", "max":"407", "chance":"700000"}],
+		"skills":[{"id":"4071", "level":"3"}, {"id":"4248", "level":"1"}, {"id":"4408", "level":"9"}, {"id":"4413", "level":"14"}]
+	}
+]

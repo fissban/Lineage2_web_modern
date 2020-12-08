@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31679", 
+		"name":"Eustace Van Essen", 
+		"title":"Frontier Guard Captain", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

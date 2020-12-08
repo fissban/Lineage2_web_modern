@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30937", 
+		"name":"Malcom2", 
+		"title":"Wild Boar Prince", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

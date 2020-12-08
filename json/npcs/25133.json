@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25133", 
+		"name":"Gato's Troop Leader", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"695200"}],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21525", 
+		"name":"Blade of Splendor", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"229", "min":"1", "max":"1", "chance":"5"}, {"id":"243", "min":"1", "max":"1", "chance":"5"}, {"id":"947", "min":"1", "max":"1", "chance":"53"}, {"id":"1343", "min":"10", "max":"30", "chance":"142857"}, {"id":"1894", "min":"1", "max":"1", "chance":"3390"}, {"id":"4039", "min":"1", "max":"1", "chance":"3378"}, {"id":"4041", "min":"1", "max":"1", "chance":"918"}, {"id":"4044", "min":"1", "max":"1", "chance":"3300"}, {"id":"4109", "min":"1", "max":"1", "chance":"1114"}, {"id":"4110", "min":"1", "max":"1", "chance":"1114"}, {"id":"8728", "min":"1", "max":"1", "chance":"1572"}, {"id":"8738", "min":"1", "max":"1", "chance":"618"}, {"id":"8748", "min":"1", "max":"1", "chance":"18"}, {"id":"57", "min":"1082", "max":"2195", "chance":"700000"}, {"id":"4049", "min":"1", "max":"1", "chance":"140479"}, {"id":"4050", "min":"1", "max":"1", "chance":"165938"}, {"id":"4129", "min":"1", "max":"1", "chance":"28985"}],
+		"skills":[{"id":"4085", "level":"1"}, {"id":"4086", "level":"1"}, {"id":"4103", "level":"2"}, {"id":"4641", "level":"6"}, {"id":"4671", "level":"1"}]
+	}
+]

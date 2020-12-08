@@ -31,7 +31,7 @@ while ($row = $result->fetch())
 {
     foreach ($data as &$d)
     {
-        $d['clan_name'] = 'no clan';
+        $d['clan_name'] = 'N/A';
         if ($d['clanid'] == $row['clan_id'])
         {
             $d['clan_name'] = $row['clan_name'];

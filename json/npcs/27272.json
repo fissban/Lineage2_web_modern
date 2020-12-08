@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27272", 
+		"name":"Hallate's Dancer Lillian", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4412", "level":"18"}, {"id":"4414", "level":"3"}, {"id":"4533", "level":"1"}, {"id":"4534", "level":"1"}, {"id":"4535", "level":"1"}]
+	}
+]

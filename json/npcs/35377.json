@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35377", 
+		"name":"Partisan Court Guard", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

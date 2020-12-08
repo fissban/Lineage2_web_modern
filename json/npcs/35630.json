@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35630", 
+		"name":"Alfred von Hellmann", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4275", "level":"1"}, {"id":"4278", "level":"1"}, {"id":"4285", "level":"3"}, {"id":"4333", "level":"5"}, {"id":"4410", "level":"14"}, {"id":"4411", "level":"14"}, {"id":"4412", "level":"8"}, {"id":"4413", "level":"8"}, {"id":"5000", "level":"1"}, {"id":"5001", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27250", 
+		"name":"Fallen Angel Allector", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4408", "level":"10"}, {"id":"4414", "level":"1"}, {"id":"4526", "level":"1"}, {"id":"4527", "level":"1"}, {"id":"4528", "level":"1"}]
+	}
+]

@@ -32,7 +32,7 @@ function createPanelCharacter(character, clases)
         <div class="col-12">
             <div class="row mb-1">
                 <div class="col-4">
-                    <span class="text-color-primary">Name:</span> ${character.char_name} (${character.title != '' ? character.title : 'no title'})
+                    <span class="text-color-primary">Name:</span> ${character.char_name} (${character.title != '' ? character.title : 'N/A'})
                 </div>
                 <div class="col-8 text-right">
                     <span class="text-color-primary">Level:</span> ${character.level}

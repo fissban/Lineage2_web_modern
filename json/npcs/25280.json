@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25280", 
+		"name":"Pagan Watcher Cerberon", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"300", "min":"1", "max":"1", "chance":"35802"}, {"id":"856", "min":"1", "max":"1", "chance":"113955"}, {"id":"887", "min":"1", "max":"1", "chance":"170932"}, {"id":"918", "min":"1", "max":"1", "chance":"85466"}, {"id":"4049", "min":"81", "max":"243", "chance":"111795"}, {"id":"4050", "min":"40", "max":"120", "chance":"267412"}, {"id":"4051", "min":"140", "max":"420", "chance":"47824"}, {"id":"4113", "min":"12", "max":"36", "chance":"333140"}, {"id":"947", "min":"1", "max":"1", "chance":"268554"}, {"id":"948", "min":"3", "max":"9", "chance":"279744"}, {"id":"6571", "min":"1", "max":"1", "chance":"19183"}, {"id":"8171", "min":"6", "max":"6", "chance":"250000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4175", "level":"5"}, {"id":"4177", "level":"5"}, {"id":"4494", "level":"1"}, {"id":"4719", "level":"5"}, {"id":"4734", "level":"5"}, {"id":"4894", "level":"1"}]
+	}
+]

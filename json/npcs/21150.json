@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21150", 
+		"name":"Decayed Ancient Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"325", "min":"1", "max":"1", "chance":"56"}, {"id":"1342", "min":"10", "max":"30", "chance":"200000"}, {"id":"1866", "min":"1", "max":"1", "chance":"66667"}, {"id":"1871", "min":"1", "max":"1", "chance":"90909"}, {"id":"1877", "min":"1", "max":"1", "chance":"3759"}, {"id":"2088", "min":"1", "max":"1", "chance":"5603"}, {"id":"2166", "min":"1", "max":"1", "chance":"3861"}, {"id":"2234", "min":"1", "max":"1", "chance":"2463"}, {"id":"3014", "min":"1", "max":"1", "chance":"1736"}, {"id":"4040", "min":"1", "max":"1", "chance":"1513"}, {"id":"4041", "min":"1", "max":"1", "chance":"784"}, {"id":"8724", "min":"1", "max":"1", "chance":"3584"}, {"id":"8734", "min":"1", "max":"1", "chance":"897"}, {"id":"8744", "min":"1", "max":"1", "chance":"44"}, {"id":"8754", "min":"1", "max":"1", "chance":"43"}, {"id":"57", "min":"1445", "max":"2946", "chance":"700000"}, {"id":"951", "min":"1", "max":"1", "chance":"6524"}, {"id":"1911", "min":"1", "max":"1", "chance":"266897"}, {"id":"2166", "min":"1", "max":"1", "chance":"121642"}],
+		"skills":[{"id":"4073", "level":"4"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"12"}]
+	}
+]

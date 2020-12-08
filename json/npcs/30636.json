@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30636", 
+		"name":"Camoniell", 
+		"title":"Summoner", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

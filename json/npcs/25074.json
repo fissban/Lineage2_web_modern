@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25074", 
+		"name":"Rudelto's Banshee", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"870500"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4209", "level":"6"}, {"id":"4213", "level":"6"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}]
+	}
+]

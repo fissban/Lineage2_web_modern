@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25135", 
+		"name":"Talkin's Seer", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"736000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4211", "level":"4"}, {"id":"4414", "level":"3"}, {"id":"4781", "level":"4"}]
+	}
+]

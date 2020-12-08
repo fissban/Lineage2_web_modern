@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25305", 
+		"name":"Ketra's Chief Brakki", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"6370", "min":"1", "max":"1", "chance":"7197"}, {"id":"6724", "min":"1", "max":"1", "chance":"21094"}, {"id":"6725", "min":"1", "max":"1", "chance":"31598"}, {"id":"6726", "min":"1", "max":"1", "chance":"15799"}, {"id":"6698", "min":"9", "max":"27", "chance":"425832"}, {"id":"6699", "min":"40", "max":"120", "chance":"106317"}, {"id":"6700", "min":"14", "max":"42", "chance":"166845"}, {"id":"959", "min":"1", "max":"1", "chance":"30352"}, {"id":"960", "min":"1", "max":"1", "chance":"303513"}, {"id":"6577", "min":"1", "max":"1", "chance":"5059"}, {"id":"6694", "min":"3", "max":"9", "chance":"644043"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4173", "level":"1"}, {"id":"4177", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4726", "level":"1"}, {"id":"4736", "level":"1"}, {"id":"4905", "level":"1"}]
+	}
+]

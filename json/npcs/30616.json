@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30616", 
+		"name":"Kepra", 
+		"title":"Enku Chief", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

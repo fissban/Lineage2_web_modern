@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20388", 
+		"name":"Balor Orc Lieutenant", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"37", "min":"1", "max":"1", "chance":"2996"}, {"id":"49", "min":"1", "max":"1", "chance":"2996"}, {"id":"735", "min":"1", "max":"1", "chance":"2481"}, {"id":"736", "min":"1", "max":"1", "chance":"14886"}, {"id":"1864", "min":"1", "max":"1", "chance":"59543"}, {"id":"1869", "min":"1", "max":"1", "chance":"29772"}, {"id":"1921", "min":"1", "max":"1", "chance":"25611"}, {"id":"57", "min":"109", "max":"147", "chance":"700000"}, {"id":"1833", "min":"1", "max":"1", "chance":"537542"}, {"id":"1880", "min":"1", "max":"1", "chance":"20158"}],
+		"skills":[{"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

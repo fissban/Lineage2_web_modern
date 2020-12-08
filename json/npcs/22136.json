@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22136", 
+		"name":"Gatekeeper Zombie", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4408", "level":"12"}, {"id":"4411", "level":"15"}, {"id":"4414", "level":"3"}, {"id":"4422", "level":"3"}, {"id":"5043", "level":"10"}]
+	}
+]

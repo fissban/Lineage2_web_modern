@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21121", 
+		"name":"Kasha Dire Wolf", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"257", "min":"1", "max":"1", "chance":"156"}, {"id":"1867", "min":"1", "max":"1", "chance":"63296"}, {"id":"1872", "min":"1", "max":"1", "chance":"63296"}, {"id":"1881", "min":"1", "max":"1", "chance":"6330"}, {"id":"2258", "min":"1", "max":"1", "chance":"1161"}, {"id":"57", "min":"147", "max":"260", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"21428"}, {"id":"1881", "min":"1", "max":"1", "chance":"42856"}, {"id":"1927", "min":"1", "max":"1", "chance":"25642"}],
+		"skills":[{"id":"4414", "level":"3"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27024", 
+		"name":"Undead Priest", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4071", "level":"5"}, {"id":"4248", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4284", "level":"5"}, {"id":"4412", "level":"18"}, {"id":"4413", "level":"18"}]
+	}
+]

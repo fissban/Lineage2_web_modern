@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20585", 
+		"name":"Timak Orc Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"159", "min":"1", "max":"1", "chance":"6"}, {"id":"187", "min":"1", "max":"1", "chance":"6"}, {"id":"188", "min":"1", "max":"1", "chance":"6"}, {"id":"189", "min":"1", "max":"1", "chance":"6"}, {"id":"190", "min":"1", "max":"1", "chance":"6"}, {"id":"1875", "min":"1", "max":"1", "chance":"5263"}, {"id":"1879", "min":"1", "max":"1", "chance":"14493"}, {"id":"1885", "min":"1", "max":"1", "chance":"6410"}, {"id":"2048", "min":"1", "max":"1", "chance":"422"}, {"id":"2049", "min":"1", "max":"1", "chance":"422"}, {"id":"2050", "min":"1", "max":"1", "chance":"447"}, {"id":"2051", "min":"1", "max":"1", "chance":"447"}, {"id":"2058", "min":"1", "max":"1", "chance":"422"}, {"id":"2303", "min":"1", "max":"1", "chance":"564"}, {"id":"2988", "min":"1", "max":"1", "chance":"3759"}, {"id":"5549", "min":"1", "max":"1", "chance":"10752"}, {"id":"5550", "min":"1", "max":"1", "chance":"940"}, {"id":"3107", "min":"1", "max":"1", "chance":"26484"}, {"id":"3115", "min":"1", "max":"1", "chance":"31863"}, {"id":"3117", "min":"1", "max":"1", "chance":"31863"}, {"id":"57", "min":"415", "max":"839", "chance":"700000"}, {"id":"1905", "min":"1", "max":"1", "chance":"98755"}, {"id":"2204", "min":"1", "max":"1", "chance":"20103"}, {"id":"2308", "min":"1", "max":"1", "chance":"4433"}],
+		"skills":[{"id":"4032", "level":"4"}]
+	}
+]

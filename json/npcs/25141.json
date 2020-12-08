@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25141", 
+		"name":"Hekaton Cottus", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"871429"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4720", "level":"6"}]
+	}
+]

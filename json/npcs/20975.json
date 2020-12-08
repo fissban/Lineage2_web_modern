@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20975", 
+		"name":"Spiteful Soul Wizard", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"110", "min":"1", "max":"1", "chance":"42"}, {"id":"2416", "min":"1", "max":"1", "chance":"29"}, {"id":"2417", "min":"1", "max":"1", "chance":"29"}, {"id":"1830", "min":"1", "max":"1", "chance":"45455"}, {"id":"1866", "min":"1", "max":"1", "chance":"76923"}, {"id":"1871", "min":"1", "max":"1", "chance":"142857"}, {"id":"1885", "min":"1", "max":"1", "chance":"8547"}, {"id":"4041", "min":"1", "max":"1", "chance":"1292"}, {"id":"4077", "min":"1", "max":"1", "chance":"7795"}, {"id":"4088", "min":"1", "max":"1", "chance":"6549"}, {"id":"4089", "min":"1", "max":"1", "chance":"6549"}, {"id":"5220", "min":"1", "max":"1", "chance":"3135"}, {"id":"5276", "min":"1", "max":"1", "chance":"199"}, {"id":"8729", "min":"1", "max":"1", "chance":"1712"}, {"id":"8739", "min":"1", "max":"1", "chance":"285"}, {"id":"8749", "min":"1", "max":"1", "chance":"856"}, {"id":"57", "min":"1424", "max":"2883", "chance":"700000"}, {"id":"4053", "min":"1", "max":"1", "chance":"150882"}, {"id":"4078", "min":"1", "max":"1", "chance":"51418"}, {"id":"5230", "min":"1", "max":"1", "chance":"4693"}],
+		"skills":[{"id":"4065", "level":"6"}, {"id":"4087", "level":"6"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}]
+	}
+]

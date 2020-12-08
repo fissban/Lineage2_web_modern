@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18138", 
+		"name":"Imperial Mosaic", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4160", "level":"9"}, {"id":"4408", "level":"14"}, {"id":"4412", "level":"17"}, {"id":"4563", "level":"9"}, {"id":"4609", "level":"4"}]
+	}
+]

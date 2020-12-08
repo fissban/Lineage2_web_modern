@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22191", 
+		"name":"Andreas' Captain of the Royal Guard", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"5320", "min":"1", "max":"1", "chance":"13"}, {"id":"5323", "min":"1", "max":"1", "chance":"13"}, {"id":"5480", "min":"1", "max":"1", "chance":"1980"}, {"id":"5481", "min":"1", "max":"1", "chance":"1980"}, {"id":"959", "min":"1", "max":"1", "chance":"14"}, {"id":"1895", "min":"1", "max":"1", "chance":"100829"}, {"id":"4040", "min":"1", "max":"1", "chance":"7058"}, {"id":"4042", "min":"1", "max":"1", "chance":"5882"}, {"id":"4043", "min":"1", "max":"1", "chance":"11763"}, {"id":"57", "min":"2350", "max":"4817", "chance":"700000"}],
+		"skills":[{"id":"4065", "level":"9"}, {"id":"4158", "level":"9"}, {"id":"4275", "level":"2"}, {"id":"4408", "level":"10"}, {"id":"4414", "level":"3"}, {"id":"4422", "level":"3"}, {"id":"4466", "level":"3"}, {"id":"4622", "level":"9"}, {"id":"4641", "level":"1"}, {"id":"4655", "level":"9"}]
+	}
+]

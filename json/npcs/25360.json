@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25360", 
+		"name":"Tiger Hornet", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"316", "min":"1", "max":"1", "chance":"35408"}, {"id":"317", "min":"1", "max":"1", "chance":"35408"}, {"id":"58", "min":"1", "max":"1", "chance":"53458"}, {"id":"59", "min":"1", "max":"1", "chance":"77029"}, {"id":"349", "min":"1", "max":"1", "chance":"53458"}, {"id":"350", "min":"1", "max":"1", "chance":"53458"}, {"id":"351", "min":"1", "max":"1", "chance":"48191"}, {"id":"378", "min":"1", "max":"1", "chance":"77029"}, {"id":"379", "min":"1", "max":"1", "chance":"77028"}, {"id":"2030", "min":"3", "max":"9", "chance":"333715"}, {"id":"6576", "min":"1", "max":"1", "chance":"665764"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"2"}, {"id":"4494", "level":"1"}, {"id":"4928", "level":"1"}]
+	}
+]

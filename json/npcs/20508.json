@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20508", 
+		"name":"Plunder Tarantula", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1101", "min":"1", "max":"1", "chance":"731"}, {"id":"1104", "min":"1", "max":"1", "chance":"1168"}, {"id":"1867", "min":"1", "max":"1", "chance":"65904"}, {"id":"1872", "min":"1", "max":"1", "chance":"65904"}, {"id":"2142", "min":"1", "max":"1", "chance":"9886"}, {"id":"57", "min":"122", "max":"197", "chance":"700000"}, {"id":"1800", "min":"1", "max":"1", "chance":"78931"}, {"id":"1866", "min":"1", "max":"2", "chance":"167333"}],
+		"skills":[{"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

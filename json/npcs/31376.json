@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31376", 
+		"name":"Kurfa", 
+		"title":"Gatekeeper", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

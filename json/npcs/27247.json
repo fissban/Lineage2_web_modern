@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27247", 
+		"name":"Archon of Halisha", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4414", "level":"1"}]
+	}
+]

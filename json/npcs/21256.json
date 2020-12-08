@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21256", 
+		"name":"Underground Werewolf", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"27", "min":"1", "max":"1", "chance":"217"}, {"id":"33", "min":"1", "max":"1", "chance":"348"}, {"id":"735", "min":"1", "max":"1", "chance":"2664"}, {"id":"1867", "min":"1", "max":"1", "chance":"42615"}, {"id":"1872", "min":"1", "max":"1", "chance":"42615"}, {"id":"1882", "min":"1", "max":"1", "chance":"7103"}, {"id":"1927", "min":"1", "max":"1", "chance":"3188"}, {"id":"1929", "min":"1", "max":"1", "chance":"5155"}, {"id":"5153", "min":"1", "max":"1", "chance":"1279"}, {"id":"57", "min":"124", "max":"218", "chance":"700000"}, {"id":"1804", "min":"1", "max":"1", "chance":"10820"}, {"id":"1872", "min":"1", "max":"1", "chance":"360672"}, {"id":"1898", "min":"1", "max":"1", "chance":"27787"}],
+		"skills":[{"id":"4414", "level":"3"}]
+	}
+]

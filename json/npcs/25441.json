@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25441", 
+		"name":"Evil Spirit Cyrion", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"283", "min":"1", "max":"1", "chance":"19668"}, {"id":"854", "min":"1", "max":"1", "chance":"63706"}, {"id":"885", "min":"1", "max":"1", "chance":"95884"}, {"id":"917", "min":"1", "max":"1", "chance":"47821"}, {"id":"1914", "min":"9", "max":"27", "chance":"293277"}, {"id":"1915", "min":"28", "max":"84", "chance":"147839"}, {"id":"1916", "min":"20", "max":"60", "chance":"99963"}, {"id":"2109", "min":"3", "max":"9", "chance":"395151"}, {"id":"4610", "min":"1", "max":"1", "chance":"304521"}, {"id":"4611", "min":"1", "max":"1", "chance":"304521"}, {"id":"4612", "min":"1", "max":"1", "chance":"304521"}, {"id":"6574", "min":"1", "max":"1", "chance":"78304"}, {"id":"8161", "min":"4", "max":"4", "chance":"250000"}, {"id":"8176", "min":"2", "max":"2", "chance":"250000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4186", "level":"4"}, {"id":"4187", "level":"4"}, {"id":"4195", "level":"4"}, {"id":"4273", "level":"5"}, {"id":"4276", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4958", "level":"1"}]
+	}
+]

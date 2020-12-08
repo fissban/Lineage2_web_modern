@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25440", 
+		"name":"Kelbar's Wizard", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"6036", "min":"1", "max":"1", "chance":"17813"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4191", "level":"4"}, {"id":"4200", "level":"4"}, {"id":"4414", "level":"3"}]
+	}
+]

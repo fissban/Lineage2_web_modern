@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25112", 
+		"name":"Agent of Beres Meana", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"93", "min":"1", "max":"1", "chance":"29621"}, {"id":"294", "min":"1", "max":"1", "chance":"29621"}, {"id":"850", "min":"1", "max":"1", "chance":"197331"}, {"id":"881", "min":"6", "max":"16", "chance":"26895"}, {"id":"913", "min":"1", "max":"1", "chance":"147446"}, {"id":"1902", "min":"81", "max":"243", "chance":"57634"}, {"id":"1903", "min":"40", "max":"120", "chance":"192147"}, {"id":"1904", "min":"140", "max":"420", "chance":"30716"}, {"id":"2033", "min":"4", "max":"12", "chance":"289120"}, {"id":"2041", "min":"8", "max":"22", "chance":"154197"}, {"id":"956", "min":"12", "max":"36", "chance":"746613"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"3"}, {"id":"4414", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4831", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25297", 
+		"name":"Icicle Giant", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"339000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4196", "level":"7"}, {"id":"4201", "level":"7"}, {"id":"4273", "level":"3"}, {"id":"4274", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4444", "level":"2"}]
+	}
+]

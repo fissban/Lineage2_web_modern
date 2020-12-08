@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20525", 
+		"name":"Gray Wolf", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1", "min":"1", "max":"1", "chance":"10394"}, {"id":"1060", "min":"1", "max":"1", "chance":"22174"}, {"id":"1787", "min":"1", "max":"1", "chance":"7983"}, {"id":"1868", "min":"1", "max":"1", "chance":"19957"}, {"id":"1873", "min":"1", "max":"1", "chance":"3992"}, {"id":"57", "min":"19", "max":"29", "chance":"700000"}, {"id":"1867", "min":"1", "max":"1", "chance":"51475"}, {"id":"1872", "min":"1", "max":"1", "chance":"51475"}, {"id":"5549", "min":"1", "max":"1", "chance":"3861"}],
+		"skills":[]
+	}
+]

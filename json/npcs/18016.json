@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18016", 
+		"name":"Offering of Branded Marksman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4414", "level":"3"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}]
+	}
+]

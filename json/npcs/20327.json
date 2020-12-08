@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20327", 
+		"name":"Goblin Snooper", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"112", "min":"1", "max":"1", "chance":"79637"}, {"id":"116", "min":"1", "max":"1", "chance":"118249"}, {"id":"118", "min":"1", "max":"1", "chance":"59125"}, {"id":"1786", "min":"1", "max":"1", "chance":"15609"}, {"id":"1867", "min":"1", "max":"1", "chance":"26015"}, {"id":"1872", "min":"1", "max":"1", "chance":"26015"}, {"id":"57", "min":"30", "max":"42", "chance":"700000"}, {"id":"1865", "min":"1", "max":"1", "chance":"56617"}, {"id":"1870", "min":"1", "max":"1", "chance":"56617"}, {"id":"1872", "min":"1", "max":"1", "chance":"75489"}],
+		"skills":[]
+	}
+]

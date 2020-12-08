@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22020", 
+		"name":"Snow Lynx", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"58", "min":"1", "max":"1", "chance":"88"}, {"id":"59", "min":"1", "max":"1", "chance":"88"}, {"id":"349", "min":"1", "max":"1", "chance":"88"}, {"id":"350", "min":"1", "max":"1", "chance":"88"}, {"id":"351", "min":"1", "max":"1", "chance":"88"}, {"id":"378", "min":"1", "max":"1", "chance":"88"}, {"id":"379", "min":"1", "max":"1", "chance":"88"}, {"id":"1867", "min":"1", "max":"1", "chance":"71429"}, {"id":"1872", "min":"1", "max":"1", "chance":"76923"}, {"id":"1875", "min":"1", "max":"1", "chance":"4762"}, {"id":"1881", "min":"1", "max":"1", "chance":"6369"}, {"id":"8302", "min":"1", "max":"1", "chance":"893"}, {"id":"57", "min":"239", "max":"479", "chance":"700000"}, {"id":"1901", "min":"1", "max":"1", "chance":"25000"}, {"id":"1938", "min":"1", "max":"1", "chance":"25000"}, {"id":"2154", "min":"1", "max":"1", "chance":"5000"}],
+		"skills":[{"id":"4032", "level":"3"}, {"id":"4410", "level":"12"}, {"id":"4412", "level":"12"}]
+	}
+]

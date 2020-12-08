@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20460", 
+		"name":"Crimson Spider", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"66", "min":"1", "max":"1", "chance":"172"}, {"id":"1333", "min":"1", "max":"1", "chance":"172"}, {"id":"1799", "min":"1", "max":"1", "chance":"68922"}, {"id":"1867", "min":"1", "max":"1", "chance":"62030"}, {"id":"1872", "min":"1", "max":"1", "chance":"62030"}, {"id":"2010", "min":"1", "max":"1", "chance":"1811"}, {"id":"57", "min":"119", "max":"180", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"17371"}, {"id":"1833", "min":"1", "max":"1", "chance":"629988"}, {"id":"1866", "min":"1", "max":"1", "chance":"157497"}],
+		"skills":[{"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

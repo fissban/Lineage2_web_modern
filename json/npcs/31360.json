@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31360", 
+		"name":"Alhena", 
+		"title":"Tetrarch Agent", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

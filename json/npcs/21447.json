@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21447", 
+		"name":"Raider of Pastureland", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"110", "min":"1", "max":"1", "chance":"31"}, {"id":"2416", "min":"1", "max":"1", "chance":"22"}, {"id":"2417", "min":"1", "max":"1", "chance":"22"}, {"id":"1867", "min":"1", "max":"1", "chance":"125000"}, {"id":"1869", "min":"1", "max":"1", "chance":"100000"}, {"id":"1870", "min":"1", "max":"1", "chance":"90909"}, {"id":"1871", "min":"1", "max":"1", "chance":"90909"}, {"id":"1872", "min":"1", "max":"3", "chance":"55556"}, {"id":"4077", "min":"1", "max":"1", "chance":"5757"}, {"id":"4088", "min":"1", "max":"1", "chance":"4837"}, {"id":"4089", "min":"1", "max":"1", "chance":"4837"}, {"id":"5462", "min":"1", "max":"1", "chance":"48"}, {"id":"8729", "min":"1", "max":"1", "chance":"1227"}, {"id":"8739", "min":"1", "max":"1", "chance":"245"}, {"id":"8749", "min":"1", "max":"1", "chance":"123"}, {"id":"57", "min":"1050", "max":"2130", "chance":"700000"}, {"id":"4052", "min":"1", "max":"1", "chance":"92029"}, {"id":"4118", "min":"1", "max":"1", "chance":"10762"}, {"id":"5281", "min":"1", "max":"1", "chance":"3466"}],
+		"skills":[{"id":"4067", "level":"6"}, {"id":"4410", "level":"8"}, {"id":"4411", "level":"8"}, {"id":"4412", "level":"14"}, {"id":"4413", "level":"14"}]
+	}
+]

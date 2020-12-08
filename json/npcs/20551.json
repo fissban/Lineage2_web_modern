@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20551", 
+		"name":"Road Scavenger", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"850", "min":"1", "max":"1", "chance":"121"}, {"id":"881", "min":"1", "max":"1", "chance":"181"}, {"id":"913", "min":"1", "max":"1", "chance":"91"}, {"id":"1867", "min":"1", "max":"1", "chance":"71429"}, {"id":"1872", "min":"1", "max":"1", "chance":"76923"}, {"id":"1875", "min":"1", "max":"1", "chance":"3676"}, {"id":"1881", "min":"1", "max":"1", "chance":"6711"}, {"id":"1902", "min":"1", "max":"1", "chance":"5708"}, {"id":"1903", "min":"1", "max":"1", "chance":"9398"}, {"id":"1904", "min":"1", "max":"1", "chance":"5258"}, {"id":"2145", "min":"1", "max":"1", "chance":"3236"}, {"id":"2287", "min":"1", "max":"1", "chance":"335"}, {"id":"2288", "min":"1", "max":"1", "chance":"223"}, {"id":"57", "min":"276", "max":"551", "chance":"700000"}, {"id":"1874", "min":"1", "max":"1", "chance":"43592"}, {"id":"1902", "min":"1", "max":"1", "chance":"66249"}, {"id":"2034", "min":"1", "max":"1", "chance":"6909"}],
+		"skills":[{"id":"4414", "level":"3"}]
+	}
+]

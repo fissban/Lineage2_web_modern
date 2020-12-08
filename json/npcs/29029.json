@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29029", 
+		"name":"Lavasaurus Pustbon", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4607", "level":"1"}]
+	}
+]

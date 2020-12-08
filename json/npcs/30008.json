@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30008", 
+		"name":"Roien", 
+		"title":"Grand Master", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

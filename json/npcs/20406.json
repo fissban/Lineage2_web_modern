@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20406", 
+		"name":"Young Red Fox", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

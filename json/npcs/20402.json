@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20402", 
+		"name":"Veelan Bugbear Warrior", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"25", "min":"1", "max":"1", "chance":"211"}, {"id":"26", "min":"1", "max":"1", "chance":"136"}, {"id":"32", "min":"1", "max":"1", "chance":"336"}, {"id":"34", "min":"1", "max":"1", "chance":"218"}, {"id":"1866", "min":"1", "max":"1", "chance":"33426"}, {"id":"1871", "min":"1", "max":"1", "chance":"50139"}, {"id":"1926", "min":"1", "max":"1", "chance":"3377"}, {"id":"1928", "min":"1", "max":"1", "chance":"4869"}, {"id":"2256", "min":"1", "max":"1", "chance":"1226"}, {"id":"5158", "min":"1", "max":"1", "chance":"2006"}, {"id":"57", "min":"151", "max":"278", "chance":"700000"}, {"id":"1871", "min":"1", "max":"2", "chance":"339480"}, {"id":"1880", "min":"1", "max":"1", "chance":"33948"}, {"id":"2179", "min":"1", "max":"1", "chance":"162431"}],
+		"skills":[{"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

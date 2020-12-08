@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30166", 
+		"name":"Wesley", 
+		"title":"Magic Trader", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

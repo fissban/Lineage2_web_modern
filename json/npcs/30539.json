@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30539", 
+		"name":"Chichirin", 
+		"title":"Priestess of the Earth", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

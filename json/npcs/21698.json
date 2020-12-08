@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21698", 
+		"name":"Dimension Invader Elite Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"395", "min":"1", "max":"1", "chance":"53"}, {"id":"417", "min":"1", "max":"1", "chance":"84"}, {"id":"1341", "min":"10", "max":"30", "chance":"155621"}, {"id":"1866", "min":"1", "max":"1", "chance":"31124"}, {"id":"1871", "min":"1", "max":"1", "chance":"46686"}, {"id":"1877", "min":"1", "max":"1", "chance":"1868"}, {"id":"1942", "min":"1", "max":"1", "chance":"2977"}, {"id":"1943", "min":"1", "max":"1", "chance":"4636"}, {"id":"2196", "min":"1", "max":"1", "chance":"1914"}, {"id":"57", "min":"189", "max":"378", "chance":"700000"}, {"id":"1871", "min":"1", "max":"1", "chance":"451575"}, {"id":"2032", "min":"1", "max":"1", "chance":"4173"}, {"id":"6036", "min":"1", "max":"1", "chance":"15052"}],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"9"}, {"id":"4410", "level":"14"}, {"id":"4411", "level":"14"}, {"id":"4412", "level":"8"}, {"id":"4413", "level":"8"}, {"id":"4572", "level":"4"}]
+	}
+]

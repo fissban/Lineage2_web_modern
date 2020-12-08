@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35398", 
+		"name":"Ruben", 
+		"title":"Clan Hall Manager", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

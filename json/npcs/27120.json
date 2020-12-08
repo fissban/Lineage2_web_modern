@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27120", 
+		"name":"Luell Of Zephyr Winds", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4037", "level":"2"}]
+	}
+]

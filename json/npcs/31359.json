@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31359", 
+		"name":"Jaradine", 
+		"title":"Mother Tree Guardian", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25187", 
+		"name":"Helena's Soldier", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"6036", "min":"1", "max":"1", "chance":"11307"}],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

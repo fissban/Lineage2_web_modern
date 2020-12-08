@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30702", 
+		"name":"Bernard", 
+		"title":"Guild President", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

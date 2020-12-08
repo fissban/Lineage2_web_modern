@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29060", 
+		"name":"Captain of the Ice Queen's Royal Guard", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"2391", "min":"1", "max":"1", "chance":"13946"}, {"id":"2392", "min":"1", "max":"1", "chance":"13946"}, {"id":"4082", "min":"4", "max":"12", "chance":"347671"}, {"id":"4083", "min":"8", "max":"22", "chance":"185424"}, {"id":"287", "min":"1", "max":"1", "chance":"11274"}, {"id":"4121", "min":"3", "max":"9", "chance":"536009"}, {"id":"4616", "min":"1", "max":"3", "chance":"220057"}, {"id":"4617", "min":"2", "max":"4", "chance":"146705"}, {"id":"4618", "min":"1", "max":"1", "chance":"440115"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4173", "level":"1"}, {"id":"4177", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4727", "level":"1"}, {"id":"4737", "level":"1"}, {"id":"5030", "level":"1"}]
+	}
+]

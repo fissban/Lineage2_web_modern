@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20496", 
+		"name":"Turek Orc Archer", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"274", "min":"1", "max":"1", "chance":"204"}, {"id":"1876", "min":"1", "max":"1", "chance":"11934"}, {"id":"1877", "min":"1", "max":"1", "chance":"2387"}, {"id":"1880", "min":"1", "max":"1", "chance":"5967"}, {"id":"1881", "min":"1", "max":"1", "chance":"7956"}, {"id":"1882", "min":"1", "max":"1", "chance":"13260"}, {"id":"2260", "min":"1", "max":"1", "chance":"927"}, {"id":"6666", "min":"1", "max":"1", "chance":"59667"}, {"id":"57", "min":"321", "max":"619", "chance":"700000"}, {"id":"465", "min":"1", "max":"1", "chance":"3807"}, {"id":"1885", "min":"1", "max":"1", "chance":"62016"}, {"id":"2152", "min":"1", "max":"1", "chance":"131020"}],
+		"skills":[{"id":"4408", "level":"10"}]
+	}
+]

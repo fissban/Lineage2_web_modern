@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18242", 
+		"name":"Statue of Protection", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4071", "level":"5"}, {"id":"4274", "level":"1"}, {"id":"4408", "level":"14"}, {"id":"4412", "level":"17"}, {"id":"4413", "level":"17"}, {"id":"4436", "level":"5"}, {"id":"4437", "level":"5"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20252", 
+		"name":"Delu Lizardman Scout", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"605", "min":"1", "max":"1", "chance":"688"}, {"id":"1123", "min":"1", "max":"1", "chance":"688"}, {"id":"1867", "min":"1", "max":"1", "chance":"38159"}, {"id":"1872", "min":"1", "max":"1", "chance":"38159"}, {"id":"1875", "min":"1", "max":"1", "chance":"1908"}, {"id":"1881", "min":"1", "max":"1", "chance":"3816"}, {"id":"2185", "min":"1", "max":"1", "chance":"5634"}, {"id":"2187", "min":"1", "max":"1", "chance":"1278"}, {"id":"2274", "min":"1", "max":"1", "chance":"205"}, {"id":"6666", "min":"1", "max":"1", "chance":"28571"}, {"id":"57", "min":"178", "max":"352", "chance":"700000"}, {"id":"1061", "min":"1", "max":"1", "chance":"253920"}, {"id":"1865", "min":"1", "max":"2", "chance":"418968"}, {"id":"1900", "min":"1", "max":"1", "chance":"45839"}],
+		"skills":[{"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

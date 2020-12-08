@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30676", 
+		"name":"Croop", 
+		"title":"Warehouse Chief", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

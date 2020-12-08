@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31336", 
+		"name":"Rahorakti", 
+		"title":"Grand Seer", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

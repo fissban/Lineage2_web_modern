@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35278", 
+		"name":"Messenger Ruford", 
+		"title":"Messenger", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

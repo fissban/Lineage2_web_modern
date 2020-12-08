@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22038", 
+		"name":"Ragna Orc Hero", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1866", "min":"1", "max":"1", "chance":"83333"}, {"id":"1871", "min":"1", "max":"1", "chance":"90909"}, {"id":"8724", "min":"1", "max":"1", "chance":"5236"}, {"id":"57", "min":"688", "max":"1387", "chance":"700000"}],
+		"skills":[{"id":"4029", "level":"1"}, {"id":"4073", "level":"1"}, {"id":"4410", "level":"13"}, {"id":"4414", "level":"1"}]
+	}
+]

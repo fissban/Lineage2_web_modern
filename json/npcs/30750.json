@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30750", 
+		"name":"Kalibran", 
+		"title":"Drake", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

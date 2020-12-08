@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22204", 
+		"name":"Deinonychus", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"5534", "min":"1", "max":"1", "chance":"4630"}, {"id":"8627", "min":"1", "max":"1", "chance":"3205"}, {"id":"8633", "min":"1", "max":"1", "chance":"3906"}, {"id":"8883", "min":"1", "max":"1", "chance":"28571"}, {"id":"8954", "min":"1", "max":"1", "chance":"1067"}, {"id":"8955", "min":"1", "max":"1", "chance":"356"}, {"id":"8956", "min":"1", "max":"1", "chance":"178"}, {"id":"8887", "min":"1", "max":"1", "chance":"12858"}, {"id":"57", "min":"5790", "max":"11810", "chance":"700000"}],
+		"skills":[{"id":"4032", "level":"1"}, {"id":"5079", "level":"1"}, {"id":"5082", "level":"1"}, {"id":"5084", "level":"1"}]
+	}
+]

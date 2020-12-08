@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25191", 
+		"name":"Mumu's Warrior", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"536000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4722", "level":"3"}]
+	}
+]

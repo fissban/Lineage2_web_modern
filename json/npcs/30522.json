@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30522", 
+		"name":"Airy", 
+		"title":"Warehouse Keeper", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

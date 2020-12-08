@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35190", 
+		"name":"Balthus Van Dyke", 
+		"title":"Duke", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

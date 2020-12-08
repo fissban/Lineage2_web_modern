@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22193", 
+		"name":"Andreas' Royal Guards", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"5326", "min":"1", "max":"1", "chance":"7"}, {"id":"5329", "min":"1", "max":"1", "chance":"7"}, {"id":"5487", "min":"1", "max":"1", "chance":"1061"}, {"id":"5488", "min":"1", "max":"1", "chance":"1061"}, {"id":"1895", "min":"1", "max":"1", "chance":"33656"}, {"id":"4040", "min":"1", "max":"1", "chance":"2356"}, {"id":"4042", "min":"1", "max":"1", "chance":"1963"}, {"id":"4043", "min":"1", "max":"1", "chance":"3927"}, {"id":"6901", "min":"1", "max":"1", "chance":"118"}, {"id":"8732", "min":"1", "max":"1", "chance":"982"}, {"id":"8742", "min":"1", "max":"1", "chance":"245"}, {"id":"8752", "min":"1", "max":"1", "chance":"25"}, {"id":"57", "min":"1256", "max":"2571", "chance":"700000"}],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4414", "level":"3"}, {"id":"4422", "level":"3"}, {"id":"4622", "level":"9"}, {"id":"4665", "level":"9"}]
+	}
+]

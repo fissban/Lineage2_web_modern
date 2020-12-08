@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29036", 
+		"name":"Fenril Hound Uruz", 
+		"title":"Family of Valakas", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"6652", "min":"2", "max":"6", "chance":"192247"}, {"id":"6654", "min":"18", "max":"54", "chance":"66752"}, {"id":"6655", "min":"14", "max":"42", "chance":"42912"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4170", "level":"9"}, {"id":"4172", "level":"9"}, {"id":"4175", "level":"9"}, {"id":"4177", "level":"9"}, {"id":"4494", "level":"1"}, {"id":"4980", "level":"1"}]
+	}
+]

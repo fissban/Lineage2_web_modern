@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21532", 
+		"name":"Shout of Splendor", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"171", "min":"1", "max":"1", "chance":"3"}, {"id":"175", "min":"1", "max":"1", "chance":"3"}, {"id":"210", "min":"1", "max":"1", "chance":"3"}, {"id":"1867", "min":"1", "max":"1", "chance":"142857"}, {"id":"1872", "min":"1", "max":"1", "chance":"142857"}, {"id":"1882", "min":"1", "max":"1", "chance":"27778"}, {"id":"1894", "min":"1", "max":"1", "chance":"3817"}, {"id":"4042", "min":"1", "max":"1", "chance":"1905"}, {"id":"4116", "min":"1", "max":"1", "chance":"662"}, {"id":"4117", "min":"1", "max":"1", "chance":"662"}, {"id":"4118", "min":"1", "max":"1", "chance":"627"}, {"id":"5450", "min":"1", "max":"1", "chance":"49"}, {"id":"8729", "min":"1", "max":"1", "chance":"1416"}, {"id":"8739", "min":"1", "max":"1", "chance":"147"}, {"id":"8749", "min":"1", "max":"1", "chance":"8"}, {"id":"57", "min":"1243", "max":"2521", "chance":"700000"}, {"id":"1894", "min":"1", "max":"1", "chance":"107921"}, {"id":"4042", "min":"1", "max":"1", "chance":"51262"}, {"id":"4054", "min":"1", "max":"1", "chance":"60582"}],
+		"skills":[{"id":"4104", "level":"6"}, {"id":"4158", "level":"6"}, {"id":"4160", "level":"6"}, {"id":"4566", "level":"6"}, {"id":"4638", "level":"3"}]
+	}
+]

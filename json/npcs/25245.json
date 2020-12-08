@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25245", 
+		"name":"Last Lesser Giant Glaki", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"7575", "min":"1", "max":"1", "chance":"9363"}, {"id":"6680", "min":"1", "max":"1", "chance":"17506"}, {"id":"959", "min":"1", "max":"1", "chance":"39486"}, {"id":"960", "min":"1", "max":"1", "chance":"394857"}, {"id":"6577", "min":"1", "max":"1", "chance":"6582"}, {"id":"6707", "min":"12", "max":"36", "chance":"314424"}, {"id":"7579", "min":"12", "max":"36", "chance":"208130"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4182", "level":"8"}, {"id":"4188", "level":"8"}, {"id":"4194", "level":"8"}, {"id":"4494", "level":"1"}, {"id":"4879", "level":"1"}]
+	}
+]

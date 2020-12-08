@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32025", 
+		"name":"Ilia", 
+		"title":"Clan Trader", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

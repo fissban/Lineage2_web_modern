@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20092", 
+		"name":"Monster Eye", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"113", "min":"1", "max":"1", "chance":"7148"}, {"id":"875", "min":"1", "max":"1", "chance":"10735"}, {"id":"906", "min":"1", "max":"1", "chance":"5368"}, {"id":"1867", "min":"1", "max":"1", "chance":"19323"}, {"id":"1869", "min":"1", "max":"1", "chance":"14493"}, {"id":"1870", "min":"1", "max":"1", "chance":"14493"}, {"id":"1871", "min":"1", "max":"1", "chance":"14493"}, {"id":"1872", "min":"1", "max":"1", "chance":"19323"}, {"id":"2137", "min":"1", "max":"1", "chance":"4263"}, {"id":"57", "min":"79", "max":"107", "chance":"700000"}, {"id":"1666", "min":"1", "max":"1", "chance":"49062"}, {"id":"1866", "min":"1", "max":"1", "chance":"98124"}, {"id":"2005", "min":"1", "max":"1", "chance":"10513"}],
+		"skills":[{"id":"4151", "level":"1"}, {"id":"4160", "level":"1"}, {"id":"4276", "level":"1"}, {"id":"4281", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25082", 
+		"name":"Leader of Cat Gang", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"71", "min":"1", "max":"1", "chance":"20136"}, {"id":"72", "min":"1", "max":"1", "chance":"20136"}, {"id":"439", "min":"1", "max":"1", "chance":"81108"}, {"id":"471", "min":"1", "max":"1", "chance":"129703"}, {"id":"1954", "min":"24", "max":"72", "chance":"170231"}, {"id":"1962", "min":"8", "max":"22", "chance":"327889"}, {"id":"2059", "min":"8", "max":"22", "chance":"114168"}, {"id":"2060", "min":"4", "max":"12", "chance":"228826"}, {"id":"4589", "min":"1", "max":"3", "chance":"332064"}, {"id":"4590", "min":"2", "max":"4", "chance":"221377"}, {"id":"6574", "min":"1", "max":"1", "chance":"113851"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4819", "level":"1"}]
+	}
+]

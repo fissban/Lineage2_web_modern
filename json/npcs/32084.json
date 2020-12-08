@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32084", 
+		"name":"Oren Territory Manager", 
+		"title":"Adventure Guildsman", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

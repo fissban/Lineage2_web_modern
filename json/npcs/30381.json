@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30381", 
+		"name":"Alvah", 
+		"title":"Guard", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31539", 
+		"name":"Vulcan", 
+		"title":"Blacksmith of Flame", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

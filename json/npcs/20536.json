@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20536", 
+		"name":"Elder Brown Keltir", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"13", "min":"1", "max":"1", "chance":"7298"}, {"id":"1787", "min":"1", "max":"1", "chance":"7474"}, {"id":"1864", "min":"1", "max":"1", "chance":"18683"}, {"id":"1869", "min":"1", "max":"1", "chance":"9342"}, {"id":"57", "min":"13", "max":"20", "chance":"700000"}],
+		"skills":[]
+	}
+]

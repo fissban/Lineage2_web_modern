@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25454", 
+		"name":"Wyvern of Marsh", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"898500"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4196", "level":"6"}, {"id":"4204", "level":"6"}, {"id":"4414", "level":"3"}]
+	}
+]

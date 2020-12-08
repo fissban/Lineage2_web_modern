@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21355", 
+		"name":"Varka Silenos Shaman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"270", "min":"1", "max":"1", "chance":"8"}, {"id":"959", "min":"1", "max":"1", "chance":"14"}, {"id":"1864", "min":"1", "max":"3", "chance":"250000"}, {"id":"1869", "min":"1", "max":"3", "chance":"100000"}, {"id":"1880", "min":"1", "max":"1", "chance":"28571"}, {"id":"4043", "min":"1", "max":"1", "chance":"10870"}, {"id":"5538", "min":"1", "max":"1", "chance":"2691"}, {"id":"5550", "min":"1", "max":"1", "chance":"3030"}, {"id":"8732", "min":"1", "max":"1", "chance":"1761"}, {"id":"8742", "min":"1", "max":"1", "chance":"986"}, {"id":"8752", "min":"1", "max":"1", "chance":"70"}, {"id":"57", "min":"2672", "max":"5453", "chance":"700000"}, {"id":"5272", "min":"1", "max":"1", "chance":"2951"}, {"id":"5495", "min":"1", "max":"1", "chance":"100838"}, {"id":"5502", "min":"1", "max":"1", "chance":"112155"}],
+		"skills":[{"id":"4030", "level":"3"}, {"id":"4031", "level":"3"}, {"id":"4098", "level":"8"}, {"id":"4160", "level":"8"}, {"id":"4408", "level":"10"}, {"id":"4414", "level":"3"}, {"id":"4563", "level":"8"}]
+	}
+]

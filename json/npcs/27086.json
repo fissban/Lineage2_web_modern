@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27086", 
+		"name":"Revenant of Tantos Chief", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}]
+	}
+]

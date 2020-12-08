@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21828", 
+		"name":"Alpine Cougar", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"212", "min":"1", "max":"1", "chance":"6"}, {"id":"2504", "min":"1", "max":"1", "chance":"6"}, {"id":"5532", "min":"1", "max":"1", "chance":"1512"}, {"id":"5543", "min":"1", "max":"1", "chance":"1526"}, {"id":"7894", "min":"1", "max":"1", "chance":"6"}, {"id":"7899", "min":"1", "max":"1", "chance":"6"}, {"id":"8341", "min":"1", "max":"1", "chance":"1510"}, {"id":"8346", "min":"1", "max":"1", "chance":"1512"}, {"id":"1865", "min":"1", "max":"3", "chance":"179311"}, {"id":"1870", "min":"1", "max":"3", "chance":"119541"}, {"id":"1875", "min":"1", "max":"1", "chance":"23908"}, {"id":"1879", "min":"1", "max":"1", "chance":"59770"}, {"id":"4040", "min":"1", "max":"1", "chance":"7172"}, {"id":"5450", "min":"1", "max":"1", "chance":"133"}, {"id":"8730", "min":"1", "max":"1", "chance":"3985"}, {"id":"8740", "min":"1", "max":"1", "chance":"996"}, {"id":"8750", "min":"1", "max":"1", "chance":"100"}, {"id":"8760", "min":"1", "max":"1", "chance":"20"}],
+		"skills":[{"id":"4408", "level":"12"}, {"id":"4410", "level":"14"}, {"id":"4411", "level":"14"}, {"id":"4412", "level":"8"}, {"id":"4413", "level":"8"}, {"id":"4438", "level":"2"}]
+	}
+]

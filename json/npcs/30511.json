@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30511", 
+		"name":"Gesto", 
+		"title":"Warehouse Chief", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

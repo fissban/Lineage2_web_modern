@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18123", 
+		"name":"Halisha's Officer", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4285", "level":"5"}, {"id":"4287", "level":"5"}, {"id":"4318", "level":"1"}, {"id":"4340", "level":"1"}, {"id":"4341", "level":"1"}, {"id":"4408", "level":"14"}, {"id":"4572", "level":"9"}, {"id":"4589", "level":"9"}]
+	}
+]

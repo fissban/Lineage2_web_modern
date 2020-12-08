@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20609", 
+		"name":"Rakin Salamander", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"259", "min":"1", "max":"1", "chance":"123"}, {"id":"956", "min":"1", "max":"1", "chance":"2195"}, {"id":"1866", "min":"1", "max":"1", "chance":"66667"}, {"id":"1871", "min":"1", "max":"1", "chance":"83333"}, {"id":"1885", "min":"1", "max":"1", "chance":"12658"}, {"id":"5220", "min":"1", "max":"1", "chance":"2538"}, {"id":"6667", "min":"1", "max":"1", "chance":"40000"}, {"id":"57", "min":"305", "max":"610", "chance":"700000"}, {"id":"433", "min":"1", "max":"1", "chance":"1447"}, {"id":"1900", "min":"1", "max":"1", "chance":"79072"}, {"id":"2265", "min":"1", "max":"1", "chance":"7474"}],
+		"skills":[{"id":"4001", "level":"3"}, {"id":"4009", "level":"5"}, {"id":"4100", "level":"3"}, {"id":"4104", "level":"3"}, {"id":"4280", "level":"1"}, {"id":"4408", "level":"10"}, {"id":"4410", "level":"10"}, {"id":"4411", "level":"10"}, {"id":"4412", "level":"12"}, {"id":"4413", "level":"12"}]
+	}
+]

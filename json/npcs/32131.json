@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32131", 
+		"name":"Magic Laboratory Worker", 
+		"title":"Event Manager", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

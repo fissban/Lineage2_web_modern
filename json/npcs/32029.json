@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32029", 
+		"name":"Freya's Steward", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

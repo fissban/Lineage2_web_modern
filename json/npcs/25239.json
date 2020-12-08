@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25239", 
+		"name":"Monstrous Beast of Abyss Brukunt", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"932000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4212", "level":"6"}, {"id":"4414", "level":"3"}, {"id":"4786", "level":"6"}]
+	}
+]

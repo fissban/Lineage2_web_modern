@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31306", 
+		"name":"Natasha", 
+		"title":"Trader", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

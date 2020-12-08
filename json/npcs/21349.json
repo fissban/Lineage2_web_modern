@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21349", 
+		"name":"Prophet's Aide", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"270", "min":"1", "max":"1", "chance":"11"}, {"id":"959", "min":"1", "max":"1", "chance":"19"}, {"id":"1867", "min":"1", "max":"3", "chance":"125000"}, {"id":"1872", "min":"1", "max":"3", "chance":"200000"}, {"id":"1875", "min":"1", "max":"1", "chance":"21739"}, {"id":"1881", "min":"1", "max":"1", "chance":"34483"}, {"id":"4041", "min":"1", "max":"1", "chance":"2500"}, {"id":"5538", "min":"1", "max":"1", "chance":"3733"}, {"id":"8732", "min":"1", "max":"1", "chance":"3185"}, {"id":"8742", "min":"1", "max":"1", "chance":"76"}, {"id":"57", "min":"3700", "max":"7573", "chance":"700000"}, {"id":"959", "min":"1", "max":"1", "chance":"369"}, {"id":"1875", "min":"1", "max":"1", "chance":"614183"}, {"id":"4041", "min":"1", "max":"1", "chance":"80111"}],
+		"skills":[{"id":"4035", "level":"9"}, {"id":"4100", "level":"9"}, {"id":"4408", "level":"10"}]
+	}
+]

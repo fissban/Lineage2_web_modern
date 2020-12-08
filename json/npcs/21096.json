@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21096", 
+		"name":"Cloudy Beast", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"39", "min":"1", "max":"1", "chance":"986"}, {"id":"51", "min":"1", "max":"1", "chance":"986"}, {"id":"1866", "min":"1", "max":"1", "chance":"40410"}, {"id":"1871", "min":"1", "max":"1", "chance":"60615"}, {"id":"1930", "min":"1", "max":"1", "chance":"15542"}, {"id":"2179", "min":"1", "max":"1", "chance":"29003"}, {"id":"57", "min":"140", "max":"251", "chance":"700000"}, {"id":"1866", "min":"1", "max":"2", "chance":"205204"}, {"id":"1871", "min":"1", "max":"3", "chance":"307807"}, {"id":"1926", "min":"1", "max":"1", "chance":"31092"}],
+		"skills":[{"id":"4414", "level":"3"}]
+	}
+]

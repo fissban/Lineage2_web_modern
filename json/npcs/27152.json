@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27152", 
+		"name":"Marsh Stakato Marquess", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4279", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25503", 
+		"name":"Akata's Lackey", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}]
+	}
+]

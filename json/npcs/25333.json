@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25333", 
+		"name":"Anakazel", 
+		"title":"Invaders' Leader", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"260", "min":"1", "max":"1", "chance":"106099"}, {"id":"47", "min":"1", "max":"1", "chance":"448811"}, {"id":"628", "min":"1", "max":"3", "chance":"320820"}, {"id":"6575", "min":"1", "max":"1", "chance":"73887"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4172", "level":"2"}, {"id":"4175", "level":"2"}, {"id":"4177", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4494", "level":"1"}, {"id":"4723", "level":"2"}, {"id":"4915", "level":"1"}]
+	}
+]

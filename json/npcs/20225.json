@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20225", 
+		"name":"Giant Mist Leech", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"40", "min":"1", "max":"1", "chance":"470"}, {"id":"604", "min":"1", "max":"1", "chance":"470"}, {"id":"1865", "min":"1", "max":"1", "chance":"38462"}, {"id":"1870", "min":"1", "max":"1", "chance":"41667"}, {"id":"1875", "min":"1", "max":"1", "chance":"3205"}, {"id":"1879", "min":"1", "max":"1", "chance":"5988"}, {"id":"1931", "min":"1", "max":"1", "chance":"6415"}, {"id":"1934", "min":"1", "max":"1", "chance":"6415"}, {"id":"2259", "min":"1", "max":"1", "chance":"855"}, {"id":"5437", "min":"1", "max":"1", "chance":"855"}, {"id":"57", "min":"154", "max":"288", "chance":"700000"}, {"id":"1931", "min":"1", "max":"1", "chance":"45718"}, {"id":"2152", "min":"1", "max":"1", "chance":"61574"}, {"id":"2259", "min":"1", "max":"1", "chance":"5431"}],
+		"skills":[{"id":"4002", "level":"2"}, {"id":"4038", "level":"3"}, {"id":"4039", "level":"2"}, {"id":"4071", "level":"5"}, {"id":"4279", "level":"1"}]
+	}
+]

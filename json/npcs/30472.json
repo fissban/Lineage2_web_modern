@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30472", 
+		"name":"Rosheria", 
+		"title":"Master", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

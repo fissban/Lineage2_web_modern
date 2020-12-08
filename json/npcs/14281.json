@@ -1,0 +1,11 @@
+[
+	{
+		"id":"14281", 
+		"name":"Feline Queen", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4121", "level":"1"}, {"id":"4699", "level":"9"}, {"id":"4700", "level":"9"}, {"id":"4701", "level":"9"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22049", 
+		"name":"Varangka's Succubus", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1867", "min":"1", "max":"1", "chance":"33333"}, {"id":"1872", "min":"1", "max":"1", "chance":"41667"}, {"id":"1875", "min":"1", "max":"1", "chance":"1969"}, {"id":"1881", "min":"1", "max":"1", "chance":"2703"}, {"id":"1971", "min":"1", "max":"1", "chance":"5155"}, {"id":"1972", "min":"1", "max":"1", "chance":"2212"}, {"id":"2947", "min":"1", "max":"1", "chance":"4425"}, {"id":"4041", "min":"1", "max":"1", "chance":"983"}, {"id":"8724", "min":"1", "max":"1", "chance":"2066"}, {"id":"57", "min":"252", "max":"500", "chance":"700000"}, {"id":"1911", "min":"1", "max":"1", "chance":"53216"}, {"id":"1912", "min":"1", "max":"1", "chance":"35421"}, {"id":"2166", "min":"1", "max":"1", "chance":"18742"}],
+		"skills":[{"id":"4071", "level":"3"}, {"id":"4072", "level":"1"}, {"id":"4151", "level":"1"}, {"id":"4408", "level":"9"}, {"id":"4413", "level":"14"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31412", 
+		"name":"Monster Race Guide", 
+		"title":"Rune Township", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18175", 
+		"name":"Halisha's Foreman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4073", "level":"9"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"14"}, {"id":"4438", "level":"4"}, {"id":"4439", "level":"4"}, {"id":"4589", "level":"9"}, {"id":"4618", "level":"1"}, {"id":"4657", "level":"9"}]
+	}
+]

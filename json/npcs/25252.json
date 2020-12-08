@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25252", 
+		"name":"Palibati Queen Themis", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"270", "min":"1", "max":"1", "chance":"15852"}, {"id":"5326", "min":"1", "max":"1", "chance":"18456"}, {"id":"5329", "min":"1", "max":"1", "chance":"18456"}, {"id":"5487", "min":"4", "max":"12", "chance":"401510"}, {"id":"5488", "min":"8", "max":"22", "chance":"214138"}, {"id":"5538", "min":"12", "max":"36", "chance":"244575"}, {"id":"959", "min":"1", "max":"1", "chance":"36987"}, {"id":"960", "min":"1", "max":"1", "chance":"369866"}, {"id":"6577", "min":"1", "max":"1", "chance":"6165"}, {"id":"8166", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"9", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"750000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4183", "level":"7"}, {"id":"4189", "level":"7"}, {"id":"4191", "level":"7"}, {"id":"4414", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4882", "level":"1"}]
+	}
+]

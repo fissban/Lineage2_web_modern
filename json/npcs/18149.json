@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18149", 
+		"name":"Beetle of Grave", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4408", "level":"12"}, {"id":"4438", "level":"4"}, {"id":"4439", "level":"4"}, {"id":"4444", "level":"2"}, {"id":"4614", "level":"9"}]
+	}
+]

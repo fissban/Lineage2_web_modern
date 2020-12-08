@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25081", 
+		"name":"Cat's Eye Bandit", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"859422"}],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35331", 
+		"name":"Bodyguard", 
+		"title":"Goddard", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

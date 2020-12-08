@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31588", 
+		"name":"Agnes", 
+		"title":"Saint of Light", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

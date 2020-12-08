@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29053", 
+		"name":"Follower Dummy", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4390", "level":"1"}]
+	}
+]

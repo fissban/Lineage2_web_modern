@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27140", 
+		"name":"Breka Overlord Haka", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4032", "level":"3"}]
+	}
+]

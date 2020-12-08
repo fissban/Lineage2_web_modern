@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18274", 
+		"name":"Treasure Chest", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"951", "min":"1", "max":"1", "chance":"4652"}, {"id":"952", "min":"1", "max":"1", "chance":"34111"}, {"id":"57", "min":"1330", "max":"2656", "chance":"700000"}, {"id":"1966", "min":"1", "max":"1", "chance":"131788"}, {"id":"2166", "min":"1", "max":"1", "chance":"122360"}, {"id":"1967", "min":"1", "max":"1", "chance":"196872"}],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18107", 
+		"name":"Offering of Forbidden Path Disciple", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"57", "min":"902", "max":"1804", "chance":"700000"}],
+		"skills":[{"id":"4032", "level":"8"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}]
+	}
+]

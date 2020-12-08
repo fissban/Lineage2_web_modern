@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21070", 
+		"name":"Seal Archangel", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4032", "level":"8"}, {"id":"4033", "level":"8"}, {"id":"4085", "level":"1"}, {"id":"4086", "level":"1"}, {"id":"4092", "level":"1"}, {"id":"4281", "level":"1"}, {"id":"4408", "level":"13"}, {"id":"4410", "level":"13"}, {"id":"4411", "level":"13"}, {"id":"4413", "level":"9"}]
+	}
+]

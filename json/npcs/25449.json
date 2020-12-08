@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25449", 
+		"name":"Immortal Guide", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"928000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4213", "level":"7"}, {"id":"4414", "level":"3"}, {"id":"4783", "level":"7"}]
+	}
+]

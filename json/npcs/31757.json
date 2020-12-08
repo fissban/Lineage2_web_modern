@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31757", 
+		"name":"Miss Queen", 
+		"title":"Test Server Helper", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35339", 
+		"name":"Royal Knight", 
+		"title":"Goddard", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

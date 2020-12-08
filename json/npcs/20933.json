@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20933", 
+		"name":"Hatu Windsus", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"261", "min":"1", "max":"1", "chance":"19"}, {"id":"1865", "min":"1", "max":"1", "chance":"55556"}, {"id":"1870", "min":"1", "max":"1", "chance":"50000"}, {"id":"1875", "min":"1", "max":"1", "chance":"3906"}, {"id":"1879", "min":"1", "max":"1", "chance":"9091"}, {"id":"2039", "min":"1", "max":"1", "chance":"1317"}, {"id":"2159", "min":"1", "max":"1", "chance":"3650"}, {"id":"2298", "min":"1", "max":"1", "chance":"261"}, {"id":"4922", "min":"1", "max":"1", "chance":"16260"}, {"id":"4923", "min":"1", "max":"1", "chance":"16260"}, {"id":"4924", "min":"1", "max":"1", "chance":"16260"}, {"id":"57", "min":"211", "max":"421", "chance":"700000"}, {"id":"1879", "min":"1", "max":"1", "chance":"83876"}, {"id":"1880", "min":"1", "max":"1", "chance":"50326"}, {"id":"1894", "min":"1", "max":"1", "chance":"17658"}],
+		"skills":[{"id":"4073", "level":"4"}, {"id":"4086", "level":"1"}, {"id":"4408", "level":"9"}]
+	}
+]

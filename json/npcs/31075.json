@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31075", 
+		"name":"Sales Cat of Ivory Tower", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

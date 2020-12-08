@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31778", 
+		"name":"Adventure Guildsman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

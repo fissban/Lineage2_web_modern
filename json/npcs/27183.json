@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27183", 
+		"name":"Ark Guardian Shadowfang", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4071", "level":"5"}, {"id":"4085", "level":"1"}, {"id":"4086", "level":"1"}, {"id":"4414", "level":"3"}]
+	}
+]

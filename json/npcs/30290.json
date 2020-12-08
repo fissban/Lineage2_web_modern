@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30290", 
+		"name":"Xenos", 
+		"title":"Grand Master", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

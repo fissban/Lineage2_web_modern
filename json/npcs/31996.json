@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31996", 
+		"name":"Javier", 
+		"title":"Grand Magister", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

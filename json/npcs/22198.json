@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22198", 
+		"name":"Velociraptor", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"5529", "min":"1", "max":"1", "chance":"2793"}, {"id":"5545", "min":"1", "max":"1", "chance":"931"}, {"id":"5546", "min":"1", "max":"1", "chance":"6024"}, {"id":"8627", "min":"1", "max":"1", "chance":"7462"}, {"id":"8633", "min":"1", "max":"1", "chance":"8403"}, {"id":"8893", "min":"1", "max":"1", "chance":"29412"}, {"id":"8902", "min":"1", "max":"1", "chance":"22222"}, {"id":"8954", "min":"1", "max":"1", "chance":"3717"}, {"id":"8955", "min":"1", "max":"1", "chance":"931"}, {"id":"8956", "min":"1", "max":"1", "chance":"2793"}, {"id":"8902", "min":"1", "max":"1", "chance":"5586"}, {"id":"8893", "min":"1", "max":"1", "chance":"5586"}, {"id":"57", "min":"10320", "max":"31550", "chance":"700000"}],
+		"skills":[{"id":"5079", "level":"1"}, {"id":"5081", "level":"1"}, {"id":"5082", "level":"1"}, {"id":"5084", "level":"1"}]
+	}
+]

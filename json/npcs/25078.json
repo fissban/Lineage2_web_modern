@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25078", 
+		"name":"Princess' Guard", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"17", "min":"20", "max":"60", "chance":"506967"}],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

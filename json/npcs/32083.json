@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32083", 
+		"name":"Giran Territory Manager", 
+		"title":"Adventure Guildsman", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

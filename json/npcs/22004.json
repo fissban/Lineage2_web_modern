@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22004", 
+		"name":"Grave Robber Lookout", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"123", "min":"1", "max":"1", "chance":"12"}, {"id":"1061", "min":"1", "max":"1", "chance":"15625"}, {"id":"1875", "min":"1", "max":"1", "chance":"1949"}, {"id":"1879", "min":"1", "max":"1", "chance":"4545"}, {"id":"1885", "min":"1", "max":"1", "chance":"1517"}, {"id":"2017", "min":"1", "max":"1", "chance":"1786"}, {"id":"2181", "min":"1", "max":"1", "chance":"2604"}, {"id":"5531", "min":"1", "max":"1", "chance":"1786"}, {"id":"5549", "min":"1", "max":"1", "chance":"3247"}, {"id":"5550", "min":"1", "max":"1", "chance":"217"}, {"id":"8327", "min":"1", "max":"1", "chance":"1786"}, {"id":"57", "min":"247", "max":"477", "chance":"700000"}, {"id":"2017", "min":"1", "max":"1", "chance":"6786"}, {"id":"2180", "min":"1", "max":"1", "chance":"6280"}, {"id":"2181", "min":"1", "max":"1", "chance":"6348"}],
+		"skills":[{"id":"4028", "level":"1"}, {"id":"4274", "level":"3"}, {"id":"4413", "level":"13"}, {"id":"4458", "level":"3"}]
+	}
+]

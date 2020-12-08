@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32049", 
+		"name":"Rooney", 
+		"title":"Blacksmith of Wind", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

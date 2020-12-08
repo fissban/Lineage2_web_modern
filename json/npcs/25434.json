@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25434", 
+		"name":"Bandit Leader Barda", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"78", "min":"1", "max":"1", "chance":"4711"}, {"id":"142", "min":"1", "max":"1", "chance":"4711"}, {"id":"148", "min":"1", "max":"1", "chance":"4711"}, {"id":"554", "min":"1", "max":"1", "chance":"39391"}, {"id":"600", "min":"1", "max":"1", "chance":"39391"}, {"id":"612", "min":"1", "max":"1", "chance":"39391"}, {"id":"2464", "min":"1", "max":"1", "chance":"39391"}, {"id":"4073", "min":"23", "max":"67", "chance":"118218"}, {"id":"4097", "min":"60", "max":"180", "chance":"44331"}, {"id":"4098", "min":"11", "max":"31", "chance":"253321"}, {"id":"4100", "min":"16", "max":"48", "chance":"166242"}, {"id":"4104", "min":"5", "max":"15", "chance":"116986"}, {"id":"4107", "min":"9", "max":"27", "chance":"63985"}, {"id":"948", "min":"1", "max":"1", "chance":"662528"}, {"id":"4108", "min":"2", "max":"6", "chance":"287931"}, {"id":"6572", "min":"1", "max":"1", "chance":"70670"}, {"id":"8159", "min":"1", "max":"1", "chance":"250000"}, {"id":"8176", "min":"3", "max":"3", "chance":"250000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"5"}, {"id":"4494", "level":"1"}, {"id":"4955", "level":"1"}]
+	}
+]

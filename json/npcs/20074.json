@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20074", 
+		"name":"Androscorpio", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"605", "min":"1", "max":"1", "chance":"695"}, {"id":"1123", "min":"1", "max":"1", "chance":"695"}, {"id":"737", "min":"1", "max":"1", "chance":"3855"}, {"id":"1864", "min":"1", "max":"1", "chance":"77080"}, {"id":"1869", "min":"1", "max":"1", "chance":"38540"}, {"id":"1880", "min":"1", "max":"1", "chance":"3855"}, {"id":"5550", "min":"1", "max":"1", "chance":"514"}, {"id":"6387", "min":"1", "max":"1", "chance":"4082"}, {"id":"57", "min":"179", "max":"355", "chance":"700000"}, {"id":"1061", "min":"1", "max":"1", "chance":"256459"}, {"id":"1869", "min":"1", "max":"3", "chance":"423158"}, {"id":"1900", "min":"1", "max":"1", "chance":"46297"}],
+		"skills":[{"id":"4279", "level":"1"}]
+	}
+]

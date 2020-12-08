@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22077", 
+		"name":"Horrifying Ginzu Golem VIII", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1864", "min":"1", "max":"3", "chance":"200000"}, {"id":"1869", "min":"1", "max":"1", "chance":"200000"}, {"id":"1880", "min":"1", "max":"1", "chance":"17544"}, {"id":"2117", "min":"1", "max":"1", "chance":"1182"}, {"id":"2118", "min":"1", "max":"1", "chance":"1182"}, {"id":"2969", "min":"1", "max":"1", "chance":"972"}, {"id":"4043", "min":"1", "max":"1", "chance":"1945"}, {"id":"5550", "min":"1", "max":"1", "chance":"972"}, {"id":"8338", "min":"1", "max":"1", "chance":"1945"}, {"id":"8344", "min":"1", "max":"1", "chance":"972"}, {"id":"57", "min":"2582", "max":"4878", "chance":"700000"}],
+		"skills":[{"id":"4273", "level":"1"}, {"id":"4274", "level":"1"}, {"id":"4408", "level":"12"}, {"id":"4412", "level":"16"}, {"id":"4414", "level":"1"}, {"id":"4437", "level":"4"}, {"id":"4457", "level":"2"}, {"id":"4641", "level":"1"}]
+	}
+]

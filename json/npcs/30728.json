@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30728", 
+		"name":"Leirynn", 
+		"title":"Militiaman", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

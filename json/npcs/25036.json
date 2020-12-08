@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25036", 
+		"name":"Cabrio Captor", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"898500"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4208", "level":"6"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4414", "level":"3"}]
+	}
+]

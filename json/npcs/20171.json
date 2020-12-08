@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20171", 
+		"name":"Specter", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"101", "min":"1", "max":"1", "chance":"21"}, {"id":"312", "min":"1", "max":"1", "chance":"21"}, {"id":"313", "min":"1", "max":"1", "chance":"21"}, {"id":"314", "min":"1", "max":"1", "chance":"21"}, {"id":"1061", "min":"1", "max":"1", "chance":"32258"}, {"id":"1875", "min":"1", "max":"1", "chance":"4329"}, {"id":"1879", "min":"1", "max":"1", "chance":"7519"}, {"id":"2020", "min":"1", "max":"1", "chance":"739"}, {"id":"2263", "min":"1", "max":"1", "chance":"227"}, {"id":"5549", "min":"1", "max":"1", "chance":"3413"}, {"id":"6666", "min":"1", "max":"1", "chance":"41667"}, {"id":"57", "min":"163", "max":"312", "chance":"700000"}, {"id":"1880", "min":"1", "max":"2", "chance":"37576"}, {"id":"1899", "min":"1", "max":"1", "chance":"58713"}, {"id":"2019", "min":"1", "max":"1", "chance":"8081"}],
+		"skills":[{"id":"4047", "level":"2"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}]
+	}
+]

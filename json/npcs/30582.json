@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30582", 
+		"name":"Tiku", 
+		"title":"Centurion", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

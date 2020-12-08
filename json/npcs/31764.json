@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31764", 
+		"name":"Miss Queen", 
+		"title":"Adventurers' Guide", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

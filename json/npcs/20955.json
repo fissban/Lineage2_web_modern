@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20955", 
+		"name":"Ghostly Warrior", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"2391", "min":"1", "max":"1", "chance":"9"}, {"id":"2392", "min":"1", "max":"1", "chance":"9"}, {"id":"1830", "min":"1", "max":"1", "chance":"28571"}, {"id":"1865", "min":"1", "max":"1", "chance":"66667"}, {"id":"1870", "min":"1", "max":"1", "chance":"58824"}, {"id":"1874", "min":"1", "max":"1", "chance":"1883"}, {"id":"4039", "min":"1", "max":"1", "chance":"943"}, {"id":"4043", "min":"1", "max":"1", "chance":"4237"}, {"id":"4082", "min":"1", "max":"1", "chance":"1618"}, {"id":"4083", "min":"1", "max":"1", "chance":"1618"}, {"id":"5276", "min":"1", "max":"1", "chance":"110"}, {"id":"8729", "min":"1", "max":"1", "chance":"943"}, {"id":"8739", "min":"1", "max":"1", "chance":"471"}, {"id":"57", "min":"784", "max":"1588", "chance":"700000"}, {"id":"4052", "min":"1", "max":"1", "chance":"68637"}, {"id":"5230", "min":"1", "max":"1", "chance":"2585"}],
+		"skills":[{"id":"4071", "level":"5"}, {"id":"4073", "level":"6"}, {"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"9"}, {"id":"4413", "level":"18"}]
+	}
+]

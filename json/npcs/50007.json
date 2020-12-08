@@ -1,0 +1,11 @@
+[
+	{
+		"id":"50007", 
+		"name":"Andromeda", 
+		"title":"Wedding Manager", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

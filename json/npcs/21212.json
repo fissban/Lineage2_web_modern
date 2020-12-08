@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21212", 
+		"name":"Hallowed Sentinel", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4317", "level":"1"}, {"id":"4408", "level":"12"}]
+	}
+]

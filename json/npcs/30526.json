@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30526", 
+		"name":"Brunon", 
+		"title":"Blacksmith", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

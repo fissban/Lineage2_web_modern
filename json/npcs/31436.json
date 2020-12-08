@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31436", 
+		"name":"Dani", 
+		"title":"Blueprint Seller", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

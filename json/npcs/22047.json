@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22047", 
+		"name":"Guardian of the Ghost Town", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1895", "min":"1", "max":"1", "chance":"13333"}, {"id":"1954", "min":"1", "max":"1", "chance":"1389"}, {"id":"1962", "min":"1", "max":"1", "chance":"4167"}, {"id":"2166", "min":"1", "max":"1", "chance":"2778"}, {"id":"8733", "min":"1", "max":"1", "chance":"2415"}, {"id":"8753", "min":"1", "max":"1", "chance":"863"}, {"id":"57", "min":"188", "max":"386", "chance":"700000"}],
+		"skills":[{"id":"4071", "level":"3"}, {"id":"4155", "level":"1"}, {"id":"4160", "level":"1"}, {"id":"4408", "level":"9"}, {"id":"4413", "level":"14"}]
+	}
+]

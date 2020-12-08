@@ -1,0 +1,11 @@
+[
+	{
+		"id":"16014", 
+		"name":"Trained Buffalo", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"1013", "level":"2"}, {"id":"1048", "level":"5"}, {"id":"1059", "level":"3"}, {"id":"1078", "level":"5"}, {"id":"1085", "level":"3"}, {"id":"1160", "level":"1"}, {"id":"1204", "level":"2"}, {"id":"1263", "level":"9"}]
+	}
+]

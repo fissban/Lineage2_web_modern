@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27126", 
+		"name":"Leto Lizardman Wizard", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4002", "level":"3"}]
+	}
+]

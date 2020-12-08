@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20233", 
+		"name":"Marsh Spider", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"849", "min":"1", "max":"1", "chance":"256"}, {"id":"880", "min":"1", "max":"1", "chance":"385"}, {"id":"912", "min":"1", "max":"1", "chance":"192"}, {"id":"1832", "min":"1", "max":"1", "chance":"62500"}, {"id":"1868", "min":"1", "max":"1", "chance":"111111"}, {"id":"1873", "min":"1", "max":"1", "chance":"20408"}, {"id":"1876", "min":"1", "max":"1", "chance":"9804"}, {"id":"1901", "min":"1", "max":"1", "chance":"11355"}, {"id":"2273", "min":"1", "max":"1", "chance":"180"}, {"id":"2274", "min":"1", "max":"1", "chance":"420"}, {"id":"2975", "min":"1", "max":"1", "chance":"5405"}, {"id":"57", "min":"261", "max":"521", "chance":"700000"}, {"id":"955", "min":"1", "max":"1", "chance":"2474"}, {"id":"2154", "min":"1", "max":"1", "chance":"66215"}, {"id":"2280", "min":"1", "max":"1", "chance":"4417"}],
+		"skills":[{"id":"4035", "level":"3"}, {"id":"4279", "level":"1"}]
+	}
+]

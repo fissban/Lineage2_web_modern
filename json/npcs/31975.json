@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31975", 
+		"name":"Aerina", 
+		"title":"Master", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

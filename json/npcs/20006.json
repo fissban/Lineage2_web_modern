@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20006", 
+		"name":"Orc Archer", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"14", "min":"1", "max":"1", "chance":"607"}, {"id":"1866", "min":"1", "max":"1", "chance":"16852"}, {"id":"1871", "min":"1", "max":"1", "chance":"25278"}, {"id":"2007", "min":"1", "max":"1", "chance":"2709"}, {"id":"2136", "min":"1", "max":"1", "chance":"7435"}, {"id":"57", "min":"69", "max":"94", "chance":"700000"}, {"id":"113", "min":"1", "max":"1", "chance":"31655"}, {"id":"1060", "min":"1", "max":"1", "chance":"285245"}, {"id":"2006", "min":"1", "max":"1", "chance":"9169"}],
+		"skills":[]
+	}
+]

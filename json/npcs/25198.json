@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25198", 
+		"name":"Fafurion's Herald Lokness", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"164", "min":"1", "max":"1", "chance":"6241"}, {"id":"213", "min":"1", "max":"1", "chance":"6241"}, {"id":"5311", "min":"1", "max":"1", "chance":"16358"}, {"id":"5316", "min":"1", "max":"1", "chance":"16358"}, {"id":"5522", "min":"6", "max":"18", "chance":"358610"}, {"id":"5523", "min":"11", "max":"31", "chance":"204920"}, {"id":"5533", "min":"16", "max":"48", "chance":"108315"}, {"id":"5544", "min":"23", "max":"67", "chance":"76948"}, {"id":"6569", "min":"1", "max":"1", "chance":"21841"}, {"id":"6578", "min":"1", "max":"1", "chance":"72802"}, {"id":"8163", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"8", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"750000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4169", "level":"6"}, {"id":"4172", "level":"6"}, {"id":"4176", "level":"6"}, {"id":"4177", "level":"6"}, {"id":"4494", "level":"1"}, {"id":"4985", "level":"1"}]
+	}
+]

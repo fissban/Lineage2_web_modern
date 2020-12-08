@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30883", 
+		"name":"Frontier Guard", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

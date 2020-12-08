@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35266", 
+		"name":"Mass Gatekeeper", 
+		"title":"Aden", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

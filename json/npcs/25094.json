@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25094", 
+		"name":"Korim Guards", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"898500"}],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

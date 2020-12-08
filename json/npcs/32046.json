@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32046", 
+		"name":"Suspicious-Looking Pile of Stones", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

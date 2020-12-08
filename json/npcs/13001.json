@@ -1,0 +1,11 @@
+[
+	{
+		"id":"13001", 
+		"name":"Heart of Warding", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21499", 
+		"name":"Alpine Cougar", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"57", "min":"2436", "max":"4920", "chance":"700000"}, {"id":"729", "min":"1", "max":"1", "chance":"679"}, {"id":"1895", "min":"1", "max":"3", "chance":"873628"}, {"id":"5508", "min":"1", "max":"1", "chance":"143386"}],
+		"skills":[{"id":"4160", "level":"6"}, {"id":"4232", "level":"6"}, {"id":"4408", "level":"10"}, {"id":"4438", "level":"2"}, {"id":"4566", "level":"6"}, {"id":"4633", "level":"3"}]
+	}
+]

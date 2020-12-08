@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25208", 
+		"name":"Water Couatle Ateka", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"354", "min":"1", "max":"1", "chance":"199738"}, {"id":"381", "min":"1", "max":"1", "chance":"319201"}, {"id":"951", "min":"1", "max":"1", "chance":"475470"}, {"id":"952", "min":"12", "max":"36", "chance":"145283"}, {"id":"1959", "min":"96", "max":"288", "chance":"70755"}, {"id":"1960", "min":"105", "max":"315", "chance":"131595"}, {"id":"6573", "min":"1", "max":"1", "chance":"17434"}, {"id":"8164", "min":"6", "max":"9", "chance":"250000"}, {"id":"8176", "min":"1", "max":"1", "chance":"250000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"4"}, {"id":"4494", "level":"1"}, {"id":"4864", "level":"1"}]
+	}
+]

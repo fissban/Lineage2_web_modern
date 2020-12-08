@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27194", 
+		"name":"Julie the Ripper", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4071", "level":"5"}, {"id":"4085", "level":"1"}, {"id":"4086", "level":"1"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"10"}, {"id":"4414", "level":"3"}]
+	}
+]

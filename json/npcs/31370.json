@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31370", 
+		"name":"Kadun Zu Ketra", 
+		"title":"Hierarch", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

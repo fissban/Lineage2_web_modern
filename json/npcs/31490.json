@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31490", 
+		"name":"Rift Post Officer", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

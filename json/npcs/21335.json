@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21335", 
+		"name":"Ketra Orc Elite Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"305", "min":"1", "max":"1", "chance":"8"}, {"id":"959", "min":"1", "max":"1", "chance":"113"}, {"id":"1868", "min":"1", "max":"3", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"90909"}, {"id":"1889", "min":"1", "max":"1", "chance":"12821"}, {"id":"4044", "min":"1", "max":"1", "chance":"7042"}, {"id":"5541", "min":"1", "max":"1", "chance":"2742"}, {"id":"5549", "min":"1", "max":"1", "chance":"23256"}, {"id":"8732", "min":"1", "max":"1", "chance":"2494"}, {"id":"8742", "min":"1", "max":"1", "chance":"227"}, {"id":"8752", "min":"1", "max":"1", "chance":"57"}, {"id":"57", "min":"2718", "max":"5566", "chance":"700000"}, {"id":"1889", "min":"1", "max":"1", "chance":"451301"}, {"id":"5272", "min":"1", "max":"1", "chance":"3009"}, {"id":"5495", "min":"1", "max":"1", "chance":"102794"}],
+		"skills":[{"id":"4099", "level":"2"}, {"id":"4408", "level":"10"}, {"id":"4571", "level":"9"}, {"id":"4573", "level":"9"}]
+	}
+]

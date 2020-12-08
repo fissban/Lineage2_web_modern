@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25469", 
+		"name":"Cursed Soul", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"842286"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4276", "level":"1"}, {"id":"4281", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4743", "level":"6"}]
+	}
+]

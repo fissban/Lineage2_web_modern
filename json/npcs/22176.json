@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22176", 
+		"name":"Andreas' Royal Guards", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"11", "max":"30", "chance":"31250"}, {"id":"1866", "min":"1", "max":"1", "chance":"21276"}, {"id":"1871", "min":"1", "max":"1", "chance":"22727"}, {"id":"1877", "min":"1", "max":"1", "chance":"1620"}, {"id":"4041", "min":"1", "max":"1", "chance":"1620"}, {"id":"5481", "min":"1", "max":"1", "chance":"1620"}, {"id":"57", "min":"1500", "max":"2200", "chance":"700000"}],
+		"skills":[{"id":"4032", "level":"9"}, {"id":"4275", "level":"2"}, {"id":"4408", "level":"8"}, {"id":"4414", "level":"1"}, {"id":"4422", "level":"3"}, {"id":"4614", "level":"9"}]
+	}
+]

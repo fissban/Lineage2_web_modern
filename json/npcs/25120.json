@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25120", 
+		"name":"Berun's Officer", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1539", "min":"1", "max":"1", "chance":"154489"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4191", "level":"4"}, {"id":"4199", "level":"4"}]
+	}
+]

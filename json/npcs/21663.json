@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21663", 
+		"name":"Otherworldly Invader Shaman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"849", "min":"1", "max":"1", "chance":"620"}, {"id":"880", "min":"1", "max":"1", "chance":"931"}, {"id":"912", "min":"1", "max":"1", "chance":"465"}, {"id":"1874", "min":"1", "max":"1", "chance":"8850"}, {"id":"1878", "min":"1", "max":"1", "chance":"53098"}, {"id":"1884", "min":"1", "max":"1", "chance":"81689"}, {"id":"1889", "min":"1", "max":"1", "chance":"8850"}, {"id":"1901", "min":"1", "max":"1", "chance":"27502"}, {"id":"2155", "min":"1", "max":"1", "chance":"21308"}, {"id":"5220", "min":"1", "max":"1", "chance":"5310"}, {"id":"57", "min":"633", "max":"1266", "chance":"700000"}],
+		"skills":[{"id":"4157", "level":"3"}, {"id":"4160", "level":"3"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"11"}, {"id":"4413", "level":"18"}, {"id":"4414", "level":"3"}, {"id":"4675", "level":"1"}]
+	}
+]

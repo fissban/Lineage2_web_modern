@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25025", 
+		"name":"Jeruna's Guard", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"536000"}],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

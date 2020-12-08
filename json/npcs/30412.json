@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30412", 
+		"name":"Wind Sylph", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

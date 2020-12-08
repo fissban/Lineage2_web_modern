@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30423", 
+		"name":"Northwind", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

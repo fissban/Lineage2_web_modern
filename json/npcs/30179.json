@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30179", 
+		"name":"Raudia", 
+		"title":"Weapon Merchant", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

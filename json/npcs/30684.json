@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30684", 
+		"name":"Viktor", 
+		"title":"Trader", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

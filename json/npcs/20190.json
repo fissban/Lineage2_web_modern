@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20190", 
+		"name":"Skeleton Marauder", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"275", "min":"1", "max":"1", "chance":"26"}, {"id":"276", "min":"1", "max":"1", "chance":"26"}, {"id":"1866", "min":"1", "max":"1", "chance":"34483"}, {"id":"1871", "min":"1", "max":"1", "chance":"55556"}, {"id":"1885", "min":"1", "max":"1", "chance":"5556"}, {"id":"2024", "min":"1", "max":"1", "chance":"1154"}, {"id":"2153", "min":"1", "max":"1", "chance":"12346"}, {"id":"5220", "min":"1", "max":"1", "chance":"1712"}, {"id":"57", "min":"188", "max":"373", "chance":"700000"}, {"id":"1864", "min":"1", "max":"3", "chance":"889140"}, {"id":"1900", "min":"1", "max":"1", "chance":"48640"}, {"id":"2025", "min":"1", "max":"1", "chance":"6157"}],
+		"skills":[{"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

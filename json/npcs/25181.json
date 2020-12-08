@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25181", 
+		"name":"Karum's Warrior", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1342", "min":"60", "max":"180", "chance":"341600"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4721", "level":"5"}]
+	}
+]

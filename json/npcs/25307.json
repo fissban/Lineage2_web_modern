@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25307", 
+		"name":"Family of Nastron", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"481167"}],
+		"skills":[{"id":"4009", "level":"5"}, {"id":"4045", "level":"1"}, {"id":"4280", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4741", "level":"1"}]
+	}
+]

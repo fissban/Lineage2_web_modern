@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25110", 
+		"name":"Cloe's Servitor", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"339000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4194", "level":"7"}, {"id":"4200", "level":"7"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}]
+	}
+]

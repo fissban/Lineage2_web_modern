@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21759", 
+		"name":"Dark Omen Invader Warrior", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"212", "min":"1", "max":"1", "chance":"5"}, {"id":"2504", "min":"1", "max":"1", "chance":"5"}, {"id":"1344", "min":"20", "max":"60", "chance":"161648"}, {"id":"1866", "min":"1", "max":"1", "chance":"172424"}, {"id":"1871", "min":"1", "max":"3", "chance":"86212"}, {"id":"1877", "min":"1", "max":"1", "chance":"10346"}, {"id":"3036", "min":"1", "max":"1", "chance":"115"}, {"id":"4040", "min":"1", "max":"1", "chance":"5173"}, {"id":"4041", "min":"1", "max":"1", "chance":"2250"}, {"id":"5532", "min":"1", "max":"1", "chance":"1526"}, {"id":"5543", "min":"1", "max":"1", "chance":"1541"}, {"id":"8731", "min":"1", "max":"1", "chance":"4274"}, {"id":"57", "min":"2470", "max":"5029", "chance":"700000"}],
+		"skills":[{"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"11"}]
+	}
+]

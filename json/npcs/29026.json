@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29026", 
+		"name":"Pirate Zombie Captain", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1061", "min":"4", "max":"8", "chance":"200000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}]
+	}
+]

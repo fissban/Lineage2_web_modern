@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35323", 
+		"name":"Altar of Water", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

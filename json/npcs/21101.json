@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21101", 
+		"name":"Langk Lizardman Shaman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"39", "min":"1", "max":"1", "chance":"1066"}, {"id":"51", "min":"1", "max":"1", "chance":"1066"}, {"id":"1865", "min":"1", "max":"1", "chance":"39325"}, {"id":"1870", "min":"1", "max":"1", "chance":"39325"}, {"id":"1930", "min":"1", "max":"1", "chance":"16806"}, {"id":"5163", "min":"1", "max":"1", "chance":"1573"}, {"id":"6035", "min":"1", "max":"1", "chance":"3277"}, {"id":"6666", "min":"1", "max":"1", "chance":"39325"}, {"id":"57", "min":"148", "max":"273", "chance":"700000"}, {"id":"1865", "min":"1", "max":"1", "chance":"332824"}, {"id":"1870", "min":"1", "max":"1", "chance":"332824"}, {"id":"1898", "min":"1", "max":"1", "chance":"34188"}],
+		"skills":[{"id":"4076", "level":"1"}, {"id":"4152", "level":"2"}, {"id":"4160", "level":"2"}, {"id":"4414", "level":"3"}]
+	}
+]

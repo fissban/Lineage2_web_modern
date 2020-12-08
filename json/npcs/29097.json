@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29097", 
+		"name":"Splendor Disciple", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"384933"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4423", "level":"1"}]
+	}
+]

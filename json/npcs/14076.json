@@ -1,0 +1,11 @@
+[
+	{
+		"id":"14076", 
+		"name":"Cursed Man", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4121", "level":"1"}, {"id":"4708", "level":"3"}, {"id":"4709", "level":"3"}, {"id":"5038", "level":"15"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20323", 
+		"name":"Goblin Brigand Leader", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"216", "min":"1", "max":"1", "chance":"249"}, {"id":"1792", "min":"1", "max":"1", "chance":"2469"}, {"id":"1866", "min":"1", "max":"1", "chance":"22385"}, {"id":"1871", "min":"1", "max":"1", "chance":"33577"}, {"id":"2009", "min":"1", "max":"1", "chance":"2382"}, {"id":"6037", "min":"1", "max":"1", "chance":"67153"}, {"id":"57", "min":"116", "max":"172", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"16716"}, {"id":"1865", "min":"1", "max":"2", "chance":"227339"}, {"id":"1869", "min":"1", "max":"3", "chance":"227339"}],
+		"skills":[]
+	}
+]

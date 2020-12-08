@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22223", 
+		"name":"Velociraptor", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"5545", "min":"1", "max":"1", "chance":"13333"}, {"id":"8627", "min":"1", "max":"1", "chance":"2070"}, {"id":"8633", "min":"1", "max":"1", "chance":"4149"}, {"id":"8898", "min":"1", "max":"1", "chance":"47619"}, {"id":"8898", "min":"1", "max":"1", "chance":"2571"}, {"id":"57", "min":"4413", "max":"13460", "chance":"700000"}],
+		"skills":[{"id":"5080", "level":"1"}, {"id":"5081", "level":"1"}, {"id":"5082", "level":"1"}, {"id":"5084", "level":"1"}]
+	}
+]

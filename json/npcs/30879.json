@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30879", 
+		"name":"Felton", 
+		"title":"Wharf Manager", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18019", 
+		"name":"Apostate's Offering Elder", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4078", "level":"4"}, {"id":"4273", "level":"3"}, {"id":"4274", "level":"1"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}, {"id":"4444", "level":"2"}]
+	}
+]

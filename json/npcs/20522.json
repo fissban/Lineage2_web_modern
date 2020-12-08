@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20522", 
+		"name":"White Fang", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4408", "level":"10"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21294", 
+		"name":"Canyon Antelope", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"80", "min":"1", "max":"1", "chance":"4"}, {"id":"150", "min":"1", "max":"1", "chance":"4"}, {"id":"1864", "min":"1", "max":"3", "chance":"166667"}, {"id":"1869", "min":"1", "max":"1", "chance":"166667"}, {"id":"1880", "min":"1", "max":"1", "chance":"18182"}, {"id":"4043", "min":"1", "max":"1", "chance":"5556"}, {"id":"5440", "min":"1", "max":"1", "chance":"126"}, {"id":"5547", "min":"1", "max":"1", "chance":"1178"}, {"id":"5548", "min":"1", "max":"1", "chance":"1178"}, {"id":"5550", "min":"1", "max":"1", "chance":"2272"}, {"id":"8331", "min":"1", "max":"1", "chance":"373"}, {"id":"8730", "min":"1", "max":"1", "chance":"2899"}, {"id":"8740", "min":"1", "max":"1", "chance":"252"}, {"id":"8750", "min":"1", "max":"1", "chance":"126"}, {"id":"57", "min":"1891", "max":"3844", "chance":"700000"}, {"id":"5442", "min":"1", "max":"1", "chance":"1736"}, {"id":"5486", "min":"1", "max":"1", "chance":"27729"}, {"id":"5489", "min":"1", "max":"1", "chance":"61851"}],
+		"skills":[{"id":"4032", "level":"6"}, {"id":"4408", "level":"10"}]
+	}
+]

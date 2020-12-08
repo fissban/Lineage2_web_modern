@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21136", 
+		"name":"Dead Pit Horror", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"220", "min":"1", "max":"1", "chance":"92"}, {"id":"1834", "min":"1", "max":"1", "chance":"42022"}, {"id":"1867", "min":"1", "max":"1", "chance":"50426"}, {"id":"1872", "min":"1", "max":"1", "chance":"50426"}, {"id":"1882", "min":"1", "max":"1", "chance":"8405"}, {"id":"2152", "min":"1", "max":"1", "chance":"6659"}, {"id":"57", "min":"144", "max":"283", "chance":"700000"}, {"id":"1882", "min":"1", "max":"1", "chance":"74873"}, {"id":"2017", "min":"1", "max":"1", "chance":"4477"}, {"id":"2180", "min":"1", "max":"1", "chance":"25333"}],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4414", "level":"3"}]
+	}
+]

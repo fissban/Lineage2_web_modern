@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30081", 
+		"name":"Helvetia", 
+		"title":"Grocer", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

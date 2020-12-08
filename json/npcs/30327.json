@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30327", 
+		"name":"Sorius", 
+		"title":"Master", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

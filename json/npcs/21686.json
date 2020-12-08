@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21686", 
+		"name":"Dimension Invader Shaman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"280", "min":"1", "max":"1", "chance":"70"}, {"id":"1864", "min":"3", "max":"9", "chance":"83331"}, {"id":"1869", "min":"2", "max":"6", "chance":"62499"}, {"id":"1878", "min":"1", "max":"1", "chance":"99998"}, {"id":"1884", "min":"1", "max":"1", "chance":"153842"}, {"id":"2054", "min":"1", "max":"1", "chance":"5320"}, {"id":"2161", "min":"1", "max":"1", "chance":"24272"}, {"id":"57", "min":"1004", "max":"2040", "chance":"700000"}, {"id":"1864", "min":"1", "max":"11", "chance":"829734"}, {"id":"1869", "min":"1", "max":"5", "chance":"829734"}, {"id":"4470", "min":"1", "max":"1", "chance":"14224"}],
+		"skills":[{"id":"4157", "level":"4"}, {"id":"4160", "level":"4"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"11"}, {"id":"4413", "level":"18"}, {"id":"4414", "level":"3"}, {"id":"4675", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31328", 
+		"name":"Innocentin", 
+		"title":"High Priest", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

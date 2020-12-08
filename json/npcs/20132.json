@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20132", 
+		"name":"Werewolf", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"254", "min":"1", "max":"1", "chance":"1407"}, {"id":"734", "min":"1", "max":"1", "chance":"3664"}, {"id":"1797", "min":"1", "max":"1", "chance":"44410"}, {"id":"1867", "min":"1", "max":"1", "chance":"29311"}, {"id":"1872", "min":"1", "max":"1", "chance":"29311"}, {"id":"57", "min":"80", "max":"108", "chance":"700000"}, {"id":"1060", "min":"1", "max":"1", "chance":"330759"}, {"id":"2006", "min":"1", "max":"1", "chance":"10632"}],
+		"skills":[]
+	}
+]

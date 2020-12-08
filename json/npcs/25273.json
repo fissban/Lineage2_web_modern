@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25273", 
+		"name":"Carnamakos", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"358", "min":"1", "max":"1", "chance":"33257"}, {"id":"2380", "min":"1", "max":"1", "chance":"53204"}, {"id":"2381", "min":"1", "max":"1", "chance":"20466"}, {"id":"4078", "min":"9", "max":"27", "chance":"333981"}, {"id":"4080", "min":"28", "max":"84", "chance":"151172"}, {"id":"4081", "min":"20", "max":"60", "chance":"101410"}, {"id":"287", "min":"1", "max":"1", "chance":"36705"}, {"id":"4121", "min":"12", "max":"36", "chance":"336070"}, {"id":"4619", "min":"1", "max":"3", "chance":"413921"}, {"id":"4620", "min":"2", "max":"4", "chance":"275947"}, {"id":"4621", "min":"2", "max":"6", "chance":"206961"}, {"id":"6571", "min":"1", "max":"1", "chance":"17148"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"5"}, {"id":"4273", "level":"3"}, {"id":"4274", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4891", "level":"1"}]
+	}
+]

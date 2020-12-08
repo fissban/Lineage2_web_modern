@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25209", 
+		"name":"Ateka's Shaman", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"736000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4193", "level":"3"}, {"id":"4204", "level":"3"}]
+	}
+]

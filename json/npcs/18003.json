@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18003", 
+		"name":"Bearded Keltir", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"17", "min":"30", "max":"90", "chance":"21739"}, {"id":"1868", "min":"1", "max":"1", "chance":"27522"}, {"id":"1786", "min":"1", "max":"1", "chance":"9174"}, {"id":"1873", "min":"1", "max":"1", "chance":"6423"}, {"id":"462", "min":"1", "max":"1", "chance":"61224"}, {"id":"426", "min":"1", "max":"1", "chance":"36585"}, {"id":"57", "min":"32", "max":"48", "chance":"700000"}],
+		"skills":[]
+	}
+]

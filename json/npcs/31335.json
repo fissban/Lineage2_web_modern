@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31335", 
+		"name":"Kayan", 
+		"title":"Magister", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

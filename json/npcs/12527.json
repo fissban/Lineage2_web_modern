@@ -1,0 +1,11 @@
+[
+	{
+		"id":"12527", 
+		"name":"Star Strider", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4121", "level":"1"}, {"id":"4712", "level":"1"}, {"id":"4713", "level":"1"}]
+	}
+]

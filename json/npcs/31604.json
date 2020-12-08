@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31604", 
+		"name":"Grimst", 
+		"title":"Information Broker", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20232", 
+		"name":"Marsh Stakato Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"47", "min":"1", "max":"1", "chance":"369"}, {"id":"628", "min":"1", "max":"1", "chance":"527"}, {"id":"1867", "min":"1", "max":"1", "chance":"62365"}, {"id":"1872", "min":"1", "max":"1", "chance":"62365"}, {"id":"1875", "min":"1", "max":"1", "chance":"3119"}, {"id":"1881", "min":"1", "max":"1", "chance":"6237"}, {"id":"2156", "min":"1", "max":"1", "chance":"3742"}, {"id":"2191", "min":"1", "max":"1", "chance":"6262"}, {"id":"57", "min":"223", "max":"446", "chance":"700000"}, {"id":"1901", "min":"1", "max":"1", "chance":"72904"}, {"id":"2027", "min":"1", "max":"1", "chance":"6915"}, {"id":"2147", "min":"1", "max":"1", "chance":"37702"}],
+		"skills":[{"id":"4279", "level":"1"}, {"id":"4410", "level":"10"}, {"id":"4411", "level":"10"}, {"id":"4412", "level":"12"}, {"id":"4413", "level":"12"}]
+	}
+]

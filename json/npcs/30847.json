@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30847", 
+		"name":"Ferris", 
+		"title":"Head Blacksmith", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

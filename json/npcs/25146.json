@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25146", 
+		"name":"Serpent Demon Bifrons", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"275", "min":"1", "max":"1", "chance":"53150"}, {"id":"276", "min":"1", "max":"1", "chance":"53150"}, {"id":"848", "min":"3", "max":"9", "chance":"66958"}, {"id":"879", "min":"3", "max":"7", "chance":"120523"}, {"id":"911", "min":"1", "max":"1", "chance":"301306"}, {"id":"1900", "min":"84", "max":"252", "chance":"55727"}, {"id":"2024", "min":"3", "max":"9", "chance":"406318"}, {"id":"6575", "min":"1", "max":"1", "chance":"36976"}, {"id":"6576", "min":"1", "max":"1", "chance":"332776"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4743", "level":"5"}, {"id":"4845", "level":"1"}]
+	}
+]

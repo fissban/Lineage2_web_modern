@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22062", 
+		"name":"Horrifying Jackhammer Golem", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"355", "min":"1", "max":"1", "chance":"87"}, {"id":"382", "min":"1", "max":"1", "chance":"87"}, {"id":"1867", "min":"1", "max":"3", "chance":"111111"}, {"id":"1872", "min":"1", "max":"1", "chance":"250000"}, {"id":"1882", "min":"1", "max":"1", "chance":"41667"}, {"id":"1894", "min":"1", "max":"1", "chance":"4082"}, {"id":"2106", "min":"1", "max":"1", "chance":"2268"}, {"id":"2107", "min":"1", "max":"1", "chance":"1359"}, {"id":"2234", "min":"1", "max":"1", "chance":"2268"}, {"id":"4042", "min":"1", "max":"1", "chance":"3623"}, {"id":"8725", "min":"1", "max":"1", "chance":"6329"}, {"id":"8735", "min":"1", "max":"1", "chance":"1359"}, {"id":"8745", "min":"1", "max":"1", "chance":"453"}, {"id":"57", "min":"1816", "max":"3664", "chance":"700000"}],
+		"skills":[{"id":"4101", "level":"1"}, {"id":"4273", "level":"1"}, {"id":"4274", "level":"1"}, {"id":"4408", "level":"11"}, {"id":"4412", "level":"14"}, {"id":"4414", "level":"1"}, {"id":"4437", "level":"4"}, {"id":"4457", "level":"2"}]
+	}
+]

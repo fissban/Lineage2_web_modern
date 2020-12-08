@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30974", 
+		"name":"Oliver", 
+		"title":"Resurrected Adventurer", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

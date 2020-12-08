@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20577", 
+		"name":"Leto Lizardman", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"849", "min":"1", "max":"1", "chance":"244"}, {"id":"880", "min":"1", "max":"1", "chance":"366"}, {"id":"912", "min":"1", "max":"1", "chance":"183"}, {"id":"1867", "min":"1", "max":"1", "chance":"66667"}, {"id":"1872", "min":"1", "max":"1", "chance":"71428"}, {"id":"1875", "min":"1", "max":"1", "chance":"1916"}, {"id":"1881", "min":"1", "max":"1", "chance":"7246"}, {"id":"1901", "min":"1", "max":"1", "chance":"10800"}, {"id":"2154", "min":"1", "max":"1", "chance":"5952"}, {"id":"2270", "min":"1", "max":"1", "chance":"320"}, {"id":"2274", "min":"1", "max":"1", "chance":"320"}, {"id":"57", "min":"248", "max":"496", "chance":"700000"}, {"id":"351", "min":"1", "max":"1", "chance":"580"}, {"id":"2030", "min":"1", "max":"1", "chance":"6880"}, {"id":"2154", "min":"1", "max":"1", "chance":"62979"}],
+		"skills":[]
+	}
+]

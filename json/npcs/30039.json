@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30039", 
+		"name":"Gilbert", 
+		"title":"Captain", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

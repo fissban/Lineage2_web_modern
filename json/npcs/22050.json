@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22050", 
+		"name":"Probe Golem Prodigy IV", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1867", "min":"1", "max":"1", "chance":"100000"}, {"id":"1872", "min":"1", "max":"1", "chance":"90909"}, {"id":"1875", "min":"1", "max":"1", "chance":"4854"}, {"id":"1881", "min":"1", "max":"1", "chance":"7813"}, {"id":"2070", "min":"1", "max":"1", "chance":"1053"}, {"id":"2072", "min":"1", "max":"1", "chance":"623"}, {"id":"2163", "min":"1", "max":"1", "chance":"4386"}, {"id":"4041", "min":"1", "max":"1", "chance":"383"}, {"id":"8723", "min":"1", "max":"1", "chance":"2915"}, {"id":"8733", "min":"1", "max":"1", "chance":"486"}, {"id":"57", "min":"628", "max":"1283", "chance":"700000"}, {"id":"1881", "min":"1", "max":"2", "chance":"25135"}, {"id":"1908", "min":"1", "max":"1", "chance":"9745"}, {"id":"2163", "min":"1", "max":"1", "chance":"11524"}],
+		"skills":[{"id":"4105", "level":"1"}, {"id":"4273", "level":"1"}, {"id":"4274", "level":"1"}, {"id":"4413", "level":"14"}, {"id":"4437", "level":"4"}, {"id":"4457", "level":"2"}]
+	}
+]

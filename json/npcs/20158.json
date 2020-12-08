@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20158", 
+		"name":"Medusa", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"436", "min":"1", "max":"1", "chance":"199"}, {"id":"469", "min":"1", "max":"1", "chance":"318"}, {"id":"1864", "min":"1", "max":"1", "chance":"100640"}, {"id":"1869", "min":"1", "max":"1", "chance":"50320"}, {"id":"1880", "min":"1", "max":"1", "chance":"5032"}, {"id":"2271", "min":"1", "max":"1", "chance":"360"}, {"id":"2972", "min":"1", "max":"1", "chance":"2692"}, {"id":"5550", "min":"1", "max":"1", "chance":"671"}, {"id":"57", "min":"240", "max":"478", "chance":"700000"}, {"id":"1876", "min":"1", "max":"1", "chance":"113569"}, {"id":"1901", "min":"1", "max":"1", "chance":"78432"}, {"id":"1939", "min":"1", "max":"1", "chance":"49877"}],
+		"skills":[{"id":"4320", "level":"3"}]
+	}
+]

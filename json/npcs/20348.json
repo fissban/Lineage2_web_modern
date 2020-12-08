@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20348", 
+		"name":"Cave Spider", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"66", "min":"1", "max":"1", "chance":"141"}, {"id":"1333", "min":"1", "max":"1", "chance":"141"}, {"id":"1799", "min":"1", "max":"1", "chance":"56309"}, {"id":"1866", "min":"1", "max":"1", "chance":"25339"}, {"id":"1871", "min":"1", "max":"1", "chance":"38009"}, {"id":"2010", "min":"1", "max":"1", "chance":"1479"}, {"id":"57", "min":"97", "max":"147", "chance":"700000"}, {"id":"1794", "min":"1", "max":"1", "chance":"14192"}, {"id":"1831", "min":"1", "max":"1", "chance":"514696"}, {"id":"1896", "min":"1", "max":"1", "chance":"81784"}],
+		"skills":[{"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

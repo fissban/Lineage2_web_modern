@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30690", 
+		"name":"Luther", 
+		"title":"Master", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21571", 
+		"name":"Ghost of Rebellion Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"288", "min":"1", "max":"1", "chance":"6"}, {"id":"729", "min":"1", "max":"1", "chance":"19"}, {"id":"1343", "min":"10", "max":"30", "chance":"166667"}, {"id":"1895", "min":"1", "max":"1", "chance":"23810"}, {"id":"4040", "min":"1", "max":"1", "chance":"1957"}, {"id":"4042", "min":"1", "max":"1", "chance":"3521"}, {"id":"4043", "min":"1", "max":"1", "chance":"7463"}, {"id":"5535", "min":"1", "max":"1", "chance":"1709"}, {"id":"8730", "min":"1", "max":"1", "chance":"1957"}, {"id":"57", "min":"1369", "max":"2780", "chance":"700000"}, {"id":"729", "min":"1", "max":"1", "chance":"377"}, {"id":"4042", "min":"1", "max":"1", "chance":"56507"}, {"id":"4043", "min":"1", "max":"1", "chance":"113015"}],
+		"skills":[{"id":"4074", "level":"2"}, {"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4412", "level":"15"}, {"id":"4581", "level":"6"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35583", 
+		"name":"Walter", 
+		"title":"Clan Hall Gatekeeper", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

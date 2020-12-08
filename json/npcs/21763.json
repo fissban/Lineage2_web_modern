@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21763", 
+		"name":"Dark Omen Invader Food", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"212", "min":"1", "max":"1", "chance":"2"}, {"id":"2504", "min":"1", "max":"1", "chance":"2"}, {"id":"1343", "min":"10", "max":"30", "chance":"83333"}, {"id":"1867", "min":"1", "max":"1", "chance":"83333"}, {"id":"1872", "min":"1", "max":"1", "chance":"83333"}, {"id":"1882", "min":"1", "max":"1", "chance":"14706"}, {"id":"1894", "min":"1", "max":"1", "chance":"3158"}, {"id":"4042", "min":"1", "max":"1", "chance":"625"}, {"id":"5450", "min":"1", "max":"1", "chance":"34"}, {"id":"5532", "min":"1", "max":"1", "chance":"607"}, {"id":"5543", "min":"1", "max":"1", "chance":"613"}, {"id":"6671", "min":"1", "max":"1", "chance":"5000"}, {"id":"8341", "min":"1", "max":"1", "chance":"694"}, {"id":"8346", "min":"1", "max":"1", "chance":"316"}, {"id":"8730", "min":"1", "max":"1", "chance":"1250"}, {"id":"57", "min":"983", "max":"2000", "chance":"700000"}, {"id":"5535", "min":"1", "max":"1", "chance":"8315"}, {"id":"6337", "min":"1", "max":"1", "chance":"12497"}, {"id":"6339", "min":"1", "max":"1", "chance":"18746"}],
+		"skills":[]
+	}
+]

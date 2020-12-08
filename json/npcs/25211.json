@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25211", 
+		"name":"Sebek", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"262", "min":"1", "max":"1", "chance":"55207"}, {"id":"851", "min":"1", "max":"1", "chance":"182502"}, {"id":"882", "min":"6", "max":"16", "chance":"24846"}, {"id":"914", "min":"1", "max":"1", "chance":"136313"}, {"id":"1905", "min":"81", "max":"243", "chance":"66300"}, {"id":"1906", "min":"40", "max":"120", "chance":"189714"}, {"id":"1907", "min":"140", "max":"420", "chance":"27433"}, {"id":"2053", "min":"3", "max":"9", "chance":"684720"}, {"id":"6573", "min":"1", "max":"1", "chance":"42938"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4741", "level":"3"}, {"id":"4865", "level":"1"}]
+	}
+]

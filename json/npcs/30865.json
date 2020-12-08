@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30865", 
+		"name":"Ladanza", 
+		"title":"High Prefect", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

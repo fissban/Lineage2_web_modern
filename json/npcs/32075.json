@@ -1,0 +1,11 @@
+[
+	{
+		"id":"32075", 
+		"name":"Sandy the Cat", 
+		"title":"Tournament Helper", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

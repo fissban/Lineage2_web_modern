@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31973", 
+		"name":"Raheel", 
+		"title":"Spellbook Seller", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

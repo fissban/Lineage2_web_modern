@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25392", 
+		"name":"Captain of Queen's Royal Guards", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"279", "min":"1", "max":"1", "chance":"42148"}, {"id":"352", "min":"1", "max":"1", "chance":"43856"}, {"id":"2377", "min":"1", "max":"1", "chance":"70121"}, {"id":"2378", "min":"1", "max":"1", "chance":"70121"}, {"id":"1941", "min":"14", "max":"42", "chance":"93122"}, {"id":"2040", "min":"3", "max":"9", "chance":"568930"}, {"id":"2918", "min":"40", "max":"120", "chance":"48624"}, {"id":"2919", "min":"9", "max":"27", "chance":"216101"}, {"id":"955", "min":"1", "max":"1", "chance":"382452"}, {"id":"4562", "min":"1", "max":"3", "chance":"191226"}, {"id":"4563", "min":"2", "max":"4", "chance":"127484"}, {"id":"4564", "min":"2", "max":"6", "chance":"95613"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4941", "level":"1"}]
+	}
+]

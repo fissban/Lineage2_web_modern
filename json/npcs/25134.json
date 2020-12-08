@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25134", 
+		"name":"Leto Chief Talkin", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"281", "min":"1", "max":"1", "chance":"52857"}, {"id":"631", "min":"1", "max":"1", "chance":"202241"}, {"id":"2413", "min":"1", "max":"1", "chance":"142317"}, {"id":"2495", "min":"1", "max":"1", "chance":"202241"}, {"id":"1964", "min":"40", "max":"120", "chance":"135849"}, {"id":"2074", "min":"3", "max":"9", "chance":"714412"}, {"id":"2936", "min":"140", "max":"420", "chance":"35253"}, {"id":"2945", "min":"81", "max":"243", "chance":"67086"}, {"id":"4597", "min":"1", "max":"3", "chance":"326886"}, {"id":"4598", "min":"2", "max":"4", "chance":"217923"}, {"id":"4599", "min":"2", "max":"6", "chance":"163443"}, {"id":"6573", "min":"1", "max":"1", "chance":"13076"}, {"id":"8164", "min":"3", "max":"6", "chance":"250000"}, {"id":"8176", "min":"1", "max":"1", "chance":"250000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4178", "level":"4"}, {"id":"4414", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4841", "level":"1"}]
+	}
+]

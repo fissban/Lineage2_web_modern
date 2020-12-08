@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35128", 
+		"name":"Court Guard", 
+		"title":"Dion", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

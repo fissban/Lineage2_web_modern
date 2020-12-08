@@ -1,0 +1,11 @@
+[
+	{
+		"id":"14440", 
+		"name":"Unicorn Seraphim", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4121", "level":"1"}, {"id":"4702", "level":"2"}, {"id":"4703", "level":"2"}, {"id":"4704", "level":"2"}]
+	}
+]

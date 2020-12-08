@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25423", 
+		"name":"Fairy Queen Timiniel", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"234", "min":"1", "max":"1", "chance":"11875"}, {"id":"2398", "min":"1", "max":"1", "chance":"10758"}, {"id":"2399", "min":"1", "max":"1", "chance":"10758"}, {"id":"2403", "min":"1", "max":"1", "chance":"17170"}, {"id":"2404", "min":"1", "max":"1", "chance":"17170"}, {"id":"4084", "min":"16", "max":"48", "chance":"70402"}, {"id":"4085", "min":"23", "max":"67", "chance":"50063"}, {"id":"4086", "min":"6", "max":"18", "chance":"253489"}, {"id":"4087", "min":"11", "max":"31", "chance":"144851"}, {"id":"4119", "min":"3", "max":"9", "chance":"567393"}, {"id":"4622", "min":"1", "max":"3", "chance":"173832"}, {"id":"4623", "min":"1", "max":"1", "chance":"347663"}, {"id":"4624", "min":"1", "max":"1", "chance":"347663"}, {"id":"6572", "min":"1", "max":"1", "chance":"67215"}, {"id":"8172", "min":"1", "max":"1", "chance":"250000"}, {"id":"8176", "min":"2", "max":"3", "chance":"250000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4187", "level":"5"}, {"id":"4190", "level":"5"}, {"id":"4194", "level":"5"}, {"id":"4494", "level":"1"}, {"id":"4953", "level":"1"}]
+	}
+]

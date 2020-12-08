@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21714", 
+		"name":"Purgatory Invader Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"64", "min":"1", "max":"1", "chance":"247"}, {"id":"608", "min":"1", "max":"1", "chance":"247"}, {"id":"1895", "min":"1", "max":"1", "chance":"57546"}, {"id":"1981", "min":"1", "max":"1", "chance":"17771"}, {"id":"2233", "min":"1", "max":"1", "chance":"1883"}, {"id":"2956", "min":"1", "max":"1", "chance":"17771"}, {"id":"2970", "min":"1", "max":"1", "chance":"7143"}, {"id":"4040", "min":"1", "max":"1", "chance":"4029"}, {"id":"4042", "min":"1", "max":"1", "chance":"3357"}, {"id":"4043", "min":"1", "max":"1", "chance":"6714"}, {"id":"8735", "min":"1", "max":"1", "chance":"3096"}, {"id":"57", "min":"1179", "max":"2397", "chance":"700000"}, {"id":"1977", "min":"1", "max":"1", "chance":"43228"}, {"id":"1978", "min":"1", "max":"1", "chance":"187320"}, {"id":"2231", "min":"1", "max":"1", "chance":"12596"}],
+		"skills":[{"id":"4275", "level":"1"}, {"id":"4278", "level":"1"}, {"id":"4285", "level":"3"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"11"}, {"id":"4414", "level":"3"}, {"id":"4581", "level":"5"}]
+	}
+]

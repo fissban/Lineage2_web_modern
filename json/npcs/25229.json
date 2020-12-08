@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25229", 
+		"name":"Storm Winged Naga", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"7575", "min":"1", "max":"1", "chance":"11317"}, {"id":"6678", "min":"1", "max":"1", "chance":"24480"}, {"id":"6679", "min":"1", "max":"1", "chance":"17141"}, {"id":"6683", "min":"1", "max":"1", "chance":"17141"}, {"id":"6687", "min":"1", "max":"1", "chance":"17141"}, {"id":"6578", "min":"1", "max":"1", "chance":"79545"}, {"id":"6705", "min":"23", "max":"67", "chance":"142629"}, {"id":"6706", "min":"60", "max":"180", "chance":"62215"}, {"id":"6710", "min":"116", "max":"346", "chance":"32320"}, {"id":"6714", "min":"16", "max":"48", "chance":"233304"}, {"id":"7579", "min":"12", "max":"36", "chance":"251570"}, {"id":"3936", "min":"1", "max":"1", "chance":"894876"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4170", "level":"8"}, {"id":"4172", "level":"8"}, {"id":"4175", "level":"8"}, {"id":"4177", "level":"8"}, {"id":"4494", "level":"1"}, {"id":"4871", "level":"1"}]
+	}
+]

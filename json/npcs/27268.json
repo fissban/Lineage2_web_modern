@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27268", 
+		"name":"Guard of Haures", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4414", "level":"3"}]
+	}
+]

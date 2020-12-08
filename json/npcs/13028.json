@@ -1,0 +1,11 @@
+[
+	{
+		"id":"13028", 
+		"name":"Symbol of Cyclone", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4390", "level":"1"}]
+	}
+]

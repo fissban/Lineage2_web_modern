@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27271", 
+		"name":"Chimera Golem", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4032", "level":"8"}, {"id":"4073", "level":"8"}, {"id":"4412", "level":"18"}, {"id":"4414", "level":"1"}, {"id":"4572", "level":"8"}]
+	}
+]

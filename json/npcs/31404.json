@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31404", 
+		"name":"Monster Race Guide", 
+		"title":"Town of Gludio", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

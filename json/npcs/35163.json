@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35163", 
+		"name":"Royal Knight", 
+		"title":"Giran", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22170", 
+		"name":"Triol's Believer", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"5326", "min":"1", "max":"1", "chance":"36"}, {"id":"5329", "min":"1", "max":"1", "chance":"36"}, {"id":"5487", "min":"1", "max":"1", "chance":"5421"}, {"id":"5488", "min":"1", "max":"1", "chance":"5421"}, {"id":"960", "min":"1", "max":"1", "chance":"385"}, {"id":"1894", "min":"1", "max":"1", "chance":"33793"}, {"id":"4039", "min":"1", "max":"1", "chance":"32103"}, {"id":"4041", "min":"1", "max":"1", "chance":"8375"}, {"id":"4044", "min":"1", "max":"1", "chance":"32103"}, {"id":"57", "min":"6418", "max":"13138", "chance":"700000"}],
+		"skills":[{"id":"4032", "level":"9"}, {"id":"4275", "level":"2"}, {"id":"4408", "level":"12"}, {"id":"4422", "level":"3"}]
+	}
+]

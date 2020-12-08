@@ -1,0 +1,11 @@
+[
+	{
+		"id":"14609", 
+		"name":"Soulless", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4121", "level":"1"}, {"id":"4138", "level":"1"}, {"id":"4140", "level":"1"}, {"id":"4259", "level":"1"}, {"id":"5038", "level":"10"}]
+	}
+]

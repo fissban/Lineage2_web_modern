@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21795", 
+		"name":"Messenger Invader Elite Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"289", "min":"1", "max":"1", "chance":"22"}, {"id":"959", "min":"1", "max":"1", "chance":"116"}, {"id":"960", "min":"1", "max":"1", "chance":"432"}, {"id":"5534", "min":"1", "max":"1", "chance":"7902"}, {"id":"8732", "min":"1", "max":"1", "chance":"8850"}, {"id":"8742", "min":"1", "max":"1", "chance":"2088"}, {"id":"8752", "min":"1", "max":"1", "chance":"504"}, {"id":"57", "min":"7840", "max":"16005", "chance":"700000"}, {"id":"959", "min":"1", "max":"1", "chance":"780"}, {"id":"960", "min":"1", "max":"1", "chance":"7795"}, {"id":"6691", "min":"1", "max":"1", "chance":"42123"}],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"14"}, {"id":"4410", "level":"13"}, {"id":"4411", "level":"13"}, {"id":"4412", "level":"9"}, {"id":"4413", "level":"9"}, {"id":"4573", "level":"1"}]
+	}
+]

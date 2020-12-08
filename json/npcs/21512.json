@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21512", 
+		"name":"Splinter Stakato Drone", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"235", "min":"1", "max":"1", "chance":"7"}, {"id":"1343", "min":"20", "max":"60", "chance":"130239"}, {"id":"1867", "min":"1", "max":"1", "chance":"243112"}, {"id":"1872", "min":"1", "max":"3", "chance":"81037"}, {"id":"1875", "min":"1", "max":"1", "chance":"12156"}, {"id":"1881", "min":"1", "max":"1", "chance":"24312"}, {"id":"4041", "min":"1", "max":"1", "chance":"1586"}, {"id":"5462", "min":"1", "max":"1", "chance":"68"}, {"id":"5536", "min":"1", "max":"1", "chance":"2172"}, {"id":"8730", "min":"1", "max":"1", "chance":"133"}, {"id":"57", "min":"1743", "max":"3546", "chance":"700000"}, {"id":"730", "min":"1", "max":"1", "chance":"3601"}, {"id":"1875", "min":"1", "max":"1", "chance":"288061"}, {"id":"4041", "min":"1", "max":"1", "chance":"37573"}],
+		"skills":[{"id":"4067", "level":"6"}, {"id":"4410", "level":"9"}, {"id":"4411", "level":"9"}, {"id":"4412", "level":"13"}, {"id":"4413", "level":"13"}]
+	}
+]

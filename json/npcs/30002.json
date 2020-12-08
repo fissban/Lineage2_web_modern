@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30002", 
+		"name":"Jackson", 
+		"title":"Armor Merchant", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

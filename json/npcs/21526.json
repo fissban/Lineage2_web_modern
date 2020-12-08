@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21526", 
+		"name":"Wisdom of Splendor", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"79", "min":"1", "max":"1", "chance":"7"}, {"id":"1807", "min":"1", "max":"1", "chance":"135"}, {"id":"1868", "min":"1", "max":"1", "chance":"200000"}, {"id":"1873", "min":"1", "max":"1", "chance":"41667"}, {"id":"1889", "min":"1", "max":"1", "chance":"7042"}, {"id":"4044", "min":"1", "max":"1", "chance":"4878"}, {"id":"4114", "min":"1", "max":"1", "chance":"1930"}, {"id":"5549", "min":"1", "max":"1", "chance":"11111"}, {"id":"8330", "min":"1", "max":"1", "chance":"642"}, {"id":"8336", "min":"1", "max":"1", "chance":"569"}, {"id":"8729", "min":"1", "max":"1", "chance":"1730"}, {"id":"8739", "min":"1", "max":"1", "chance":"517"}, {"id":"8749", "min":"1", "max":"1", "chance":"45"}, {"id":"8759", "min":"1", "max":"1", "chance":"22"}, {"id":"57", "min":"1449", "max":"2935", "chance":"700000"}, {"id":"1889", "min":"1", "max":"1", "chance":"198975"}, {"id":"4052", "min":"1", "max":"1", "chance":"105669"}, {"id":"5549", "min":"1", "max":"1", "chance":"298462"}],
+		"skills":[{"id":"4104", "level":"6"}, {"id":"4561", "level":"6"}, {"id":"4634", "level":"3"}]
+	}
+]

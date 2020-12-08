@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20356", 
+		"name":"Langk Lizardman Leader", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"220", "min":"1", "max":"1", "chance":"98"}, {"id":"1868", "min":"1", "max":"1", "chance":"100106"}, {"id":"1873", "min":"1", "max":"1", "chance":"20022"}, {"id":"2178", "min":"1", "max":"1", "chance":"8009"}, {"id":"5549", "min":"1", "max":"1", "chance":"5006"}, {"id":"57", "min":"157", "max":"294", "chance":"700000"}, {"id":"1868", "min":"1", "max":"2", "chance":"713468"}, {"id":"1873", "min":"1", "max":"1", "chance":"142694"}, {"id":"1899", "min":"1", "max":"1", "chance":"55740"}],
+		"skills":[{"id":"4410", "level":"10"}, {"id":"4411", "level":"10"}, {"id":"4412", "level":"12"}, {"id":"4413", "level":"12"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20678", 
+		"name":"Tortured Undead", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"266", "min":"1", "max":"1", "chance":"9"}, {"id":"1895", "min":"1", "max":"1", "chance":"7874"}, {"id":"2120", "min":"1", "max":"1", "chance":"1190"}, {"id":"4040", "min":"1", "max":"1", "chance":"853"}, {"id":"4042", "min":"1", "max":"1", "chance":"1764"}, {"id":"4043", "min":"1", "max":"1", "chance":"853"}, {"id":"4128", "min":"1", "max":"1", "chance":"739"}, {"id":"4134", "min":"1", "max":"1", "chance":"341"}, {"id":"5280", "min":"1", "max":"1", "chance":"142"}, {"id":"8726", "min":"1", "max":"1", "chance":"683"}, {"id":"8736", "min":"1", "max":"1", "chance":"39"}, {"id":"8746", "min":"1", "max":"1", "chance":"39"}, {"id":"57", "min":"542", "max":"1100", "chance":"700000"}, {"id":"1918", "min":"1", "max":"1", "chance":"58115"}, {"id":"1989", "min":"1", "max":"1", "chance":"40443"}, {"id":"4142", "min":"1", "max":"1", "chance":"10322"}],
+		"skills":[{"id":"4078", "level":"5"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4410", "level":"12"}, {"id":"4411", "level":"12"}, {"id":"4412", "level":"10"}, {"id":"4413", "level":"10"}]
+	}
+]

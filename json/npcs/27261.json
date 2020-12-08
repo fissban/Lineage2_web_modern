@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27261", 
+		"name":"Bead of Sacred Flame", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4414", "level":"3"}]
+	}
+]

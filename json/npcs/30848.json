@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30848", 
+		"name":"Elisa", 
+		"title":"Gatekeeper", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

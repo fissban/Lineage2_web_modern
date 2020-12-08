@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25320", 
+		"name":"Sentinel of Ember", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"458833"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4191", "level":"9"}, {"id":"4199", "level":"9"}, {"id":"4273", "level":"3"}, {"id":"4274", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4444", "level":"2"}]
+	}
+]

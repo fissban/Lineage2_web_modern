@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25202", 
+		"name":"Krokian Padisha Sobekk", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"81", "min":"1", "max":"1", "chance":"5371"}, {"id":"151", "min":"1", "max":"1", "chance":"5371"}, {"id":"2500", "min":"1", "max":"1", "chance":"5371"}, {"id":"5326", "min":"1", "max":"1", "chance":"18758"}, {"id":"5329", "min":"1", "max":"1", "chance":"18758"}, {"id":"5487", "min":"7", "max":"21", "chance":"349792"}, {"id":"5488", "min":"12", "max":"36", "chance":"204045"}, {"id":"5529", "min":"25", "max":"75", "chance":"59671"}, {"id":"5545", "min":"33", "max":"99", "chance":"45206"}, {"id":"5546", "min":"18", "max":"54", "chance":"91031"}, {"id":"959", "min":"1", "max":"1", "chance":"46991"}, {"id":"960", "min":"1", "max":"1", "chance":"469907"}, {"id":"6577", "min":"1", "max":"1", "chance":"7833"}, {"id":"8166", "min":"1", "max":"3", "chance":"250000"}, {"id":"8176", "min":"3", "max":"9", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"250000"}, {"id":"8619", "min":"1", "max":"1", "chance":"750000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4178", "level":"7"}, {"id":"4494", "level":"1"}, {"id":"4987", "level":"1"}]
+	}
+]

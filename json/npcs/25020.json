@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25020", 
+		"name":"Breka Warlock Pastu", 
+		"title":"Raid Boss", 
+		"isRaid":"true", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"159", "min":"1", "max":"1", "chance":"10857"}, {"id":"187", "min":"1", "max":"1", "chance":"10857"}, {"id":"188", "min":"1", "max":"1", "chance":"10857"}, {"id":"189", "min":"1", "max":"1", "chance":"10857"}, {"id":"190", "min":"1", "max":"1", "chance":"10857"}, {"id":"396", "min":"1", "max":"1", "chance":"151836"}, {"id":"1952", "min":"12", "max":"36", "chance":"434668"}, {"id":"2049", "min":"3", "max":"7", "chance":"161583"}, {"id":"2050", "min":"7", "max":"21", "chance":"61189"}, {"id":"2051", "min":"12", "max":"36", "chance":"35694"}, {"id":"2058", "min":"3", "max":"9", "chance":"134653"}, {"id":"2048", "min":"2", "max":"6", "chance":"201978"}, {"id":"6574", "min":"1", "max":"1", "chance":"361875"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4178", "level":"3"}, {"id":"4414", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4797", "level":"1"}]
+	}
+]

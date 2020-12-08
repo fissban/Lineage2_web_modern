@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35223", 
+		"name":"Inner Doorman", 
+		"title":"Oren", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

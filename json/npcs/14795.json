@@ -1,0 +1,11 @@
+[
+	{
+		"id":"14795", 
+		"name":"Wild Hog Cannon", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4121", "level":"1"}, {"id":"4230", "level":"1"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35553", 
+		"name":"Blacksmith", 
+		"title":"Schuttgart", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

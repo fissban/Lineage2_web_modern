@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35644", 
+		"name":"Manor Manager", 
+		"title":"Schuttgart", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

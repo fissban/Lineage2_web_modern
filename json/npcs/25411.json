@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25411", 
+		"name":"Road Scavenger Henchman", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"736000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4726", "level":"3"}]
+	}
+]

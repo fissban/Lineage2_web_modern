@@ -1,0 +1,11 @@
+[
+	{
+		"id":"20096", 
+		"name":"Orc Lieutenant", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"37", "min":"1", "max":"1", "chance":"2996"}, {"id":"49", "min":"1", "max":"1", "chance":"2996"}, {"id":"736", "min":"1", "max":"1", "chance":"9924"}, {"id":"1867", "min":"1", "max":"1", "chance":"26464"}, {"id":"1869", "min":"1", "max":"1", "chance":"19848"}, {"id":"1870", "min":"1", "max":"1", "chance":"19848"}, {"id":"1871", "min":"1", "max":"1", "chance":"19848"}, {"id":"1872", "min":"1", "max":"1", "chance":"26464"}, {"id":"1921", "min":"1", "max":"1", "chance":"25611"}, {"id":"57", "min":"109", "max":"147", "chance":"700000"}, {"id":"1792", "min":"1", "max":"1", "chance":"14822"}, {"id":"1799", "min":"1", "max":"1", "chance":"298635"}, {"id":"1921", "min":"1", "max":"1", "chance":"130051"}],
+		"skills":[{"id":"4410", "level":"10"}, {"id":"4411", "level":"10"}, {"id":"4412", "level":"12"}, {"id":"4413", "level":"12"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"14533", 
+		"name":"Silhouette", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4121", "level":"1"}, {"id":"4260", "level":"4"}, {"id":"5038", "level":"7"}]
+	}
+]

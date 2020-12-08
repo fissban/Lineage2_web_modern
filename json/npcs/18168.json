@@ -1,0 +1,11 @@
+[
+	{
+		"id":"18168", 
+		"name":"Imperial Guard", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"14"}, {"id":"4572", "level":"9"}, {"id":"4573", "level":"9"}]
+	}
+]

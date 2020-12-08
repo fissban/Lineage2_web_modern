@@ -1,0 +1,11 @@
+[
+	{
+		"id":"35324", 
+		"name":"Heinz", 
+		"title":"Royal Guard Captain", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

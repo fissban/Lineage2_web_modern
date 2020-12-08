@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21673", 
+		"name":"Otherworldly Invader Elite Soldier", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"393", "min":"1", "max":"1", "chance":"377"}, {"id":"394", "min":"1", "max":"1", "chance":"377"}, {"id":"415", "min":"1", "max":"1", "chance":"601"}, {"id":"416", "min":"1", "max":"1", "chance":"601"}, {"id":"1874", "min":"1", "max":"1", "chance":"20408"}, {"id":"1878", "min":"1", "max":"1", "chance":"100000"}, {"id":"1884", "min":"1", "max":"1", "chance":"200000"}, {"id":"1889", "min":"1", "max":"1", "chance":"15873"}, {"id":"1938", "min":"1", "max":"1", "chance":"19232"}, {"id":"1939", "min":"1", "max":"1", "chance":"25127"}, {"id":"2272", "min":"1", "max":"1", "chance":"1447"}, {"id":"5220", "min":"1", "max":"1", "chance":"7246"}, {"id":"57", "min":"1363", "max":"2720", "chance":"700000"}, {"id":"1889", "min":"1", "max":"1", "chance":"215196"}, {"id":"1901", "min":"1", "max":"1", "chance":"445848"}, {"id":"5220", "min":"1", "max":"1", "chance":"129118"}],
+		"skills":[{"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"14"}, {"id":"4582", "level":"3"}]
+	}
+]

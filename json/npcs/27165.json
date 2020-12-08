@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27165", 
+		"name":"Abyssal Jewel 1", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4408", "level":"17"}]
+	}
+]

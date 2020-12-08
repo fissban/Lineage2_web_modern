@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31186", 
+		"name":"Preacher of Doom", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

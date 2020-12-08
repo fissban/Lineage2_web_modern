@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31518", 
+		"name":"Mysterious Necromancer", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

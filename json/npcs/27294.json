@@ -1,0 +1,11 @@
+[
+	{
+		"id":"27294", 
+		"name":"Overlord Atrus", 
+		"title":"Quest Monster", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4032", "level":"7"}, {"id":"4032", "level":"8"}, {"id":"4073", "level":"8"}, {"id":"4408", "level":"12"}, {"id":"4414", "level":"1"}, {"id":"4544", "level":"1"}, {"id":"4544", "level":"2"}, {"id":"4544", "level":"3"}, {"id":"4692", "level":"1"}, {"id":"4693", "level":"1"}]
+	}
+]

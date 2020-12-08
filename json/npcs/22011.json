@@ -1,0 +1,11 @@
+[
+	{
+		"id":"22011", 
+		"name":"Ghost of a Batur Chief", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1866", "min":"1", "max":"1", "chance":"55555"}, {"id":"1871", "min":"1", "max":"1", "chance":"111111"}, {"id":"1877", "min":"1", "max":"1", "chance":"3125"}, {"id":"2154", "min":"1", "max":"1", "chance":"12500"}, {"id":"57", "min":"276", "max":"547", "chance":"700000"}, {"id":"1866", "min":"1", "max":"3", "chance":"76923"}, {"id":"1871", "min":"1", "max":"3", "chance":"250000"}],
+		"skills":[{"id":"4032", "level":"1"}, {"id":"4274", "level":"3"}, {"id":"4413", "level":"13"}, {"id":"4414", "level":"1"}, {"id":"4458", "level":"3"}]
+	}
+]

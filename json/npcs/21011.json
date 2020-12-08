@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21011", 
+		"name":"Ol Mahum Van Grunt", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"46", "min":"1", "max":"1", "chance":"484"}, {"id":"627", "min":"1", "max":"1", "chance":"691"}, {"id":"1061", "min":"1", "max":"1", "chance":"18319"}, {"id":"1864", "min":"1", "max":"1", "chance":"60450"}, {"id":"1865", "min":"1", "max":"1", "chance":"30225"}, {"id":"1866", "min":"1", "max":"1", "chance":"20150"}, {"id":"1868", "min":"1", "max":"1", "chance":"60450"}, {"id":"1873", "min":"1", "max":"1", "chance":"12090"}, {"id":"2185", "min":"1", "max":"1", "chance":"5950"}, {"id":"2274", "min":"1", "max":"1", "chance":"216"}, {"id":"57", "min":"187", "max":"373", "chance":"700000"}, {"id":"1832", "min":"1", "max":"1", "chance":"491646"}, {"id":"1884", "min":"1", "max":"1", "chance":"272296"}, {"id":"1900", "min":"1", "max":"1", "chance":"48411"}],
+		"skills":[]
+	}
+]

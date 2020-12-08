@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25243", 
+		"name":"Tamash's Servant", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"850400"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4730", "level":"5"}]
+	}
+]

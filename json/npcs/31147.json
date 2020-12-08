@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31147", 
+		"name":"Sobling", 
+		"title":"Head Researcher", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

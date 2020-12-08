@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30880", 
+		"name":"Viktor Van Dake", 
+		"title":"Border Outpost Captain", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

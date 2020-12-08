@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31365", 
+		"name":"Yakand", 
+		"title":"Guardian of Flame", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

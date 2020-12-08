@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25525", 
+		"name":"Flame Spirit", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"359667"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4211", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4780", "level":"1"}]
+	}
+]

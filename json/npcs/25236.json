@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25236", 
+		"name":"Kandra's Healer", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"957000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4209", "level":"7"}, {"id":"4212", "level":"7"}, {"id":"4414", "level":"3"}]
+	}
+]

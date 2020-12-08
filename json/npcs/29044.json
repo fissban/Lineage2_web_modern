@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29044", 
+		"name":"Howling Ifrit", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4191", "level":"9"}, {"id":"4199", "level":"9"}]
+	}
+]

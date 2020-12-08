@@ -1,0 +1,11 @@
+[
+	{
+		"id":"21128", 
+		"name":"Spine Golem", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1102", "min":"1", "max":"1", "chance":"484"}, {"id":"1105", "min":"1", "max":"1", "chance":"775"}, {"id":"1867", "min":"1", "max":"1", "chance":"39618"}, {"id":"1869", "min":"1", "max":"1", "chance":"29713"}, {"id":"1870", "min":"1", "max":"1", "chance":"29713"}, {"id":"1871", "min":"1", "max":"1", "chance":"29713"}, {"id":"1872", "min":"1", "max":"1", "chance":"39618"}, {"id":"2256", "min":"1", "max":"1", "chance":"727"}, {"id":"57", "min":"137", "max":"246", "chance":"700000"}, {"id":"1869", "min":"1", "max":"3", "chance":"301771"}, {"id":"1927", "min":"1", "max":"1", "chance":"24074"}, {"id":"2151", "min":"1", "max":"1", "chance":"84059"}],
+		"skills":[{"id":"4254", "level":"2"}, {"id":"4273", "level":"3"}, {"id":"4274", "level":"1"}, {"id":"4444", "level":"2"}]
+	}
+]

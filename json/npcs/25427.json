@@ -1,0 +1,11 @@
+[
+	{
+		"id":"25427", 
+		"name":"Freki's Vampire Bat", 
+		"title":"Raid Fighter", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1061", "min":"1", "max":"1", "chance":"122901"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4743", "level":"2"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30938", 
+		"name":"Malcom3", 
+		"title":"Orc Prince", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

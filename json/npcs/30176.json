@@ -1,0 +1,11 @@
+[
+	{
+		"id":"30176", 
+		"name":"Valleria", 
+		"title":"Grand Magister", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]

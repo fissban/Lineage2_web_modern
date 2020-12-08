@@ -1,0 +1,11 @@
+[
+	{
+		"id":"29023", 
+		"name":"Doll Blader", 
+		"title":"", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[{"id":"1061", "min":"4", "max":"8", "chance":"200000"}],
+		"skills":[{"id":"4045", "level":"1"}, {"id":"4071", "level":"5"}, {"id":"4085", "level":"1"}, {"id":"4086", "level":"1"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}]
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id":"31566", 
+		"name":"Ropfi", 
+		"title":"Fishing Guild Member", 
+		"isRaid":"false", 
+		"isGrandBoss":"false", 
+		"drops":[],
+		"skills":[{"id":"4045", "level":"1"}]
+	}
+]
