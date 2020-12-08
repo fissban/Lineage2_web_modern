@@ -1,11 +1,16 @@
 [
-	{
-		"id":"35136", 
-		"name":"Gatekeeper", 
-		"title":"Dion", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "35136",
+        "name": "Gatekeeper",
+        "title": "Dion",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

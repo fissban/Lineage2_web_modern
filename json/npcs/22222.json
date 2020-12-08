@@ -1,11 +1,69 @@
 [
-	{
-		"id":"22222", 
-		"name":"Wild Strider", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"960", "min":"1", "max":"1", "chance":"228"}, {"id":"5538", "min":"1", "max":"1", "chance":"5236"}, {"id":"8752", "min":"1", "max":"1", "chance":"211"}, {"id":"8954", "min":"1", "max":"1", "chance":"2278"}, {"id":"8955", "min":"1", "max":"1", "chance":"343"}, {"id":"8956", "min":"1", "max":"1", "chance":"343"}, {"id":"57", "min":"5157", "max":"10520", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"630000"}],
-		"skills":[{"id":"4067", "level":"1"}, {"id":"5081", "level":"1"}]
-	}
+    {
+        "id": "22222",
+        "name": "Wild Strider",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "960",
+                "min": "1",
+                "max": "1",
+                "chance": "228"
+            },
+            {
+                "id": "5538",
+                "min": "1",
+                "max": "1",
+                "chance": "5236"
+            },
+            {
+                "id": "8752",
+                "min": "1",
+                "max": "1",
+                "chance": "211"
+            },
+            {
+                "id": "8954",
+                "min": "1",
+                "max": "1",
+                "chance": "2278"
+            },
+            {
+                "id": "8955",
+                "min": "1",
+                "max": "1",
+                "chance": "343"
+            },
+            {
+                "id": "8956",
+                "min": "1",
+                "max": "1",
+                "chance": "343"
+            },
+            {
+                "id": "57",
+                "min": "5157",
+                "max": "10520",
+                "chance": "700000"
+            },
+            {
+                "id": "1875",
+                "min": "1",
+                "max": "1",
+                "chance": "630000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4067",
+                "level": "1"
+            },
+            {
+                "id": "5081",
+                "level": "1"
+            }
+        ]
+    }
 ]

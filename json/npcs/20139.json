@@ -1,11 +1,11 @@
 [
-	{
-		"id":"20139", 
-		"name":"Giant Bee", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "20139",
+        "name": "Giant Bee",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

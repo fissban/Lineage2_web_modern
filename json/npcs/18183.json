@@ -1,11 +1,52 @@
 [
-	{
-		"id":"18183", 
-		"name":"Halisha's Foreman", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4073", "level":"9"}, {"id":"4278", "level":"1"}, {"id":"4285", "level":"5"}, {"id":"4287", "level":"5"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"14"}, {"id":"4589", "level":"9"}, {"id":"4694", "level":"1"}, {"id":"4695", "level":"1"}, {"id":"4696", "level":"1"}]
-	}
+    {
+        "id": "18183",
+        "name": "Halisha's Foreman",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4073",
+                "level": "9"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4285",
+                "level": "5"
+            },
+            {
+                "id": "4287",
+                "level": "5"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4408",
+                "level": "14"
+            },
+            {
+                "id": "4589",
+                "level": "9"
+            },
+            {
+                "id": "4694",
+                "level": "1"
+            },
+            {
+                "id": "4695",
+                "level": "1"
+            },
+            {
+                "id": "4696",
+                "level": "1"
+            }
+        ]
+    }
 ]

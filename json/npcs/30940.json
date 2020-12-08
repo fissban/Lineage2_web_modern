@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30940", 
-		"name":"Malcom5", 
-		"title":"Gremlin Prince", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30940",
+        "name": "Malcom5",
+        "title": "Gremlin Prince",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

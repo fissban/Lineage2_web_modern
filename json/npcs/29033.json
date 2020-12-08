@@ -1,11 +1,47 @@
 [
-	{
-		"id":"29033", 
-		"name":"Fenril Hound Freki", 
-		"title":"Family of Valakas", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"6652", "min":"2", "max":"6", "chance":"189407"}, {"id":"6654", "min":"18", "max":"54", "chance":"65766"}, {"id":"6655", "min":"14", "max":"42", "chance":"42279"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"9"}, {"id":"4494", "level":"1"}, {"id":"4979", "level":"1"}]
-	}
+    {
+        "id": "29033",
+        "name": "Fenril Hound Freki",
+        "title": "Family of Valakas",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "6652",
+                "min": "2",
+                "max": "6",
+                "chance": "189407"
+            },
+            {
+                "id": "6654",
+                "min": "18",
+                "max": "54",
+                "chance": "65766"
+            },
+            {
+                "id": "6655",
+                "min": "14",
+                "max": "42",
+                "chance": "42279"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4197",
+                "level": "9"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4979",
+                "level": "1"
+            }
+        ]
+    }
 ]

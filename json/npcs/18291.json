@@ -1,11 +1,35 @@
 [
-	{
-		"id":"18291", 
-		"name":"Purgatory Invader Food", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"947", "min":"1", "max":"1", "chance":"347"}, {"id":"948", "min":"1", "max":"1", "chance":"2168"}, {"id":"57", "min":"472", "max":"944", "chance":"700000"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "18291",
+        "name": "Purgatory Invader Food",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "947",
+                "min": "1",
+                "max": "1",
+                "chance": "347"
+            },
+            {
+                "id": "948",
+                "min": "1",
+                "max": "1",
+                "chance": "2168"
+            },
+            {
+                "id": "57",
+                "min": "472",
+                "max": "944",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

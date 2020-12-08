@@ -1,11 +1,16 @@
 [
-	{
-		"id":"31594", 
-		"name":"Mond", 
-		"title":"Chief Inspector", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "31594",
+        "name": "Mond",
+        "title": "Chief Inspector",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

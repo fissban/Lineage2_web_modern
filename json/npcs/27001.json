@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27001", 
-		"name":"Orc Sniper", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27001",
+        "name": "Orc Sniper",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

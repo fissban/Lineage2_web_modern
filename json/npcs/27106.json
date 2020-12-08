@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27106", 
-		"name":"Unicorn Phantasm", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27106",
+        "name": "Unicorn Phantasm",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

@@ -1,11 +1,60 @@
 [
-	{
-		"id":"20448", 
-		"name":"Utuku Orc Grunt", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"3", "min":"1", "max":"1", "chance":"460"}, {"id":"1866", "min":"1", "max":"1", "chance":"19164"}, {"id":"1871", "min":"1", "max":"1", "chance":"28746"}, {"id":"2005", "min":"1", "max":"1", "chance":"2054"}, {"id":"57", "min":"51", "max":"72", "chance":"700000"}, {"id":"1666", "min":"1", "max":"1", "chance":"32439"}, {"id":"1789", "min":"1", "max":"1", "chance":"17988"}, {"id":"2006", "min":"1", "max":"1", "chance":"6951"}],
-		"skills":[]
-	}
+    {
+        "id": "20448",
+        "name": "Utuku Orc Grunt",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "3",
+                "min": "1",
+                "max": "1",
+                "chance": "460"
+            },
+            {
+                "id": "1866",
+                "min": "1",
+                "max": "1",
+                "chance": "19164"
+            },
+            {
+                "id": "1871",
+                "min": "1",
+                "max": "1",
+                "chance": "28746"
+            },
+            {
+                "id": "2005",
+                "min": "1",
+                "max": "1",
+                "chance": "2054"
+            },
+            {
+                "id": "57",
+                "min": "51",
+                "max": "72",
+                "chance": "700000"
+            },
+            {
+                "id": "1666",
+                "min": "1",
+                "max": "1",
+                "chance": "32439"
+            },
+            {
+                "id": "1789",
+                "min": "1",
+                "max": "1",
+                "chance": "17988"
+            },
+            {
+                "id": "2006",
+                "min": "1",
+                "max": "1",
+                "chance": "6951"
+            }
+        ],
+        "skills": []
+    }
 ]

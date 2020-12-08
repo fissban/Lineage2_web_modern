@@ -1,11 +1,63 @@
 [
-	{
-		"id":"18326", 
-		"name":"Caught Gigantic Eye", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"6534", "min":"1", "max":"1", "chance":"30"}, {"id":"6521", "min":"2", "max":"6", "chance":"85774"}, {"id":"6524", "min":"1", "max":"1", "chance":"257320"}, {"id":"6527", "min":"2", "max":"6", "chance":"57183"}, {"id":"6540", "min":"3", "max":"9", "chance":"171547"}],
-		"skills":[{"id":"4382", "level":"9"}, {"id":"4413", "level":"15"}, {"id":"4414", "level":"3"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}]
-	}
+    {
+        "id": "18326",
+        "name": "Caught Gigantic Eye",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "6534",
+                "min": "1",
+                "max": "1",
+                "chance": "30"
+            },
+            {
+                "id": "6521",
+                "min": "2",
+                "max": "6",
+                "chance": "85774"
+            },
+            {
+                "id": "6524",
+                "min": "1",
+                "max": "1",
+                "chance": "257320"
+            },
+            {
+                "id": "6527",
+                "min": "2",
+                "max": "6",
+                "chance": "57183"
+            },
+            {
+                "id": "6540",
+                "min": "3",
+                "max": "9",
+                "chance": "171547"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4382",
+                "level": "9"
+            },
+            {
+                "id": "4413",
+                "level": "15"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4438",
+                "level": "2"
+            },
+            {
+                "id": "4439",
+                "level": "2"
+            }
+        ]
+    }
 ]

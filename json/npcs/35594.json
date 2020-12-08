@@ -1,11 +1,11 @@
 [
-	{
-		"id":"35594", 
-		"name":"Treasure Chest", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "35594",
+        "name": "Treasure Chest",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

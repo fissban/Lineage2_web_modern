@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30744", 
-		"name":"Grey", 
-		"title":"Guild Member", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30744",
+        "name": "Grey",
+        "title": "Guild Member",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

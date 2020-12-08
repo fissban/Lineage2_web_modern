@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30618", 
-		"name":"Harak", 
-		"title":"Leunt Chief", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30618",
+        "name": "Harak",
+        "title": "Leunt Chief",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

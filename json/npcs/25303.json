@@ -1,11 +1,35 @@
 [
-	{
-		"id":"25303", 
-		"name":"Tayr's Aide", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"447667"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4195", "level":"9"}, {"id":"4200", "level":"9"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "25303",
+        "name": "Tayr's Aide",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1344",
+                "min": "60",
+                "max": "180",
+                "chance": "447667"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4195",
+                "level": "9"
+            },
+            {
+                "id": "4200",
+                "level": "9"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

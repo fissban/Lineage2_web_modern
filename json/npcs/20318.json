@@ -1,11 +1,60 @@
 [
-	{
-		"id":"20318", 
-		"name":"Black Timber Wolf", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"3", "min":"1", "max":"1", "chance":"364"}, {"id":"1866", "min":"1", "max":"1", "chance":"15158"}, {"id":"1871", "min":"1", "max":"1", "chance":"22736"}, {"id":"2005", "min":"1", "max":"1", "chance":"1625"}, {"id":"57", "min":"41", "max":"58", "chance":"700000"}, {"id":"1060", "min":"1", "max":"1", "chance":"171046"}, {"id":"1866", "min":"1", "max":"1", "chance":"51314"}, {"id":"2005", "min":"1", "max":"1", "chance":"5498"}],
-		"skills":[]
-	}
+    {
+        "id": "20318",
+        "name": "Black Timber Wolf",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "3",
+                "min": "1",
+                "max": "1",
+                "chance": "364"
+            },
+            {
+                "id": "1866",
+                "min": "1",
+                "max": "1",
+                "chance": "15158"
+            },
+            {
+                "id": "1871",
+                "min": "1",
+                "max": "1",
+                "chance": "22736"
+            },
+            {
+                "id": "2005",
+                "min": "1",
+                "max": "1",
+                "chance": "1625"
+            },
+            {
+                "id": "57",
+                "min": "41",
+                "max": "58",
+                "chance": "700000"
+            },
+            {
+                "id": "1060",
+                "min": "1",
+                "max": "1",
+                "chance": "171046"
+            },
+            {
+                "id": "1866",
+                "min": "1",
+                "max": "1",
+                "chance": "51314"
+            },
+            {
+                "id": "2005",
+                "min": "1",
+                "max": "1",
+                "chance": "5498"
+            }
+        ],
+        "skills": []
+    }
 ]

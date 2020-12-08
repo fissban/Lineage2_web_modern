@@ -1,11 +1,20 @@
 [
-	{
-		"id":"27273", 
-		"name":"Assassin Pezel", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4408", "level":"17"}, {"id":"4414", "level":"1"}]
-	}
+    {
+        "id": "27273",
+        "name": "Assassin Pezel",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4408",
+                "level": "17"
+            },
+            {
+                "id": "4414",
+                "level": "1"
+            }
+        ]
+    }
 ]

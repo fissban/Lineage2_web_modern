@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27164", 
-		"name":"Karul Chief Orooto", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27164",
+        "name": "Karul Chief Orooto",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

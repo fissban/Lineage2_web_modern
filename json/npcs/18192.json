@@ -1,11 +1,40 @@
 [
-	{
-		"id":"18192", 
-		"name":"Witch of dust", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4160", "level":"9"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"14"}, {"id":"4412", "level":"17"}, {"id":"4563", "level":"9"}, {"id":"4609", "level":"4"}]
-	}
+    {
+        "id": "18192",
+        "name": "Witch of dust",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4160",
+                "level": "9"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4408",
+                "level": "14"
+            },
+            {
+                "id": "4412",
+                "level": "17"
+            },
+            {
+                "id": "4563",
+                "level": "9"
+            },
+            {
+                "id": "4609",
+                "level": "4"
+            }
+        ]
+    }
 ]

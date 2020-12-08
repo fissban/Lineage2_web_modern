@@ -1,11 +1,11 @@
 [
-	{
-		"id":"13031", 
-		"name":"Huge Pig", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "13031",
+        "name": "Huge Pig",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

@@ -1,11 +1,35 @@
 [
-	{
-		"id":"18298", 
-		"name":"Messenger Invader Food", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"959", "min":"1", "max":"1", "chance":"92"}, {"id":"960", "min":"1", "max":"1", "chance":"912"}, {"id":"57", "min":"1301", "max":"2604", "chance":"700000"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "18298",
+        "name": "Messenger Invader Food",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "959",
+                "min": "1",
+                "max": "1",
+                "chance": "92"
+            },
+            {
+                "id": "960",
+                "min": "1",
+                "max": "1",
+                "chance": "912"
+            },
+            {
+                "id": "57",
+                "min": "1301",
+                "max": "2604",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

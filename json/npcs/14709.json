@@ -1,11 +1,20 @@
 [
-	{
-		"id":"14709", 
-		"name":"Big Boom", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4121", "level":"1"}, {"id":"4139", "level":"8"}]
-	}
+    {
+        "id": "14709",
+        "name": "Big Boom",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4121",
+                "level": "1"
+            },
+            {
+                "id": "4139",
+                "level": "8"
+            }
+        ]
+    }
 ]

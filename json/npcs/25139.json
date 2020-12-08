@@ -1,11 +1,35 @@
 [
-	{
-		"id":"25139", 
-		"name":"Sephia's Salve", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"850400"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4731", "level":"5"}]
-	}
+    {
+        "id": "25139",
+        "name": "Sephia's Salve",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1342",
+                "min": "20",
+                "max": "60",
+                "chance": "850400"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4731",
+                "level": "5"
+            }
+        ]
+    }
 ]

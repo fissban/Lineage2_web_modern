@@ -1,11 +1,65 @@
 [
-	{
-		"id":"18278", 
-		"name":"Treasure Chest", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"947", "min":"1", "max":"1", "chance":"1877"}, {"id":"948", "min":"1", "max":"1", "chance":"11732"}, {"id":"57", "min":"2683", "max":"5361", "chance":"700000"}, {"id":"1867", "min":"2", "max":"10", "chance":"1000000"}, {"id":"1867", "min":"1", "max":"5", "chance":"555704"}, {"id":"1872", "min":"2", "max":"10", "chance":"1000000"}, {"id":"1872", "min":"1", "max":"5", "chance":"555704"}, {"id":"4613", "min":"1", "max":"1", "chance":"7932"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "18278",
+        "name": "Treasure Chest",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "947",
+                "min": "1",
+                "max": "1",
+                "chance": "1877"
+            },
+            {
+                "id": "948",
+                "min": "1",
+                "max": "1",
+                "chance": "11732"
+            },
+            {
+                "id": "57",
+                "min": "2683",
+                "max": "5361",
+                "chance": "700000"
+            },
+            {
+                "id": "1867",
+                "min": "2",
+                "max": "10",
+                "chance": "1000000"
+            },
+            {
+                "id": "1867",
+                "min": "1",
+                "max": "5",
+                "chance": "555704"
+            },
+            {
+                "id": "1872",
+                "min": "2",
+                "max": "10",
+                "chance": "1000000"
+            },
+            {
+                "id": "1872",
+                "min": "1",
+                "max": "5",
+                "chance": "555704"
+            },
+            {
+                "id": "4613",
+                "min": "1",
+                "max": "1",
+                "chance": "7932"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

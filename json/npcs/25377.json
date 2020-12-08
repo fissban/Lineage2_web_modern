@@ -1,11 +1,51 @@
 [
-	{
-		"id":"25377", 
-		"name":"Priest Zombie of Farakelsus", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1060", "min":"1", "max":"1", "chance":"353630"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4213", "level":"1"}, {"id":"4273", "level":"3"}, {"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4783", "level":"1"}]
-	}
+    {
+        "id": "25377",
+        "name": "Priest Zombie of Farakelsus",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1060",
+                "min": "1",
+                "max": "1",
+                "chance": "353630"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4213",
+                "level": "1"
+            },
+            {
+                "id": "4273",
+                "level": "3"
+            },
+            {
+                "id": "4274",
+                "level": "1"
+            },
+            {
+                "id": "4275",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4783",
+                "level": "1"
+            }
+        ]
+    }
 ]

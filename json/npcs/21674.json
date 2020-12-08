@@ -1,11 +1,103 @@
 [
-	{
-		"id":"21674", 
-		"name":"Otherworldly Invader Elite Soldier", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"260", "min":"1", "max":"1", "chance":"14"}, {"id":"1875", "min":"1", "max":"1", "chance":"638"}, {"id":"1879", "min":"1", "max":"1", "chance":"1594"}, {"id":"1885", "min":"1", "max":"1", "chance":"797"}, {"id":"2273", "min":"1", "max":"1", "chance":"69"}, {"id":"5549", "min":"1", "max":"1", "chance":"957"}, {"id":"5550", "min":"1", "max":"1", "chance":"128"}, {"id":"6036", "min":"1", "max":"1", "chance":"319"}, {"id":"57", "min":"53", "max":"106", "chance":"700000"}],
-		"skills":[{"id":"4274", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"8"}, {"id":"4410", "level":"8"}, {"id":"4411", "level":"8"}, {"id":"4412", "level":"14"}, {"id":"4413", "level":"14"}, {"id":"4573", "level":"3"}]
-	}
+    {
+        "id": "21674",
+        "name": "Otherworldly Invader Elite Soldier",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "260",
+                "min": "1",
+                "max": "1",
+                "chance": "14"
+            },
+            {
+                "id": "1875",
+                "min": "1",
+                "max": "1",
+                "chance": "638"
+            },
+            {
+                "id": "1879",
+                "min": "1",
+                "max": "1",
+                "chance": "1594"
+            },
+            {
+                "id": "1885",
+                "min": "1",
+                "max": "1",
+                "chance": "797"
+            },
+            {
+                "id": "2273",
+                "min": "1",
+                "max": "1",
+                "chance": "69"
+            },
+            {
+                "id": "5549",
+                "min": "1",
+                "max": "1",
+                "chance": "957"
+            },
+            {
+                "id": "5550",
+                "min": "1",
+                "max": "1",
+                "chance": "128"
+            },
+            {
+                "id": "6036",
+                "min": "1",
+                "max": "1",
+                "chance": "319"
+            },
+            {
+                "id": "57",
+                "min": "53",
+                "max": "106",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4274",
+                "level": "1"
+            },
+            {
+                "id": "4275",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4408",
+                "level": "8"
+            },
+            {
+                "id": "4410",
+                "level": "8"
+            },
+            {
+                "id": "4411",
+                "level": "8"
+            },
+            {
+                "id": "4412",
+                "level": "14"
+            },
+            {
+                "id": "4413",
+                "level": "14"
+            },
+            {
+                "id": "4573",
+                "level": "3"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,31 @@
 [
-	{
-		"id":"18067", 
-		"name":"Offering of Branded Disciple", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"57", "min":"194", "max":"387", "chance":"700000"}],
-		"skills":[{"id":"4032", "level":"4"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}]
-	}
+    {
+        "id": "18067",
+        "name": "Offering of Branded Disciple",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "57",
+                "min": "194",
+                "max": "387",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "4"
+            },
+            {
+                "id": "4438",
+                "level": "2"
+            },
+            {
+                "id": "4439",
+                "level": "2"
+            }
+        ]
+    }
 ]

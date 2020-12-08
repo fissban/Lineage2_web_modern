@@ -1,11 +1,16 @@
 [
-	{
-		"id":"31406", 
-		"name":"Monster Race Guide", 
-		"title":"Town of Giran", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "31406",
+        "name": "Monster Race Guide",
+        "title": "Town of Giran",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,11 @@
 [
-	{
-		"id":"20002", 
-		"name":"Rabbit", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "20002",
+        "name": "Rabbit",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

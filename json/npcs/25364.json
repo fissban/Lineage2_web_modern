@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25364", 
-		"name":"Sharuk's Marksman", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1833", "min":"1", "max":"1", "chance":"490311"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4777", "level":"2"}]
-	}
+    {
+        "id": "25364",
+        "name": "Sharuk's Marksman",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1833",
+                "min": "1",
+                "max": "1",
+                "chance": "490311"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4777",
+                "level": "2"
+            }
+        ]
+    }
 ]

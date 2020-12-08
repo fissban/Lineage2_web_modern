@@ -1,11 +1,36 @@
 [
-	{
-		"id":"27253", 
-		"name":"Hell Fire", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4408", "level":"9"}, {"id":"4412", "level":"18"}, {"id":"4414", "level":"3"}, {"id":"4529", "level":"1"}, {"id":"4530", "level":"1"}, {"id":"4531", "level":"1"}]
-	}
+    {
+        "id": "27253",
+        "name": "Hell Fire",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4408",
+                "level": "9"
+            },
+            {
+                "id": "4412",
+                "level": "18"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4529",
+                "level": "1"
+            },
+            {
+                "id": "4530",
+                "level": "1"
+            },
+            {
+                "id": "4531",
+                "level": "1"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,66 @@
 [
-	{
-		"id":"21098", 
-		"name":"Plain Grizzly", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"16", "min":"1", "max":"1", "chance":"161"}, {"id":"1865", "min":"1", "max":"1", "chance":"49156"}, {"id":"1870", "min":"1", "max":"1", "chance":"49156"}, {"id":"1879", "min":"1", "max":"1", "chance":"8193"}, {"id":"5158", "min":"1", "max":"1", "chance":"1967"}, {"id":"57", "min":"148", "max":"273", "chance":"700000"}, {"id":"1879", "min":"1", "max":"1", "chance":"55471"}, {"id":"1929", "min":"1", "max":"1", "chance":"42945"}, {"id":"2177", "min":"1", "max":"1", "chance":"106333"}],
-		"skills":[]
-	}
+    {
+        "id": "21098",
+        "name": "Plain Grizzly",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "16",
+                "min": "1",
+                "max": "1",
+                "chance": "161"
+            },
+            {
+                "id": "1865",
+                "min": "1",
+                "max": "1",
+                "chance": "49156"
+            },
+            {
+                "id": "1870",
+                "min": "1",
+                "max": "1",
+                "chance": "49156"
+            },
+            {
+                "id": "1879",
+                "min": "1",
+                "max": "1",
+                "chance": "8193"
+            },
+            {
+                "id": "5158",
+                "min": "1",
+                "max": "1",
+                "chance": "1967"
+            },
+            {
+                "id": "57",
+                "min": "148",
+                "max": "273",
+                "chance": "700000"
+            },
+            {
+                "id": "1879",
+                "min": "1",
+                "max": "1",
+                "chance": "55471"
+            },
+            {
+                "id": "1929",
+                "min": "1",
+                "max": "1",
+                "chance": "42945"
+            },
+            {
+                "id": "2177",
+                "min": "1",
+                "max": "1",
+                "chance": "106333"
+            }
+        ],
+        "skills": []
+    }
 ]

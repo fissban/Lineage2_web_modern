@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27007", 
-		"name":"Tanuki Skullcrusher", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27007",
+        "name": "Tanuki Skullcrusher",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

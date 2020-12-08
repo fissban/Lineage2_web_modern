@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27062", 
-		"name":"Tanukia", 
-		"title":"Kaboo Chief", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27062",
+        "name": "Tanukia",
+        "title": "Kaboo Chief",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

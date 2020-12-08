@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30610", 
-		"name":"Cronos", 
-		"title":"Elder", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30610",
+        "name": "Cronos",
+        "title": "Elder",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

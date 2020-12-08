@@ -1,11 +1,20 @@
 [
-	{
-		"id":"14012", 
-		"name":"Reanimated Man", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4121", "level":"1"}, {"id":"5038", "level":"15"}]
-	}
+    {
+        "id": "14012",
+        "name": "Reanimated Man",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4121",
+                "level": "1"
+            },
+            {
+                "id": "5038",
+                "level": "15"
+            }
+        ]
+    }
 ]

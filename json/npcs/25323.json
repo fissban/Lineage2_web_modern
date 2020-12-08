@@ -1,11 +1,43 @@
 [
-	{
-		"id":"25323", 
-		"name":"Falston's Disciple", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"901714"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4192", "level":"6"}, {"id":"4204", "level":"6"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "25323",
+        "name": "Falston's Disciple",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1343",
+                "min": "20",
+                "max": "60",
+                "chance": "901714"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4192",
+                "level": "6"
+            },
+            {
+                "id": "4204",
+                "level": "6"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

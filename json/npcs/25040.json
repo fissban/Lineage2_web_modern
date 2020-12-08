@@ -1,11 +1,35 @@
 [
-	{
-		"id":"25040", 
-		"name":"Tirak's Knight", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"781200"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "25040",
+        "name": "Tirak's Knight",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1341",
+                "min": "10",
+                "max": "30",
+                "chance": "781200"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4275",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

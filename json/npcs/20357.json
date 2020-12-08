@@ -1,11 +1,89 @@
 [
-	{
-		"id":"20357", 
-		"name":"Langk Lizardman Lieutenant", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"68", "min":"1", "max":"1", "chance":"73"}, {"id":"5284", "min":"1", "max":"1", "chance":"73"}, {"id":"1864", "min":"1", "max":"1", "chance":"89139"}, {"id":"1869", "min":"1", "max":"1", "chance":"44570"}, {"id":"1880", "min":"1", "max":"1", "chance":"4457"}, {"id":"2176", "min":"1", "max":"1", "chance":"21326"}, {"id":"57", "min":"137", "max":"246", "chance":"700000"}, {"id":"1804", "min":"1", "max":"1", "chance":"12071"}, {"id":"1898", "min":"1", "max":"1", "chance":"30999"}, {"id":"1926", "min":"1", "max":"1", "chance":"30482"}],
-		"skills":[{"id":"4410", "level":"10"}, {"id":"4411", "level":"10"}, {"id":"4412", "level":"12"}, {"id":"4413", "level":"12"}]
-	}
+    {
+        "id": "20357",
+        "name": "Langk Lizardman Lieutenant",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "68",
+                "min": "1",
+                "max": "1",
+                "chance": "73"
+            },
+            {
+                "id": "5284",
+                "min": "1",
+                "max": "1",
+                "chance": "73"
+            },
+            {
+                "id": "1864",
+                "min": "1",
+                "max": "1",
+                "chance": "89139"
+            },
+            {
+                "id": "1869",
+                "min": "1",
+                "max": "1",
+                "chance": "44570"
+            },
+            {
+                "id": "1880",
+                "min": "1",
+                "max": "1",
+                "chance": "4457"
+            },
+            {
+                "id": "2176",
+                "min": "1",
+                "max": "1",
+                "chance": "21326"
+            },
+            {
+                "id": "57",
+                "min": "137",
+                "max": "246",
+                "chance": "700000"
+            },
+            {
+                "id": "1804",
+                "min": "1",
+                "max": "1",
+                "chance": "12071"
+            },
+            {
+                "id": "1898",
+                "min": "1",
+                "max": "1",
+                "chance": "30999"
+            },
+            {
+                "id": "1926",
+                "min": "1",
+                "max": "1",
+                "chance": "30482"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4410",
+                "level": "10"
+            },
+            {
+                "id": "4411",
+                "level": "10"
+            },
+            {
+                "id": "4412",
+                "level": "12"
+            },
+            {
+                "id": "4413",
+                "level": "12"
+            }
+        ]
+    }
 ]

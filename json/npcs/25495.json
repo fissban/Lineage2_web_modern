@@ -1,11 +1,27 @@
 [
-	{
-		"id":"25495", 
-		"name":"Spirit of Niniel", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1342", "min":"20", "max":"60", "chance":"850400"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "25495",
+        "name": "Spirit of Niniel",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1342",
+                "min": "20",
+                "max": "60",
+                "chance": "850400"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

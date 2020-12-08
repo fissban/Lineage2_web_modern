@@ -1,11 +1,60 @@
 [
-	{
-		"id":"20468", 
-		"name":"Kaboo Orc", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"99", "min":"1", "max":"1", "chance":"735"}, {"id":"1795", "min":"1", "max":"1", "chance":"57770"}, {"id":"1864", "min":"1", "max":"1", "chance":"30618"}, {"id":"1869", "min":"1", "max":"1", "chance":"15309"}, {"id":"57", "min":"41", "max":"58", "chance":"700000"}, {"id":"1790", "min":"1", "max":"1", "chance":"14370"}, {"id":"1814", "min":"1", "max":"1", "chance":"40916"}, {"id":"2005", "min":"1", "max":"1", "chance":"5553"}],
-		"skills":[]
-	}
+    {
+        "id": "20468",
+        "name": "Kaboo Orc",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "99",
+                "min": "1",
+                "max": "1",
+                "chance": "735"
+            },
+            {
+                "id": "1795",
+                "min": "1",
+                "max": "1",
+                "chance": "57770"
+            },
+            {
+                "id": "1864",
+                "min": "1",
+                "max": "1",
+                "chance": "30618"
+            },
+            {
+                "id": "1869",
+                "min": "1",
+                "max": "1",
+                "chance": "15309"
+            },
+            {
+                "id": "57",
+                "min": "41",
+                "max": "58",
+                "chance": "700000"
+            },
+            {
+                "id": "1790",
+                "min": "1",
+                "max": "1",
+                "chance": "14370"
+            },
+            {
+                "id": "1814",
+                "min": "1",
+                "max": "1",
+                "chance": "40916"
+            },
+            {
+                "id": "2005",
+                "min": "1",
+                "max": "1",
+                "chance": "5553"
+            }
+        ],
+        "skills": []
+    }
 ]

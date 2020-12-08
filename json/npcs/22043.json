@@ -1,11 +1,37 @@
 [
-	{
-		"id":"22043", 
-		"name":"Ragna Orc Sorcerer", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1872", "min":"1", "max":"1", "chance":"350000"}, {"id":"57", "min":"1088", "max":"1714", "chance":"700000"}],
-		"skills":[{"id":"4100", "level":"1"}, {"id":"4160", "level":"1"}, {"id":"4411", "level":"13"}]
-	}
+    {
+        "id": "22043",
+        "name": "Ragna Orc Sorcerer",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1872",
+                "min": "1",
+                "max": "1",
+                "chance": "350000"
+            },
+            {
+                "id": "57",
+                "min": "1088",
+                "max": "1714",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4100",
+                "level": "1"
+            },
+            {
+                "id": "4160",
+                "level": "1"
+            },
+            {
+                "id": "4411",
+                "level": "13"
+            }
+        ]
+    }
 ]

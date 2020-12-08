@@ -1,11 +1,35 @@
 [
-	{
-		"id":"25227", 
-		"name":"Kastor's Seer", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1539", "min":"1", "max":"1", "chance":"244444"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4213", "level":"6"}, {"id":"4414", "level":"3"}, {"id":"4779", "level":"6"}]
-	}
+    {
+        "id": "25227",
+        "name": "Kastor's Seer",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1539",
+                "min": "1",
+                "max": "1",
+                "chance": "244444"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4213",
+                "level": "6"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4779",
+                "level": "6"
+            }
+        ]
+    }
 ]

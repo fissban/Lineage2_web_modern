@@ -1,11 +1,97 @@
 [
-	{
-		"id":"20970", 
-		"name":"Soldier of Ancient Times", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"5290", "min":"1", "max":"1", "chance":"12"}, {"id":"5291", "min":"1", "max":"1", "chance":"12"}, {"id":"5295", "min":"1", "max":"1", "chance":"12"}, {"id":"5296", "min":"1", "max":"1", "chance":"12"}, {"id":"5496", "min":"1", "max":"1", "chance":"1628"}, {"id":"5497", "min":"1", "max":"1", "chance":"1628"}, {"id":"5508", "min":"1", "max":"1", "chance":"1628"}, {"id":"5509", "min":"1", "max":"1", "chance":"1628"}, {"id":"57", "min":"758", "max":"1543", "chance":"700000"}, {"id":"1895", "min":"1", "max":"2", "chance":"537200"}, {"id":"4042", "min":"1", "max":"1", "chance":"31337"}, {"id":"5489", "min":"1", "max":"1", "chance":"24816"}],
-		"skills":[{"id":"4030", "level":"3"}, {"id":"4408", "level":"9"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "20970",
+        "name": "Soldier of Ancient Times",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "5290",
+                "min": "1",
+                "max": "1",
+                "chance": "12"
+            },
+            {
+                "id": "5291",
+                "min": "1",
+                "max": "1",
+                "chance": "12"
+            },
+            {
+                "id": "5295",
+                "min": "1",
+                "max": "1",
+                "chance": "12"
+            },
+            {
+                "id": "5296",
+                "min": "1",
+                "max": "1",
+                "chance": "12"
+            },
+            {
+                "id": "5496",
+                "min": "1",
+                "max": "1",
+                "chance": "1628"
+            },
+            {
+                "id": "5497",
+                "min": "1",
+                "max": "1",
+                "chance": "1628"
+            },
+            {
+                "id": "5508",
+                "min": "1",
+                "max": "1",
+                "chance": "1628"
+            },
+            {
+                "id": "5509",
+                "min": "1",
+                "max": "1",
+                "chance": "1628"
+            },
+            {
+                "id": "57",
+                "min": "758",
+                "max": "1543",
+                "chance": "700000"
+            },
+            {
+                "id": "1895",
+                "min": "1",
+                "max": "2",
+                "chance": "537200"
+            },
+            {
+                "id": "4042",
+                "min": "1",
+                "max": "1",
+                "chance": "31337"
+            },
+            {
+                "id": "5489",
+                "min": "1",
+                "max": "1",
+                "chance": "24816"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4030",
+                "level": "3"
+            },
+            {
+                "id": "4408",
+                "level": "9"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

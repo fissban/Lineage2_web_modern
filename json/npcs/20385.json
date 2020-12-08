@@ -1,11 +1,60 @@
 [
-	{
-		"id":"20385", 
-		"name":"Balor Orc Archer", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"14", "min":"1", "max":"1", "chance":"607"}, {"id":"1790", "min":"1", "max":"1", "chance":"4673"}, {"id":"1868", "min":"1", "max":"1", "chance":"50555"}, {"id":"1873", "min":"1", "max":"1", "chance":"10111"}, {"id":"2007", "min":"1", "max":"1", "chance":"2709"}, {"id":"57", "min":"69", "max":"94", "chance":"700000"}, {"id":"1060", "min":"1", "max":"1", "chance":"285245"}, {"id":"2005", "min":"1", "max":"1", "chance":"9169"}],
-		"skills":[]
-	}
+    {
+        "id": "20385",
+        "name": "Balor Orc Archer",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "14",
+                "min": "1",
+                "max": "1",
+                "chance": "607"
+            },
+            {
+                "id": "1790",
+                "min": "1",
+                "max": "1",
+                "chance": "4673"
+            },
+            {
+                "id": "1868",
+                "min": "1",
+                "max": "1",
+                "chance": "50555"
+            },
+            {
+                "id": "1873",
+                "min": "1",
+                "max": "1",
+                "chance": "10111"
+            },
+            {
+                "id": "2007",
+                "min": "1",
+                "max": "1",
+                "chance": "2709"
+            },
+            {
+                "id": "57",
+                "min": "69",
+                "max": "94",
+                "chance": "700000"
+            },
+            {
+                "id": "1060",
+                "min": "1",
+                "max": "1",
+                "chance": "285245"
+            },
+            {
+                "id": "2005",
+                "min": "1",
+                "max": "1",
+                "chance": "9169"
+            }
+        ],
+        "skills": []
+    }
 ]

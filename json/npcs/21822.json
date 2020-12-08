@@ -1,11 +1,89 @@
 [
-	{
-		"id":"21822", 
-		"name":"Treasure Chest", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"5312", "min":"1", "max":"1", "chance":"12"}, {"id":"5315", "min":"1", "max":"1", "chance":"16"}, {"id":"5317", "min":"1", "max":"1", "chance":"12"}, {"id":"960", "min":"1", "max":"1", "chance":"71"}, {"id":"1895", "min":"1", "max":"1", "chance":"50341"}, {"id":"4040", "min":"1", "max":"1", "chance":"3524"}, {"id":"4042", "min":"1", "max":"1", "chance":"2937"}, {"id":"4043", "min":"1", "max":"1", "chance":"5874"}, {"id":"5495", "min":"1", "max":"1", "chance":"2230"}, {"id":"5527", "min":"1", "max":"1", "chance":"1756"}, {"id":"5528", "min":"1", "max":"1", "chance":"1756"}, {"id":"57", "min":"1200", "max":"2449", "chance":"700000"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "21822",
+        "name": "Treasure Chest",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "5312",
+                "min": "1",
+                "max": "1",
+                "chance": "12"
+            },
+            {
+                "id": "5315",
+                "min": "1",
+                "max": "1",
+                "chance": "16"
+            },
+            {
+                "id": "5317",
+                "min": "1",
+                "max": "1",
+                "chance": "12"
+            },
+            {
+                "id": "960",
+                "min": "1",
+                "max": "1",
+                "chance": "71"
+            },
+            {
+                "id": "1895",
+                "min": "1",
+                "max": "1",
+                "chance": "50341"
+            },
+            {
+                "id": "4040",
+                "min": "1",
+                "max": "1",
+                "chance": "3524"
+            },
+            {
+                "id": "4042",
+                "min": "1",
+                "max": "1",
+                "chance": "2937"
+            },
+            {
+                "id": "4043",
+                "min": "1",
+                "max": "1",
+                "chance": "5874"
+            },
+            {
+                "id": "5495",
+                "min": "1",
+                "max": "1",
+                "chance": "2230"
+            },
+            {
+                "id": "5527",
+                "min": "1",
+                "max": "1",
+                "chance": "1756"
+            },
+            {
+                "id": "5528",
+                "min": "1",
+                "max": "1",
+                "chance": "1756"
+            },
+            {
+                "id": "57",
+                "min": "1200",
+                "max": "2449",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

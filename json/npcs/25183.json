@@ -1,11 +1,39 @@
 [
-	{
-		"id":"25183", 
-		"name":"Kurikups' Wife", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"871429"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4213", "level":"6"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4786", "level":"6"}]
-	}
+    {
+        "id": "25183",
+        "name": "Kurikups' Wife",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1343",
+                "min": "20",
+                "max": "60",
+                "chance": "871429"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4213",
+                "level": "6"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4786",
+                "level": "6"
+            }
+        ]
+    }
 ]

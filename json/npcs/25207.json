@@ -1,11 +1,27 @@
 [
-	{
-		"id":"25207", 
-		"name":"Ashakiel's Rod", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"359667"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "25207",
+        "name": "Ashakiel's Rod",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1344",
+                "min": "60",
+                "max": "180",
+                "chance": "359667"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

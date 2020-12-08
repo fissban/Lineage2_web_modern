@@ -1,11 +1,16 @@
 [
-	{
-		"id":"12077", 
-		"name":"Wolf", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4121", "level":"1"}]
-	}
+    {
+        "id": "12077",
+        "name": "Wolf",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4121",
+                "level": "1"
+            }
+        ]
+    }
 ]

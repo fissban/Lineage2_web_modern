@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25186", 
-		"name":"Hellena's Marksman", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"565333"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4761", "level":"3"}]
-	}
+    {
+        "id": "25186",
+        "name": "Hellena's Marksman",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1341",
+                "min": "20",
+                "max": "60",
+                "chance": "565333"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4761",
+                "level": "3"
+            }
+        ]
+    }
 ]

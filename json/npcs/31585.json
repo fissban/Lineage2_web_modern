@@ -1,11 +1,16 @@
 [
-	{
-		"id":"31585", 
-		"name":"Sparky the Cat", 
-		"title":"Keats Servitor", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "31585",
+        "name": "Sparky the Cat",
+        "title": "Keats Servitor",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

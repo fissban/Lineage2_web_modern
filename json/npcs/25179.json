@@ -1,11 +1,101 @@
 [
-	{
-		"id":"25179", 
-		"name":"Guardian of the Statue of Giant Karum", 
-		"title":"Raid Boss", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"234", "min":"1", "max":"1", "chance":"15862"}, {"id":"2391", "min":"1", "max":"1", "chance":"19621"}, {"id":"2392", "min":"1", "max":"1", "chance":"19621"}, {"id":"4082", "min":"4", "max":"12", "chance":"489140"}, {"id":"4083", "min":"8", "max":"22", "chance":"260875"}, {"id":"4119", "min":"3", "max":"9", "chance":"757907"}, {"id":"947", "min":"1", "max":"1", "chance":"179568"}, {"id":"948", "min":"1", "max":"3", "chance":"561149"}, {"id":"6571", "min":"1", "max":"1", "chance":"12827"}, {"id":"8168", "min":"1", "max":"3", "chance":"250000"}, {"id":"8169", "min":"1", "max":"1", "chance":"250000"}, {"id":"8176", "min":"1", "max":"3", "chance":"250000"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"6"}, {"id":"4494", "level":"1"}, {"id":"4858", "level":"1"}]
-	}
+    {
+        "id": "25179",
+        "name": "Guardian of the Statue of Giant Karum",
+        "title": "Raid Boss",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "234",
+                "min": "1",
+                "max": "1",
+                "chance": "15862"
+            },
+            {
+                "id": "2391",
+                "min": "1",
+                "max": "1",
+                "chance": "19621"
+            },
+            {
+                "id": "2392",
+                "min": "1",
+                "max": "1",
+                "chance": "19621"
+            },
+            {
+                "id": "4082",
+                "min": "4",
+                "max": "12",
+                "chance": "489140"
+            },
+            {
+                "id": "4083",
+                "min": "8",
+                "max": "22",
+                "chance": "260875"
+            },
+            {
+                "id": "4119",
+                "min": "3",
+                "max": "9",
+                "chance": "757907"
+            },
+            {
+                "id": "947",
+                "min": "1",
+                "max": "1",
+                "chance": "179568"
+            },
+            {
+                "id": "948",
+                "min": "1",
+                "max": "3",
+                "chance": "561149"
+            },
+            {
+                "id": "6571",
+                "min": "1",
+                "max": "1",
+                "chance": "12827"
+            },
+            {
+                "id": "8168",
+                "min": "1",
+                "max": "3",
+                "chance": "250000"
+            },
+            {
+                "id": "8169",
+                "min": "1",
+                "max": "1",
+                "chance": "250000"
+            },
+            {
+                "id": "8176",
+                "min": "1",
+                "max": "3",
+                "chance": "250000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4197",
+                "level": "6"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4858",
+                "level": "1"
+            }
+        ]
+    }
 ]

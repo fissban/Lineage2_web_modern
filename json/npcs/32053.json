@@ -1,11 +1,16 @@
 [
-	{
-		"id":"32053", 
-		"name":"Abey", 
-		"title":"Railroad Worker", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "32053",
+        "name": "Abey",
+        "title": "Railroad Worker",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

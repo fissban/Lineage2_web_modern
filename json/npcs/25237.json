@@ -1,11 +1,23 @@
 [
-	{
-		"id":"25237", 
-		"name":"Kandra's Guard", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"957000"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "25237",
+        "name": "Kandra's Guard",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1344",
+                "min": "20",
+                "max": "60",
+                "chance": "957000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

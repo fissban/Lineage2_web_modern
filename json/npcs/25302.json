@@ -1,11 +1,65 @@
 [
-	{
-		"id":"25302", 
-		"name":"Ketra's Commander Tayr", 
-		"title":"Raid Boss", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"6370", "min":"1", "max":"1", "chance":"7036"}, {"id":"6684", "min":"1", "max":"1", "chance":"13154"}, {"id":"6694", "min":"3", "max":"9", "chance":"629566"}, {"id":"6711", "min":"12", "max":"36", "chance":"236254"}, {"id":"3936", "min":"1", "max":"1", "chance":"556290"}, {"id":"6578", "min":"1", "max":"1", "chance":"49449"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"9"}, {"id":"4494", "level":"1"}, {"id":"4904", "level":"1"}]
-	}
+    {
+        "id": "25302",
+        "name": "Ketra's Commander Tayr",
+        "title": "Raid Boss",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "6370",
+                "min": "1",
+                "max": "1",
+                "chance": "7036"
+            },
+            {
+                "id": "6684",
+                "min": "1",
+                "max": "1",
+                "chance": "13154"
+            },
+            {
+                "id": "6694",
+                "min": "3",
+                "max": "9",
+                "chance": "629566"
+            },
+            {
+                "id": "6711",
+                "min": "12",
+                "max": "36",
+                "chance": "236254"
+            },
+            {
+                "id": "3936",
+                "min": "1",
+                "max": "1",
+                "chance": "556290"
+            },
+            {
+                "id": "6578",
+                "min": "1",
+                "max": "1",
+                "chance": "49449"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4197",
+                "level": "9"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4904",
+                "level": "1"
+            }
+        ]
+    }
 ]

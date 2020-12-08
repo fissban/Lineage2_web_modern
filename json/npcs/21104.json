@@ -1,11 +1,95 @@
 [
-	{
-		"id":"21104", 
-		"name":"Delu Lizardman Supplier", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"605", "min":"1", "max":"1", "chance":"962"}, {"id":"1123", "min":"1", "max":"1", "chance":"962"}, {"id":"1876", "min":"1", "max":"1", "chance":"9155"}, {"id":"1877", "min":"1", "max":"1", "chance":"1831"}, {"id":"1880", "min":"1", "max":"1", "chance":"4578"}, {"id":"1881", "min":"1", "max":"1", "chance":"6103"}, {"id":"1882", "min":"1", "max":"1", "chance":"10172"}, {"id":"2264", "min":"1", "max":"1", "chance":"474"}, {"id":"6667", "min":"1", "max":"1", "chance":"28607"}, {"id":"57", "min":"247", "max":"496", "chance":"700000"}, {"id":"1061", "min":"1", "max":"1", "chance":"355341"}, {"id":"1876", "min":"1", "max":"1", "chance":"117263"}, {"id":"1935", "min":"1", "max":"1", "chance":"32755"}],
-		"skills":[{"id":"4032", "level":"3"}]
-	}
+    {
+        "id": "21104",
+        "name": "Delu Lizardman Supplier",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "605",
+                "min": "1",
+                "max": "1",
+                "chance": "962"
+            },
+            {
+                "id": "1123",
+                "min": "1",
+                "max": "1",
+                "chance": "962"
+            },
+            {
+                "id": "1876",
+                "min": "1",
+                "max": "1",
+                "chance": "9155"
+            },
+            {
+                "id": "1877",
+                "min": "1",
+                "max": "1",
+                "chance": "1831"
+            },
+            {
+                "id": "1880",
+                "min": "1",
+                "max": "1",
+                "chance": "4578"
+            },
+            {
+                "id": "1881",
+                "min": "1",
+                "max": "1",
+                "chance": "6103"
+            },
+            {
+                "id": "1882",
+                "min": "1",
+                "max": "1",
+                "chance": "10172"
+            },
+            {
+                "id": "2264",
+                "min": "1",
+                "max": "1",
+                "chance": "474"
+            },
+            {
+                "id": "6667",
+                "min": "1",
+                "max": "1",
+                "chance": "28607"
+            },
+            {
+                "id": "57",
+                "min": "247",
+                "max": "496",
+                "chance": "700000"
+            },
+            {
+                "id": "1061",
+                "min": "1",
+                "max": "1",
+                "chance": "355341"
+            },
+            {
+                "id": "1876",
+                "min": "1",
+                "max": "1",
+                "chance": "117263"
+            },
+            {
+                "id": "1935",
+                "min": "1",
+                "max": "1",
+                "chance": "32755"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "3"
+            }
+        ]
+    }
 ]

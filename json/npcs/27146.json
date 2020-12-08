@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27146", 
-		"name":"Tarlk Raider Triska", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27146",
+        "name": "Tarlk Raider Triska",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

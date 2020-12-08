@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30927", 
-		"name":"Alicia", 
-		"title":"Priestess", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30927",
+        "name": "Alicia",
+        "title": "Priestess",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

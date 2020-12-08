@@ -1,11 +1,24 @@
 [
-	{
-		"id":"29031", 
-		"name":"Kerinne's Ifrit", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4209", "level":"9"}, {"id":"4213", "level":"9"}]
-	}
+    {
+        "id": "29031",
+        "name": "Kerinne's Ifrit",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4209",
+                "level": "9"
+            },
+            {
+                "id": "4213",
+                "level": "9"
+            }
+        ]
+    }
 ]

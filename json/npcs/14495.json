@@ -1,11 +1,24 @@
 [
-	{
-		"id":"14495", 
-		"name":"Shadow", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4121", "level":"1"}, {"id":"4233", "level":"1"}, {"id":"5038", "level":"7"}]
-	}
+    {
+        "id": "14495",
+        "name": "Shadow",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4121",
+                "level": "1"
+            },
+            {
+                "id": "4233",
+                "level": "1"
+            },
+            {
+                "id": "5038",
+                "level": "7"
+            }
+        ]
+    }
 ]

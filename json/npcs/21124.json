@@ -1,11 +1,85 @@
 [
-	{
-		"id":"21124", 
-		"name":"Red Eye Barbed Bat", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"309", "min":"1", "max":"1", "chance":"110"}, {"id":"310", "min":"1", "max":"1", "chance":"110"}, {"id":"1800", "min":"1", "max":"1", "chance":"11763"}, {"id":"1865", "min":"1", "max":"1", "chance":"37404"}, {"id":"1870", "min":"1", "max":"1", "chance":"37404"}, {"id":"1879", "min":"1", "max":"1", "chance":"6235"}, {"id":"57", "min":"121", "max":"200", "chance":"700000"}, {"id":"735", "min":"1", "max":"1", "chance":"21105"}, {"id":"1865", "min":"1", "max":"2", "chance":"253256"}, {"id":"1897", "min":"1", "max":"1", "chance":"60299"}],
-		"skills":[{"id":"4276", "level":"1"}, {"id":"4281", "level":"1"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "21124",
+        "name": "Red Eye Barbed Bat",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "309",
+                "min": "1",
+                "max": "1",
+                "chance": "110"
+            },
+            {
+                "id": "310",
+                "min": "1",
+                "max": "1",
+                "chance": "110"
+            },
+            {
+                "id": "1800",
+                "min": "1",
+                "max": "1",
+                "chance": "11763"
+            },
+            {
+                "id": "1865",
+                "min": "1",
+                "max": "1",
+                "chance": "37404"
+            },
+            {
+                "id": "1870",
+                "min": "1",
+                "max": "1",
+                "chance": "37404"
+            },
+            {
+                "id": "1879",
+                "min": "1",
+                "max": "1",
+                "chance": "6235"
+            },
+            {
+                "id": "57",
+                "min": "121",
+                "max": "200",
+                "chance": "700000"
+            },
+            {
+                "id": "735",
+                "min": "1",
+                "max": "1",
+                "chance": "21105"
+            },
+            {
+                "id": "1865",
+                "min": "1",
+                "max": "2",
+                "chance": "253256"
+            },
+            {
+                "id": "1897",
+                "min": "1",
+                "max": "1",
+                "chance": "60299"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4276",
+                "level": "1"
+            },
+            {
+                "id": "4281",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

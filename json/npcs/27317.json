@@ -1,11 +1,16 @@
 [
-	{
-		"id":"27317", 
-		"name":"Restrainer of Glory", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "27317",
+        "name": "Restrainer of Glory",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

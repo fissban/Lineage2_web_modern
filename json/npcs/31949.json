@@ -1,11 +1,16 @@
 [
-	{
-		"id":"31949", 
-		"name":"Rouge", 
-		"title":"Accessory Merchant", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "31949",
+        "name": "Rouge",
+        "title": "Accessory Merchant",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

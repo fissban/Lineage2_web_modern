@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30062", 
-		"name":"Sonia", 
-		"title":"Accessory Merchant", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30062",
+        "name": "Sonia",
+        "title": "Accessory Merchant",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

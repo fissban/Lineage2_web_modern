@@ -1,11 +1,11 @@
 [
-	{
-		"id":"16020", 
-		"name":"Tame Tiny Baby Buffalo", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "16020",
+        "name": "Tame Tiny Baby Buffalo",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

@@ -1,11 +1,28 @@
 [
-	{
-		"id":"25508", 
-		"name":"Rayito's Henchman", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4194", "level":"1"}, {"id":"4202", "level":"1"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "25508",
+        "name": "Rayito's Henchman",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4194",
+                "level": "1"
+            },
+            {
+                "id": "4202",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

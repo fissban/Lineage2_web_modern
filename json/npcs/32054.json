@@ -1,11 +1,16 @@
 [
-	{
-		"id":"32054", 
-		"name":"Ghost of a Railroad Engineer", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "32054",
+        "name": "Ghost of a Railroad Engineer",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

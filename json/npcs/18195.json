@@ -1,11 +1,32 @@
 [
-	{
-		"id":"18195", 
-		"name":"Signet of Emperor", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4408", "level":"14"}, {"id":"4438", "level":"4"}, {"id":"4439", "level":"4"}, {"id":"4444", "level":"2"}, {"id":"4614", "level":"9"}]
-	}
+    {
+        "id": "18195",
+        "name": "Signet of Emperor",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4408",
+                "level": "14"
+            },
+            {
+                "id": "4438",
+                "level": "4"
+            },
+            {
+                "id": "4439",
+                "level": "4"
+            },
+            {
+                "id": "4444",
+                "level": "2"
+            },
+            {
+                "id": "4614",
+                "level": "9"
+            }
+        ]
+    }
 ]

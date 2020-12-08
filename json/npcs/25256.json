@@ -1,11 +1,89 @@
 [
-	{
-		"id":"25256", 
-		"name":"Taik High Prefect Arak", 
-		"title":"Raid Boss", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"358", "min":"1", "max":"1", "chance":"35850"}, {"id":"2380", "min":"1", "max":"1", "chance":"57431"}, {"id":"2381", "min":"1", "max":"1", "chance":"24509"}, {"id":"4078", "min":"81", "max":"243", "chance":"52043"}, {"id":"4080", "min":"28", "max":"84", "chance":"212009"}, {"id":"4081", "min":"20", "max":"60", "chance":"142218"}, {"id":"6571", "min":"1", "max":"1", "chance":"19240"}, {"id":"6572", "min":"1", "max":"1", "chance":"179568"}, {"id":"8159", "min":"5", "max":"8", "chance":"250000"}, {"id":"8176", "min":"1", "max":"3", "chance":"250000"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4741", "level":"6"}, {"id":"4884", "level":"1"}]
-	}
+    {
+        "id": "25256",
+        "name": "Taik High Prefect Arak",
+        "title": "Raid Boss",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "358",
+                "min": "1",
+                "max": "1",
+                "chance": "35850"
+            },
+            {
+                "id": "2380",
+                "min": "1",
+                "max": "1",
+                "chance": "57431"
+            },
+            {
+                "id": "2381",
+                "min": "1",
+                "max": "1",
+                "chance": "24509"
+            },
+            {
+                "id": "4078",
+                "min": "81",
+                "max": "243",
+                "chance": "52043"
+            },
+            {
+                "id": "4080",
+                "min": "28",
+                "max": "84",
+                "chance": "212009"
+            },
+            {
+                "id": "4081",
+                "min": "20",
+                "max": "60",
+                "chance": "142218"
+            },
+            {
+                "id": "6571",
+                "min": "1",
+                "max": "1",
+                "chance": "19240"
+            },
+            {
+                "id": "6572",
+                "min": "1",
+                "max": "1",
+                "chance": "179568"
+            },
+            {
+                "id": "8159",
+                "min": "5",
+                "max": "8",
+                "chance": "250000"
+            },
+            {
+                "id": "8176",
+                "min": "1",
+                "max": "3",
+                "chance": "250000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4741",
+                "level": "6"
+            },
+            {
+                "id": "4884",
+                "level": "1"
+            }
+        ]
+    }
 ]

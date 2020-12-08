@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27096", 
-		"name":"Singing Flower Nightmare", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27096",
+        "name": "Singing Flower Nightmare",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

@@ -1,11 +1,18 @@
 [
-	{
-		"id":"18346", 
-		"name":"Sprigant", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"8787", "min":"1", "max":"1", "chance":"250000"}],
-		"skills":[]
-	}
+    {
+        "id": "18346",
+        "name": "Sprigant",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "8787",
+                "min": "1",
+                "max": "1",
+                "chance": "250000"
+            }
+        ],
+        "skills": []
+    }
 ]

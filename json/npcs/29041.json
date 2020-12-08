@@ -1,11 +1,20 @@
 [
-	{
-		"id":"29041", 
-		"name":"Inferno Golem", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4179", "level":"9"}]
-	}
+    {
+        "id": "29041",
+        "name": "Inferno Golem",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4179",
+                "level": "9"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,78 @@
 [
-	{
-		"id":"20063", 
-		"name":"Ol Mahum Shooter", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"273", "min":"1", "max":"1", "chance":"84"}, {"id":"1804", "min":"1", "max":"1", "chance":"1621"}, {"id":"1867", "min":"1", "max":"1", "chance":"54006"}, {"id":"1872", "min":"1", "max":"1", "chance":"54006"}, {"id":"1882", "min":"1", "max":"1", "chance":"9001"}, {"id":"2016", "min":"1", "max":"1", "chance":"1187"}, {"id":"6666", "min":"1", "max":"1", "chance":"40504"}, {"id":"57", "min":"152", "max":"281", "chance":"700000"}, {"id":"34", "min":"1", "max":"1", "chance":"2233"}, {"id":"2176", "min":"1", "max":"1", "chance":"164023"}, {"id":"2177", "min":"1", "max":"1", "chance":"109523"}],
-		"skills":[]
-	}
+    {
+        "id": "20063",
+        "name": "Ol Mahum Shooter",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "273",
+                "min": "1",
+                "max": "1",
+                "chance": "84"
+            },
+            {
+                "id": "1804",
+                "min": "1",
+                "max": "1",
+                "chance": "1621"
+            },
+            {
+                "id": "1867",
+                "min": "1",
+                "max": "1",
+                "chance": "54006"
+            },
+            {
+                "id": "1872",
+                "min": "1",
+                "max": "1",
+                "chance": "54006"
+            },
+            {
+                "id": "1882",
+                "min": "1",
+                "max": "1",
+                "chance": "9001"
+            },
+            {
+                "id": "2016",
+                "min": "1",
+                "max": "1",
+                "chance": "1187"
+            },
+            {
+                "id": "6666",
+                "min": "1",
+                "max": "1",
+                "chance": "40504"
+            },
+            {
+                "id": "57",
+                "min": "152",
+                "max": "281",
+                "chance": "700000"
+            },
+            {
+                "id": "34",
+                "min": "1",
+                "max": "1",
+                "chance": "2233"
+            },
+            {
+                "id": "2176",
+                "min": "1",
+                "max": "1",
+                "chance": "164023"
+            },
+            {
+                "id": "2177",
+                "min": "1",
+                "max": "1",
+                "chance": "109523"
+            }
+        ],
+        "skills": []
+    }
 ]

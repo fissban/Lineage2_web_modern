@@ -1,11 +1,16 @@
 [
-	{
-		"id":"35573", 
-		"name":"Shawn", 
-		"title":"Clan Hall Gatekeeper", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "35573",
+        "name": "Shawn",
+        "title": "Clan Hall Gatekeeper",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

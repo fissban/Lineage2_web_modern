@@ -1,11 +1,28 @@
 [
-	{
-		"id":"18148", 
-		"name":"Beetle of Grave", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4074", "level":"2"}, {"id":"4285", "level":"5"}, {"id":"4408", "level":"12"}, {"id":"4581", "level":"9"}]
-	}
+    {
+        "id": "18148",
+        "name": "Beetle of Grave",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4074",
+                "level": "2"
+            },
+            {
+                "id": "4285",
+                "level": "5"
+            },
+            {
+                "id": "4408",
+                "level": "12"
+            },
+            {
+                "id": "4581",
+                "level": "9"
+            }
+        ]
+    }
 ]

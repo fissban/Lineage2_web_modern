@@ -1,11 +1,35 @@
 [
-	{
-		"id":"25033", 
-		"name":"Millenu Guard Shaman", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1343", "min":"20", "max":"60", "chance":"871429"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4193", "level":"6"}, {"id":"4199", "level":"6"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "25033",
+        "name": "Millenu Guard Shaman",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1343",
+                "min": "20",
+                "max": "60",
+                "chance": "871429"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4193",
+                "level": "6"
+            },
+            {
+                "id": "4199",
+                "level": "6"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

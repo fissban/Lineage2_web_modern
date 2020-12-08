@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30042", 
-		"name":"Abellos", 
-		"title":"Guard", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30042",
+        "name": "Abellos",
+        "title": "Guard",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

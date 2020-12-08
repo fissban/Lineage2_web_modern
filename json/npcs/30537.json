@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30537", 
-		"name":"Daichir", 
-		"title":"Priest of the Earth", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30537",
+        "name": "Daichir",
+        "title": "Priest of the Earth",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25203", 
-		"name":"Parhit Padisha Sobekk", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"339000"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4210", "level":"6"}, {"id":"4213", "level":"6"}]
-	}
+    {
+        "id": "25203",
+        "name": "Parhit Padisha Sobekk",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1344",
+                "min": "60",
+                "max": "180",
+                "chance": "339000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4210",
+                "level": "6"
+            },
+            {
+                "id": "4213",
+                "level": "6"
+            }
+        ]
+    }
 ]

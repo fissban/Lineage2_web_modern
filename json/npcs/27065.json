@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27065", 
-		"name":"Roko", 
-		"title":"Kaboo Chief", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27065",
+        "name": "Roko",
+        "title": "Kaboo Chief",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

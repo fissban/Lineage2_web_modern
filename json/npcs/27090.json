@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27090", 
-		"name":"Serpent Demon Kadesh", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27090",
+        "name": "Serpent Demon Kadesh",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

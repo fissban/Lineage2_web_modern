@@ -1,11 +1,11 @@
 [
-	{
-		"id":"35652", 
-		"name":"Court Magician", 
-		"title":"Aden", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "35652",
+        "name": "Court Magician",
+        "title": "Aden",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

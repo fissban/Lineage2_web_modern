@@ -1,11 +1,16 @@
 [
-	{
-		"id":"27193", 
-		"name":"Goblin Servant", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "27193",
+        "name": "Goblin Servant",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

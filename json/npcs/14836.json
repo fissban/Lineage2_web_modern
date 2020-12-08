@@ -1,11 +1,56 @@
 [
-	{
-		"id":"14836", 
-		"name":"Feline King", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4121", "level":"1"}, {"id":"4408", "level":"4"}, {"id":"4410", "level":"15"}, {"id":"4411", "level":"13"}, {"id":"4412", "level":"12"}, {"id":"4413", "level":"12"}, {"id":"4414", "level":"2"}, {"id":"5038", "level":"15"}, {"id":"5135", "level":"1"}, {"id":"5136", "level":"1"}, {"id":"5137", "level":"1"}]
-	}
+    {
+        "id": "14836",
+        "name": "Feline King",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4121",
+                "level": "1"
+            },
+            {
+                "id": "4408",
+                "level": "4"
+            },
+            {
+                "id": "4410",
+                "level": "15"
+            },
+            {
+                "id": "4411",
+                "level": "13"
+            },
+            {
+                "id": "4412",
+                "level": "12"
+            },
+            {
+                "id": "4413",
+                "level": "12"
+            },
+            {
+                "id": "4414",
+                "level": "2"
+            },
+            {
+                "id": "5038",
+                "level": "15"
+            },
+            {
+                "id": "5135",
+                "level": "1"
+            },
+            {
+                "id": "5136",
+                "level": "1"
+            },
+            {
+                "id": "5137",
+                "level": "1"
+            }
+        ]
+    }
 ]

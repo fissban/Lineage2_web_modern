@@ -1,11 +1,87 @@
 [
-	{
-		"id":"21107", 
-		"name":"Delu Lizardman Commander", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"260", "min":"1", "max":"1", "chance":"132"}, {"id":"1876", "min":"1", "max":"1", "chance":"21233"}, {"id":"1877", "min":"1", "max":"1", "chance":"4247"}, {"id":"1880", "min":"1", "max":"1", "chance":"10617"}, {"id":"1881", "min":"1", "max":"1", "chance":"14155"}, {"id":"1882", "min":"1", "max":"1", "chance":"23592"}, {"id":"2188", "min":"1", "max":"1", "chance":"7583"}, {"id":"57", "min":"506", "max":"1010", "chance":"700000"}, {"id":"1939", "min":"1", "max":"2", "chance":"105226"}, {"id":"1940", "min":"1", "max":"2", "chance":"178805"}, {"id":"2156", "min":"1", "max":"1", "chance":"95840"}],
-		"skills":[{"id":"4033", "level":"3"}, {"id":"4408", "level":"10"}]
-	}
+    {
+        "id": "21107",
+        "name": "Delu Lizardman Commander",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "260",
+                "min": "1",
+                "max": "1",
+                "chance": "132"
+            },
+            {
+                "id": "1876",
+                "min": "1",
+                "max": "1",
+                "chance": "21233"
+            },
+            {
+                "id": "1877",
+                "min": "1",
+                "max": "1",
+                "chance": "4247"
+            },
+            {
+                "id": "1880",
+                "min": "1",
+                "max": "1",
+                "chance": "10617"
+            },
+            {
+                "id": "1881",
+                "min": "1",
+                "max": "1",
+                "chance": "14155"
+            },
+            {
+                "id": "1882",
+                "min": "1",
+                "max": "1",
+                "chance": "23592"
+            },
+            {
+                "id": "2188",
+                "min": "1",
+                "max": "1",
+                "chance": "7583"
+            },
+            {
+                "id": "57",
+                "min": "506",
+                "max": "1010",
+                "chance": "700000"
+            },
+            {
+                "id": "1939",
+                "min": "1",
+                "max": "2",
+                "chance": "105226"
+            },
+            {
+                "id": "1940",
+                "min": "1",
+                "max": "2",
+                "chance": "178805"
+            },
+            {
+                "id": "2156",
+                "min": "1",
+                "max": "1",
+                "chance": "95840"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4033",
+                "level": "3"
+            },
+            {
+                "id": "4408",
+                "level": "10"
+            }
+        ]
+    }
 ]

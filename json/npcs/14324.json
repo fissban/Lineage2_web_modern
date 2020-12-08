@@ -1,11 +1,24 @@
 [
-	{
-		"id":"14324", 
-		"name":"Boxer the Unicorn", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4025", "level":"9"}, {"id":"4121", "level":"1"}, {"id":"5038", "level":"7"}]
-	}
+    {
+        "id": "14324",
+        "name": "Boxer the Unicorn",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4025",
+                "level": "9"
+            },
+            {
+                "id": "4121",
+                "level": "1"
+            },
+            {
+                "id": "5038",
+                "level": "7"
+            }
+        ]
+    }
 ]

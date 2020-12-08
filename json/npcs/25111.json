@@ -1,11 +1,35 @@
 [
-	{
-		"id":"25111", 
-		"name":"Cloe's Servitor", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1344", "min":"60", "max":"180", "chance":"339000"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4170", "level":"7"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}]
-	}
+    {
+        "id": "25111",
+        "name": "Cloe's Servitor",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1344",
+                "min": "60",
+                "max": "180",
+                "chance": "339000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4170",
+                "level": "7"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            }
+        ]
+    }
 ]

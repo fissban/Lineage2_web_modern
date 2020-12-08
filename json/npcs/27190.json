@@ -1,11 +1,16 @@
 [
-	{
-		"id":"27190", 
-		"name":"Ol Mahum Support Troop", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4032", "level":"2"}]
-	}
+    {
+        "id": "27190",
+        "name": "Ol Mahum Support Troop",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "2"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,20 @@
 [
-	{
-		"id":"27156", 
-		"name":"Leto Shaman Ketz", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4151", "level":"4"}, {"id":"4160", "level":"4"}]
-	}
+    {
+        "id": "27156",
+        "name": "Leto Shaman Ketz",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4151",
+                "level": "4"
+            },
+            {
+                "id": "4160",
+                "level": "4"
+            }
+        ]
+    }
 ]

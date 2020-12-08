@@ -1,11 +1,23 @@
 [
-	{
-		"id":"25028", 
-		"name":"Katu Van Raider", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1539", "min":"1", "max":"1", "chance":"148089"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "25028",
+        "name": "Katu Van Raider",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1539",
+                "min": "1",
+                "max": "1",
+                "chance": "148089"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

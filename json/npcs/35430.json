@@ -1,11 +1,11 @@
 [
-	{
-		"id":"35430", 
-		"name":"Oel Mahum Leader", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "35430",
+        "name": "Oel Mahum Leader",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

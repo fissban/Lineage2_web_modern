@@ -1,11 +1,53 @@
 [
-	{
-		"id":"25523", 
-		"name":"Plague Golem", 
-		"title":"Raid Boss", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"8169", "min":"1", "max":"2", "chance":"250000"}, {"id":"8176", "min":"4", "max":"8", "chance":"250000"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4172", "level":"1"}, {"id":"4173", "level":"1"}, {"id":"4177", "level":"1"}, {"id":"4494", "level":"1"}, {"id":"4730", "level":"1"}, {"id":"5034", "level":"1"}]
-	}
+    {
+        "id": "25523",
+        "name": "Plague Golem",
+        "title": "Raid Boss",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "8169",
+                "min": "1",
+                "max": "2",
+                "chance": "250000"
+            },
+            {
+                "id": "8176",
+                "min": "4",
+                "max": "8",
+                "chance": "250000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4172",
+                "level": "1"
+            },
+            {
+                "id": "4173",
+                "level": "1"
+            },
+            {
+                "id": "4177",
+                "level": "1"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4730",
+                "level": "1"
+            },
+            {
+                "id": "5034",
+                "level": "1"
+            }
+        ]
+    }
 ]

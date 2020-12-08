@@ -1,11 +1,11 @@
 [
-	{
-		"id":"31920", 
-		"name":"Ghost Chamberlain of Elmoreden", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "31920",
+        "name": "Ghost Chamberlain of Elmoreden",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

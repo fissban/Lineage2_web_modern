@@ -1,11 +1,11 @@
 [
-	{
-		"id":"35590", 
-		"name":"Hot Springs Gourd", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "35590",
+        "name": "Hot Springs Gourd",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

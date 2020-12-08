@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25075", 
-		"name":"Rudelto's Dre Vanul", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"870500"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}]
-	}
+    {
+        "id": "25075",
+        "name": "Rudelto's Dre Vanul",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1344",
+                "min": "20",
+                "max": "60",
+                "chance": "870500"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            }
+        ]
+    }
 ]

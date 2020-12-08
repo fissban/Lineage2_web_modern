@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27170", 
-		"name":"Jewel Guardian Pyton", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27170",
+        "name": "Jewel Guardian Pyton",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

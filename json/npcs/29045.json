@@ -1,11 +1,16 @@
 [
-	{
-		"id":"29045", 
-		"name":"Frintezza", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"true", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "29045",
+        "name": "Frintezza",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "true",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

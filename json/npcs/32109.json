@@ -1,11 +1,11 @@
 [
-	{
-		"id":"32109", 
-		"name":"Shilen's Stone Statue", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "32109",
+        "name": "Shilen's Stone Statue",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

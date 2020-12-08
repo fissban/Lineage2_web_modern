@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25393", 
-		"name":"Marsh Stakato Noble", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1341", "min":"10", "max":"30", "chance":"954667"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4733", "level":"3"}]
-	}
+    {
+        "id": "25393",
+        "name": "Marsh Stakato Noble",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1341",
+                "min": "10",
+                "max": "30",
+                "chance": "954667"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4733",
+                "level": "3"
+            }
+        ]
+    }
 ]

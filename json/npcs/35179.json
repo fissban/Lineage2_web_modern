@@ -1,11 +1,16 @@
 [
-	{
-		"id":"35179", 
-		"name":"Mass Gatekeeper", 
-		"title":"Giran", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "35179",
+        "name": "Mass Gatekeeper",
+        "title": "Giran",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

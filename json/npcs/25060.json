@@ -1,11 +1,89 @@
 [
-	{
-		"id":"25060", 
-		"name":"Unrequited Kael", 
-		"title":"Raid Boss", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"275", "min":"1", "max":"1", "chance":"53316"}, {"id":"276", "min":"1", "max":"1", "chance":"53316"}, {"id":"605", "min":"4", "max":"12", "chance":"128886"}, {"id":"1123", "min":"2", "max":"4", "chance":"343696"}, {"id":"955", "min":"1", "max":"1", "chance":"445087"}, {"id":"2024", "min":"3", "max":"9", "chance":"407586"}, {"id":"956", "min":"8", "max":"22", "chance":"247271"}, {"id":"6387", "min":"24", "max":"72", "chance":"92727"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4197", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4414", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4811", "level":"1"}]
-	}
+    {
+        "id": "25060",
+        "name": "Unrequited Kael",
+        "title": "Raid Boss",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "275",
+                "min": "1",
+                "max": "1",
+                "chance": "53316"
+            },
+            {
+                "id": "276",
+                "min": "1",
+                "max": "1",
+                "chance": "53316"
+            },
+            {
+                "id": "605",
+                "min": "4",
+                "max": "12",
+                "chance": "128886"
+            },
+            {
+                "id": "1123",
+                "min": "2",
+                "max": "4",
+                "chance": "343696"
+            },
+            {
+                "id": "955",
+                "min": "1",
+                "max": "1",
+                "chance": "445087"
+            },
+            {
+                "id": "2024",
+                "min": "3",
+                "max": "9",
+                "chance": "407586"
+            },
+            {
+                "id": "956",
+                "min": "8",
+                "max": "22",
+                "chance": "247271"
+            },
+            {
+                "id": "6387",
+                "min": "24",
+                "max": "72",
+                "chance": "92727"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4197",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4811",
+                "level": "1"
+            }
+        ]
+    }
 ]

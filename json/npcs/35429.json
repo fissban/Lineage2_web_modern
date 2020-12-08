@@ -1,11 +1,11 @@
 [
-	{
-		"id":"35429", 
-		"name":"Oel Mahum Scout", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "35429",
+        "name": "Oel Mahum Scout",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

@@ -1,11 +1,11 @@
 [
-	{
-		"id":"20391", 
-		"name":"Red Fox", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "20391",
+        "name": "Red Fox",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

@@ -1,11 +1,28 @@
 [
-	{
-		"id":"25275", 
-		"name":"Carnassiud", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4276", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4719", "level":"1"}]
-	}
+    {
+        "id": "25275",
+        "name": "Carnassiud",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4276",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4719",
+                "level": "1"
+            }
+        ]
+    }
 ]

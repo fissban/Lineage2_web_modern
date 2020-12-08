@@ -1,11 +1,66 @@
 [
-	{
-		"id":"20539", 
-		"name":"Elder Longtail Keltir", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"253", "min":"1", "max":"1", "chance":"7298"}, {"id":"17", "min":"10", "max":"30", "chance":"35031"}, {"id":"1787", "min":"1", "max":"1", "chance":"5605"}, {"id":"1864", "min":"1", "max":"1", "chance":"14013"}, {"id":"1869", "min":"1", "max":"1", "chance":"7007"}, {"id":"57", "min":"13", "max":"20", "chance":"700000"}, {"id":"41", "min":"1", "max":"1", "chance":"98569"}, {"id":"1786", "min":"1", "max":"1", "chance":"21685"}, {"id":"1787", "min":"1", "max":"1", "chance":"21685"}],
-		"skills":[]
-	}
+    {
+        "id": "20539",
+        "name": "Elder Longtail Keltir",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "253",
+                "min": "1",
+                "max": "1",
+                "chance": "7298"
+            },
+            {
+                "id": "17",
+                "min": "10",
+                "max": "30",
+                "chance": "35031"
+            },
+            {
+                "id": "1787",
+                "min": "1",
+                "max": "1",
+                "chance": "5605"
+            },
+            {
+                "id": "1864",
+                "min": "1",
+                "max": "1",
+                "chance": "14013"
+            },
+            {
+                "id": "1869",
+                "min": "1",
+                "max": "1",
+                "chance": "7007"
+            },
+            {
+                "id": "57",
+                "min": "13",
+                "max": "20",
+                "chance": "700000"
+            },
+            {
+                "id": "41",
+                "min": "1",
+                "max": "1",
+                "chance": "98569"
+            },
+            {
+                "id": "1786",
+                "min": "1",
+                "max": "1",
+                "chance": "21685"
+            },
+            {
+                "id": "1787",
+                "min": "1",
+                "max": "1",
+                "chance": "21685"
+            }
+        ],
+        "skills": []
+    }
 ]

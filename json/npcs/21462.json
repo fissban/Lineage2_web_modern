@@ -1,11 +1,57 @@
 [
-	{
-		"id":"21462", 
-		"name":"Alpine Kookaburra", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"57", "min":"2059", "max":"4152", "chance":"700000"}, {"id":"4114", "min":"1", "max":"1", "chance":"22614"}, {"id":"5281", "min":"1", "max":"1", "chance":"6888"}, {"id":"5438", "min":"1", "max":"1", "chance":"2823"}],
-		"skills":[{"id":"4067", "level":"6"}, {"id":"4072", "level":"6"}, {"id":"4074", "level":"2"}, {"id":"4408", "level":"10"}, {"id":"4438", "level":"2"}]
-	}
+    {
+        "id": "21462",
+        "name": "Alpine Kookaburra",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "57",
+                "min": "2059",
+                "max": "4152",
+                "chance": "700000"
+            },
+            {
+                "id": "4114",
+                "min": "1",
+                "max": "1",
+                "chance": "22614"
+            },
+            {
+                "id": "5281",
+                "min": "1",
+                "max": "1",
+                "chance": "6888"
+            },
+            {
+                "id": "5438",
+                "min": "1",
+                "max": "1",
+                "chance": "2823"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4067",
+                "level": "6"
+            },
+            {
+                "id": "4072",
+                "level": "6"
+            },
+            {
+                "id": "4074",
+                "level": "2"
+            },
+            {
+                "id": "4408",
+                "level": "10"
+            },
+            {
+                "id": "4438",
+                "level": "2"
+            }
+        ]
+    }
 ]

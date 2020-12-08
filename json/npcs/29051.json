@@ -1,11 +1,28 @@
 [
-	{
-		"id":"29051", 
-		"name":"Breath of Halisha", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"5010", "level":"1"}, {"id":"5011", "level":"1"}, {"id":"5012", "level":"1"}]
-	}
+    {
+        "id": "29051",
+        "name": "Breath of Halisha",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "5010",
+                "level": "1"
+            },
+            {
+                "id": "5011",
+                "level": "1"
+            },
+            {
+                "id": "5012",
+                "level": "1"
+            }
+        ]
+    }
 ]

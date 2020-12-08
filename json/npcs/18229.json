@@ -1,11 +1,36 @@
 [
-	{
-		"id":"18229", 
-		"name":"Caster of Darkness", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4033", "level":"9"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"14"}, {"id":"4412", "level":"17"}, {"id":"4561", "level":"9"}]
-	}
+    {
+        "id": "18229",
+        "name": "Caster of Darkness",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4033",
+                "level": "9"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4408",
+                "level": "14"
+            },
+            {
+                "id": "4412",
+                "level": "17"
+            },
+            {
+                "id": "4561",
+                "level": "9"
+            }
+        ]
+    }
 ]

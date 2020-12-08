@@ -1,11 +1,16 @@
 [
-	{
-		"id":"32008", 
-		"name":"Gremory", 
-		"title":"Priest", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "32008",
+        "name": "Gremory",
+        "title": "Priest",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

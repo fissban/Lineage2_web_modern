@@ -1,11 +1,28 @@
 [
-	{
-		"id":"27313", 
-		"name":"Vision Guardian Shakiel", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4032", "level":"7"}, {"id":"4032", "level":"8"}, {"id":"4076", "level":"3"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "27313",
+        "name": "Vision Guardian Shakiel",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "7"
+            },
+            {
+                "id": "4032",
+                "level": "8"
+            },
+            {
+                "id": "4076",
+                "level": "3"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

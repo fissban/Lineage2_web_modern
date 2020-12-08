@@ -1,11 +1,28 @@
 [
-	{
-		"id":"18306", 
-		"name":"Offering of Dark Omen Evoked Spirit", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4413", "level":"15"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}, {"id":"4572", "level":"6"}]
-	}
+    {
+        "id": "18306",
+        "name": "Offering of Dark Omen Evoked Spirit",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4413",
+                "level": "15"
+            },
+            {
+                "id": "4438",
+                "level": "2"
+            },
+            {
+                "id": "4439",
+                "level": "2"
+            },
+            {
+                "id": "4572",
+                "level": "6"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,16 @@
 [
-	{
-		"id":"27166", 
-		"name":"Abyssal Jewel 2", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4408", "level":"17"}]
-	}
+    {
+        "id": "27166",
+        "name": "Abyssal Jewel 2",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4408",
+                "level": "17"
+            }
+        ]
+    }
 ]

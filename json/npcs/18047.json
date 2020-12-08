@@ -1,11 +1,31 @@
 [
-	{
-		"id":"18047", 
-		"name":"Dark Omen Offering Disciple", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"57", "min":"770", "max":"1541", "chance":"700000"}],
-		"skills":[{"id":"4032", "level":"7"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}]
-	}
+    {
+        "id": "18047",
+        "name": "Dark Omen Offering Disciple",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "57",
+                "min": "770",
+                "max": "1541",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "7"
+            },
+            {
+                "id": "4438",
+                "level": "2"
+            },
+            {
+                "id": "4439",
+                "level": "2"
+            }
+        ]
+    }
 ]

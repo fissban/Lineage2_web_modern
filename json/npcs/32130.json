@@ -1,11 +1,16 @@
 [
-	{
-		"id":"32130", 
-		"name":"Strategist Lucien", 
-		"title":"Event Manager", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "32130",
+        "name": "Strategist Lucien",
+        "title": "Event Manager",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

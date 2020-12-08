@@ -1,11 +1,16 @@
 [
-	{
-		"id":"18150", 
-		"name":"Victim", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4697", "level":"9"}]
-	}
+    {
+        "id": "18150",
+        "name": "Victim",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4697",
+                "level": "9"
+            }
+        ]
+    }
 ]

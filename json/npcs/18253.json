@@ -1,11 +1,36 @@
 [
-	{
-		"id":"18253", 
-		"name":"Watchman of Grave", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4408", "level":"12"}, {"id":"4438", "level":"4"}, {"id":"4439", "level":"4"}, {"id":"4606", "level":"9"}, {"id":"4613", "level":"9"}, {"id":"4614", "level":"9"}]
-	}
+    {
+        "id": "18253",
+        "name": "Watchman of Grave",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4408",
+                "level": "12"
+            },
+            {
+                "id": "4438",
+                "level": "4"
+            },
+            {
+                "id": "4439",
+                "level": "4"
+            },
+            {
+                "id": "4606",
+                "level": "9"
+            },
+            {
+                "id": "4613",
+                "level": "9"
+            },
+            {
+                "id": "4614",
+                "level": "9"
+            }
+        ]
+    }
 ]

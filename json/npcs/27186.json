@@ -1,11 +1,16 @@
 [
-	{
-		"id":"27186", 
-		"name":"Fairy Tree of Star", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4071", "level":"5"}]
-	}
+    {
+        "id": "27186",
+        "name": "Fairy Tree of Star",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4071",
+                "level": "5"
+            }
+        ]
+    }
 ]

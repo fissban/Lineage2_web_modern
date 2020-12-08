@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27070", 
-		"name":"Tumran Orc Brigand", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27070",
+        "name": "Tumran Orc Brigand",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

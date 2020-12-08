@@ -1,11 +1,16 @@
 [
-	{
-		"id":"31408", 
-		"name":"Monster Race Guide", 
-		"title":"Town of Oren", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "31408",
+        "name": "Monster Race Guide",
+        "title": "Town of Oren",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

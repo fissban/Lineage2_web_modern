@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27061", 
-		"name":"Batoh", 
-		"title":"Kaboo Chief", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27061",
+        "name": "Batoh",
+        "title": "Kaboo Chief",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

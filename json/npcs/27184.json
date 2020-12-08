@@ -1,11 +1,48 @@
 [
-	{
-		"id":"27184", 
-		"name":"Angel Killer", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4034", "level":"6"}, {"id":"4071", "level":"5"}, {"id":"4078", "level":"6"}, {"id":"4085", "level":"1"}, {"id":"4086", "level":"1"}, {"id":"4118", "level":"6"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"17"}]
-	}
+    {
+        "id": "27184",
+        "name": "Angel Killer",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4034",
+                "level": "6"
+            },
+            {
+                "id": "4071",
+                "level": "5"
+            },
+            {
+                "id": "4078",
+                "level": "6"
+            },
+            {
+                "id": "4085",
+                "level": "1"
+            },
+            {
+                "id": "4086",
+                "level": "1"
+            },
+            {
+                "id": "4118",
+                "level": "6"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4408",
+                "level": "17"
+            }
+        ]
+    }
 ]

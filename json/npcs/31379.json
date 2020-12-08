@@ -1,11 +1,48 @@
 [
-	{
-		"id":"31379", 
-		"name":"Udan Mardui", 
-		"title":"Soul Guide", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4345", "level":"3"}, {"id":"4352", "level":"1"}, {"id":"4354", "level":"2"}, {"id":"4355", "level":"2"}, {"id":"4356", "level":"1"}, {"id":"4357", "level":"2"}, {"id":"4359", "level":"2"}, {"id":"4360", "level":"2"}]
-	}
+    {
+        "id": "31379",
+        "name": "Udan Mardui",
+        "title": "Soul Guide",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4345",
+                "level": "3"
+            },
+            {
+                "id": "4352",
+                "level": "1"
+            },
+            {
+                "id": "4354",
+                "level": "2"
+            },
+            {
+                "id": "4355",
+                "level": "2"
+            },
+            {
+                "id": "4356",
+                "level": "1"
+            },
+            {
+                "id": "4357",
+                "level": "2"
+            },
+            {
+                "id": "4359",
+                "level": "2"
+            },
+            {
+                "id": "4360",
+                "level": "2"
+            }
+        ]
+    }
 ]

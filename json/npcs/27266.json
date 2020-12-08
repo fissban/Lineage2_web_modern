@@ -1,11 +1,24 @@
 [
-	{
-		"id":"27266", 
-		"name":"Fallen Angel Haures", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4408", "level":"10"}, {"id":"4412", "level":"21"}, {"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "27266",
+        "name": "Fallen Angel Haures",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4408",
+                "level": "10"
+            },
+            {
+                "id": "4412",
+                "level": "21"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,55 @@
 [
-	{
-		"id":"29037", 
-		"name":"Fenril Hound Kinaz", 
-		"title":"Family of Valakas", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"6652", "min":"2", "max":"6", "chance":"194987"}, {"id":"6654", "min":"18", "max":"54", "chance":"67704"}, {"id":"6655", "min":"14", "max":"42", "chance":"43524"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4184", "level":"9"}, {"id":"4188", "level":"9"}, {"id":"4195", "level":"9"}, {"id":"4494", "level":"1"}, {"id":"4981", "level":"1"}]
-	}
+    {
+        "id": "29037",
+        "name": "Fenril Hound Kinaz",
+        "title": "Family of Valakas",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "6652",
+                "min": "2",
+                "max": "6",
+                "chance": "194987"
+            },
+            {
+                "id": "6654",
+                "min": "18",
+                "max": "54",
+                "chance": "67704"
+            },
+            {
+                "id": "6655",
+                "min": "14",
+                "max": "42",
+                "chance": "43524"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4184",
+                "level": "9"
+            },
+            {
+                "id": "4188",
+                "level": "9"
+            },
+            {
+                "id": "4195",
+                "level": "9"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4981",
+                "level": "1"
+            }
+        ]
+    }
 ]

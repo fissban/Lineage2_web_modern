@@ -1,11 +1,16 @@
 [
-	{
-		"id":"32041", 
-		"name":"Yumi", 
-		"title":"Collector", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "32041",
+        "name": "Yumi",
+        "title": "Collector",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

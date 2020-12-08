@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25428", 
-		"name":"Freki's Wild Bear", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1832", "min":"1", "max":"1", "chance":"225319"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4728", "level":"2"}]
-	}
+    {
+        "id": "25428",
+        "name": "Freki's Wild Bear",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1832",
+                "min": "1",
+                "max": "1",
+                "chance": "225319"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4728",
+                "level": "2"
+            }
+        ]
+    }
 ]

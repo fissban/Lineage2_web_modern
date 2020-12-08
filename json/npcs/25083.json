@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25083", 
-		"name":"Cat Gang", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1341", "min":"20", "max":"60", "chance":"698667"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4196", "level":"3"}, {"id":"4200", "level":"3"}]
-	}
+    {
+        "id": "25083",
+        "name": "Cat Gang",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1341",
+                "min": "20",
+                "max": "60",
+                "chance": "698667"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4196",
+                "level": "3"
+            },
+            {
+                "id": "4200",
+                "level": "3"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,63 @@
 [
-	{
-		"id":"18324", 
-		"name":"Caught Homunculus", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"6533", "min":"1", "max":"1", "chance":"61"}, {"id":"6521", "min":"2", "max":"6", "chance":"81602"}, {"id":"6524", "min":"1", "max":"1", "chance":"244805"}, {"id":"6527", "min":"2", "max":"6", "chance":"54401"}, {"id":"6539", "min":"3", "max":"9", "chance":"204004"}],
-		"skills":[{"id":"4382", "level":"6"}, {"id":"4413", "level":"15"}, {"id":"4414", "level":"3"}, {"id":"4438", "level":"2"}, {"id":"4439", "level":"2"}]
-	}
+    {
+        "id": "18324",
+        "name": "Caught Homunculus",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "6533",
+                "min": "1",
+                "max": "1",
+                "chance": "61"
+            },
+            {
+                "id": "6521",
+                "min": "2",
+                "max": "6",
+                "chance": "81602"
+            },
+            {
+                "id": "6524",
+                "min": "1",
+                "max": "1",
+                "chance": "244805"
+            },
+            {
+                "id": "6527",
+                "min": "2",
+                "max": "6",
+                "chance": "54401"
+            },
+            {
+                "id": "6539",
+                "min": "3",
+                "max": "9",
+                "chance": "204004"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4382",
+                "level": "6"
+            },
+            {
+                "id": "4413",
+                "level": "15"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4438",
+                "level": "2"
+            },
+            {
+                "id": "4439",
+                "level": "2"
+            }
+        ]
+    }
 ]

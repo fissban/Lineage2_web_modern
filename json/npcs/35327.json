@@ -1,11 +1,20 @@
 [
-	{
-		"id":"35327", 
-		"name":"Court Sorcerer", 
-		"title":"Goddard", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4026", "level":"1"}, {"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "35327",
+        "name": "Court Sorcerer",
+        "title": "Goddard",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4026",
+                "level": "1"
+            },
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

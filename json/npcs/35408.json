@@ -1,11 +1,40 @@
 [
-	{
-		"id":"35408", 
-		"name":"Dietrich", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4071", "level":"3"}, {"id":"4085", "level":"1"}, {"id":"4086", "level":"1"}, {"id":"4095", "level":"1"}, {"id":"4275", "level":"3"}, {"id":"4278", "level":"1"}]
-	}
+    {
+        "id": "35408",
+        "name": "Dietrich",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4071",
+                "level": "3"
+            },
+            {
+                "id": "4085",
+                "level": "1"
+            },
+            {
+                "id": "4086",
+                "level": "1"
+            },
+            {
+                "id": "4095",
+                "level": "1"
+            },
+            {
+                "id": "4275",
+                "level": "3"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            }
+        ]
+    }
 ]

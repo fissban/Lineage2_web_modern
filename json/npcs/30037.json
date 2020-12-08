@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30037", 
-		"name":"Levian", 
-		"title":"High Priestess", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30037",
+        "name": "Levian",
+        "title": "High Priestess",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

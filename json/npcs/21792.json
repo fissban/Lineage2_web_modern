@@ -1,11 +1,87 @@
 [
-	{
-		"id":"21792", 
-		"name":"Messenger Invader Elite Soldier", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"6672", "min":"1", "max":"3", "chance":"250000"}, {"id":"8732", "min":"1", "max":"1", "chance":"50000"}, {"id":"8742", "min":"1", "max":"1", "chance":"13699"}, {"id":"8752", "min":"1", "max":"1", "chance":"1364"}, {"id":"57", "min":"7008", "max":"14306", "chance":"700000"}, {"id":"1894", "min":"1", "max":"2", "chance":"611196"}, {"id":"6672", "min":"1", "max":"3", "chance":"725795"}],
-		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"14"}, {"id":"4410", "level":"9"}, {"id":"4411", "level":"9"}, {"id":"4412", "level":"13"}, {"id":"4413", "level":"13"}, {"id":"4572", "level":"9"}]
-	}
+    {
+        "id": "21792",
+        "name": "Messenger Invader Elite Soldier",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "6672",
+                "min": "1",
+                "max": "3",
+                "chance": "250000"
+            },
+            {
+                "id": "8732",
+                "min": "1",
+                "max": "1",
+                "chance": "50000"
+            },
+            {
+                "id": "8742",
+                "min": "1",
+                "max": "1",
+                "chance": "13699"
+            },
+            {
+                "id": "8752",
+                "min": "1",
+                "max": "1",
+                "chance": "1364"
+            },
+            {
+                "id": "57",
+                "min": "7008",
+                "max": "14306",
+                "chance": "700000"
+            },
+            {
+                "id": "1894",
+                "min": "1",
+                "max": "2",
+                "chance": "611196"
+            },
+            {
+                "id": "6672",
+                "min": "1",
+                "max": "3",
+                "chance": "725795"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4275",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4408",
+                "level": "14"
+            },
+            {
+                "id": "4410",
+                "level": "9"
+            },
+            {
+                "id": "4411",
+                "level": "9"
+            },
+            {
+                "id": "4412",
+                "level": "13"
+            },
+            {
+                "id": "4413",
+                "level": "13"
+            },
+            {
+                "id": "4572",
+                "level": "9"
+            }
+        ]
+    }
 ]

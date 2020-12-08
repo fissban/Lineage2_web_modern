@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27177", 
-		"name":"Box Of Athrea 5", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27177",
+        "name": "Box Of Athrea 5",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

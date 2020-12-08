@@ -1,11 +1,16 @@
 [
-	{
-		"id":"27142", 
-		"name":"Breka Overlord Marka", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4032", "level":"3"}]
-	}
+    {
+        "id": "27142",
+        "name": "Breka Overlord Marka",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "3"
+            }
+        ]
+    }
 ]

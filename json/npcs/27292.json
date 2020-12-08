@@ -1,11 +1,40 @@
 [
-	{
-		"id":"27292", 
-		"name":"Fallen Noble Orc Muhark", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"190", "level":"37"}, {"id":"260", "level":"37"}, {"id":"4032", "level":"8"}, {"id":"4067", "level":"8"}, {"id":"4412", "level":"18"}, {"id":"4414", "level":"1"}, {"id":"4579", "level":"8"}]
-	}
+    {
+        "id": "27292",
+        "name": "Fallen Noble Orc Muhark",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "190",
+                "level": "37"
+            },
+            {
+                "id": "260",
+                "level": "37"
+            },
+            {
+                "id": "4032",
+                "level": "8"
+            },
+            {
+                "id": "4067",
+                "level": "8"
+            },
+            {
+                "id": "4412",
+                "level": "18"
+            },
+            {
+                "id": "4414",
+                "level": "1"
+            },
+            {
+                "id": "4579",
+                "level": "8"
+            }
+        ]
+    }
 ]

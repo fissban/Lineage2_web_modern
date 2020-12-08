@@ -1,11 +1,35 @@
 [
-	{
-		"id":"18289", 
-		"name":"Dimension Invader Food", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"951", "min":"1", "max":"1", "chance":"1119"}, {"id":"952", "min":"1", "max":"1", "chance":"8205"}, {"id":"57", "min":"308", "max":"617", "chance":"700000"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "18289",
+        "name": "Dimension Invader Food",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "951",
+                "min": "1",
+                "max": "1",
+                "chance": "1119"
+            },
+            {
+                "id": "952",
+                "min": "1",
+                "max": "1",
+                "chance": "8205"
+            },
+            {
+                "id": "57",
+                "min": "308",
+                "max": "617",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

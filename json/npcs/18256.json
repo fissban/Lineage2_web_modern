@@ -1,11 +1,89 @@
 [
-	{
-		"id":"18256", 
-		"name":"Halisha's Treasure Box", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"81", "min":"1", "max":"1", "chance":"2"}, {"id":"151", "min":"1", "max":"1", "chance":"2"}, {"id":"2500", "min":"1", "max":"1", "chance":"2"}, {"id":"959", "min":"1", "max":"1", "chance":"8"}, {"id":"1895", "min":"1", "max":"1", "chance":"54858"}, {"id":"4040", "min":"1", "max":"1", "chance":"3841"}, {"id":"4042", "min":"1", "max":"1", "chance":"3201"}, {"id":"4043", "min":"1", "max":"1", "chance":"6401"}, {"id":"5529", "min":"1", "max":"1", "chance":"440"}, {"id":"5545", "min":"1", "max":"1", "chance":"440"}, {"id":"5546", "min":"1", "max":"1", "chance":"483"}, {"id":"57", "min":"1370", "max":"2743", "chance":"700000"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "18256",
+        "name": "Halisha's Treasure Box",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "81",
+                "min": "1",
+                "max": "1",
+                "chance": "2"
+            },
+            {
+                "id": "151",
+                "min": "1",
+                "max": "1",
+                "chance": "2"
+            },
+            {
+                "id": "2500",
+                "min": "1",
+                "max": "1",
+                "chance": "2"
+            },
+            {
+                "id": "959",
+                "min": "1",
+                "max": "1",
+                "chance": "8"
+            },
+            {
+                "id": "1895",
+                "min": "1",
+                "max": "1",
+                "chance": "54858"
+            },
+            {
+                "id": "4040",
+                "min": "1",
+                "max": "1",
+                "chance": "3841"
+            },
+            {
+                "id": "4042",
+                "min": "1",
+                "max": "1",
+                "chance": "3201"
+            },
+            {
+                "id": "4043",
+                "min": "1",
+                "max": "1",
+                "chance": "6401"
+            },
+            {
+                "id": "5529",
+                "min": "1",
+                "max": "1",
+                "chance": "440"
+            },
+            {
+                "id": "5545",
+                "min": "1",
+                "max": "1",
+                "chance": "440"
+            },
+            {
+                "id": "5546",
+                "min": "1",
+                "max": "1",
+                "chance": "483"
+            },
+            {
+                "id": "57",
+                "min": "1370",
+                "max": "2743",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

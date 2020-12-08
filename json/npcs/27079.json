@@ -1,11 +1,20 @@
 [
-	{
-		"id":"27079", 
-		"name":"Black Willow Lurker", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}]
-	}
+    {
+        "id": "27079",
+        "name": "Black Willow Lurker",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4275",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            }
+        ]
+    }
 ]

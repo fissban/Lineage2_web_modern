@@ -1,11 +1,66 @@
 [
-	{
-		"id":"20320", 
-		"name":"Goblin Tomb Raider Leader", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"216", "min":"1", "max":"1", "chance":"229"}, {"id":"1799", "min":"1", "max":"1", "chance":"61001"}, {"id":"1867", "min":"1", "max":"1", "chance":"54902"}, {"id":"1872", "min":"1", "max":"1", "chance":"54902"}, {"id":"2009", "min":"1", "max":"1", "chance":"2191"}, {"id":"57", "min":"112", "max":"154", "chance":"700000"}, {"id":"1831", "min":"1", "max":"1", "chance":"557587"}, {"id":"1867", "min":"1", "max":"2", "chance":"278794"}, {"id":"2010", "min":"1", "max":"1", "chance":"8136"}],
-		"skills":[]
-	}
+    {
+        "id": "20320",
+        "name": "Goblin Tomb Raider Leader",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "216",
+                "min": "1",
+                "max": "1",
+                "chance": "229"
+            },
+            {
+                "id": "1799",
+                "min": "1",
+                "max": "1",
+                "chance": "61001"
+            },
+            {
+                "id": "1867",
+                "min": "1",
+                "max": "1",
+                "chance": "54902"
+            },
+            {
+                "id": "1872",
+                "min": "1",
+                "max": "1",
+                "chance": "54902"
+            },
+            {
+                "id": "2009",
+                "min": "1",
+                "max": "1",
+                "chance": "2191"
+            },
+            {
+                "id": "57",
+                "min": "112",
+                "max": "154",
+                "chance": "700000"
+            },
+            {
+                "id": "1831",
+                "min": "1",
+                "max": "1",
+                "chance": "557587"
+            },
+            {
+                "id": "1867",
+                "min": "1",
+                "max": "2",
+                "chance": "278794"
+            },
+            {
+                "id": "2010",
+                "min": "1",
+                "max": "1",
+                "chance": "8136"
+            }
+        ],
+        "skills": []
+    }
 ]

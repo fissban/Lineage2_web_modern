@@ -1,11 +1,16 @@
 [
-	{
-		"id":"35450", 
-		"name":"Gellar", 
-		"title":"Clan Hall Gatekeeper", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "35450",
+        "name": "Gellar",
+        "title": "Clan Hall Gatekeeper",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

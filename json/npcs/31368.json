@@ -1,11 +1,16 @@
 [
-	{
-		"id":"31368", 
-		"name":"Mikellan", 
-		"title":"Monk of Silence", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "31368",
+        "name": "Mikellan",
+        "title": "Monk of Silence",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

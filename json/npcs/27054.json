@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27054", 
-		"name":"Umbar Orc", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27054",
+        "name": "Umbar Orc",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

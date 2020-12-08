@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27048", 
-		"name":"Chewba", 
-		"title":"Orc Betrayer", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27048",
+        "name": "Chewba",
+        "title": "Orc Betrayer",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

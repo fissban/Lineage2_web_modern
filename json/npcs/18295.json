@@ -1,11 +1,35 @@
 [
-	{
-		"id":"18295", 
-		"name":"Dark Omen Invader Food", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"729", "min":"1", "max":"1", "chance":"183"}, {"id":"730", "min":"1", "max":"1", "chance":"1370"}, {"id":"57", "min":"938", "max":"1879", "chance":"700000"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "18295",
+        "name": "Dark Omen Invader Food",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "729",
+                "min": "1",
+                "max": "1",
+                "chance": "183"
+            },
+            {
+                "id": "730",
+                "min": "1",
+                "max": "1",
+                "chance": "1370"
+            },
+            {
+                "id": "57",
+                "min": "938",
+                "max": "1879",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

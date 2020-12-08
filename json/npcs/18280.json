@@ -1,11 +1,53 @@
 [
-	{
-		"id":"18280", 
-		"name":"Treasure Chest", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"729", "min":"1", "max":"1", "chance":"543"}, {"id":"730", "min":"1", "max":"1", "chance":"4067"}, {"id":"57", "min":"2790", "max":"5576", "chance":"700000"}, {"id":"5438", "min":"1", "max":"1", "chance":"3864"}, {"id":"4054", "min":"1", "max":"1", "chance":"139208"}, {"id":"5550", "min":"1", "max":"1", "chance":"94236"}],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "18280",
+        "name": "Treasure Chest",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "729",
+                "min": "1",
+                "max": "1",
+                "chance": "543"
+            },
+            {
+                "id": "730",
+                "min": "1",
+                "max": "1",
+                "chance": "4067"
+            },
+            {
+                "id": "57",
+                "min": "2790",
+                "max": "5576",
+                "chance": "700000"
+            },
+            {
+                "id": "5438",
+                "min": "1",
+                "max": "1",
+                "chance": "3864"
+            },
+            {
+                "id": "4054",
+                "min": "1",
+                "max": "1",
+                "chance": "139208"
+            },
+            {
+                "id": "5550",
+                "min": "1",
+                "max": "1",
+                "chance": "94236"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

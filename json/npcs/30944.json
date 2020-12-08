@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30944", 
-		"name":"Malcom9", 
-		"title":"Human Prince", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30944",
+        "name": "Malcom9",
+        "title": "Human Prince",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

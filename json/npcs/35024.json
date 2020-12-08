@@ -1,11 +1,20 @@
 [
-	{
-		"id":"35024", 
-		"name":"Mercenary of Dawn", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4026", "level":"1"}, {"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "35024",
+        "name": "Mercenary of Dawn",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4026",
+                "level": "1"
+            },
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

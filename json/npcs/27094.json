@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27094", 
-		"name":"Delu Lizardman Assassin", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27094",
+        "name": "Delu Lizardman Assassin",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

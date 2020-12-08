@@ -1,11 +1,79 @@
 [
-	{
-		"id":"22066", 
-		"name":"Horrifying Cannon Golem VI", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1864", "min":"1", "max":"3", "chance":"100000"}, {"id":"1869", "min":"1", "max":"1", "chance":"125000"}, {"id":"1880", "min":"1", "max":"1", "chance":"15873"}, {"id":"4043", "min":"1", "max":"1", "chance":"7963"}, {"id":"57", "min":"1379", "max":"2277", "chance":"700000"}],
-		"skills":[{"id":"4032", "level":"1"}, {"id":"4232", "level":"1"}, {"id":"4273", "level":"1"}, {"id":"4274", "level":"1"}, {"id":"4408", "level":"10"}, {"id":"4412", "level":"14"}, {"id":"4414", "level":"1"}, {"id":"4437", "level":"4"}, {"id":"4457", "level":"2"}]
-	}
+    {
+        "id": "22066",
+        "name": "Horrifying Cannon Golem VI",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1864",
+                "min": "1",
+                "max": "3",
+                "chance": "100000"
+            },
+            {
+                "id": "1869",
+                "min": "1",
+                "max": "1",
+                "chance": "125000"
+            },
+            {
+                "id": "1880",
+                "min": "1",
+                "max": "1",
+                "chance": "15873"
+            },
+            {
+                "id": "4043",
+                "min": "1",
+                "max": "1",
+                "chance": "7963"
+            },
+            {
+                "id": "57",
+                "min": "1379",
+                "max": "2277",
+                "chance": "700000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "1"
+            },
+            {
+                "id": "4232",
+                "level": "1"
+            },
+            {
+                "id": "4273",
+                "level": "1"
+            },
+            {
+                "id": "4274",
+                "level": "1"
+            },
+            {
+                "id": "4408",
+                "level": "10"
+            },
+            {
+                "id": "4412",
+                "level": "14"
+            },
+            {
+                "id": "4414",
+                "level": "1"
+            },
+            {
+                "id": "4437",
+                "level": "4"
+            },
+            {
+                "id": "4457",
+                "level": "2"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30971", 
-		"name":"Orpheus", 
-		"title":"Mad Doctor", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30971",
+        "name": "Orpheus",
+        "title": "Mad Doctor",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,83 @@
 [
-	{
-		"id":"21099", 
-		"name":"Cloudy Beast Turen", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"45", "min":"1", "max":"1", "chance":"427"}, {"id":"626", "min":"1", "max":"1", "chance":"610"}, {"id":"1875", "min":"1", "max":"1", "chance":"3337"}, {"id":"1879", "min":"1", "max":"1", "chance":"8343"}, {"id":"1932", "min":"1", "max":"1", "chance":"10594"}, {"id":"2152", "min":"1", "max":"1", "chance":"8812"}, {"id":"5549", "min":"1", "max":"1", "chance":"5006"}, {"id":"57", "min":"157", "max":"294", "chance":"700000"}, {"id":"1875", "min":"1", "max":"1", "chance":"23782"}, {"id":"1899", "min":"1", "max":"1", "chance":"55740"}, {"id":"2152", "min":"1", "max":"1", "chance":"62805"}],
-		"skills":[{"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "21099",
+        "name": "Cloudy Beast Turen",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "45",
+                "min": "1",
+                "max": "1",
+                "chance": "427"
+            },
+            {
+                "id": "626",
+                "min": "1",
+                "max": "1",
+                "chance": "610"
+            },
+            {
+                "id": "1875",
+                "min": "1",
+                "max": "1",
+                "chance": "3337"
+            },
+            {
+                "id": "1879",
+                "min": "1",
+                "max": "1",
+                "chance": "8343"
+            },
+            {
+                "id": "1932",
+                "min": "1",
+                "max": "1",
+                "chance": "10594"
+            },
+            {
+                "id": "2152",
+                "min": "1",
+                "max": "1",
+                "chance": "8812"
+            },
+            {
+                "id": "5549",
+                "min": "1",
+                "max": "1",
+                "chance": "5006"
+            },
+            {
+                "id": "57",
+                "min": "157",
+                "max": "294",
+                "chance": "700000"
+            },
+            {
+                "id": "1875",
+                "min": "1",
+                "max": "1",
+                "chance": "23782"
+            },
+            {
+                "id": "1899",
+                "min": "1",
+                "max": "1",
+                "chance": "55740"
+            },
+            {
+                "id": "2152",
+                "min": "1",
+                "max": "1",
+                "chance": "62805"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

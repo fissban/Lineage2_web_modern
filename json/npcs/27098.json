@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27098", 
-		"name":"Ghost Fire", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27098",
+        "name": "Ghost Fire",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

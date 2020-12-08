@@ -1,11 +1,16 @@
 [
-	{
-		"id":"27260", 
-		"name":"Archangel Iconoclasis", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4414", "level":"3"}]
-	}
+    {
+        "id": "27260",
+        "name": "Archangel Iconoclasis",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4414",
+                "level": "3"
+            }
+        ]
+    }
 ]

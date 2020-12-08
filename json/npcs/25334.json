@@ -1,11 +1,79 @@
 [
-	{
-		"id":"25334", 
-		"name":"Anakazel", 
-		"title":"Invaders' Leader", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"397", "min":"1", "max":"1", "chance":"158884"}, {"id":"2387", "min":"1", "max":"1", "chance":"254080"}, {"id":"952", "min":"12", "max":"36", "chance":"260197"}, {"id":"1961", "min":"53", "max":"157", "chance":"91760"}, {"id":"2935", "min":"192", "max":"576", "chance":"41685"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4172", "level":"3"}, {"id":"4175", "level":"3"}, {"id":"4177", "level":"3"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4494", "level":"1"}, {"id":"4723", "level":"3"}, {"id":"4916", "level":"1"}]
-	}
+    {
+        "id": "25334",
+        "name": "Anakazel",
+        "title": "Invaders' Leader",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "397",
+                "min": "1",
+                "max": "1",
+                "chance": "158884"
+            },
+            {
+                "id": "2387",
+                "min": "1",
+                "max": "1",
+                "chance": "254080"
+            },
+            {
+                "id": "952",
+                "min": "12",
+                "max": "36",
+                "chance": "260197"
+            },
+            {
+                "id": "1961",
+                "min": "53",
+                "max": "157",
+                "chance": "91760"
+            },
+            {
+                "id": "2935",
+                "min": "192",
+                "max": "576",
+                "chance": "41685"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4172",
+                "level": "3"
+            },
+            {
+                "id": "4175",
+                "level": "3"
+            },
+            {
+                "id": "4177",
+                "level": "3"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4723",
+                "level": "3"
+            },
+            {
+                "id": "4916",
+                "level": "1"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,28 @@
 [
-	{
-		"id":"21234", 
-		"name":"Grave Guardian", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4032", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4333", "level":"5"}, {"id":"4408", "level":"12"}]
-	}
+    {
+        "id": "21234",
+        "name": "Grave Guardian",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4032",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4333",
+                "level": "5"
+            },
+            {
+                "id": "4408",
+                "level": "12"
+            }
+        ]
+    }
 ]

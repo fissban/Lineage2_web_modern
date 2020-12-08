@@ -1,11 +1,81 @@
 [
-	{
-		"id":"25127", 
-		"name":"Langk Matriarch Rashkos", 
-		"title":"Raid Boss", 
-		"isRaid":"true", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"222", "min":"1", "max":"1", "chance":"202414"}, {"id":"46", "min":"2", "max":"4", "chance":"289677"}, {"id":"627", "min":"4", "max":"12", "chance":"155184"}, {"id":"955", "min":"1", "max":"1", "chance":"563265"}, {"id":"6575", "min":"1", "max":"1", "chance":"31293"}, {"id":"6576", "min":"1", "max":"1", "chance":"281633"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4172", "level":"3"}, {"id":"4175", "level":"3"}, {"id":"4177", "level":"3"}, {"id":"4414", "level":"3"}, {"id":"4494", "level":"1"}, {"id":"4732", "level":"3"}, {"id":"4838", "level":"1"}]
-	}
+    {
+        "id": "25127",
+        "name": "Langk Matriarch Rashkos",
+        "title": "Raid Boss",
+        "isRaid": "true",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "222",
+                "min": "1",
+                "max": "1",
+                "chance": "202414"
+            },
+            {
+                "id": "46",
+                "min": "2",
+                "max": "4",
+                "chance": "289677"
+            },
+            {
+                "id": "627",
+                "min": "4",
+                "max": "12",
+                "chance": "155184"
+            },
+            {
+                "id": "955",
+                "min": "1",
+                "max": "1",
+                "chance": "563265"
+            },
+            {
+                "id": "6575",
+                "min": "1",
+                "max": "1",
+                "chance": "31293"
+            },
+            {
+                "id": "6576",
+                "min": "1",
+                "max": "1",
+                "chance": "281633"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4172",
+                "level": "3"
+            },
+            {
+                "id": "4175",
+                "level": "3"
+            },
+            {
+                "id": "4177",
+                "level": "3"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4494",
+                "level": "1"
+            },
+            {
+                "id": "4732",
+                "level": "3"
+            },
+            {
+                "id": "4838",
+                "level": "1"
+            }
+        ]
+    }
 ]

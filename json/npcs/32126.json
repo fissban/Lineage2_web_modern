@@ -1,11 +1,11 @@
 [
-	{
-		"id":"32126", 
-		"name":"Priest Guard", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "32126",
+        "name": "Priest Guard",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

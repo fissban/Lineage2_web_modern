@@ -1,11 +1,31 @@
 [
-	{
-		"id":"25516", 
-		"name":"Spiked Stakato", 
-		"title":"Raid Fighter", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"1344", "min":"20", "max":"60", "chance":"403000"}],
-		"skills":[{"id":"4045", "level":"1"}, {"id":"4414", "level":"3"}, {"id":"4726", "level":"1"}]
-	}
+    {
+        "id": "25516",
+        "name": "Spiked Stakato",
+        "title": "Raid Fighter",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "1344",
+                "min": "20",
+                "max": "60",
+                "chance": "403000"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            },
+            {
+                "id": "4414",
+                "level": "3"
+            },
+            {
+                "id": "4726",
+                "level": "1"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30881", 
-		"name":"Sanders", 
-		"title":"Border Outpost Aide", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30881",
+        "name": "Sanders",
+        "title": "Border Outpost Aide",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

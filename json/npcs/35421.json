@@ -1,11 +1,16 @@
 [
-	{
-		"id":"35421", 
-		"name":"Biggerstaff", 
-		"title":"Steward", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "35421",
+        "name": "Biggerstaff",
+        "title": "Steward",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]

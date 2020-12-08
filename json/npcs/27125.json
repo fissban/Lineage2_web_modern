@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27125", 
-		"name":"Leto Lizardman Sniper", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27125",
+        "name": "Leto Lizardman Sniper",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27041", 
-		"name":"Baranka's Messenger", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27041",
+        "name": "Baranka's Messenger",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

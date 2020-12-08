@@ -1,11 +1,11 @@
 [
-	{
-		"id":"27162", 
-		"name":"Hatar Chieftain Kubel", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "27162",
+        "name": "Hatar Chieftain Kubel",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

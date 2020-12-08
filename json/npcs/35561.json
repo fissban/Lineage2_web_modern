@@ -1,11 +1,11 @@
 [
-	{
-		"id":"35561", 
-		"name":"Mass Gatekeeper", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "35561",
+        "name": "Mass Gatekeeper",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

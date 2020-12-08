@@ -1,11 +1,11 @@
 [
-	{
-		"id":"35655", 
-		"name":"Court Magician", 
-		"title":"Rune", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "35655",
+        "name": "Court Magician",
+        "title": "Rune",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

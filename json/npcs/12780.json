@@ -1,11 +1,24 @@
 [
-	{
-		"id":"12780", 
-		"name":"Baby Buffalo", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4121", "level":"1"}, {"id":"4717", "level":"1"}, {"id":"4718", "level":"1"}]
-	}
+    {
+        "id": "12780",
+        "name": "Baby Buffalo",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4121",
+                "level": "1"
+            },
+            {
+                "id": "4717",
+                "level": "1"
+            },
+            {
+                "id": "4718",
+                "level": "1"
+            }
+        ]
+    }
 ]

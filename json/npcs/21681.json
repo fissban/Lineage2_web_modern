@@ -1,11 +1,81 @@
 [
-	{
-		"id":"21681", 
-		"name":"Otherworldly Invader Magus", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[{"id":"47", "min":"1", "max":"1", "chance":"1875"}, {"id":"628", "min":"1", "max":"1", "chance":"2681"}, {"id":"955", "min":"1", "max":"1", "chance":"2857"}, {"id":"956", "min":"1", "max":"1", "chance":"9174"}, {"id":"57", "min":"1135", "max":"2270", "chance":"700000"}, {"id":"1939", "min":"1", "max":"1", "chance":"235980"}, {"id":"2155", "min":"1", "max":"1", "chance":"431241"}, {"id":"2156", "min":"1", "max":"1", "chance":"214931"}],
-		"skills":[{"id":"4275", "level":"2"}, {"id":"4278", "level":"1"}, {"id":"4408", "level":"14"}, {"id":"4561", "level":"3"}, {"id":"4563", "level":"3"}]
-	}
+    {
+        "id": "21681",
+        "name": "Otherworldly Invader Magus",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [
+            {
+                "id": "47",
+                "min": "1",
+                "max": "1",
+                "chance": "1875"
+            },
+            {
+                "id": "628",
+                "min": "1",
+                "max": "1",
+                "chance": "2681"
+            },
+            {
+                "id": "955",
+                "min": "1",
+                "max": "1",
+                "chance": "2857"
+            },
+            {
+                "id": "956",
+                "min": "1",
+                "max": "1",
+                "chance": "9174"
+            },
+            {
+                "id": "57",
+                "min": "1135",
+                "max": "2270",
+                "chance": "700000"
+            },
+            {
+                "id": "1939",
+                "min": "1",
+                "max": "1",
+                "chance": "235980"
+            },
+            {
+                "id": "2155",
+                "min": "1",
+                "max": "1",
+                "chance": "431241"
+            },
+            {
+                "id": "2156",
+                "min": "1",
+                "max": "1",
+                "chance": "214931"
+            }
+        ],
+        "skills": [
+            {
+                "id": "4275",
+                "level": "2"
+            },
+            {
+                "id": "4278",
+                "level": "1"
+            },
+            {
+                "id": "4408",
+                "level": "14"
+            },
+            {
+                "id": "4561",
+                "level": "3"
+            },
+            {
+                "id": "4563",
+                "level": "3"
+            }
+        ]
+    }
 ]

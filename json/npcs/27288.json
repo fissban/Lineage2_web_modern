@@ -1,11 +1,32 @@
 [
-	{
-		"id":"27288", 
-		"name":"Sword Player Biel", 
-		"title":"Quest Monster", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4412", "level":"18"}, {"id":"4414", "level":"1"}, {"id":"4536", "level":"1"}, {"id":"4537", "level":"1"}, {"id":"4538", "level":"1"}]
-	}
+    {
+        "id": "27288",
+        "name": "Sword Player Biel",
+        "title": "Quest Monster",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4412",
+                "level": "18"
+            },
+            {
+                "id": "4414",
+                "level": "1"
+            },
+            {
+                "id": "4536",
+                "level": "1"
+            },
+            {
+                "id": "4537",
+                "level": "1"
+            },
+            {
+                "id": "4538",
+                "level": "1"
+            }
+        ]
+    }
 ]

@@ -1,11 +1,11 @@
 [
-	{
-		"id":"13017", 
-		"name":"Emperor Squash", 
-		"title":"", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[]
-	}
+    {
+        "id": "13017",
+        "name": "Emperor Squash",
+        "title": "",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": []
+    }
 ]

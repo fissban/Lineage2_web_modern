@@ -1,11 +1,16 @@
 [
-	{
-		"id":"30501", 
-		"name":"Kasman", 
-		"title":"Prefect", 
-		"isRaid":"false", 
-		"isGrandBoss":"false", 
-		"drops":[],
-		"skills":[{"id":"4045", "level":"1"}]
-	}
+    {
+        "id": "30501",
+        "name": "Kasman",
+        "title": "Prefect",
+        "isRaid": "false",
+        "isGrandBoss": "false",
+        "drops": [],
+        "skills": [
+            {
+                "id": "4045",
+                "level": "1"
+            }
+        ]
+    }
 ]
