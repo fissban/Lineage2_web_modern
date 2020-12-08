@@ -204,11 +204,13 @@
             {
                 // se obtiene el nombre del item de acuerdo a su id
                 let itemImg = '';
+                let itemName = '';
                 itemsJSON.forEach(itemJson =>
                 {
                     if (itemJson.id == itemInv.item_id)
                     {
                         itemImg = itemJson.img;
+                        itemName = itemJson.name;
                         return;
                     }
                 });
@@ -221,51 +223,51 @@
                     {
                         case '1'://LEAR
                             $('#slotLHear').attr('src', img);
-                            $('#slotLHear').attr('title', itemImg);
+                            $('#slotLHear').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '2'://REAR
                             $('#slotRHead').attr('src', img);
-                            $('#slotHead').attr('title', itemImg);
+                            $('#slotHead').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '3'://NECK
                             $('#slotNeklase').attr('src', img);
-                            $('#slotHead').attr('title', itemImg);
+                            $('#slotHead').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '4'://LFINGER
                             $('#slotLFinger').attr('src', img);
-                            $('#slotLFinger').attr('title', itemImg);
+                            $('#slotLFinger').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '5'://RFINGER
                             $('#slotRFinger').attr('src', img);
-                            $('#slotRFinger').attr('title', itemImg);
+                            $('#slotRFinger').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '6'://HEAD
                             $('#slotHead').attr('src', img);
-                            $('#slotHead').attr('title', itemImg);
+                            $('#slotHead').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '7'://RHAND
                             $('#slotRHand').attr('src', img);
-                            $('#slotRHand').attr('title', itemImg);
+                            $('#slotRHand').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '8'://LHAND
                             $('#slotLHand').attr('src', img);
-                            $('#slotLHand').attr('title', itemImg);
+                            $('#slotLHand').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '9'://GLOVES
                             $('#slotGloves').attr('src', img);
-                            $('#slotGloves').attr('title', itemImg);
+                            $('#slotGloves').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '10'://CHEST
                             $('#slotBody').attr('src', img);
-                            $('#slotBody').attr('title', itemImg);
+                            $('#slotBody').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '11'://LEGS
                             $('#slotPant').attr('src', img);
-                            $('#slotPant').attr('title', itemImg);
+                            $('#slotPant').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                         case '12'://FEET
                             $('#slotBoats').attr('src', img);
-                            $('#slotBoats').attr('title', itemImg);
+                            $('#slotBoats').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
                             break;
                     }
                 }
