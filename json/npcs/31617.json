@@ -1,16 +1,10 @@
-[
-    {
-        "id": "31617",
-        "name": "Aria Firstmatter",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31617", 
+	"name": "Aria Firstmatter", 
+	"title": "", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

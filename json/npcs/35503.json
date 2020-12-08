@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35503",
-        "name": "Outer Doorman",
-        "title": "Rune",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35503", 
+	"name": "Outer Doorman", 
+	"title": "Rune", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

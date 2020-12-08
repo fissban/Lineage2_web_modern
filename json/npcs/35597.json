@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35597",
-        "name": "Hot Springs Yeti",
-        "title": "Maitre 'D",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35597", 
+	"name": "Hot Springs Yeti", 
+	"title": "Maitre 'D", 
+	"level": "56", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

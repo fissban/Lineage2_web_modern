@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35431",
-        "name": "Oel Mahum Cleric",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35431", 
+	"name": "Oel Mahum Cleric", 
+	"title": "", 
+	"level": "60", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

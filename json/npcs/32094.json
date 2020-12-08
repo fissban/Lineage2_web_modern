@@ -1,16 +1,10 @@
-[
-    {
-        "id": "32094",
-        "name": "Schule",
-        "title": "Grand Master",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "32094", 
+	"name": "Schule", 
+	"title": "Grand Master", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

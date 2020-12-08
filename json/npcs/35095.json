@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35095",
-        "name": "Mass Gatekeeper",
-        "title": "Gludio",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35095", 
+	"name": "Mass Gatekeeper", 
+	"title": "Gludio", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

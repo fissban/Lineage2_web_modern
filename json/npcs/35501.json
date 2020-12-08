@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35501",
-        "name": "Gatekeeper",
-        "title": "Rune",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35501", 
+	"name": "Gatekeeper", 
+	"title": "Rune", 
+	"level": "56", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

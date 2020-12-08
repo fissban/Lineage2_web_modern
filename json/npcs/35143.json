@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35143",
-        "name": "Hodler",
-        "title": "Wyvern Manager",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35143", 
+	"name": "Hodler", 
+	"title": "Wyvern Manager", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

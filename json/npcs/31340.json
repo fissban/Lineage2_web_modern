@@ -1,16 +1,10 @@
-[
-    {
-        "id": "31340",
-        "name": "Mathias",
-        "title": "Captain",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31340", 
+	"name": "Mathias", 
+	"title": "Captain", 
+	"level": "80", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

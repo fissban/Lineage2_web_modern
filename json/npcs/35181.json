@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35181",
-        "name": "Inner Doorman",
-        "title": "Giran",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35181", 
+	"name": "Inner Doorman", 
+	"title": "Giran", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

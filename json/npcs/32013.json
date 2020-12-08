@@ -1,16 +1,10 @@
-[
-    {
-        "id": "32013",
-        "name": "Suki",
-        "title": "Wild Maiden",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "32013", 
+	"name": "Suki", 
+	"title": "Wild Maiden", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

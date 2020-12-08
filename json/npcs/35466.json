@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35466",
-        "name": "Gerard",
-        "title": "Clan Hall Gatekeeper",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35466", 
+	"name": "Gerard", 
+	"title": "Clan Hall Gatekeeper", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

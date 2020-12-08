@@ -1,11 +1,10 @@
-[
-    {
-        "id": "32110",
-        "name": "",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "32110", 
+	"name": "", 
+	"title": "", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

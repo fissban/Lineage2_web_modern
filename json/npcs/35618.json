@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35618",
-        "name": "Frenzied Cougar",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35618", 
+	"name": "Frenzied Cougar", 
+	"title": "", 
+	"level": "60", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

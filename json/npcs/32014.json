@@ -1,16 +1,10 @@
-[
-    {
-        "id": "32014",
-        "name": "Ivan",
-        "title": "Runaway Youth",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "32014", 
+	"name": "Ivan", 
+	"title": "Runaway Youth", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

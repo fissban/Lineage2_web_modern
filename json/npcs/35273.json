@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35273",
-        "name": "Warehouse Keeper",
-        "title": "Aden",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35273", 
+	"name": "Warehouse Keeper", 
+	"title": "Aden", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

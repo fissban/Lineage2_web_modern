@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35148",
-        "name": "Baron Carmon Esthus",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35148", 
+	"name": "Baron Carmon Esthus", 
+	"title": "", 
+	"level": "65", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

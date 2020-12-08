@@ -1,20 +1,10 @@
-[
-    {
-        "id": "35207",
-        "name": "Court Sorcerer",
-        "title": "Oren",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4027",
-                "level": "1"
-            },
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35207", 
+	"name": "Court Sorcerer", 
+	"title": "Oren", 
+	"level": "58", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4027", "level": "1"}, {"id": "4045", "level": "1"}]
+}

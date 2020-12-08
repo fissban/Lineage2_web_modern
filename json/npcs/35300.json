@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35300",
-        "name": "Guard",
-        "title": "Innadril",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35300", 
+	"name": "Guard", 
+	"title": "Innadril", 
+	"level": "56", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

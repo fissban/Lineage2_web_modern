@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35649",
-        "name": "Court Magician",
-        "title": "Dion",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35649", 
+	"name": "Court Magician", 
+	"title": "Dion", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

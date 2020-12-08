@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35272",
-        "name": "Blacksmith",
-        "title": "Aden",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35272", 
+	"name": "Blacksmith", 
+	"title": "Aden", 
+	"level": "99", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

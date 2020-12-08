@@ -1,16 +1,10 @@
-[
-    {
-        "id": "32055",
-        "name": "Ghost of an Ancient Railroad Engineer",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "32055", 
+	"name": "Ghost of an Ancient Railroad Engineer", 
+	"title": "", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

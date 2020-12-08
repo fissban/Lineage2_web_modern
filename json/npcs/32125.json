@@ -1,11 +1,10 @@
-[
-    {
-        "id": "32125",
-        "name": "Great Soul",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "32125", 
+	"name": "Great Soul", 
+	"title": "", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

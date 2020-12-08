@@ -1,16 +1,10 @@
-[
-    {
-        "id": "31572",
-        "name": "O'Fulle",
-        "title": "Fishing Guild Member",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31572", 
+	"name": "O'Fulle", 
+	"title": "Fishing Guild Member", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

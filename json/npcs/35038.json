@@ -1,20 +1,10 @@
-[
-    {
-        "id": "35038",
-        "name": "Elite Mercenary Guild Member",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4027",
-                "level": "1"
-            },
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35038", 
+	"name": "Elite Mercenary Guild Member", 
+	"title": "", 
+	"level": "60", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4027", "level": "1"}, {"id": "4045", "level": "1"}]
+}

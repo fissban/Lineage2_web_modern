@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35619",
-        "name": "Frenzied Buffalo",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35619", 
+	"name": "Frenzied Buffalo", 
+	"title": "", 
+	"level": "60", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35066",
-        "name": "Royal Knight",
-        "title": "Gludio",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35066", 
+	"name": "Royal Knight", 
+	"title": "Gludio", 
+	"level": "60", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

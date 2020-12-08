@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35315",
-        "name": "Warehouse Keeper",
-        "title": "Innadril",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35315", 
+	"name": "Warehouse Keeper", 
+	"title": "Innadril", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

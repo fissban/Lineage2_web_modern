@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35428",
-        "name": "Oel Mahum Berserker",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35428", 
+	"name": "Oel Mahum Berserker", 
+	"title": "", 
+	"level": "60", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

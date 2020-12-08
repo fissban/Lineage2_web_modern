@@ -1,16 +1,10 @@
-[
-    {
-        "id": "31356",
-        "name": "Remy",
-        "title": "Porter",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31356", 
+	"name": "Remy", 
+	"title": "Porter", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

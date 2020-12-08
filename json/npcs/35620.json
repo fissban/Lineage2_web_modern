@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35620",
-        "name": "Frenzied Kookaburra",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35620", 
+	"name": "Frenzied Kookaburra", 
+	"title": "", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

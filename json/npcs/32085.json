@@ -1,16 +1,10 @@
-[
-    {
-        "id": "32085",
-        "name": "Aden Territory Manager",
-        "title": "Adventure Guildsman",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "32085", 
+	"name": "Aden Territory Manager", 
+	"title": "Adventure Guildsman", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

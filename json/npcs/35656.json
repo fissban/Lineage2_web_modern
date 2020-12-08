@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35656",
-        "name": "Court Magician",
-        "title": "Schuttgart",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35656", 
+	"name": "Court Magician", 
+	"title": "Schuttgart", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

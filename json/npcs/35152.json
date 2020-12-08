@@ -1,20 +1,10 @@
-[
-    {
-        "id": "35152",
-        "name": "Court Sorcerer",
-        "title": "Giran",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4027",
-                "level": "1"
-            },
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35152", 
+	"name": "Court Sorcerer", 
+	"title": "Giran", 
+	"level": "58", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4027", "level": "1"}, {"id": "4045", "level": "1"}]
+}

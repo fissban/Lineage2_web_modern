@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35595",
-        "name": "Treasure Chest",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35595", 
+	"name": "Treasure Chest", 
+	"title": "", 
+	"level": "52", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

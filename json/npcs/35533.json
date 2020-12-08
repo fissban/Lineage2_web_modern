@@ -1,20 +1,10 @@
-[
-    {
-        "id": "35533",
-        "name": "Court Sorcerer",
-        "title": "Schuttgart",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4027",
-                "level": "1"
-            },
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35533", 
+	"name": "Court Sorcerer", 
+	"title": "Schuttgart", 
+	"level": "58", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4027", "level": "1"}, {"id": "4045", "level": "1"}]
+}

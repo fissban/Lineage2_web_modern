@@ -1,16 +1,10 @@
-[
-    {
-        "id": "31411",
-        "name": "Monster Race Guide",
-        "title": "Town of Goddard",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31411", 
+	"name": "Monster Race Guide", 
+	"title": "Town of Goddard", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

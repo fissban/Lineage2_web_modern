@@ -1,16 +1,10 @@
-[
-    {
-        "id": "31427",
-        "name": "Urgal",
-        "title": "Amulet Seller",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "31427", 
+	"name": "Urgal", 
+	"title": "Amulet Seller", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

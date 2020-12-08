@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35115",
-        "name": "Guard",
-        "title": "Dion",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35115", 
+	"name": "Guard", 
+	"title": "Dion", 
+	"level": "56", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

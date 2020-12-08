@@ -1,11 +1,10 @@
-[
-    {
-        "id": "35062",
-        "name": "Headquarters",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "35062", 
+	"name": "Headquarters", 
+	"title": "", 
+	"level": "1", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

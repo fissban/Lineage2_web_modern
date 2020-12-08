@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35064",
-        "name": "Baron Lewin Waldner",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35064", 
+	"name": "Baron Lewin Waldner", 
+	"title": "", 
+	"level": "65", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

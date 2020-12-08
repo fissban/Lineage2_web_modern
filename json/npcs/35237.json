@@ -1,20 +1,10 @@
-[
-    {
-        "id": "35237",
-        "name": "Court Sorcerer",
-        "title": "Aden",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            },
-            {
-                "id": "4115",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35237", 
+	"name": "Court Sorcerer", 
+	"title": "Aden", 
+	"level": "68", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}, {"id": "4115", "level": "1"}]
+}

@@ -1,16 +1,10 @@
-[
-    {
-        "id": "32056",
-        "name": "Aren",
-        "title": "Khavatari",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "32056", 
+	"name": "Aren", 
+	"title": "Khavatari", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

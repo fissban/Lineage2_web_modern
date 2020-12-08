@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35282",
-        "name": "Royal Knight",
-        "title": "Innadril",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35282", 
+	"name": "Royal Knight", 
+	"title": "Innadril", 
+	"level": "60", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

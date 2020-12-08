@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35368",
-        "name": "Bloody Lord Nurka",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35368", 
+	"name": "Bloody Lord Nurka", 
+	"title": "", 
+	"level": "55", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

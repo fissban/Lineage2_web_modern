@@ -1,16 +1,10 @@
-[
-    {
-        "id": "32027",
-        "name": "Holy Brazier",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "32027", 
+	"name": "Holy Brazier", 
+	"title": "", 
+	"level": "78", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

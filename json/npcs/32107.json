@@ -1,11 +1,10 @@
-[
-    {
-        "id": "32107",
-        "name": "Teleportation Cubic",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": []
-    }
-]
+{
+	"id": "32107", 
+	"name": "Teleportation Cubic", 
+	"title": "", 
+	"level": "70", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[]
+}

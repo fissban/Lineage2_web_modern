@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35279",
-        "name": "Innadril Holy Artifact",
-        "title": "",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35279", 
+	"name": "Innadril Holy Artifact", 
+	"title": "", 
+	"level": "20", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}

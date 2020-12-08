@@ -1,16 +1,10 @@
-[
-    {
-        "id": "35281",
-        "name": "Schaht",
-        "title": "Sir",
-        "isRaid": "false",
-        "isGrandBoss": "false",
-        "drops": [],
-        "skills": [
-            {
-                "id": "4045",
-                "level": "1"
-            }
-        ]
-    }
-]
+{
+	"id": "35281", 
+	"name": "Schaht", 
+	"title": "Sir", 
+	"level": "62", 
+	"isRaid": "false", 
+	"isGrandBoss": "false", 
+	"drops":[],
+	"skills":[{"id": "4045", "level": "1"}]
+}
