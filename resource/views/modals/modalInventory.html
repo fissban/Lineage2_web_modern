@@ -5,6 +5,7 @@
         height: 48px;
     }
 
+
     .panel-inv {
         height: 250px;
         max-height: 250px;
@@ -31,7 +32,7 @@
                             <div class="row pb-1">
                                 <div class="col-4"></div>
                                 <div class="col-4">
-                                    <img id="slotHead" class="border-inv-color" src="../../../img/texturesGame/iconsInventoryDefault/head.png" width="100%" title="Empty head">
+                                    <img id="slotHead" class="border-inv-color" src="../../../img/texturesGame/iconsInventoryDefault/head.png" width="100%">
                                 </div>
                                 <div class="col-4"></div>
                             </div>
@@ -215,66 +216,69 @@
                     }
                 });
 
+                if (itemImg == '')
+                {
+                    itemImg = 'NOIMAGE';
+                }
+
                 let img = '../../../img/texturesGame/icons/' + itemImg + '.png';
                 // items equipados
                 if (itemInv.loc == 'PAPERDOLL')
                 {
+                    let idSlot = '';
                     switch (itemInv.loc_data)
                     {
                         case '1'://LEAR
-                            $('#slotLHear').attr('src', img);
-                            $('#slotLHear').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotLHear';
                             break;
                         case '2'://REAR
-                            $('#slotRHead').attr('src', img);
-                            $('#slotHead').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotRHead';
                             break;
                         case '3'://NECK
-                            $('#slotNeklase').attr('src', img);
-                            $('#slotHead').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotNeklase';
                             break;
                         case '4'://LFINGER
-                            $('#slotLFinger').attr('src', img);
-                            $('#slotLFinger').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotLFinger';
                             break;
                         case '5'://RFINGER
-                            $('#slotRFinger').attr('src', img);
-                            $('#slotRFinger').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotRFinger';
                             break;
                         case '6'://HEAD
-                            $('#slotHead').attr('src', img);
-                            $('#slotHead').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotHead';
                             break;
                         case '7'://RHAND
-                            $('#slotRHand').attr('src', img);
-                            $('#slotRHand').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotRHand';
                             break;
                         case '8'://LHAND
-                            $('#slotLHand').attr('src', img);
-                            $('#slotLHand').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotLHand';
                             break;
                         case '9'://GLOVES
-                            $('#slotGloves').attr('src', img);
-                            $('#slotGloves').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotGloves';
                             break;
                         case '10'://CHEST
-                            $('#slotBody').attr('src', img);
-                            $('#slotBody').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotBody';
                             break;
                         case '11'://LEGS
-                            $('#slotPant').attr('src', img);
-                            $('#slotPant').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotPant';
                             break;
                         case '12'://FEET
-                            $('#slotBoats').attr('src', img);
-                            $('#slotBoats').attr('title', 'name:' + itemName + ' count:' + itemInv.count);
+                            idSlot = 'slotBoats';
                             break;
                     }
+
+                    if (idSlot != '')
+                    {
+                        $('#' + idSlot).attr('src', img);
+                        $('#' + idSlot).attr('title', itemName + ' (' + itemInv.count + ')');
+                        $('#' + idSlot).tooltip();
+                    }
+
                 }
                 else
                 {
                     $('#slot' + count_inv).attr('src', '../../../img/texturesGame/icons/' + itemImg + '.png');
-                    $('#slot' + count_inv).attr('title', 'name:' + itemImg + ' count:' + itemInv.count);
+                    $('#slot' + count_inv).attr('title', itemName + ' (' + itemInv.count + ')');
+                    $('#slot' + count_inv).tooltip();
                     count_inv++;
                 }
             });
