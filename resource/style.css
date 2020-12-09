@@ -55,7 +55,7 @@
 }
 
 .menu-ppal-item {
-    color: #d2c38d;
+    color: #e4e0d4;
     text-decoration: none;
     padding-bottom: 14px;
     width: 10rem;
@@ -67,12 +67,13 @@
 }
 
 .menu-ppal-item:hover {
-    color: #e9e8e7;
+    color: #bebdb8;
     text-decoration: none;
     cursor: pointer;
 }
 
 .menu-active {
+    color: #d2c38d;
     border-bottom: 2px solid #d2c38d;
 }
 
@@ -215,7 +216,7 @@ body::before {
 
 .menu-top-item:hover {
     text-decoration: none;
-    color: #d2c38d;
+    color: #bebdb8;
 }
 
 
