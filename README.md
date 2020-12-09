@@ -1,6 +1,6 @@
 # Lineage 2 web
 
-<img src="https://repository-images.githubusercontent.com/317896553/bae15380-3496-11eb-9843-c968965d6b80">
+<img src="http://l2devsadmins.net/forum/l2devshostfiles/ficheros_subidos/1.jpg">
 
 Esta pagina esta dedicada para servidores L2j basados en el pack 'aCis'.
 
@@ -14,3 +14,6 @@ Caracteristicas base
 - Eventos
 - Descargas
 - Caractersiticas del servidor
+- Vote links
+- RaidBoss & GrandBoss status.
+- Vista de personajes e inventarios de los mismos.
