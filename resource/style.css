@@ -88,14 +88,12 @@
 }
 
 .bg-color-title {
+    padding: 6px;
     color: #d2c38d;
     font-weight: bolder;
-    text-align: center;
-    padding: 6px;
-    text-shadow: 1px 1px 5px #000000;
-    background: linear-gradient(180deg, #101010 0%, #020202c9 100%);
-    border: 5px solid transparent;
-    border-image: url(../img/border3.png) 8 stretch;
+    background-color: #100f0f99;
+    border: 6px solid transparent;
+    border-image: url(../img/talk_DefaultBg.png) 6 stretch;
 }
 
 .bg-color-title2 {
