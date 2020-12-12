@@ -28,14 +28,19 @@
 
 .btn-color-primary {
     color: #212529 !important;
-    background-color: #e8be29;
-    border-color: #e8be29;
+    background-color: #ffc107;
+    border-color: #ffc107;
 }
 
 .btn-color-primary:hover {
     color: #212529 !important;
-    background-color: #be9a17;
-    border-color: #be9a17;
+    background-color: #c59505;
+    border-color: #c59505;
+}
+
+.bg-color-primary {
+    color: #212529 !important;
+    background-color: #e8be29 !important;
 }
 
 .link-cursor:hover {
@@ -58,7 +63,7 @@
     color: #e4e0d4;
     text-decoration: none;
     padding-bottom: 14px;
-    width: 10rem;
+    width: 6rem;
     position: relative !important;
     display: block;
     top: 16px;

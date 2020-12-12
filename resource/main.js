@@ -1,4 +1,4 @@
-const MENU = ['home', 'features', 'downloads', 'donate', 'events', 'votes', 'register', 'bossinfo'];
+const MENU = ['home', 'features', 'downloads', 'donate', 'events', 'votes', 'register', 'auction', 'bossinfo'];
 
 const MENU_LOGIN = ['characters', 'change_password'];
 
