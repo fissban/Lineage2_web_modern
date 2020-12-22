@@ -7,16 +7,45 @@
     cursor: pointer;
 }
 
-.nav-auction {
+.nav-auction-on {
     color: #495057 !important;
     background-color: #e8be29 !important;
-    border-top: 1px solid;
+    border-top: 1px solid #e8be29;
     border-bottom: none;
     border-top-left-radius: 0.25rem;
     border-top-right-radius: 0.25rem;
+}
+
+.nav-auction-off {
+    color: #cbced1 !important;
+    background-color: #5c5c5b !important;
+    border-top: 1px solid #272727;
+    border-right: 1px solid #272727;
+    border-bottom: none;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.nav-auction-off:hover {
+    background-color: #464645 !important;
+    border-top: 1px solid #272727;
+    border-right: 1px solid #272727;
 
 }
 
 .nav-tabs-auction {
-    border-bottom: 1px solid #d2c38d;
+    border-bottom: 1px solid #e8be29;
+}
+
+.row-add-auction {
+    border-bottom: 1px solid #3b3b3b;
+    font-size: smaller;
+}
+
+.row-light {
+    background-color: #1a1a19 !important;
+}
+
+.row-dark {
+    background-color: #0e0e0d !important;
 }

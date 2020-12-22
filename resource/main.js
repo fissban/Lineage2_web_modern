@@ -3,6 +3,15 @@ const MENU = ['home', 'features', 'downloads', 'donate', 'events', 'votes', 'reg
 const MENU_LOGIN = ['characters', 'change_password'];
 
 let lastPage = '';
+
+/**
+ * Se previene advertencias de sincronizacion en la consolas
+ */
+// $.ajaxPrefilter(function (options, originalOptions, jqXHR)
+// {
+//     options.async = true;
+// });
+
 /**
  * Acciones al cargar la estructura del html
  */
@@ -120,7 +129,6 @@ function loadBoard(page)
 
     $('#board').load('./resource/views/' + page + '/' + page + '.html');
 
-    // se define el link active
     if (MENU.includes(page))
     {
         MENU.forEach(link =>
@@ -134,7 +142,33 @@ function loadBoard(page)
     }
 }
 
-function openModal(id)
+/**
+ * Lista de scripts cargados en el navegador
+ */
+let scripts = [];
+/**
+ * Esta clase es requerida para invocar scripts desde otros htmls para evitar que se recargen mas de una ves.
+ * @param {String} script 
+ * @param {function} onInit 
+ * @param {function} onRequired
+ */
+function loadScript(script, onInit, onRequired)
+{
+    if (!scripts.includes(script))
+    {
+        scripts.push(script);
+        $.getScript('./resource/views/' + script + '/' + script + '.js', () =>
+        {
+            onInit();
+        });
+    }
+    else
+    {
+        onRequired();
+    }
+}
+
+function openModal(id, callback = null)
 {
     $('#modal-container').load('./resource/views/modals/' + id + '.html', () =>
     {
@@ -142,6 +176,7 @@ function openModal(id)
         //$('#modal').css('top', $(window).scrollTop() + 'px');
         // finalmente se abre el modal
         $('#modal').modal({ show: true, backdrop: true });
-    });
 
+        callback();
+    });
 }

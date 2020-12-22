@@ -26,10 +26,18 @@
     color: #d2c38d;
 }
 
+.bg-warning {
+    background-color: #e8be29 !important;
+}
+
+.text-warning {
+    color: #e8be29 !important;
+}
+
 .btn-color-primary {
     color: #212529 !important;
-    background-color: #ffc107;
-    border-color: #ffc107;
+    background-color: #e8be29;
+    border-color: #e8be29;
 }
 
 .btn-color-primary:hover {
@@ -96,7 +104,7 @@
     padding: 6px;
     color: #d2c38d;
     font-weight: bolder;
-    background-color: #100f0f99;
+    background-color: #100f0f;
     border: 6px solid transparent;
     border-image: url(../img/talk_DefaultBg.png) 6 stretch;
 }
@@ -153,9 +161,9 @@ body::before {
     color: rgb(238, 236, 236);
     box-shadow: rgba(0, 0, 0, 0.35) 0px 0.5rem 1rem !important;
     background-color: #000000a8;
-    border: 10px solid transparent;
+    border: 3px solid transparent;
     padding: 20px;
-    border-image: url(../img/border3.png) 8 stretch;
+    border-image: url(../img/border3.png) 5 stretch;
     backdrop-filter: blur(15px) saturate(130%);
 }
 
@@ -286,4 +294,18 @@ body::before {
     height: 100%;
     filter: blur(10px);
     background-color: #00000021;
+}
+
+.custom-form {
+    border: 1px solid #5b5b5b;
+    color: #dcdcdc;
+    background-color: #26262500;
+}
+
+.custom-form:focus {
+    color: #000000;
+    background-color: #929090;
+    border-color: #e8be29;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(255 193 7 / 16%);
 }

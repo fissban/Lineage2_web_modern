@@ -1,0 +1,41 @@
+<div class="modal" id="modal" tabindex="-1" style="backdrop-filter: blur(15px) saturate(130%);">
+    <div class="modal-dialog ">
+        <div class="modal-content bg-color-title">
+            <div class="modal-header">
+                <h5 class="modal-title text-color-primary">Claim</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-light">
+                <div class="row mt-5">
+                    <div class="col-12 text-center">
+                        <img class="border border-warning" id="itemImgClaim" src="" alt="">
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-12">
+                        Want to claim <span id="itemCountClaim" class="text-color-primary">999</span> item(s) <span id="itemNameClaim" class="text-color-primary">itemName</span>
+                        for the price of <span id="itemPriceClaim" class="text-color-primary">xxxx</span> by <span id="itemCoin" class="text-color-primary">Adena</span> ?
+                    </div>
+                </div>
+
+                <div class="form-group row pt-3">
+                    <label for="claimerBuy" class="col-sm-4 col-form-label col-form-label-sm">Claim with:</label>
+                    <div class="col-sm-8">
+                        <select class="form-control form-control-sm" id="claimerBuy">
+                            <!-- option in javascript -->
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="row mt-5">
+                    <div class="col-12">
+                        <button class="btn btn-sm btn-block btn-color-primary" id="itemButtonClaim">Claim</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
