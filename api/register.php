@@ -14,29 +14,29 @@ $pass_notEncrypt = trim($_POST['pass']);
 
 if (!ctype_alnum($user) || !ctype_alnum($pass_notEncrypt))
 {
-    echo 'solo se permiten letras y numeros';
+    echo 'Only letters and numbers are allowed';
     return;
 }
 
 if (strlen($user) < 3)
 {
-    echo 'el nombre de usuario es muy corto';
+    echo 'Username is too short';
     return;
 }
 if (strlen($pass_notEncrypt) < 3)
 {
-    echo 'el password es muy corto';
+    echo 'Password is too short';
     return;
 }
 
 if (strlen($user) > 12)
 {
-    echo 'el nombre de usuario es muy largo';
+    echo 'The username is too long';
     return;
 }
 if (strlen($pass_notEncrypt) > 12)
 {
-    echo 'el password es muy largo';
+    echo 'The password is too long';
     return;
 }
 
@@ -52,7 +52,7 @@ $result = $db->executeQueryParams("SELECT login FROM accounts WHERE login=? LIMI
 
 while ($row = $result->fetch())
 {
-    echo 'La cuenta ya existe, intenta con otra.';
+    echo 'The account already exists, try another.';
     return;
 }
 
@@ -60,11 +60,11 @@ $result = $db->executeQueryParams("INSERT INTO accounts (login,password) VALUES 
 
 if ($result)
 {
-    echo 'su cuenta se registro con exito';
+    echo 'Your account was registered with exito';
 }
 else
 {
-    echo 'ocurrio un problema';
+    echo 'Theres been a problem';
 }
 
 function randomString($size)

@@ -203,25 +203,9 @@
 
             inventory.forEach(itemInv =>
             {
-                // se obtiene el nombre del item de acuerdo a su id
-                let itemImg = '';
-                let itemName = '';
-                itemsJSON.forEach(itemJson =>
-                {
-                    if (itemJson.id == itemInv.item_id)
-                    {
-                        itemImg = itemJson.img;
-                        itemName = itemJson.name;
-                        return;
-                    }
-                });
+                let itemJSON = itemsJSON.find(it => it.id == itemInv.item_id);
 
-                if (itemImg == '')
-                {
-                    itemImg = 'NOIMAGE';
-                }
-
-                let img = '../../../img/texturesGame/icons/' + itemImg + '.png';
+                let img = '../../../img/texturesGame/icons/' + itemJSON.img + '.png';
                 // items equipados
                 if (itemInv.loc == 'PAPERDOLL')
                 {
@@ -269,15 +253,15 @@
                     if (idSlot != '')
                     {
                         $('#' + idSlot).attr('src', img);
-                        $('#' + idSlot).attr('title', itemName + ' (' + itemInv.count + ')');
+                        $('#' + idSlot).attr('title', itemJSON.name + ' (' + itemInv.count + ')');
                         $('#' + idSlot).tooltip();
                     }
 
                 }
                 else
                 {
-                    $('#slot' + count_inv).attr('src', '../../../img/texturesGame/icons/' + itemImg + '.png');
-                    $('#slot' + count_inv).attr('title', itemName + ' (' + itemInv.count + ')');
+                    $('#slot' + count_inv).attr('src', '../../../img/texturesGame/icons/' + itemJSON.img + '.png');
+                    $('#slot' + count_inv).attr('title', itemJSON.name + ' (' + itemInv.count + ')');
                     $('#slot' + count_inv).tooltip();
                     count_inv++;
                 }

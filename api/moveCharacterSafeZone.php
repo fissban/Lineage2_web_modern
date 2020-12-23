@@ -29,13 +29,13 @@ while ($row = $result->fetch())
 {
     if ($row['online'] == 1)
     {
-        echo 'Debe deslogear primero el personaje';
+        echo 'You must log out the character first';
         return;
     }
 
     $result = $db->executeQuery("UPDATE characters SET x='-84318', y='244579', z='-3730' WHERE char_name='$charName'");
-    echo 'Su personaje ya se movio a una zona segura';
+    echo 'Your character has already moved to a safe zone';
     return;
 }
 
-echo 'ocurrio un problema';
+echo 'There been a problem';

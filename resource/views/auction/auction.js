@@ -369,7 +369,7 @@ class Auction
                             ${coin.name}
                         </td>
                         <td class="mt-3">
-                            <button class="btn btn-sm btn-block btn-color-primary" onclick="auction.generateBuyModal(${count}, '${itemJSON.name}', ${item.id}, ${item.item_enchant_level}, ${item.price_count}, '${itemJSON.img}')">Buy</button>
+                            <button class="btn btn-sm btn-block btn-color-primary" onclick="auction.generateBuyModal(${count}, '${itemJSON.name}', ${item.id}, ${item.item_enchant_level}, ${item.price_count}, '${itemJSON.img}', '${coin.name}')">Buy</button>
                         </td>
                     </tr> 
                 `;
@@ -379,7 +379,7 @@ class Auction
         });
     }
 
-    generateBuyModal(position, item_name, row_id, item_enchant_level, price_count, itemImg)
+    generateBuyModal(position, item_name, row_id, item_enchant_level, price_count, itemImg, coin)
     {
         openModal('modalBuyConfirmItem', () =>
         {
@@ -393,6 +393,7 @@ class Auction
                 $('#itemNameBuy').text(item_name + (item_enchant_level > 0 ? (' +' + item_enchant_level) : ''));
                 $('#itemPriceBuy').text(Intl.NumberFormat().format(count_buy * price_count));
                 $('#itemImgBuy').attr('src', '../../../img/texturesGame/icons/' + itemImg + '.png');
+                $('#itemCoin').text(coin);
 
                 characters.forEach(cha =>
                 {
