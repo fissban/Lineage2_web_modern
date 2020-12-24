@@ -68,10 +68,11 @@
 .btn-normal {
     color: #f0eee7;
     font-weight: bolder;
-    background: linear-gradient(180deg, #b96529 0%, #4d1a04 61%);
+    background: linear-gradient(180deg, #b96529 0%, #64321d 61%);
     border: 1px solid transparent;
     border-image: url(../img/border3.png) 6 stretch;
     transition: all 0.25s;
+    box-shadow: 0px 0px 5px 2px #00000096;
 }
 
 .btn-normal:hover {

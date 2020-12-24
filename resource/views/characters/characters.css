@@ -6,12 +6,3 @@
     padding-inline-start: 0;
     /*padding-left: 16px;*/
 }
-
-.menu-cha-item {
-    width: 10rem;
-    margin-left: 10px;
-}
-
-.menu-cha-item:hover {
-    text-decoration: none;
-}
