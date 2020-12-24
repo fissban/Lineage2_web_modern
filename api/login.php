@@ -11,7 +11,7 @@ $data =
 
 if (!isset($_POST['user'], $_POST['pass']))
 {
-    $data['message'] = "tranquiloooo!";
+    $data['message'] = "NO!!";
     echo json_encode($data);
     return;
 }

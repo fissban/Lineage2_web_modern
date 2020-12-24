@@ -82,7 +82,7 @@ class Auction
                                 
                             </td>
                             <td class="">
-                                <button class="btn btn-sm btn-block btn-color-primary" onclick="auction.sell(${objectId}, ${itemInv.item_id}, ${itemInv.enchant_level}, ${itemInv.object_id})">Sell</button>
+                                <button class="btn btn-sm btn-block btn-normal" onclick="auction.sell(${objectId}, ${itemInv.item_id}, ${itemInv.enchant_level}, ${itemInv.object_id})">Sell</button>
                             </td>
                         </tr>
                     `;
@@ -138,44 +138,41 @@ class Auction
 
     }
 
-    addAuction()
+    async addAuction()
     {
         this.setActive('addAuction');
 
         // se borra el viejo contenido
         $('#content').html('');
 
-        $.get('../api/islogin.php', null, (result) =>
+        let result = await $.get('../api/islogin.php');
+        if (result == 'false')
         {
-            if (result == 'false')
-            {
-                return;
-            }
+            return;
+        }
 
-            $.get('../api/getCharacters.php', null, (result) =>
-            {
-                let characters = JSON.parse(result);
+        $.get('../api/getCharacters.php', null, (result) =>
+        {
+            let characters = JSON.parse(result);
 
-                let html = '';
-                characters.forEach(character =>
-                {
-                    let charTitle = character.title == '' ? 'N/A' : character.title;
-                    html +=
-                        `
+            let html = '';
+            characters.forEach(character =>
+            {
+                let charTitle = character.title == '' ? 'N/A' : character.title;
+                html +=
+                    `
                         <div class="row pb-2 pt-2 row-add-auction">
                             <div class="col-6">
                                  ${character.char_name}  ( ${charTitle} )
                             </div>
                             <div class="col-6">
-                                <button class="btn btn-sm btn-block btn-color-primary" onclick="auction.viewItemsFromCharacter(${character.obj_Id})">Ver items</button>
+                                <button class="btn btn-sm btn-block btn-normal" onclick="auction.viewItemsFromCharacter(${character.obj_Id})">Ver items</button>
                             </div>
                         </div>
                     `;
-                });
-
-                $('#content').append(html);
             });
 
+            $('#content').append(html);
         });
     }
 
@@ -369,7 +366,7 @@ class Auction
                             ${coin.name}
                         </td>
                         <td class="mt-3">
-                            <button class="btn btn-sm btn-block btn-color-primary" onclick="auction.generateBuyModal(${count}, '${itemJSON.name}', ${item.id}, ${item.item_enchant_level}, ${item.price_count}, '${itemJSON.img}', '${coin.name}')">Buy</button>
+                            <button class="btn btn-sm btn-block btn-normal" onclick="auction.generateBuyModal(${count}, '${itemJSON.name}', ${item.id}, ${item.item_enchant_level}, ${item.price_count}, '${itemJSON.img}', '${coin.name}')">Buy</button>
                         </td>
                     </tr> 
                 `;
@@ -379,8 +376,15 @@ class Auction
         });
     }
 
-    generateBuyModal(position, item_name, row_id, item_enchant_level, price_count, itemImg, coin)
+    async generateBuyModal(position, item_name, row_id, item_enchant_level, price_count, itemImg, coin)
     {
+        let result = await $.get('../api/islogin.php');
+        if (result == 'false')
+        {
+            displayAlert('Need login to buy', 'INFO');
+            return;
+        }
+
         openModal('modalBuyConfirmItem', () =>
         {
             $.get('../api/getCharacters.php', null, (result) =>
@@ -537,6 +541,11 @@ class Auction
 
         $('#content').html('');
 
+        let result = await $.get('../api/islogin.php');
+        if (result == 'false')
+        {
+            return;
+        }
         let html = '';
         // ITEMS A LA VENTA -----------------------------------------------
         let resultSale = await $.get('../api/auctionGetItemsOnSale.php');
@@ -573,7 +582,7 @@ class Auction
                         <td>${item.item_grade}</td>
                         <td>${nf.format(item.price_count)}</td>
                         <td>${coin.name}</td>
-                        <td class="mt-3"><button class="btn btn-sm btn-block btn-color-primary" onclick="auction.cancelAuction(${item.id})">Delete</button></td>
+                        <td class="mt-3"><button class="btn btn-sm btn-block btn-normal" onclick="auction.cancelAuction(${item.id})">Delete</button></td>
                     </tr> 
                     `;
                 count++;
@@ -621,7 +630,7 @@ class Auction
                         <td>${item.item_count}</td>
                         <td>${nf.format(item.item_count * item.price_count)}</td>
                         <td>${coin.name}</td>
-                        <td class="mt-3"><button class="btn btn-sm btn-block btn-color-primary" onclick="auction.openModalClaimItem(${item.id}, '${img}', '${itemName}', ${item.item_count}, ${item.item_count * item.price_count}, '${coin.name}')">Claim</button></td>
+                        <td class="mt-3"><button class="btn btn-sm btn-block btn-normal" onclick="auction.openModalClaimItem(${item.id}, '${img}', '${itemName}', ${item.item_count}, ${item.item_count * item.price_count}, '${coin.name}')">Claim</button></td>
                     </tr>
                     `;
                 count++;

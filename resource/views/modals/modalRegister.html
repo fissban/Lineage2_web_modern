@@ -1,16 +1,16 @@
-<div class="row">
-    <div class="col-12 bg-color-title text-center">
-        Register accounts
-    </div>
-</div>
-<div class="row pt-3">
-    <div class="col-12 text-center">Please pay attention to the data you enter that you will not be able to recover your account if you forget the password!</div>
-</div>
-<div class="row">
-    <div class="col-2"></div>
-    <div class="col-8">
-        <div class="row pt-5">
-            <div class="col-12">
+<div class="modal" id="modal" tabindex="-1" style="backdrop-filter: blur(15px) saturate(130%);">
+    <div class="modal-dialog ">
+        <div class="modal-content bg-color-title">
+            <div class="modal-header">
+                <h5 class="modal-title text-color-primary">Register</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row pt-3">
+                    <div class="col-12 text-center">Please pay attention to the data you enter that you will not be able to recover your account if you forget the password!</div>
+                </div>
                 <form onsubmit="return registerAccount()">
                     <div class="form-group">
                         <label for="formUser">User</label>
@@ -24,30 +24,22 @@
                         <label for="formPassRepeat">Repeat password</label>
                         <input type="password" class="form-control" id="formPassRepeat">
                     </div>
-                    <button type="submit" class="btn btn-sm btn-block btn-color-primary">Submit</button>
+                    <button type="submit" class="btn btn-sm btn-block btn-normal">Submit</button>
                 </form>
             </div>
         </div>
-        <div class="row pt-5">
-            <div class="col-12">
-                <span id="alertRegister" class="text-light"></span>
-            </div>
-        </div>
-
     </div>
-    <div class="col-2"></div>
 </div>
 
 <script>
-
     function registerAccount()
     {
         if (document.getElementById('formPass').value != document.getElementById('formPassRepeat').value)
         {
-            document.getElementById('alertRegister').textContent = 'The passwords do not match!';
+            displayAlert('The passwords do not match!', 'WARNING');
             return false;
         }
-        document.getElementById('alertRegister').textContent = 'working...';
+
         let sendValues =
         {
             user: document.getElementById('formUser').value,
@@ -56,7 +48,17 @@
 
         $.post('./api/register.php', sendValues, (result) =>
         {
-            document.getElementById('alertRegister').textContent = result
+            let json = JSON.parse(result);
+
+            if (json.type == 'wrong')
+            {
+                displayAlert(json.message, 'WARNING');
+            }
+            else
+            {
+                // se cierra el actual modal
+                $('.modal').modal('hide');
+            }
         });
         return false;
     }

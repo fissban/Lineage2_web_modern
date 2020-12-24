@@ -81,8 +81,8 @@ function createPanelCharacter(character, clases)
             <div class="row">
                 <div class="col-12 text-center">
                     <ul class="menu-cha">
-                        <li><button onclick="viewInventory('${character.obj_Id}')" class="menu-cha-item btn btn-sm btn-color-primary">Inventario</button></li>
-                        <li><button onclick="moveCharacter('${character.char_name}')" class="menu-cha-item btn btn-sm btn-color-primary">Mover a zona segura</button></li>
+                        <li><button onclick="viewInventory('${character.obj_Id}')" class="menu-cha-item btn btn-sm btn-normal">Inventario</button></li>
+                        <li><button onclick="moveCharacter('${character.char_name}')" class="menu-cha-item btn btn-sm btn-normal">Mover a zona segura</button></li>
                     </ul>
                 </div>
             </div>

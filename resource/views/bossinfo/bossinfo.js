@@ -16,8 +16,8 @@ $.get('../api/grandBossInfo.php', (result) =>
                     <td class="td-boss">${bossJSON.level}</td>
                     <td class="td-boss ${isDead ? 'text-danger' : 'text-success'}">${isDead > 0 ? 'DEAD' : 'LIVE'}</td>
                     <td class="td-boss">${respawn_time}</td>
-                    <td class="td-boss"><button class="btn btn-sm btn-block btn-color-primary" onclick="infoRaid('${boss.boss_id}','drop')">Drop</button></td>
-                    <td class="td-boss"><button class="btn btn-sm btn-block btn-color-primary" onclick="infoRaid('${boss.boss_id}','skill')">Skills</button></td>
+                    <td class="td-boss"><button class="btn btn-sm btn-block btn-normal" onclick="infoRaid('${boss.boss_id}','drop')">Drop</button></td>
+                    <td class="td-boss"><button class="btn btn-sm btn-block btn-normal" onclick="infoRaid('${boss.boss_id}','skill')">Skills</button></td>
                 </tr>
             `;
             $('#infoTable1').append(html);
@@ -43,8 +43,8 @@ $.get('../api/bossInfo.php', (result) =>
                     <td class="td-boss">${bossJSON.level}</td>
                     <td class="td-boss ${isDead ? 'text-danger' : 'text-success'}">${isDead > 0 ? 'DEAD' : 'LIVE'}</td>
                     <td class="td-boss">${respawn_time}</td>
-                    <td class="td-boss"><button class="btn btn-sm btn-block btn-color-primary" onclick="infoRaid('${boss.boss_id}','drop')">Drop</button></td>
-                    <td class="td-boss"><button class="btn btn-sm btn-block btn-color-primary" onclick="infoRaid('${boss.boss_id}','skill')">Skills</button></td>
+                    <td class="td-boss"><button class="btn btn-sm btn-block btn-normal" onclick="infoRaid('${boss.boss_id}','drop')">Drop</button></td>
+                    <td class="td-boss"><button class="btn btn-sm btn-block btn-normal" onclick="infoRaid('${boss.boss_id}','skill')">Skills</button></td>
                 </tr>
             `;
             $('#infoTable2').append(html);

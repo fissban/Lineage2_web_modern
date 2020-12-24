@@ -3,9 +3,17 @@
 include("./database/mysql.php");
 $db = new ConnectDB();
 
+$data =
+    [
+        "type" => "wrong",
+        "message" => ""
+    ];
+
+
 if (!isset($_POST['user'], $_POST['pass']))
 {
-    echo 'que fea la actitud';
+    $data['message'] = "NO!!";
+    echo json_encode($data);
     return;
 }
 
@@ -14,29 +22,34 @@ $pass_notEncrypt = trim($_POST['pass']);
 
 if (!ctype_alnum($user) || !ctype_alnum($pass_notEncrypt))
 {
-    echo 'Only letters and numbers are allowed';
+    $data['message'] = "Only letters and numbers are allowed";
+    echo json_encode($data);
     return;
 }
 
 if (strlen($user) < 3)
 {
-    echo 'Username is too short';
+    $data['message'] = "Username is too short";
+    echo json_encode($data);
     return;
 }
 if (strlen($pass_notEncrypt) < 3)
 {
-    echo 'Password is too short';
+    $data['message'] = "Password is too short";
+    echo json_encode($data);
     return;
 }
 
 if (strlen($user) > 12)
 {
-    echo 'The username is too long';
+    $data['message'] = "The username is too long";
+    echo json_encode($data);
     return;
 }
 if (strlen($pass_notEncrypt) > 12)
 {
-    echo 'The password is too long';
+    $data['message'] = "The password is too long";
+    echo json_encode($data);
     return;
 }
 
@@ -52,7 +65,8 @@ $result = $db->executeQueryParams("SELECT login FROM accounts WHERE login=? LIMI
 
 while ($row = $result->fetch())
 {
-    echo 'The account already exists, try another.';
+    $data['message'] = "The account already exists, try another.";
+    echo json_encode($data);
     return;
 }
 
@@ -60,12 +74,14 @@ $result = $db->executeQueryParams("INSERT INTO accounts (login,password) VALUES 
 
 if ($result)
 {
-    echo 'Your account was registered with exito';
+    $data['message'] = "your account was successfully registered";
+    echo json_encode($data);
+    return;
 }
-else
-{
-    echo 'Theres been a problem';
-}
+
+$data['message'] = "Theres been a problem";
+echo json_encode($data);
+
 
 function randomString($size)
 {

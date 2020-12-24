@@ -1,8 +1,0 @@
-.panel-event {
-    border-bottom: 1px solid #b2b195;
-    transition: all 0.25s;
-}
-
-.panel-event:hover {
-    background-color: #000000a8 !important;
-}

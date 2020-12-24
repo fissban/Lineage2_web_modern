@@ -1,4 +1,4 @@
-const MENU = ['home', 'features', 'downloads', 'donate', 'events', 'votes', 'register', 'auction', 'bossinfo'];
+const MENU = ['home', 'features', 'downloads', 'donate', 'auction', 'bossinfo'];
 
 const MENU_LOGIN = ['characters', 'change_password'];
 
@@ -19,9 +19,9 @@ $(document).ready(() =>
 {
     // carga de los diferentes modulos base de la pag
     $('#status').load('./resource/views/status.html');
-    $('#ranking-pvp').load('./resource/views/ranking-pvp.html');
-    $('#ranking-pk').load('./resource/views/ranking-pk.html');
-    $('#castles').load('./resource/views/castles.html');
+    $('#vote').load('./resource/views/vote.html');
+    $('#facebook').load('./resource/views/facebook.html');
+    $('#discord').load('./resource/views/discord.html');
     $('#footer').load('./resource/views/footer.html');
 
     setTop();
@@ -177,6 +177,10 @@ function openModal(id, callback = null)
         // finalmente se abre el modal
         $('#modal').modal({ show: true, backdrop: true });
 
-        callback();
+        if (callback)
+        {
+            callback();
+        }
+
     });
 }
