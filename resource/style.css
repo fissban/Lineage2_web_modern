@@ -68,7 +68,7 @@
 .btn-normal {
     color: #f0eee7;
     font-weight: bolder;
-    background: linear-gradient(180deg, #b96529 0%, #64321d 61%);
+    background: linear-gradient(180deg, #805e4c 0%, #3e2011 61%);
     border: 1px solid transparent;
     border-image: url(../img/border3.png) 6 stretch;
     transition: all 0.25s;
@@ -77,7 +77,7 @@
 
 .btn-normal:hover {
     color: #e8be29;
-    background: linear-gradient(180deg, rgb(134, 67, 19) 0%, #4d1a04 61%);
+    background: linear-gradient(180deg, #5f4232 0%, #3e2011 61%);
 }
 
 .link-cursor:hover {
