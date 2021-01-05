@@ -15,7 +15,7 @@ async function getItemById(id)
         depositable: "false"
     };
 
-    let itemsJSON = await $.getJSON('../../json/items.json');
+    let itemsJSON = await $.getJSON('../json/items.json');
 
     return itemsJSON.find(it => it.id == id);
     ;

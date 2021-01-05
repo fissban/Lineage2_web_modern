@@ -5,6 +5,7 @@
     <title>DevsAdmins</title>
 
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="fissban">
     <meta name="keywords" content="lineage2, l2server, server privado, server hispano l2, server español l2, l2j">
 
@@ -42,52 +43,53 @@
 
     <div class="container-fluid">
         <div class="row mt-3 mb-3">
-            <div class="col-12 text-center">
-                <img class="logo" src="./img/l2logosmall_3_orig.png" alt="page logo">
+            <div class="col text-center">
+                <img src="./img/l2logosmall_3_orig.png" style="max-width: 100%;" alt="page logo">
             </div>
         </div>
     </div>
 
-    <div class="container-fluid pb-5 bg-dark">
-        <div class="row">
-            <div class="col-12" id="navbar">
-                <nav>
-                    <ul class="menu-ppal">
-                        <li><a class="menu-ppal-item link-cursor" id="home">Home</a></li>
-                        <li><a class="menu-ppal-item link-cursor" id="features">Features</a></li>
-                        <li><a class="menu-ppal-item link-cursor" id="downloads">Downloads</a></li>
-                        <li><a class="menu-ppal-item link-cursor" id="donate">Donations</a></li>
-                        <li><a class="menu-ppal-item link-cursor" id="auction">Auction</a></li>
-                        <li><a class="menu-ppal-item link-cursor" id="bossinfo">Boss Info</a></li>
-                    </ul>
-                </nav>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark pb-4">
+        <div class=" container-fluid">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                MENU
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse menu-ppal" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="home">Home</a></li>
+                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="features">Features</a></li>
+                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="downloads">Downloads</a></li>
+                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="donate">Donations</a></li>
+                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="auction">Auction</a></li>
+                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="bossinfo">Boss Info</a></li>
+                </ul>
             </div>
         </div>
-        <div class="row">
-            <div class="col-12 pt-3 pr-4">
-                <div class="panel-ppal">
-                    <div class="panel-left panel-border" id="board">
-                        <!-- Aqui se indexan los html -->
-                    </div>
-                    <div class="panel-right">
-                        <div id="status">
-                            <!-- status -->
-                        </div>
-                        <div id="facebook">
-                            <!-- facebook -->
-                        </div>
-                        <div id="vote">
-                            <!-- vote -->
-                        </div>
+    </nav>
 
-                        <div id="discord">
-                            <!-- discord -->
-                        </div>
-                    </div>
+    <div class="container-fluid pb-5 bg-dark">
+        <div class="row justify-content-around">
+            <div class="col-md-8 panel-border mb-3" id="board">
+                <!-- Aqui se indexan los html -->
+            </div>
+            <div class="col-md-3">
+                <div id="status">
+                    <!-- status -->
+                </div>
+                <div id="facebook">
+                    <!-- facebook -->
+                </div>
+                <div id="vote">
+                    <!-- vote -->
+                </div>
+
+                <div id="discord">
+                    <!-- discord -->
                 </div>
             </div>
         </div>
-
     </div>
 
     <div id="modal-container">

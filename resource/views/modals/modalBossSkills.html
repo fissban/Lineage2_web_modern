@@ -39,7 +39,7 @@
                     }
                 });
                 let html = '<div class="row">';
-                html += '<div class="col-2 pb-3"><img class="border-modal-color" src="../../../img/texturesGame/icons/' + getSkillIcon(skill.id) + '" title="lala"></div>';
+                html += '<div class="col-2 pb-3"><img class="border-modal-color" src="../img/texturesGame/icons/' + getSkillIcon(skill.id) + '" title="lala"></div>';
                 html += '<div class="col-10 pb-3 text-left"> ' + skillName + ' Lv: ' + skill.level + '</div>';
                 html += '</div>';
                 $('#skills-panel-boss').append(html);
@@ -75,7 +75,7 @@
         name += '.png';
 
         var http = new XMLHttpRequest();
-        http.open('HEAD', '../../../img/texturesGame/icons/' + name, false);
+        http.open('HEAD', '../img/texturesGame/icons/' + name, false);
         http.send();
         if (http.status == 404)
         {

@@ -100,11 +100,9 @@
 .menu-ppal-item {
     color: #e4e0d4;
     text-decoration: none;
-    padding-bottom: 14px;
-    width: 6rem;
+    width: 10rem;
     position: relative !important;
     display: block;
-    top: 16px;
     border-bottom: 2px solid #007bff00;
     transition: all 0.25s;
 }

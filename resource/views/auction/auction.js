@@ -26,16 +26,17 @@ class Auction
         {
             let inventory = JSON.parse(result);
 
-            $.getJSON('../../json/items.json', (itemsJSON) =>
+            $.getJSON('../json/items.json', (itemsJSON) =>
             {
                 let html =
                     `
+                        <div class="table-responsive">
                         <table class="table-dark table-borderless" style="width:100%;font-size: medium;">
                         <thead class="text-center">
                             <th></th>
                             <th>Name</th>
                             <th>Count</th>
-                            <th>Price <img src="../../../img/texturesGame/l2ui_ct1/Icon_DF_Common_Adena.png" alt="adena icon" title="adena icon"></th>
+                            <th>Price <img src="../img/texturesGame/l2ui_ct1/Icon_DF_Common_Adena.png" alt="adena icon" title="adena icon"></th>
                             <th>Coin</th>
                             <th></th>
                         </thead>
@@ -51,7 +52,7 @@ class Auction
                     // se obtiene el nombre del item de acuerdo a su id
                     let itemJSON = itemsJSON.find(it => it.id == itemInv.item_id);
 
-                    let img = '../../../img/texturesGame/icons/' + itemJSON.img + '.png';
+                    let img = '../img/texturesGame/icons/' + itemJSON.img + '.png';
 
                     let classRow = (count % 2 == 0) ? 'row-light' : 'row-dark';
                     html +=
@@ -89,7 +90,7 @@ class Auction
                     count++;
                 });
 
-                html += '</tbody></table>';
+                html += '</tbody></table></div>';
                 $('#content').append(html);
             });
         });
@@ -97,7 +98,7 @@ class Auction
 
     sell(owner_id, item_id, item_enchant_level, object_id)
     {
-        $.getJSON('../../json/items.json', (itemsJSON) =>
+        $.getJSON('../json/items.json', (itemsJSON) =>
         {
             itemsJSON.forEach(itemJson =>
             {
@@ -190,7 +191,7 @@ class Auction
             <div class="col-3 pb-2" style="border-right: 1px solid #d2c38d;">
                 <ul class="nav flex-column">
                     <li class="nav-item pt-1" id="ALL">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'ALL', 'ALL')">All</a>
                     </li>
                 </ul>
@@ -201,31 +202,31 @@ class Auction
                 </div>
                 <ul class="nav flex-column">
                     <li class="nav-item pt-1" id="SLOT_HEAD">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'SLOT', 'SLOT_HEAD')">Head</a>
                     </li>
                     <li class="nav-item pt-1" id="SLOT_FULL_ARMOR">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'SLOT', 'SLOT_FULL_ARMOR')">Full Armor</a>
                     </li>
                     <li class="nav-item pt-1" id="SLOT_CHEST">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'SLOT', 'SLOT_CHEST')">Armor</a>
                     </li>
                     <li class="nav-item pt-1" id="SLOT_LEGS">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'SLOT', 'SLOT_LEGS')">Pants</a>
                     </li>
                     <li class="nav-item pt-1" id="SLOT_FEET">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'SLOT', 'SLOT_FEET')">Boats</a>
                     </li>
                     <li class="nav-item pt-1" id="SLOT_GLOVES">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'SLOT', 'SLOT_GLOVES')">Gloves</a>
                     </li>
                     <li class="nav-item pt-1" id="SHIELD">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'SHIELD')">Shields</a>
                     </li>
                 </ul>
@@ -236,39 +237,39 @@ class Auction
                 </div>
                 <ul class="nav flex-column">
                     <li class="nav-item pt-1" id="DAGGER">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'DAGGER')">Daggers</a>
                     </li>
                     <li class="nav-item pt-1" id="BLUNT">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'BLUNT')">Blunts</a>
                     </li>
                     <li class="nav-item pt-1" id="BIGBLUNT">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'BIGBLUNT')">Big Blunts</a>
                     </li>
                     <li class="nav-item pt-1" id="SWORD">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'SWORD')">Swords</a>
                     </li>
                     <li class="nav-item pt-1" id="DUAL">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'DUAL')">Dual Swords</a>
                     </li>
                     <li class="nav-item pt-1" id="BOW">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'BOW')">Bows</a>
                     </li>
                     <li class="nav-item pt-1" id="POLEARM">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'POLEARM')">Polearms</a>
                     </li>
                     <li class="nav-item pt-1" id="FIST">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'FIST')">Fist</a>
                     </li>
                     <li class="nav-item pt-1" id="DUALFIST">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'DUALFIST')">Dual Fist</a>
                     </li>
                 </ul>
@@ -279,15 +280,15 @@ class Auction
                 </div>
                 <ul class="nav flex-column">
                     <li class="nav-item pt-1" id="SCRL_ENCHANT_AM">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'SCRL_ENCHANT_AM')">Enchant Armor</a>
                     </li>
                     <li class="nav-item pt-1" id="SCRL_ENCHANT_WP">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'TYPE', 'SCRL_ENCHANT_WP')">Enchant Weapon</a>
                     </li>
                     <li class="nav-item pt-1" id="SLOT_NONE">
-                        <img src="../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
+                        <img src="../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png" alt="icon position">
                         <a class="text-menu" onclick="auction.searchItem(1, 'SLOT', 'SLOT_NONE')">Others</a>
                     </li>
                 </ul>
@@ -309,6 +310,7 @@ class Auction
         // se inicializa la base del html
         let html =
             `
+            <div class="table-responsive">
                 <table class="table table-sm fs-6 table-dark table-borderless" style="width:100%;font-size: medium;">
                 <thead>
                     <th></th>
@@ -320,12 +322,13 @@ class Auction
                     <th></th>
                 </thead>
                 <tbody>
+            
             `;
 
         // se convierte a json los resultados traidos desde la DB
         let items = JSON.parse(result);
         // se leen las propiedades de los items creados por nosotros
-        $.getJSON('../../json/items.json', (itemsJSON) =>
+        $.getJSON('../json/items.json', (itemsJSON) =>
         {
             let sortOrderItems = ['S', 'A', 'B', 'C', 'D', 'NONE'];
             // custom shorted list
@@ -341,7 +344,7 @@ class Auction
             {
                 let coin = itemsJSON.find(it => it.id == item.price_id);
                 let itemJSON = itemsJSON.find(it => it.id == item.item_id);
-                let img = '../../../img/texturesGame/icons/' + itemJSON.img + '.png';
+                let img = '../img/texturesGame/icons/' + itemJSON.img + '.png';
 
                 let classRow = (count % 2 == 0) ? 'row-light' : 'row-dark';
                 html +=
@@ -372,6 +375,13 @@ class Auction
                 `;
                 count++;
             });
+
+            html +=
+                `
+                    </tbody>
+                </table>
+            </div>
+            `;
             $('#content-items').append(html);
         });
     }
@@ -396,7 +406,7 @@ class Auction
                 $('#itemCountBuy').text(count_buy);
                 $('#itemNameBuy').text(item_name + (item_enchant_level > 0 ? (' +' + item_enchant_level) : ''));
                 $('#itemPriceBuy').text(Intl.NumberFormat().format(count_buy * price_count));
-                $('#itemImgBuy').attr('src', '../../../img/texturesGame/icons/' + itemImg + '.png');
+                $('#itemImgBuy').attr('src', '../img/texturesGame/icons/' + itemImg + '.png');
                 $('#itemCoin').text(coin);
 
                 characters.forEach(cha =>
@@ -431,12 +441,12 @@ class Auction
      */
     setMenuAuctionActive(id)
     {
-        document.getElementById(id).childNodes[1].src = "../../img/texturesGame/l2ui_ch3/questwndplusbtn_over.png";
+        document.getElementById(id).childNodes[1].src = "../img/texturesGame/l2ui_ch3/questwndplusbtn_over.png";
         document.getElementById(id).childNodes[3].classList.add('text-warning');
 
         if (this.lastMenuAuctionActive != '')
         {
-            document.getElementById(this.lastMenuAuctionActive).childNodes[1].src = "../../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png";
+            document.getElementById(this.lastMenuAuctionActive).childNodes[1].src = "../img/texturesGame/l2ui_ch3/questwndminusbtn_over.png";
             document.getElementById(this.lastMenuAuctionActive).childNodes[3].classList.remove('text-warning');
         }
 
@@ -505,6 +515,7 @@ class Auction
                 ITEMS ON SALE
             </div>
         </div>
+        <div class="table-responsive">
         <table class="table-dark table-borderless" style="width:100%;font-size: medium;">
             <thead>
                 <th></th>
@@ -524,6 +535,7 @@ class Auction
                 ITEMS SOLD
             </div>
         </div>
+        <div class="table-responsive">
         <table class="table-dark table-borderless" style="width:100%;font-size: medium;">
             <thead>
                 <th></th>
@@ -565,13 +577,13 @@ class Auction
 
             let count = 0;
             let nf = Intl.NumberFormat();
-            let itemsJSON = await $.getJSON('../../json/items.json');
+            let itemsJSON = await $.getJSON('../json/items.json');
 
             items.data.forEach(async item =>
             {
                 let coin = itemsJSON.find(it => it.id == item.price_id);
                 let itemJSON = itemsJSON.find(it => it.id == item.item_id);
-                let img = '../../../img/texturesGame/icons/' + itemJSON.img + '.png';
+                let img = '../img/texturesGame/icons/' + itemJSON.img + '.png';
                 let classRow = (count % 2 == 0) ? 'row-light' : 'row-dark';
                 html +=
                     `
@@ -587,7 +599,7 @@ class Auction
                     `;
                 count++;
             });
-            html += '</tbody></table>'
+            html += '</tbody></table></div>'
         }
         // ITEMS VENDIDOS -----------------------------------------------
         let resultSold = await $.get('../api/auctionGetItemsSold.php');
@@ -614,12 +626,12 @@ class Auction
 
             let count = 0;
             let nf = Intl.NumberFormat();
-            let itemsJSON = await $.getJSON('../../json/items.json');
+            let itemsJSON = await $.getJSON('../json/items.json');
             items.data.forEach(async item =>
             {
                 let coin = itemsJSON.find(it => it.id == item.price_id);
                 let itemJSON = itemsJSON.find(it => it.id == item.item_id);
-                let img = '../../../img/texturesGame/icons/' + itemJSON.img + '.png';
+                let img = '../img/texturesGame/icons/' + itemJSON.img + '.png';
                 let itemName = itemJSON.name + item.item_enchant_level > 0 ? ('<span class="text-warning">+' + item.item_enchant_level + '</span>') : '';
                 let classRow = (count % 2 == 0) ? 'row-light' : 'row-dark';
                 html +=
