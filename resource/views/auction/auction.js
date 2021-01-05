@@ -73,8 +73,7 @@ class Auction
                             <td>
                                 <div class="col-sm-12">
                                     <select class="form-select form-control-sm custom-form" id="formCoin_${itemInv.object_id}" style="width: 100%">
-                                        <option selected>Choose...</option>
-                                        <option value="57">Adena</option>
+                                        <option value="57" selected>Adena</option>
                                         <option value="2807">Gold Bar</option>
                                         <option value="3435">Nvidia</option>
                                         <option value="3434">Coke</option>
@@ -120,6 +119,9 @@ class Auction
                         price_id: $('#formCoin_' + object_id).val(),
                     };
 
+                    console.log($('#formCoin_' + object_id).val());
+
+                    return;
                     $.post('../api/auctionAddItem.php', sendValues, (result) =>
                     {
                         let json = JSON.parse(result);
