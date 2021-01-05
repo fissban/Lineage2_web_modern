@@ -7,33 +7,3 @@
         </div>
     </div>
 </div>
-<script>
-    $.get('./api/getpk.php', (result) =>
-    {
-        let json = JSON.parse(result);
-
-        let tablepk = document.getElementById('tablepk');
-        let pos = 1;
-        json.forEach(character =>
-        {
-            let tr = document.createElement('tr');
-
-            let tdPos = document.createElement('td');
-            tdPos.innerHTML = '<img src="../../img/texturesGame/l2ui_ch3/ps_sizecontrol2.png" alt="icon position">' + pos;
-
-            let tdName = document.createElement('td')
-            tdName.textContent = character.char_name;
-
-            let tdPvp = document.createElement('td');
-            tdPvp.textContent = character.pkkills;
-
-            tr.appendChild(tdPos);
-            tr.appendChild(tdName);
-            tr.appendChild(tdPvp);
-
-            tablepk.appendChild(tr);
-            pos++;
-        });
-
-    });
-</script>

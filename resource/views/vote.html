@@ -55,32 +55,5 @@
     </div>
 </div>
 <script>
-    $.get('./api/getpvp.php', (result) =>
-    {
-        let json = JSON.parse(result);
 
-        let tablepvp = document.getElementById('tablepvp');
-        let pos = 1;
-        json.forEach(character =>
-        {
-            let tr = document.createElement('tr');
-
-            let tdPos = document.createElement('td');
-            tdPos.innerHTML = '<img src="../img/texturesGame/l2ui_ch3/ps_sizecontrol2.png" alt="icon position">' + pos;
-
-            let tdName = document.createElement('td')
-            tdName.textContent = character.char_name;
-
-            let tdPvp = document.createElement('td');
-            tdPvp.textContent = character.pvpkills;
-
-            tr.appendChild(tdPos);
-            tr.appendChild(tdName);
-            tr.appendChild(tdPvp);
-
-            tablepvp.appendChild(tr);
-            pos++;
-        });
-
-    });
 </script>

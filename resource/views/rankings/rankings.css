@@ -1,0 +1,33 @@
+.nav-ranking-on {
+    color: #495057 !important;
+    background-color: #e8be29 !important;
+    border-top: 1px solid #e8be29;
+    border-bottom: none;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.nav-ranking-off {
+    color: #cbced1 !important;
+    background-color: #5c5c5b !important;
+    border-top: 1px solid #272727;
+    border-right: 1px solid #272727;
+    border-bottom: none;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.nav-ranking-off:hover {
+    background-color: #464645 !important;
+    border-top: 1px solid #272727;
+    border-right: 1px solid #272727;
+
+}
+
+.nav-tabs-ranking {
+    border-bottom: 1px solid #e8be29;
+}
+
+.td-ranking {
+    border-bottom: 1px solid #d2c38d;
+}

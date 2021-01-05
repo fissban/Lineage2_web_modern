@@ -3,31 +3,3 @@
         <iframe src="https://discord.com/widget?id=791675154601213963&theme=dark" width="100%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </div>
 </div>
-<script>
-    $.get('./api/getcastlesowner.php', (result) =>
-    {
-        let json = JSON.parse(result);
-
-        let tablepk = document.getElementById('tablesCastles');
-        json.forEach(castle =>
-        {
-            let tr = document.createElement('tr');
-
-            let tdPos = document.createElement('td');
-            tdPos.innerHTML = '<img src="../../img/texturesGame/l2ui_ch3/ps_sizecontrol2.png" alt="icon position">';
-
-            let tdCastle = document.createElement('td')
-            tdCastle.textContent = castle.castle;
-
-            let tdOwner = document.createElement('td');
-            tdOwner.textContent = castle.owner;
-
-            tr.appendChild(tdPos);
-            tr.appendChild(tdCastle);
-            tr.appendChild(tdOwner);
-
-            tablepk.appendChild(tr);
-        });
-
-    });
-</script>
