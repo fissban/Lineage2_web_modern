@@ -119,9 +119,6 @@ class Auction
                         price_id: $('#formCoin_' + object_id).val(),
                     };
 
-                    console.log($('#formCoin_' + object_id).val());
-
-                    return;
                     $.post('../api/auctionAddItem.php', sendValues, (result) =>
                     {
                         let json = JSON.parse(result);
