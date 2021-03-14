@@ -1,0 +1,43 @@
+<div class="row">
+    <div class="col-12 bg-color-title bg-hero text-center">
+        Auction
+    </div>
+</div>
+<div class="row pt-2">
+    <div class="col">
+        <ul class="nav nav-tabs-auction">
+            <li class="nav-item">
+                <a class="nav-link text-menu nav-auction-on" id="auctionList" onclick="auction.getAuctions()">Auction List</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-menu nav-auction-off" id="yourAuction" onclick="auction.getMyAuctions()">Your Auctions</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-menu nav-auction-off" id="addAuction" onclick="auction.addAuction()">Add Auction</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="container-fluid" style="border: 1px solid #e8be29; background-color: #0f0e0e;">
+    <!-- <div class="row pt-2 pb-2">
+        <div class="col-2"></div>
+        <div class="col"><a class="btn btn-sm btn-block btn-normal" id="all">All</a></div>
+        <div class="col"><a class="btn btn-sm btn-block btn-normal" id="item_type_none">None</a></div>
+        <div class="col"><a class="btn btn-sm btn-block btn-normal" id="item_type_d">D</a></div>
+        <div class="col"><a class="btn btn-sm btn-block btn-normal" id="item_type_c">C</a></div>
+        <div class="col"><a class="btn btn-sm btn-block btn-normal" id="item_type_b">B</a></div>
+        <div class="col"><a class="btn btn-sm btn-block btn-normal" id="item_type_a">A</a></div>
+        <div class="col"><a class="btn btn-sm btn-block btn-normal" id="item_type_s">S</a></div>
+    </div> -->
+    <div class="row">
+        <div class="col-12 text-center text-dark bg-warning">
+            <b>*** The sale of accumulative items is per unit and not for the total number of items offered for sale. ***</b>
+        </div>
+    </div>
+    <div class="row" style="border-top: 1px solid #e8be29;">
+        <div class="col-12" id="content">
+
+        </div>
+    </div>
+</div>

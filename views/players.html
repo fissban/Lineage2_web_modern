@@ -1,0 +1,18 @@
+<div class="row panel-border mb-3">
+    <div class="col-12 bg-color-panel-right">
+        <table class="table table-sm table-borderless text-light">
+            <tr>
+                <td class="text-light">Players Online:</td>
+                <td class="text-light text-center"><span id="playerOnline"></span></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<script>
+    $.get('./api/playersOnline.php', (result) =>
+    {
+        let json = JSON.parse(result);
+        document.getElementById('playerOnline').textContent = json[0].count;
+    });
+</script>

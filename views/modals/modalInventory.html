@@ -1,0 +1,272 @@
+<style>
+    .border-inv-color {
+        border: 1px solid #d2c38d;
+        width: 48px;
+        height: 48px;
+    }
+
+
+    .panel-inv {
+        height: 250px;
+        max-height: 250px;
+        overflow-x: auto;
+        border-top: 1px solid #d2c38d;
+        background-color: #2c1607;
+        padding-right: 35px !important;
+    }
+</style>
+<div class="modal" id="modal" tabindex="-1" style="backdrop-filter: blur(15px) saturate(130%);">
+    <div class="modal-dialog">
+        <div class="modal-content bg-color-title">
+            <div class="modal-header">
+                <h5 class="modal-title text-color-primary">Inventory</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" style="padding:0;">
+                <div class="container-fluid pt-3 pb-3">
+                    <div class="row">
+                        <div class="col-7">
+                            <!-- items equipados START -->
+                            <div class="row pb-1">
+                                <div class="col-4"></div>
+                                <div class="col-4">
+                                    <img id="slotHead" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/head.png" width="100%">
+                                </div>
+                                <div class="col-4"></div>
+                            </div>
+                            <div class="row pb-1">
+                                <div class="col-4 ">
+                                    <img id="slotRHand" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/rhand.png" width="100%" title="empty left hand">
+                                </div>
+                                <div class="col-4">
+                                    <img id="slotBody" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/body.png" width="100%" title="empty body">
+                                </div>
+                                <div class="col-4">
+                                    <img id="slotLHand" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/lhand.png" width="100%" title="empty right hand">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <img id="slotGloves" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/gloves.png" width="100%" title="empty gloves">
+                                </div>
+                                <div class="col-4">
+                                    <img id="slotPant" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/pants.png" width="100%" title="empty pants">
+                                </div>
+                                <div class="col-4">
+                                    <img id="slotBoats" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/boats.png" width="100%" title="empty boats">
+                                </div>
+                            </div>
+                            <!-- items equipados END -->
+                        </div>
+                        <div class="col-1">
+
+                        </div>
+                        <div class="col-4">
+                            <div class="row pb-1">
+                                <div class="col-6">
+                                </div>
+                                <div class="col-6">
+                                    <img id="slotNeklase" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/neklase.png" width="100%" title="empty boats">
+                                </div>
+                            </div>
+                            <div class="row pb-1">
+                                <div class="col-6">
+                                    <img id="slotLHear" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/lhear.png" width="100%" title="empty boats">
+                                </div>
+                                <div class="col-6">
+                                    <img id="slotRHear" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/rhear.png" width="100%" title="empty boats">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-6">
+                                    <img id="slotLFinger" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/lfinger.png" width="100%" title="empty boats">
+                                </div>
+                                <div class="col-6">
+                                    <img id="slotRFinger" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/rfinger.png" width="100%" title="empty boats">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- items inventario -->
+                    <div class="row pt-3">
+                        <div class="col-12" class="">
+                            <div class="container-fluid panel-inv">
+                                <div class="row pt-1">
+                                    <div class="col-2"><img id="slot1" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot2" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot3" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot4" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot5" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot6" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+
+                                    <div class="col-2"><img id="slot7" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot8" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot9" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot10" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot11" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot12" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+
+                                    <div class="col-2"><img id="slot13" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot14" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot15" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot16" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot17" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot18" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+
+                                    <div class="col-2"><img id="slot19" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot20" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot21" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot22" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot23" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot24" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+
+                                    <div class="col-2"><img id="slot25" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot26" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot27" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot28" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot29" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot30" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+
+                                    <div class="col-2"><img id="slot31" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot32" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot33" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot34" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot35" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot36" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+
+                                    <div class="col-2"><img id="slot37" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot38" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot39" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot40" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot41" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot42" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+                                    <div class="col-2"><img id="slot43" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot44" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot45" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot46" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot47" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot48" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+                                    <div class="col-2"><img id="slot49" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot50" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot51" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot52" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot53" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot54" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                                <div class="row pt-1">
+                                    <div class="col-2"><img id="slot55" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot56" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot57" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot58" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot59" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                    <div class="col-2"><img id="slot60" class="border-inv-color" src="./assets/img/texturesGame/iconsInventoryDefault/slot.png" width="100%" title="empty boats"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    $.get('./api/getInventory.php?objectid=' + sessionStorage.getItem('viewInventory'), (result) =>
+    {
+        let inventory = JSON.parse(result);
+
+        $.getJSON('./assets/json/items.json', (itemsJSON) =>
+        {
+            let count_inv = 1;
+
+            inventory.forEach(itemInv =>
+            {
+                let itemJSON = itemsJSON.find(it => it.id == itemInv.item_id);
+
+                let img = './assets/img/texturesGame/icons/' + itemJSON.img + '.png';
+                // items equipados
+                if (itemInv.loc == 'PAPERDOLL')
+                {
+                    let idSlot = '';
+                    switch (itemInv.loc_data)
+                    {
+                        case '1'://LEAR
+                            idSlot = 'slotLHear';
+                            break;
+                        case '2'://REAR
+                            idSlot = 'slotRHead';
+                            break;
+                        case '3'://NECK
+                            idSlot = 'slotNeklase';
+                            break;
+                        case '4'://LFINGER
+                            idSlot = 'slotLFinger';
+                            break;
+                        case '5'://RFINGER
+                            idSlot = 'slotRFinger';
+                            break;
+                        case '6'://HEAD
+                            idSlot = 'slotHead';
+                            break;
+                        case '7'://RHAND
+                            idSlot = 'slotRHand';
+                            break;
+                        case '8'://LHAND
+                            idSlot = 'slotLHand';
+                            break;
+                        case '9'://GLOVES
+                            idSlot = 'slotGloves';
+                            break;
+                        case '10'://CHEST
+                            idSlot = 'slotBody';
+                            break;
+                        case '11'://LEGS
+                            idSlot = 'slotPant';
+                            break;
+                        case '12'://FEET
+                            idSlot = 'slotBoats';
+                            break;
+                    }
+
+                    if (idSlot != '')
+                    {
+                        $('#' + idSlot).attr('src', img);
+                        $('#' + idSlot).attr('title', itemJSON.name + ' (' + itemInv.count + ')');
+                        $('#' + idSlot).tooltip();
+                    }
+
+                }
+                else
+                {
+                    $('#slot' + count_inv).attr('src', './assets/img/texturesGame/icons/' + itemJSON.img + '.png');
+                    $('#slot' + count_inv).attr('title', itemJSON.name + ' (' + itemInv.count + ')');
+                    $('#slot' + count_inv).tooltip();
+                    count_inv++;
+                }
+            });
+        });
+
+    });
+</script>

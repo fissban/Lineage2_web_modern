@@ -1,0 +1,50 @@
+<div class="row panel-border mb-3">
+    <div class="col-12 bg-color-panel-right">
+        <table class="table table-sm table-borderless text-light">
+            <tr>
+                <td class="text-light">Login</td>
+                <td class="text-success"><a href="" id="login" class="btn btn-sm btn-block btn-secondary">Cheking</a></td>
+            </tr>
+            <tr>
+                <td class="text-light">Game</td>
+                <td class="text-success"><a href="" id="game" class="btn btn-sm btn-block btn-secondary">Cheking</a></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<script>
+
+    let login = document.getElementById('login');
+    let game = document.getElementById('game');
+
+    $.get('./api/serverstatus.php', (result) =>
+    {
+        let json = JSON.parse(result);
+        if (json.login == 1)
+        {
+            login.classList.remove('btn-secondary');
+            login.classList.add('btn-success');
+            login.textContent = 'online';
+        }
+        else
+        {
+            login.classList.remove('btn-secondary');
+            login.classList.add('btn-danger');
+            login.textContent = 'offline';
+        }
+
+        if (json.game == 1)
+        {
+            game.classList.remove('btn-secondary');
+            game.classList.add('btn-success');
+            game.textContent = 'online';
+        }
+        else
+        {
+            game.classList.remove('btn-secondary');
+            game.classList.add('btn-danger');
+            game.textContent = 'offline';
+        }
+    });
+</script>

@@ -14,7 +14,7 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="Server Lineage 2 DevsAdmins">
     <meta property="og:description" content="Importante Server de Lineage 2 Latino">
-    <meta property="og:url" content="https://www.eniun.com/12-leyes-experiencia-de-usuario-ux/">
+    <meta property="og:url" content="">
     <meta property="og:site_name" content="DevsAdmins">
     <meta property="og:image" content="http://l2devsadmins.net/forum/l2devshostfiles/ficheros_subidos/1.jpg">
     <meta property="og:image:secure_url" content="https://l2devsadmins.net/forum/l2devshostfiles/ficheros_subidos/1.jpg">
@@ -33,7 +33,7 @@
     <meta name="theme-color" content="#212121" />
 
     <!-- custom css -->
-    <link rel="stylesheet" href="./resource/style.css">
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body style="overflow-x: hidden;">
@@ -44,7 +44,7 @@
     <div class="container-fluid">
         <div class="row mt-3 mb-3">
             <div class="col text-center">
-                <img src="./img/l2logosmall_3_orig.png" style="max-width: 100%;" alt="page logo">
+                <img src="./assets/img/l2logosmall_3_orig.png" style="max-width: 100%;" alt="page logo">
             </div>
         </div>
     </div>
@@ -58,13 +58,13 @@
 
             <div class="collapse navbar-collapse menu-ppal" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="home">Home</a></li>
-                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="features">Features</a></li>
-                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="downloads">Downloads</a></li>
-                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="donate">Donations</a></li>
-                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="auction">Auction</a></li>
-                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="bossinfo">Boss Info</a></li>
-                    <li class="nav-item"><a class="nav-link menu-ppal-item link-cursor" id="rankings">Rankings</a></li>
+                    <li class="nav-item"><a href="#home:main" class="nav-link menu-ppal-item">Home</a></li>
+                    <li class="nav-item"><a href="#features:main" class="nav-link menu-ppal-item">Features</a></li>
+                    <li class="nav-item"><a href="#downloads:main" class="nav-link menu-ppal-item">Downloads</a></li>
+                    <li class="nav-item"><a href="#donations:main" class="nav-link menu-ppal-item">Donations</a></li>
+                    <li class="nav-item"><a href="#auction:main" class="nav-link menu-ppal-item">Auction</a></li>
+                    <li class="nav-item"><a href="#bossinfo:main" class="nav-link menu-ppal-item">Boss Info</a></li>
+                    <li class="nav-item"><a href="#rankings:main" class="nav-link menu-ppal-item">Rankings</a></li>
                 </ul>
             </div>
         </div>
@@ -72,12 +72,15 @@
 
     <div class="container-fluid pb-5 bg-dark">
         <div class="row justify-content-around">
-            <div class="col-md-8 panel-border mb-3" id="board">
+            <div class="col-md-8 panel-border mb-3" id="main">
                 <!-- Aqui se indexan los html -->
             </div>
             <div class="col-md-3">
                 <div id="status">
                     <!-- status -->
+                </div>
+                <div id="players">
+                    <!-- players -->
                 </div>
                 <div id="facebook">
                     <!-- facebook -->
@@ -93,9 +96,6 @@
         </div>
     </div>
 
-    <div id="modal-container">
-
-    </div>
     <div id="footer">
 
     </div>
@@ -135,10 +135,22 @@
         </div>
     </div>
 
-    <!-- LOAD JS -->
-    <script src="./resource/utils/managersJs/alertManager.js"></script>
-    <script src="./resource/utils/dataJs/itemsData.js"></script>
-    <script src="./resource/main.js"></script>
+    <div id="modal-container">
+
+    </div>
+    <!-- my scripts -->
+    <script src="./assets/managersJs/navigation/NavigationUtil.js"></script>
+
+    <script src="./assets/managersJs/navigation/NavigationModel.js"></script>
+
+    <script src="./assets/managersJs/navigation/UrlManager.js"></script>
+    <script src="./assets/managersJs/navigation/NavigationManager.js"></script>
+
+    <script src="./assets/managersJs/ApiManager.js"></script>
+    <script src="./assets/managersJs/AlertManager.js"></script>
+    <script src="./assets/managersJs/ToastManager.js"></script>
+    <script src="./assets/managersJs/ModalManager.js"></script>
+    <script src="./main.js"></script>
 </body>
 
 </html>

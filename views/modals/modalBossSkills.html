@@ -1,0 +1,87 @@
+<style>
+    .border-modal-color {
+        border: 1px solid #d2c38d;
+        width: 48px;
+        height: 48px;
+    }
+</style>
+<div class="modal" id="modal" tabindex="-1" style="backdrop-filter: blur(15px) saturate(130%);">
+    <div class="modal-dialog ">
+        <div class="modal-content bg-color-title">
+            <div class="modal-header">
+                <h5 class="modal-title text-color-primary">Boss Skills</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="skills-panel-boss">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $.getJSON('./assets/json/skills.json', (skillsJSON) =>
+    {
+        $.getJSON('./assets/json/npcs/' + sessionStorage.getItem('idBoss') + '.json', (bossJSON) =>
+        {
+
+            bossJSON.skills.forEach(skill =>
+            {
+                let skillName = '';
+                skillsJSON.forEach(sk =>
+                {
+                    if (sk.id == skill.id)
+                    {
+                        skillName = sk.name;
+                        return;
+                    }
+                });
+                let html = '<div class="row">';
+                html += '<div class="col-2 pb-3"><img class="border-modal-color" src="./assets/img/texturesGame/icons/' + getSkillIcon(skill.id) + '" title="lala"></div>';
+                html += '<div class="col-10 pb-3 text-left"> ' + skillName + ' Lv: ' + skill.level + '</div>';
+                html += '</div>';
+                $('#skills-panel-boss').append(html);
+            });
+        });
+    });
+
+    $('#skills-panel-boss');
+
+    /**
+     *  Se genera el icono de la imagen a partir de su id
+     * TODO mover a una libreria 
+     */
+    function getSkillIcon(id)
+    {
+        let name = 'skill';
+        if (id >= 1000)
+        {
+            name += id;
+        }
+        else if (id >= 100)
+        {
+            name += 0 + id;
+        }
+        else if (id >= 10)
+        {
+            name += 00 + id;
+        }
+        else
+        {
+            name += 000 + id;
+        }
+        name += '.png';
+
+        var http = new XMLHttpRequest();
+        http.open('HEAD', './assets/img/texturesGame/icons/' + name, false);
+        http.send();
+        if (http.status == 404)
+        {
+            name = 'skill0000.png';
+        }
+
+        return name;
+    }
+</script>

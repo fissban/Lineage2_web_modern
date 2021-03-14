@@ -1,0 +1,50 @@
+<style>
+    .border-modal-color {
+        border: 1px solid #d2c38d;
+        width: 48px;
+        height: 48px;
+    }
+</style>
+<div class="modal" id="modal" tabindex="-1" style="backdrop-filter: blur(15px) saturate(130%);">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+        <div class="modal-content bg-color-title">
+            <div class="modal-header">
+                <h5 class="modal-title text-color-primary">Boss Drops</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="skills-panel-boss">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $.getJSON('./assets/json/items.json', (itemsJSON) =>
+    {
+        $.getJSON('./assets/json/npcs/' + sessionStorage.getItem('idBoss') + '.json', (bossJSON) =>
+        {
+            bossJSON.drops.forEach(drop =>
+            {
+                let dropData;
+                itemsJSON.forEach(sk =>
+                {
+                    if (sk.id == drop.id)
+                    {
+                        dropData = sk;
+                        return;
+                    }
+                });
+                let html = '<div class="row">';
+                html += '<div class="col-2 pb-3"><img class="border-modal-color" src="./assets/img/texturesGame/icons/' + dropData.img + '.png" title="lala"></div>';
+                html += '<div class="col-10 pb-3 text-left">' + dropData.name + ' (min:' + drop.min + ' max:' + drop.max + ' chance:' + parseFloat(drop.chance / 100000).toFixed(2) + '%)</div>';
+                html += '</div>';
+                $('#skills-panel-boss').append(html);
+            });
+        });
+    });
+
+    $('#skills-panel-boss');
+</script>
